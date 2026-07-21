@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T19:44:54Z",
+  "generated_at": "2026-07-21T20:52:21Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "source": "BleepingComputer",
+      "published": "2026-07-21T20:06:55Z",
+      "actors": []
+    },
     {
       "title": "DNI nominee Clayton wins Senate panel’s approval",
       "summary": "By a party-line vote, the Senate Intelligence Committee sent the nomination of Jay Clayton to lead ODNI to the Senate floor.",
@@ -21,6 +29,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
       "source": "BleepingComputer",
       "published": "2026-07-21T18:50:54Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was…",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "source": "The Hacker News",
+      "published": "2026-07-21T18:46:32Z",
       "actors": []
     },
     {
@@ -380,14 +396,6 @@
       "actors": []
     },
     {
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "source": "BleepingComputer",
-      "published": "2026-07-20T11:56:28Z",
-      "actors": []
-    },
-    {
       "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
       "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at…",
       "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
       "source": "The Hacker News",
       "published": "2026-07-17T20:20:53Z",
-      "actors": []
-    },
-    {
-      "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
-      "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
-      "source": "Dark Reading",
-      "published": "2026-07-17T20:01:13Z",
       "actors": []
     }
   ],
