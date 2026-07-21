@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:59:38Z",
+  "generated_at": "2026-07-21T23:05:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-07-21T22:34:17Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+      "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
+      "source": "Dark Reading",
+      "published": "2026-07-21T21:48:05Z",
+      "actors": []
+    },
     {
       "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task",
       "summary": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
@@ -372,14 +388,6 @@
       "actors": []
     },
     {
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "source": "BleepingComputer",
-      "published": "2026-07-20T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "Cybersecurity Keeps Events 'Uneventful'",
       "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
       "url": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
       "source": "The Hacker News",
       "published": "2026-07-19T13:18:56Z",
-      "actors": []
-    },
-    {
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare…",
-      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-07-17T21:20:10Z",
       "actors": []
     }
   ],
