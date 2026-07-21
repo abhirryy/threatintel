@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T16:38:33Z",
+  "generated_at": "2026-07-21T17:59:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
+      "summary": "The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.",
+      "url": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
+      "source": "The Record",
+      "published": "2026-07-21T17:10:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
+      "source": "BleepingComputer",
+      "published": "2026-07-21T16:41:50Z",
+      "actors": []
+    },
     {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could…",
@@ -74,7 +90,7 @@
       "actors": []
     },
     {
-      "title": "Choose Wisely: AI-Generated Coding Risk Varies, A Lot",
+      "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
       "summary": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
       "url": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
       "source": "Dark Reading",
@@ -308,14 +324,6 @@
       "actors": []
     },
     {
-      "title": "More than 1,000 domains illegally streaming World Cup games seized, DOJ says",
-      "summary": "Over the course of the World Cup tournament, the Department of Justice seized more than 1,000 domains for illegally streaming games.",
-      "url": "https://therecord.media/world-cup-illegal-streams-doj",
-      "source": "The Record",
-      "published": "2026-07-20T17:15:00Z",
-      "actors": []
-    },
-    {
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
       "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen…",
       "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
@@ -377,14 +385,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
       "source": "BleepingComputer",
       "published": "2026-07-20T10:47:28Z",
-      "actors": []
-    },
-    {
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "source": "BleepingComputer",
-      "published": "2026-07-20T10:06:17Z",
       "actors": []
     },
     {
