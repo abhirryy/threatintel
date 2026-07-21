@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Threat Intel — Live Feed</title>
+  <meta name="description" content="Self-updating threat intelligence: OSINT news, threat actors, and attack surface." />
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🛡️</span>
+      <div>
+        <h1>Threat Intel</h1>
+        <p class="tagline">OSINT · Threat Actors · Attack Surface</p>
+      </div>
+    </div>
+    <div class="meta">
+      <span id="updated" class="updated">Loading…</span>
+      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off" />
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="osint_news">OSINT News <span class="count" id="c-osint_news">0</span></button>
+    <button class="tab" data-tab="threat_actors">Threat Actors <span class="count" id="c-threat_actors">0</span></button>
+    <button class="tab" data-tab="attack_surface">Attack Surface <span class="count" id="c-attack_surface">0</span></button>
+  </nav>
+
+  <main id="content">
+    <div class="loader" id="loader">Loading feed…</div>
+    <section class="panel" data-panel="osint_news"></section>
+    <section class="panel hidden" data-panel="threat_actors"></section>
+    <section class="panel hidden" data-panel="attack_surface"></section>
+  </main>
+
+  <footer class="foot">
+    <span>Auto-refreshes every 3 hours · Static site, no tracking</span>
+    <span id="foot-updated"></span>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

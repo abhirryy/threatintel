@@ -1,0 +1,175 @@
+{
+  "generated_at": "2026-07-20T12:07:27Z",
+  "next_update_hint": "every 3 hours",
+  "note": "Seed/sample data. Real feeds populate on the first GitHub Actions run.",
+  "counts": {
+    "osint_news": 5,
+    "threat_actors": 4,
+    "attack_surface": 5
+  },
+  "osint_news": [
+    {
+      "title": "LockBit affiliate breaches managed service provider, exfiltrates 2TB",
+      "summary": "A LockBit affiliate compromised an MSP via a stolen VPN credential and deployed ransomware across downstream clients before detection.",
+      "url": "https://example.com/lockbit-msp",
+      "source": "BleepingComputer",
+      "published": "2026-07-20T10:07:27Z",
+      "actors": [
+        "LockBit"
+      ]
+    },
+    {
+      "title": "Volt Typhoon activity observed against U.S. critical infrastructure",
+      "summary": "Researchers link fresh living-off-the-land intrusions in energy and water utilities to the China-nexus group Volt Typhoon.",
+      "url": "https://example.com/volt-typhoon",
+      "source": "The Record",
+      "published": "2026-07-20T07:07:27Z",
+      "actors": [
+        "Volt Typhoon"
+      ]
+    },
+    {
+      "title": "Phishing campaign abuses OAuth consent to bypass MFA",
+      "summary": "Attackers trick users into granting malicious OAuth apps read access to mailboxes, sidestepping multi-factor authentication.",
+      "url": "https://example.com/oauth-phishing",
+      "source": "The Hacker News",
+      "published": "2026-07-20T05:07:27Z",
+      "actors": []
+    },
+    {
+      "title": "Critical RCE in popular file-transfer appliance under active exploitation",
+      "summary": "Vendor ships emergency patch after reports of mass exploitation; CISA expected to add the CVE to its KEV catalog.",
+      "url": "https://example.com/mft-rce",
+      "source": "Krebs on Security",
+      "published": "2026-07-20T03:07:27Z",
+      "actors": []
+    },
+    {
+      "title": "Scattered Spider pivots to SaaS help-desk social engineering",
+      "summary": "The group is calling IT help desks to reset MFA on high-value accounts, then moving into cloud identity providers.",
+      "url": "https://example.com/scattered-spider",
+      "source": "Dark Reading",
+      "published": "2026-07-20T01:07:27Z",
+      "actors": [
+        "Scattered Spider"
+      ]
+    }
+  ],
+  "threat_actors": [
+    {
+      "title": "LockBit affiliate breaches managed service provider, exfiltrates 2TB",
+      "summary": "A LockBit affiliate compromised an MSP via a stolen VPN credential and deployed ransomware across downstream clients before detection.",
+      "url": "https://example.com/lockbit-msp",
+      "source": "BleepingComputer",
+      "published": "2026-07-20T10:07:27Z",
+      "actors": [
+        "LockBit"
+      ],
+      "kind": "news"
+    },
+    {
+      "cve": "CVE-2026-21345",
+      "title": "CVE-2026-21345 - File Transfer Appliance RCE",
+      "summary": "Unauthenticated remote code execution via deserialization in the admin endpoint.",
+      "vendor": "Acme",
+      "product": "SecureTransfer",
+      "date_added": "2026-07-20",
+      "due_date": "2026-08-03",
+      "ransomware": "Known",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21345",
+      "source": "CISA KEV",
+      "published": "2026-07-20T09:07:27Z",
+      "actors": [
+        "LockBit"
+      ],
+      "kind": "vuln"
+    },
+    {
+      "title": "Volt Typhoon activity observed against U.S. critical infrastructure",
+      "summary": "Researchers link fresh living-off-the-land intrusions in energy and water utilities to the China-nexus group Volt Typhoon.",
+      "url": "https://example.com/volt-typhoon",
+      "source": "The Record",
+      "published": "2026-07-20T07:07:27Z",
+      "actors": [
+        "Volt Typhoon"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "Scattered Spider pivots to SaaS help-desk social engineering",
+      "summary": "The group is calling IT help desks to reset MFA on high-value accounts, then moving into cloud identity providers.",
+      "url": "https://example.com/scattered-spider",
+      "source": "Dark Reading",
+      "published": "2026-07-20T01:07:27Z",
+      "actors": [
+        "Scattered Spider"
+      ],
+      "kind": "news"
+    }
+  ],
+  "attack_surface": [
+    {
+      "cve": "CVE-2026-21345",
+      "title": "CVE-2026-21345 - File Transfer Appliance RCE",
+      "summary": "Unauthenticated remote code execution via deserialization in the admin endpoint.",
+      "vendor": "Acme",
+      "product": "SecureTransfer",
+      "date_added": "2026-07-20",
+      "due_date": "2026-08-03",
+      "ransomware": "Known",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21345",
+      "source": "CISA KEV",
+      "published": "2026-07-20T09:07:27Z",
+      "actors": [
+        "LockBit"
+      ]
+    },
+    {
+      "cve": "CVE-2026-19872",
+      "title": "CVE-2026-19872 - VPN Gateway Auth Bypass",
+      "summary": "Improper authentication allows session hijacking against the SSL-VPN portal.",
+      "vendor": "NetEdge",
+      "product": "VPN-X",
+      "date_added": "2026-07-19",
+      "due_date": "2026-08-02",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19872",
+      "source": "CISA KEV",
+      "published": "2026-07-19T10:07:27Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-22101",
+      "title": "CVE-2026-22101",
+      "summary": "Heap overflow in the image parsing library allows RCE when opening a crafted file.",
+      "severity": "CRITICAL",
+      "cvss": 9.8,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22101",
+      "source": "NVD",
+      "published": "2026-07-20T08:07:27Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-22088",
+      "title": "CVE-2026-22088",
+      "summary": "SQL injection in a CMS plugin permits database exfiltration.",
+      "severity": "HIGH",
+      "cvss": 8.1,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22088",
+      "source": "NVD",
+      "published": "2026-07-20T06:07:27Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-22050",
+      "title": "CVE-2026-22050",
+      "summary": "Stored XSS in an admin dashboard component.",
+      "severity": "MEDIUM",
+      "cvss": 6.4,
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-22050",
+      "source": "NVD",
+      "published": "2026-07-20T04:07:27Z",
+      "actors": []
+    }
+  ]
+}

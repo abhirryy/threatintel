@@ -1,0 +1,68 @@
+# Threat Intelligence Platform - source configuration
+# Add or remove feeds here. No code changes needed.
+# After editing, the next scheduled run (or a manual run) picks up the changes.
+
+# --- OSINT / security news RSS feeds ---
+news_feeds:
+  - name: The Hacker News
+    url: https://feeds.feedburner.com/TheHackersNews
+  - name: BleepingComputer
+    url: https://www.bleepingcomputer.com/feed/
+  - name: Krebs on Security
+    url: https://krebsonsecurity.com/feed/
+  - name: Dark Reading
+    url: https://www.darkreading.com/rss.xml
+  - name: The Record
+    url: https://therecord.media/feed
+  - name: SANS Internet Storm Center
+    url: https://isc.sans.edu/rssfeed_full.xml
+  - name: CISA Advisories
+    url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+
+# --- Attack surface: exploited vulnerabilities (CISA KEV) ---
+kev_url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
+
+# --- Attack surface: newly published CVEs (NVD) ---
+nvd:
+  enabled: true
+  # Lookback window in days for "recent" CVEs
+  lookback_days: 3
+  # Optional: put an NVD API key in the NVD_API_KEY GitHub Secret to raise rate limits.
+
+# --- Threat actor keywords ---
+# Any news or KEV item mentioning one of these (case-insensitive) is also
+# surfaced under the "Threat Actors" tab and tagged with the matched name.
+threat_actor_keywords:
+  - APT28
+  - APT29
+  - APT41
+  - Lazarus
+  - Kimsuky
+  - Sandworm
+  - Fancy Bear
+  - Cozy Bear
+  - Volt Typhoon
+  - Salt Typhoon
+  - Scattered Spider
+  - LockBit
+  - ALPHV
+  - BlackCat
+  - Cl0p
+  - Clop
+  - BlackBasta
+  - Black Basta
+  - Play ransomware
+  - Akira
+  - Medusa
+  - RansomHub
+  - Qilin
+  - FIN7
+  - Turla
+  - Gamaredon
+  - Mustang Panda
+  - Charming Kitten
+  - Midnight Blizzard
+  - Star Blizzard
+
+# Max items kept per section in feed.json
+max_items_per_section: 60
