@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Threat Intel — Live Feed</title>
+  <meta name="description" content="Self-updating threat intelligence: OSINT news, threat actors, and attack surface." />
+  <link rel="stylesheet" href="assets/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛡️</text></svg>" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo">🛡️</span>
+      <div>
+        <h1>Threat Intel</h1>
+        <p class="tagline">OSINT · Threat Actors · Attack Surface</p>
+      </div>
+    </div>
+    <div class="meta">
+      <span id="updated" class="updated">Loading…</span>
+      <input id="search" type="search" placeholder="Filter by keyword…" autocomplete="off" />
+      <button id="refresh-btn" class="icon-btn" type="button" aria-label="Refresh feed now" title="Refresh now">
+        <span id="refresh-icon">⟳</span>
+      </button>
+      <button id="theme-toggle" class="icon-btn" type="button" aria-label="Toggle light/dark theme" title="Toggle light/dark theme">
+        <span id="theme-icon">☀️</span>
+      </button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-tab="osint_news">OSINT News <span class="count" id="c-osint_news">0</span></button>
+    <button class="tab" data-tab="threat_actors">Threat Actors <span class="count" id="c-threat_actors">0</span></button>
+    <button class="tab" data-tab="attack_surface">Attack Surface <span class="count" id="c-attack_surface">0</span></button>
+    <button class="tab" data-tab="bookmarks">🔖 Saved <span class="count" id="c-bookmarks">0</span></button>
+  </nav>
+
+  <main id="content">
+    <div class="loader" id="loader">Loading feed…</div>
+    <section class="panel" data-panel="osint_news"></section>
+    <section class="panel hidden" data-panel="threat_actors"></section>
+    <section class="panel hidden" data-panel="attack_surface"></section>
+    <section class="panel hidden" data-panel="bookmarks"></section>
+  </main>
+
+  <footer class="foot">
+    <span>Live feed pulls every 5 min · This tab checks for updates every 2 min · Static site, no tracking</span>
+    <span id="foot-updated"></span>
+  </footer>
+
+  <div class="modal-overlay hidden" id="detail-overlay">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+      <button class="modal-close" id="detail-close" type="button" aria-label="Close">✕</button>
+      <h2 class="modal-title" id="detail-title"></h2>
+      <div class="modal-row" id="detail-meta"></div>
+      <div class="modal-actions">
+        <a class="modal-link" id="detail-link" target="_blank" rel="noopener">Read full article ↗</a>
+        <button class="bookmark-btn" id="detail-bookmark" type="button">☆ Save</button>
+      </div>
+
+      <div class="modal-section">
+        <h3>Summary</h3>
+        <p id="detail-summary"></p>
+      </div>
+
+      <div class="modal-section">
+        <h3>Indicators of Compromise (IOCs)</h3>
+        <div id="detail-iocs"></div>
+      </div>
+
+      <div class="modal-section">
+        <h3>Plan of Action</h3>
+        <ul id="detail-plan"></ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
