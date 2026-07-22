@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-22T14:35:22Z",
+  "generated_at": "2026-07-22T16:06:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Japanese food logistics giant recovers as extortion group claims cyberattack",
+      "summary": "Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.",
+      "url": "https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery",
+      "source": "The Record",
+      "published": "2026-07-22T15:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "source": "BleepingComputer",
+      "published": "2026-07-22T15:30:00Z",
+      "actors": []
+    },
     {
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
       "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
@@ -314,14 +330,6 @@
       "actors": []
     },
     {
-      "title": "Kenya probes hack of president's website after bitcoin ransom demand",
-      "summary": "The website was hacked on Saturday, when its homepage was replaced with a message displaying a cryptocurrency wallet address and threatening to publish unspecified information about President William Ruto unless the ransom was paid.",
-      "url": "https://therecord.media/kenya-probes-hack-of-presidents-website-after-ransom-demand",
-      "source": "The Record",
-      "published": "2026-07-21T12:08:00Z",
-      "actors": []
-    },
-    {
       "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
       "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks,…",
       "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
@@ -352,16 +360,6 @@
       "source": "BleepingComputer",
       "published": "2026-07-21T11:07:07Z",
       "actors": []
-    },
-    {
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T10:12:24Z",
-      "actors": [
-        "Qilin"
-      ]
     },
     {
       "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
@@ -499,17 +497,6 @@
       "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
       "source": "The Hacker News",
       "published": "2026-07-21T14:04:57Z",
-      "actors": [
-        "Qilin"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T10:12:24Z",
       "actors": [
         "Qilin"
       ],
