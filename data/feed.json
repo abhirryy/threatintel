@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-07-22T21:19:16Z",
+  "generated_at": "2026-07-22T22:30:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
+      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
+      "source": "BleepingComputer",
+      "published": "2026-07-22T21:43:39Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Are Learning to Live Off the AI Toolchain",
+      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+      "source": "Dark Reading",
+      "published": "2026-07-22T21:29:01Z",
+      "actors": [
+        "Sandworm"
+      ]
+    },
     {
       "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
       "summary": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
@@ -322,14 +340,6 @@
       "actors": []
     },
     {
-      "title": "Critical wp2shell WordPress flaws exploited to install webshells",
-      "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T16:41:50Z",
-      "actors": []
-    },
-    {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could…",
       "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
@@ -482,17 +492,20 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-07-20T18:41:24Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "source": "Dark Reading",
-      "published": "2026-07-20T18:30:22Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Attackers Are Learning to Live Off the AI Toolchain",
+      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+      "source": "Dark Reading",
+      "published": "2026-07-22T21:29:01Z",
+      "actors": [
+        "Sandworm"
+      ],
+      "kind": "news"
+    },
     {
       "title": "New Kimsuky campaign compromised South Korean software vendors",
       "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
