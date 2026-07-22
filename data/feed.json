@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T17:40:24Z",
+  "generated_at": "2026-07-22T18:47:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default…",
+      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "source": "The Hacker News",
+      "published": "2026-07-22T18:07:16Z",
+      "actors": []
+    },
+    {
+      "title": "French Parliament greenlights social media ban for under-15s",
+      "summary": "Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.",
+      "url": "https://therecord.media/france-social-media-ban-parliament",
+      "source": "The Record",
+      "published": "2026-07-22T18:00:00Z",
+      "actors": []
+    },
     {
       "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
       "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:",
@@ -55,6 +71,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
       "source": "BleepingComputer",
       "published": "2026-07-22T15:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The shortcoming has been codenamed HermeticReader by Guardio Labs. It's…",
+      "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "source": "The Hacker News",
+      "published": "2026-07-22T15:01:21Z",
       "actors": []
     },
     {
@@ -274,14 +298,6 @@
       "actors": []
     },
     {
-      "title": "Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack",
-      "summary": "The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.",
-      "url": "https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach",
-      "source": "The Record",
-      "published": "2026-07-21T17:10:00Z",
-      "actors": []
-    },
-    {
       "title": "Critical wp2shell WordPress flaws exploited to install webshells",
       "summary": "Hackers are exploiting the \"wp2shell\" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/",
@@ -473,22 +489,6 @@
       "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
       "source": "The Hacker News",
       "published": "2026-07-20T17:29:50Z",
-      "actors": []
-    },
-    {
-      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen…",
-      "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-      "source": "The Hacker News",
-      "published": "2026-07-20T14:33:43Z",
-      "actors": []
-    },
-    {
-      "title": "Cybersecurity Keeps Events 'Uneventful'",
-      "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-      "url": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-      "source": "Dark Reading",
-      "published": "2026-07-20T14:00:00Z",
       "actors": []
     }
   ],
