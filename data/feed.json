@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:47:51Z",
+  "generated_at": "2026-07-22T20:08:11Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "South Korea discloses data breach impacting diplomats worldwide",
+      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
+      "source": "BleepingComputer",
+      "published": "2026-07-22T20:06:54Z",
+      "actors": []
+    },
+    {
+      "title": "Federal agencies broaden alert on Iran-linked OT attacks",
+      "summary": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
+      "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
+      "source": "The Record",
+      "published": "2026-07-22T19:18:00Z",
+      "actors": []
+    },
     {
       "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
       "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default…",
@@ -266,14 +282,6 @@
       "actors": []
     },
     {
-      "title": "DNI nominee Clayton wins Senate panel’s approval",
-      "summary": "By a party-line vote, the Senate Intelligence Committee sent the nomination of Jay Clayton to lead ODNI to the Senate floor.",
-      "url": "https://therecord.media/jay-clayton-dni-nomination-senate-committee-approval",
-      "source": "The Record",
-      "published": "2026-07-21T19:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
       "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
@@ -338,14 +346,6 @@
       "actors": [
         "Qilin"
       ]
-    },
-    {
-      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
-      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T14:00:10Z",
-      "actors": []
     },
     {
       "title": "Captive Portal Detection, (Tue, Jul 21st)",
@@ -528,6 +528,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-16232",
+      "title": "CVE-2026-16232 - Check Point SmartConsole Improper Authentication Vulnerability",
+      "summary": "Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges.",
+      "vendor": "Check Point",
+      "product": "SmartConsole",
+      "date_added": "2026-07-22",
+      "due_date": "2026-07-25",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16232",
+      "source": "CISA KEV",
+      "published": "2026-07-22T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-50522",
+      "title": "CVE-2026-50522 - Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
+      "summary": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "date_added": "2026-07-22",
+      "due_date": "2026-07-25",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-50522",
+      "source": "CISA KEV",
+      "published": "2026-07-22T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-60137",
       "title": "CVE-2026-60137 - WordPress Core SQL Injection Vulnerability",
@@ -1338,34 +1366,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-41091",
       "source": "CISA KEV",
       "published": "2026-05-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-45498",
-      "title": "CVE-2026-45498 - Microsoft Defender Denial of Service Vulnerability",
-      "summary": "Microsoft Defender contains an unspecified vulnerability that allows for denial of service.",
-      "vendor": "Microsoft",
-      "product": "Defender",
-      "date_added": "2026-05-20",
-      "due_date": "2026-06-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-45498",
-      "source": "CISA KEV",
-      "published": "2026-05-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-42897",
-      "title": "CVE-2026-42897 - Microsoft Exchange Server Cross-Site Scripting Vulnerability",
-      "summary": "Microsoft Exchange Server contains a cross-site scripting vulnerability during web page generation in Outlook Web Access and when certain interaction conditions are met, arbitrary JavaScript can be executed in the browser context.",
-      "vendor": "Microsoft",
-      "product": "Microsoft",
-      "date_added": "2026-05-15",
-      "due_date": "2026-05-29",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42897",
-      "source": "CISA KEV",
-      "published": "2026-05-15T00:00:00Z",
       "actors": []
     }
   ]
