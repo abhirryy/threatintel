@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:18:24Z",
+  "generated_at": "2026-07-23T19:51:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-07-23T19:48:30Z",
+      "actors": []
+    },
+    {
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the…",
+      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-07-23T18:36:08Z",
+      "actors": []
+    },
     {
       "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
       "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
@@ -41,7 +57,7 @@
     },
     {
       "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "summary": "Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]",
+      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
       "source": "BleepingComputer",
       "published": "2026-07-23T15:34:43Z",
@@ -338,14 +354,6 @@
       "actors": []
     },
     {
-      "title": "Adobe Chrome extension flaw let sites access private WhatsApp chats",
-      "summary": "The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/",
-      "source": "BleepingComputer",
-      "published": "2026-07-22T13:22:20Z",
-      "actors": []
-    },
-    {
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
       "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint…",
       "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
@@ -480,16 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-07-21T14:57:51Z",
       "actors": []
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257…",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T14:04:57Z",
-      "actors": [
-        "Qilin"
-      ]
     }
   ],
   "threat_actors": [
