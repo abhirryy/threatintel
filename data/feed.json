@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:58:35Z",
+  "generated_at": "2026-07-23T18:18:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "source": "The Record",
+      "published": "2026-07-23T16:58:00Z",
+      "actors": []
+    },
     {
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
@@ -21,6 +29,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
       "source": "BleepingComputer",
       "published": "2026-07-23T16:32:35Z",
+      "actors": []
+    },
+    {
+      "title": "State Department imposes visa restrictions on foreign cyber scammers",
+      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
+      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
+      "source": "The Record",
+      "published": "2026-07-23T16:29:00Z",
       "actors": []
     },
     {
@@ -184,14 +200,6 @@
       "actors": []
     },
     {
-      "title": "State Department imposes visa restrictions on foreign cyber scammers",
-      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
-      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
-      "source": "The Record",
-      "published": "2026-07-23T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33178",
@@ -263,14 +271,6 @@
       "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
       "source": "Dark Reading",
       "published": "2026-07-22T19:42:42Z",
-      "actors": []
-    },
-    {
-      "title": "Federal agencies broaden alert on Iran-linked OT attacks",
-      "summary": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
-      "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
-      "source": "The Record",
-      "published": "2026-07-22T19:18:00Z",
       "actors": []
     },
     {
