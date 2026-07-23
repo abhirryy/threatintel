@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-23T22:02:51Z",
+  "generated_at": "2026-07-23T23:08:27Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 105,
+    "osint_news": 120,
     "threat_actors": 3,
     "attack_surface": 60
   },
@@ -48,6 +48,14 @@
       "actors": []
     },
     {
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "source": "The Record",
+      "published": "2026-07-23T16:58:00Z",
+      "actors": []
+    },
+    {
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
@@ -61,6 +69,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
       "source": "BleepingComputer",
       "published": "2026-07-23T16:32:35Z",
+      "actors": []
+    },
+    {
+      "title": "State Department imposes visa restrictions on foreign cyber scammers",
+      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
+      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
+      "source": "The Record",
+      "published": "2026-07-23T16:29:00Z",
       "actors": []
     },
     {
@@ -88,11 +104,27 @@
       "actors": []
     },
     {
+      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends â€” one from the victim, one from the party that turned out to be responsible â€” and together they make one of the more instructive incidents of the year for defenders.",
+      "url": "https://isc.sans.edu/diary/rss/33180",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-23T13:40:27Z",
+      "actors": []
+    },
+    {
       "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
       "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the vulnerability with…",
       "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
       "source": "The Hacker News",
       "published": "2026-07-23T13:27:59Z",
+      "actors": []
+    },
+    {
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+      "url": "https://therecord.media/australia-origin-energy-data-breach",
+      "source": "The Record",
+      "published": "2026-07-23T13:20:00Z",
       "actors": []
     },
     {
@@ -208,6 +240,14 @@
       "actors": []
     },
     {
+      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33178",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-23T02:00:03Z",
+      "actors": []
+    },
+    {
       "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
       "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
@@ -221,6 +261,14 @@
       "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
       "source": "Dark Reading",
       "published": "2026-07-22T23:50:01Z",
+      "actors": []
+    },
+    {
+      "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
+      "summary": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
+      "url": "https://therecord.media/stadler-refuses-everest-ransom-demand",
+      "source": "The Record",
+      "published": "2026-07-22T23:00:00Z",
       "actors": []
     },
     {
@@ -240,6 +288,14 @@
       "actors": [
         "Sandworm"
       ]
+    },
+    {
+      "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
+      "summary": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
+      "url": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
+      "source": "The Record",
+      "published": "2026-07-22T20:39:35Z",
+      "actors": []
     },
     {
       "title": "South Korea discloses data breach impacting diplomats worldwide",
@@ -271,6 +327,14 @@
       "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
       "source": "The Hacker News",
       "published": "2026-07-22T18:07:16Z",
+      "actors": []
+    },
+    {
+      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
+      "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:",
+      "url": "https://isc.sans.edu/diary/rss/33176",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-22T17:35:33Z",
       "actors": []
     },
     {
@@ -362,6 +426,14 @@
       "actors": []
     },
     {
+      "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33174",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-22T02:00:02Z",
+      "actors": []
+    },
+    {
       "title": "LG to Ban Residential Proxies from Smart TV Apps",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's…",
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -415,80 +487,6 @@
       "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
       "source": "The Hacker News",
       "published": "2026-07-21T15:09:28Z",
-      "actors": []
-    },
-    {
-      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
-      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an…",
-      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T14:57:51Z",
-      "actors": []
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257…",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T14:04:57Z",
-      "actors": [
-        "Qilin"
-      ]
-    },
-    {
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the…",
-      "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T13:18:31Z",
-      "actors": []
-    },
-    {
-      "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
-      "summary": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
-      "url": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
-      "source": "Dark Reading",
-      "published": "2026-07-21T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks,…",
-      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always…",
-      "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T11:42:23Z",
-      "actors": []
-    },
-    {
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's…",
-      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T11:24:50Z",
-      "actors": []
-    },
-    {
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell. \"By the early…",
-      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T08:59:30Z",
-      "actors": []
-    },
-    {
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets,…",
-      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T07:34:32Z",
       "actors": []
     }
   ],
