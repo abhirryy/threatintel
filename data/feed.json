@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T01:08:23Z",
+  "generated_at": "2026-07-23T04:33:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33178",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-23T02:00:03Z",
+      "actors": []
+    },
     {
       "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
       "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
@@ -483,14 +491,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
       "source": "Dark Reading",
       "published": "2026-07-20T19:32:04Z",
-      "actors": []
-    },
-    {
-      "title": "CISOs Feel the Heat Over AI Risk",
-      "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-      "source": "Dark Reading",
-      "published": "2026-07-20T19:07:01Z",
       "actors": []
     }
   ],
