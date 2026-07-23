@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:51:44Z",
+  "generated_at": "2026-07-23T20:53:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "source": "BleepingComputer",
+      "published": "2026-07-23T20:14:35Z",
+      "actors": []
+    },
     {
       "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
       "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
@@ -343,14 +351,6 @@
       "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
       "source": "The Hacker News",
       "published": "2026-07-22T15:01:21Z",
-      "actors": []
-    },
-    {
-      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
-      "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
-      "source": "BleepingComputer",
-      "published": "2026-07-22T14:15:00Z",
       "actors": []
     },
     {
