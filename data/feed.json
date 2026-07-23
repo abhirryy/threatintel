@@ -1,18 +1,66 @@
 {
-  "generated_at": "2026-07-23T13:10:38Z",
+  "generated_at": "2026-07-23T15:25:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
+      "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for continuous, evidence-based assurance. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
+      "source": "BleepingComputer",
+      "published": "2026-07-23T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
+      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends â€” one from the victim, one from the party that turned out to be responsible â€” and together they make one of the more instructive incidents of the year for defenders.",
+      "url": "https://isc.sans.edu/diary/rss/33180",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-23T13:40:27Z",
+      "actors": []
+    },
+    {
+      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
+      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the vulnerability with…",
+      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
+      "source": "The Hacker News",
+      "published": "2026-07-23T13:27:59Z",
+      "actors": []
+    },
+    {
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+      "url": "https://therecord.media/australia-origin-energy-data-breach",
+      "source": "The Record",
+      "published": "2026-07-23T13:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
+      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and…",
+      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
+      "source": "The Hacker News",
+      "published": "2026-07-23T13:11:09Z",
+      "actors": []
+    },
     {
       "title": "EU fines Google $1 billion for search, app store antitrust violations",
       "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
       "url": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
       "source": "BleepingComputer",
       "published": "2026-07-23T12:33:19Z",
+      "actors": []
+    },
+    {
+      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
+      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the server in mid-April…",
+      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
+      "source": "The Hacker News",
+      "published": "2026-07-23T12:20:23Z",
       "actors": []
     },
     {
@@ -226,16 +274,6 @@
       "actors": []
     },
     {
-      "title": "New Kimsuky campaign compromised South Korean software vendors",
-      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
-      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
-      "source": "The Record",
-      "published": "2026-07-22T16:47:00Z",
-      "actors": [
-        "Kimsuky"
-      ]
-    },
-    {
       "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
       "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
       "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
@@ -337,14 +375,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/",
       "source": "BleepingComputer",
       "published": "2026-07-22T10:44:52Z",
-      "actors": []
-    },
-    {
-      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
-      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-22T06:40:29Z",
       "actors": []
     },
     {
@@ -460,38 +490,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-07-21T13:44:56Z",
       "actors": []
-    },
-    {
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the…",
-      "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T13:18:31Z",
-      "actors": []
-    },
-    {
-      "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
-      "summary": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
-      "url": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
-      "source": "Dark Reading",
-      "published": "2026-07-21T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks,…",
-      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always…",
-      "url": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T11:42:23Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -503,17 +501,6 @@
       "published": "2026-07-22T21:29:01Z",
       "actors": [
         "Sandworm"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "New Kimsuky campaign compromised South Korean software vendors",
-      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
-      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
-      "source": "The Record",
-      "published": "2026-07-22T16:47:00Z",
-      "actors": [
-        "Kimsuky"
       ],
       "kind": "news"
     },
