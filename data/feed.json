@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-07-23T07:13:40Z",
+  "generated_at": "2026-07-23T09:40:26Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
-    "threat_actors": 4,
+    "osint_news": 115,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "source": "BleepingComputer",
+      "published": "2026-07-23T09:20:10Z",
+      "actors": []
+    },
+    {
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "summary": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-23T08:13:07Z",
+      "actors": []
+    },
     {
       "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
       "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
       "source": "Dark Reading",
       "published": "2026-07-23T07:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication…",
+      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-07-23T06:34:36Z",
       "actors": []
     },
     {
@@ -50,14 +74,6 @@
       ]
     },
     {
-      "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
-      "summary": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
-      "url": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
-      "source": "The Record",
-      "published": "2026-07-22T20:39:35Z",
-      "actors": []
-    },
-    {
       "title": "South Korea discloses data breach impacting diplomats worldwide",
       "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
@@ -71,14 +87,6 @@
       "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
       "source": "Dark Reading",
       "published": "2026-07-22T19:42:42Z",
-      "actors": []
-    },
-    {
-      "title": "Federal agencies broaden alert on Iran-linked OT attacks",
-      "summary": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
-      "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
-      "source": "The Record",
-      "published": "2026-07-22T19:18:00Z",
       "actors": []
     },
     {
@@ -98,14 +106,6 @@
       "actors": []
     },
     {
-      "title": "French Parliament greenlights social media ban for under-15s",
-      "summary": "Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.",
-      "url": "https://therecord.media/france-social-media-ban-parliament",
-      "source": "The Record",
-      "published": "2026-07-22T18:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
       "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:",
       "url": "https://isc.sans.edu/diary/rss/33176",
@@ -122,29 +122,11 @@
       "actors": []
     },
     {
-      "title": "New Kimsuky campaign compromised South Korean software vendors",
-      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
-      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
-      "source": "The Record",
-      "published": "2026-07-22T16:47:00Z",
-      "actors": [
-        "Kimsuky"
-      ]
-    },
-    {
       "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
       "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
       "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
       "source": "Dark Reading",
       "published": "2026-07-22T15:53:47Z",
-      "actors": []
-    },
-    {
-      "title": "Japanese food logistics giant recovers as extortion group claims cyberattack",
-      "summary": "Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.",
-      "url": "https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery",
-      "source": "The Record",
-      "published": "2026-07-22T15:40:00Z",
       "actors": []
     },
     {
@@ -332,22 +314,6 @@
       "actors": []
     },
     {
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T20:06:55Z",
-      "actors": []
-    },
-    {
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "summary": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T18:50:54Z",
-      "actors": []
-    },
-    {
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was…",
       "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
@@ -492,6 +458,38 @@
       "source": "Dark Reading",
       "published": "2026-07-20T20:26:56Z",
       "actors": []
+    },
+    {
+      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+      "source": "Dark Reading",
+      "published": "2026-07-20T19:32:04Z",
+      "actors": []
+    },
+    {
+      "title": "CISOs Feel the Heat Over AI Risk",
+      "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+      "source": "Dark Reading",
+      "published": "2026-07-20T19:07:01Z",
+      "actors": []
+    },
+    {
+      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+      "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. It is a SQL…",
+      "url": "https://isc.sans.edu/diary/rss/33168",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-20T18:41:24Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+      "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+      "source": "Dark Reading",
+      "published": "2026-07-20T18:30:22Z",
+      "actors": []
     }
   ],
   "threat_actors": [
@@ -503,17 +501,6 @@
       "published": "2026-07-22T21:29:01Z",
       "actors": [
         "Sandworm"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "New Kimsuky campaign compromised South Korean software vendors",
-      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
-      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
-      "source": "The Record",
-      "published": "2026-07-22T16:47:00Z",
-      "actors": [
-        "Kimsuky"
       ],
       "kind": "news"
     },
