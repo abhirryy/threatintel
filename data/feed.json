@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-23T09:40:26Z",
+  "generated_at": "2026-07-23T11:33:19Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
-    "threat_actors": 3,
+    "osint_news": 120,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Agentic AI Challenges Progress in Confidential Computing",
+      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
+      "url": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
+      "source": "Dark Reading",
+      "published": "2026-07-23T11:17:51Z",
+      "actors": []
+    },
+    {
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "source": "BleepingComputer",
+      "published": "2026-07-23T10:00:00Z",
+      "actors": []
+    },
     {
       "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
       "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
@@ -21,6 +37,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-07-23T08:13:07Z",
+      "actors": []
+    },
+    {
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can…",
+      "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "source": "The Hacker News",
+      "published": "2026-07-23T08:04:35Z",
       "actors": []
     },
     {
@@ -56,6 +80,22 @@
       "actors": []
     },
     {
+      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
+      "summary": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
+      "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
+      "source": "Dark Reading",
+      "published": "2026-07-22T23:50:01Z",
+      "actors": []
+    },
+    {
+      "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
+      "summary": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
+      "url": "https://therecord.media/stadler-refuses-everest-ransom-demand",
+      "source": "The Record",
+      "published": "2026-07-22T23:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
       "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
@@ -74,6 +114,14 @@
       ]
     },
     {
+      "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
+      "summary": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
+      "url": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
+      "source": "The Record",
+      "published": "2026-07-22T20:39:35Z",
+      "actors": []
+    },
+    {
       "title": "South Korea discloses data breach impacting diplomats worldwide",
       "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
@@ -87,6 +135,14 @@
       "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
       "source": "Dark Reading",
       "published": "2026-07-22T19:42:42Z",
+      "actors": []
+    },
+    {
+      "title": "Federal agencies broaden alert on Iran-linked OT attacks",
+      "summary": "The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.",
+      "url": "https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks",
+      "source": "The Record",
+      "published": "2026-07-22T19:18:00Z",
       "actors": []
     },
     {
@@ -106,6 +162,14 @@
       "actors": []
     },
     {
+      "title": "French Parliament greenlights social media ban for under-15s",
+      "summary": "Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.",
+      "url": "https://therecord.media/france-social-media-ban-parliament",
+      "source": "The Record",
+      "published": "2026-07-22T18:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
       "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:",
       "url": "https://isc.sans.edu/diary/rss/33176",
@@ -120,6 +184,16 @@
       "source": "BleepingComputer",
       "published": "2026-07-22T16:59:17Z",
       "actors": []
+    },
+    {
+      "title": "New Kimsuky campaign compromised South Korean software vendors",
+      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
+      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
+      "source": "The Record",
+      "published": "2026-07-22T16:47:00Z",
+      "actors": [
+        "Kimsuky"
+      ]
     },
     {
       "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
@@ -290,14 +364,6 @@
       "actors": []
     },
     {
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-07-21T22:34:17Z",
-      "actors": []
-    },
-    {
       "title": "Ransomware Is Accelerating, but It's Not Because of AI",
       "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
@@ -426,70 +492,6 @@
       "source": "The Hacker News",
       "published": "2026-07-21T07:34:32Z",
       "actors": []
-    },
-    {
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow…",
-      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T06:29:26Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, July 21st, 2026 https://isc.sans.edu/podcastdetail/10016, (Tue, Jul 21st)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33170",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-21T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
-      "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
-      "source": "Dark Reading",
-      "published": "2026-07-20T21:38:18Z",
-      "actors": []
-    },
-    {
-      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
-      "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
-      "source": "Dark Reading",
-      "published": "2026-07-20T20:26:56Z",
-      "actors": []
-    },
-    {
-      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
-      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-      "source": "Dark Reading",
-      "published": "2026-07-20T19:32:04Z",
-      "actors": []
-    },
-    {
-      "title": "CISOs Feel the Heat Over AI Risk",
-      "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-      "source": "Dark Reading",
-      "published": "2026-07-20T19:07:01Z",
-      "actors": []
-    },
-    {
-      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-      "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. It is a SQL…",
-      "url": "https://isc.sans.edu/diary/rss/33168",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-20T18:41:24Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "source": "Dark Reading",
-      "published": "2026-07-20T18:30:22Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -501,6 +503,17 @@
       "published": "2026-07-22T21:29:01Z",
       "actors": [
         "Sandworm"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "New Kimsuky campaign compromised South Korean software vendors",
+      "summary": "A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.",
+      "url": "https://therecord.media/kimsuky-north-korea-espionage-groupware-companies",
+      "source": "The Record",
+      "published": "2026-07-22T16:47:00Z",
+      "actors": [
+        "Kimsuky"
       ],
       "kind": "news"
     },
