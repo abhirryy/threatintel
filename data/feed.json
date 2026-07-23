@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T04:33:09Z",
+  "generated_at": "2026-07-23T07:13:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+      "source": "Dark Reading",
+      "published": "2026-07-23T07:00:00Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -483,14 +491,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
       "source": "Dark Reading",
       "published": "2026-07-20T20:26:56Z",
-      "actors": []
-    },
-    {
-      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
-      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-      "source": "Dark Reading",
-      "published": "2026-07-20T19:32:04Z",
       "actors": []
     }
   ],
