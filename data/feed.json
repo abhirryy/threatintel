@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T23:34:29Z",
+  "generated_at": "2026-07-23T01:08:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
+      "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
+      "source": "Dark Reading",
+      "published": "2026-07-23T01:00:00Z",
+      "actors": []
+    },
     {
       "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
       "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
@@ -483,14 +491,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
       "source": "Dark Reading",
       "published": "2026-07-20T19:07:01Z",
-      "actors": []
-    },
-    {
-      "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
-      "summary": "Last week, Searchlight Cyber released details about a vulnerability they are calling \"wp2shell\". The vulnerability was initially announced without a CVE number. But now has been assigned CVE-2026-63030. Many WordPress plugin vulnerabilities are never assigned CVE numbers. But wp2shell is different. It is a SQL…",
-      "url": "https://isc.sans.edu/diary/rss/33168",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-20T18:41:24Z",
       "actors": []
     }
   ],
