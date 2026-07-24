@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:48:18Z",
+  "generated_at": "2026-07-24T17:16:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,27 @@
   },
   "osint_news": [
     {
+      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
+      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
+      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
+      "source": "The Record",
+      "published": "2026-07-24T15:55:00Z",
+      "actors": []
+    },
+    {
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
       "source": "BleepingComputer",
       "published": "2026-07-24T15:41:44Z",
+      "actors": []
+    },
+    {
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised…",
+      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T15:12:35Z",
       "actors": []
     },
     {
@@ -57,7 +73,7 @@
     },
     {
       "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "summary": "Microsoft addressed a public-by-default configuration and chain of code flaws in Azure Automation which could have let attackers seize another tenant's identity and access other tenants' data, credentials, and cloud workloads.",
+      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
       "url": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
       "source": "Dark Reading",
       "published": "2026-07-24T12:48:16Z",
@@ -413,14 +429,6 @@
       ]
     },
     {
-      "title": "Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill",
-      "summary": "A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.",
-      "url": "https://therecord.media/cisa-2015-extension-passes-house-ndaa",
-      "source": "The Record",
-      "published": "2026-07-22T20:39:35Z",
-      "actors": []
-    },
-    {
       "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
       "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
       "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
@@ -482,14 +490,6 @@
       "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
       "source": "The Hacker News",
       "published": "2026-07-22T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber…",
-      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T11:30:02Z",
       "actors": []
     }
   ],
