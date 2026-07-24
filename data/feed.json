@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:51:23Z",
+  "generated_at": "2026-07-24T20:11:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T19:55:01Z",
+      "actors": []
+    },
+    {
+      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+      "source": "Dark Reading",
+      "published": "2026-07-24T19:45:02Z",
+      "actors": []
+    },
+    {
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T19:09:09Z",
+      "actors": []
+    },
     {
       "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
       "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
@@ -283,14 +307,6 @@
       "actors": []
     },
     {
-      "title": "FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires",
-      "summary": "FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how organizations can prepare for continuous, evidence-based assurance. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
       "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends â€” one from the victim, one from the party that turned out to be responsible â€” and together they make one of the more instructive incidents of the year for defenders.",
       "url": "https://isc.sans.edu/diary/rss/33180",
@@ -320,14 +336,6 @@
       "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
       "source": "The Hacker News",
       "published": "2026-07-23T13:11:09Z",
-      "actors": []
-    },
-    {
-      "title": "EU fines Google $1 billion for search, app store antitrust violations",
-      "summary": "The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T12:33:19Z",
       "actors": []
     },
     {
@@ -482,14 +490,6 @@
       "url": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
       "source": "The Hacker News",
       "published": "2026-07-22T12:36:36Z",
-      "actors": []
-    },
-    {
-      "title": "The Fastest Path to AI Adoption Runs Through Security",
-      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned. According to McKinsey's State of AI…",
-      "url": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T11:58:00Z",
       "actors": []
     }
   ],
