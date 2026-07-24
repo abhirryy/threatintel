@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T08:46:28Z",
+  "generated_at": "2026-07-24T10:50:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
+      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's network on its own,…",
+      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T10:15:29Z",
+      "actors": []
+    },
+    {
+      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
+      "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: TinyEgg, ChonkyChicken,…",
+      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T10:09:24Z",
+      "actors": []
+    },
     {
       "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
       "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed them all, and…",
@@ -474,22 +490,6 @@
       "url": "https://isc.sans.edu/diary/rss/33174",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-22T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's…",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "source": "Krebs on Security",
-      "published": "2026-07-22T01:10:38Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware Is Accelerating, but It's Not Because of AI",
-      "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
-      "source": "Dark Reading",
-      "published": "2026-07-21T21:48:05Z",
       "actors": []
     }
   ],
