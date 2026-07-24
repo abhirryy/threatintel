@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:16:47Z",
+  "generated_at": "2026-07-24T18:51:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T17:50:37Z",
+      "actors": []
+    },
+    {
+      "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
+      "summary": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
+      "url": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
+      "source": "The Record",
+      "published": "2026-07-24T17:14:00Z",
+      "actors": []
+    },
     {
       "title": "'Wrench' attacks against crypto holders appear to be on the rise",
       "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
@@ -331,14 +347,6 @@
       "actors": []
     },
     {
-      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T11:40:16Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
       "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions spanning 10 packages associated with a…",
       "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
@@ -408,14 +416,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
       "source": "Dark Reading",
       "published": "2026-07-22T23:50:01Z",
-      "actors": []
-    },
-    {
-      "title": "Swiss train maker Stadler refuses Everest $12 million ransomware demand",
-      "summary": "Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.",
-      "url": "https://therecord.media/stadler-refuses-everest-ransom-demand",
-      "source": "The Record",
-      "published": "2026-07-22T23:00:00Z",
       "actors": []
     },
     {
@@ -885,7 +885,7 @@
       "product": "Windchill and FlexPLM",
       "date_added": "2026-06-25",
       "due_date": "2026-06-28",
-      "ransomware": "Unknown",
+      "ransomware": "Known",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-12569",
       "source": "CISA KEV",
       "published": "2026-06-25T00:00:00Z",
