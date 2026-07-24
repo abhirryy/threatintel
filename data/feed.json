@@ -1,12 +1,55 @@
 {
-  "generated_at": "2026-07-24T06:14:59Z",
+  "generated_at": "2026-07-24T08:46:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
+      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed them all, and…",
+      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T07:41:06Z",
+      "actors": []
+    },
+    {
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T07:36:39Z",
+      "actors": [
+        "Cl0p",
+        "Clop"
+      ]
+    },
+    {
+      "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
+      "summary": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
+      "source": "Dark Reading",
+      "published": "2026-07-24T07:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
+      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying…",
+      "url": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T06:58:27Z",
+      "actors": []
+    },
+    {
+      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group…",
+      "url": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T06:50:57Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -346,14 +389,6 @@
       "actors": []
     },
     {
-      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
-      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
-      "source": "BleepingComputer",
-      "published": "2026-07-22T16:59:17Z",
-      "actors": []
-    },
-    {
       "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
       "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
       "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
@@ -456,41 +491,21 @@
       "source": "Dark Reading",
       "published": "2026-07-21T21:48:05Z",
       "actors": []
-    },
-    {
-      "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task",
-      "summary": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
-      "url": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
-      "source": "Dark Reading",
-      "published": "2026-07-21T21:27:37Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was…",
-      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T18:46:32Z",
-      "actors": []
-    },
-    {
-      "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
-      "summary": "A Russian-speaking actor, \"Trim,\" dismantled publicly available frontier models and integrated them with offensive security tools.",
-      "url": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
-      "source": "Dark Reading",
-      "published": "2026-07-21T18:38:52Z",
-      "actors": []
-    },
-    {
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could…",
-      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T16:06:12Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
+      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T07:36:39Z",
+      "actors": [
+        "Cl0p",
+        "Clop"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Attackers Are Learning to Live Off the AI Toolchain",
       "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
