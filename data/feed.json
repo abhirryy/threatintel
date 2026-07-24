@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T10:50:40Z",
+  "generated_at": "2026-07-24T12:11:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
+      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer…",
+      "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
+      "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T11:17:19Z",
+      "actors": []
+    },
     {
       "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
       "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's network on its own,…",
@@ -365,14 +381,6 @@
       "actors": []
     },
     {
-      "title": "South Korea discloses data breach impacting diplomats worldwide",
-      "summary": "South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas diplomats. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-      "source": "BleepingComputer",
-      "published": "2026-07-22T20:06:54Z",
-      "actors": []
-    },
-    {
       "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
       "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
       "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
@@ -482,14 +490,6 @@
       "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
       "source": "The Hacker News",
       "published": "2026-07-22T04:57:52Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, July 22nd, 2026 https://isc.sans.edu/podcastdetail/10018, (Wed, Jul 22nd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33174",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-22T02:00:02Z",
       "actors": []
     }
   ],
