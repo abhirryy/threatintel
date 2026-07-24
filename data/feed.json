@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:14:53Z",
+  "generated_at": "2026-07-24T15:48:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "source": "BleepingComputer",
+      "published": "2026-07-24T15:41:44Z",
+      "actors": []
+    },
+    {
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the…",
+      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "source": "The Hacker News",
+      "published": "2026-07-24T14:15:21Z",
+      "actors": []
+    },
     {
       "title": "Chick-fil-A data breach affects more than 13,000 customers",
       "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
@@ -25,7 +41,7 @@
     },
     {
       "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "summary": "A porous API endpoint exposes, names, email addresses, location, and site status, all of which can be easily gleaned by anyone with a browser.",
+      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
       "source": "Dark Reading",
       "published": "2026-07-24T13:00:00Z",
@@ -37,6 +53,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
       "source": "BleepingComputer",
       "published": "2026-07-24T12:56:53Z",
+      "actors": []
+    },
+    {
+      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+      "summary": "Microsoft addressed a public-by-default configuration and chain of code flaws in Azure Automation which could have let attackers seize another tenant's identity and access other tenants' data, credentials, and cloud workloads.",
+      "url": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
+      "source": "Dark Reading",
+      "published": "2026-07-24T12:48:16Z",
       "actors": []
     },
     {
@@ -323,14 +347,6 @@
       "actors": []
     },
     {
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T10:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
       "summary": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet…",
       "url": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
@@ -474,22 +490,6 @@
       "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
       "source": "The Hacker News",
       "published": "2026-07-22T11:30:02Z",
-      "actors": []
-    },
-    {
-      "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
-      "summary": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
-      "url": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-      "source": "Dark Reading",
-      "published": "2026-07-22T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Why Modern SOCs Need Multi-Layered Detections",
-      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Global Threat Report…",
-      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T11:25:35Z",
       "actors": []
     }
   ],
