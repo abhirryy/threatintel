@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T00:10:25Z",
+  "generated_at": "2026-07-24T03:44:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Friday, July 24th, 2026 https://isc.sans.edu/podcastdetail/10022, (Fri, Jul 24th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33182",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-24T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
       "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
       "source": "The Hacker News",
       "published": "2026-07-21T16:06:12Z",
-      "actors": []
-    },
-    {
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively available to…",
-      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T15:09:28Z",
       "actors": []
     }
   ],
