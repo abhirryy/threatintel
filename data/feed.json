@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T06:58:52Z",
+  "generated_at": "2026-07-25T09:07:00Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no…",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T08:34:15Z",
+      "actors": []
+    },
     {
       "title": "CISOs vs. Boards: Myth or Misunderstanding?",
       "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
@@ -482,14 +490,6 @@
       "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
       "source": "Dark Reading",
       "published": "2026-07-22T15:53:47Z",
-      "actors": []
-    },
-    {
-      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The shortcoming has been codenamed HermeticReader by Guardio Labs. It's…",
-      "url": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T15:01:21Z",
       "actors": []
     }
   ],
