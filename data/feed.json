@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T09:07:00Z",
+  "generated_at": "2026-07-25T10:42:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI confirms ChatGPT is down worldwide",
+      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+      "source": "BleepingComputer",
+      "published": "2026-07-25T09:31:09Z",
+      "actors": []
+    },
     {
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
       "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no…",
@@ -304,14 +312,6 @@
       "url": "https://therecord.media/visa-restrictions-cyber-scammers",
       "source": "The Record",
       "published": "2026-07-23T16:29:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
-      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T15:34:43Z",
       "actors": []
     },
     {
