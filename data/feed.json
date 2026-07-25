@@ -1,26 +1,52 @@
 {
-  "generated_at": "2026-07-25T10:42:38Z",
+  "generated_at": "2026-07-25T11:50:29Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 5,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The attacker commits a…",
+      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T10:14:26Z",
+      "actors": []
+    },
+    {
+      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
+      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused…",
+      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T10:14:21Z",
+      "actors": []
+    },
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL…",
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T10:14:03Z",
+      "actors": [
+        "Cl0p"
+      ]
+    },
+    {
+      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
+      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation…",
+      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T09:53:41Z",
+      "actors": []
+    },
     {
       "title": "OpenAI confirms ChatGPT is down worldwide",
       "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
       "source": "BleepingComputer",
       "published": "2026-07-25T09:31:09Z",
-      "actors": []
-    },
-    {
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no…",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T08:34:15Z",
       "actors": []
     },
     {
@@ -467,33 +493,20 @@
       "source": "The Hacker News",
       "published": "2026-07-22T18:37:42Z",
       "actors": []
-    },
-    {
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default…",
-      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T18:07:16Z",
-      "actors": []
-    },
-    {
-      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
-      "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:",
-      "url": "https://isc.sans.edu/diary/rss/33176",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-22T17:35:33Z",
-      "actors": []
-    },
-    {
-      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
-      "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
-      "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-      "source": "Dark Reading",
-      "published": "2026-07-22T15:53:47Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
+      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL…",
+      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T10:14:03Z",
+      "actors": [
+        "Cl0p"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
       "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
