@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:40:37Z",
+  "generated_at": "2026-07-25T15:47:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "source": "BleepingComputer",
+      "published": "2026-07-25T15:21:09Z",
+      "actors": []
+    },
     {
       "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
       "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
@@ -330,14 +338,6 @@
       "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
       "source": "The Record",
       "published": "2026-07-23T16:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T16:49:27Z",
       "actors": []
     },
     {
