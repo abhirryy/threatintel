@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-07-25T19:58:27Z",
+  "generated_at": "2026-07-25T21:02:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 5,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024…",
+      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T18:48:44Z",
+      "actors": []
+    },
     {
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
@@ -485,14 +493,6 @@
       "actors": [
         "Sandworm"
       ]
-    },
-    {
-      "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
-      "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
-      "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
-      "source": "Dark Reading",
-      "published": "2026-07-22T19:42:42Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -527,17 +527,6 @@
       "published": "2026-07-22T21:29:01Z",
       "actors": [
         "Sandworm"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257…",
-      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "source": "The Hacker News",
-      "published": "2026-07-21T14:04:57Z",
-      "actors": [
-        "Qilin"
       ],
       "kind": "news"
     },
