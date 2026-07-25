@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T12:58:13Z",
+  "generated_at": "2026-07-25T14:40:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "source": "BleepingComputer",
+      "published": "2026-07-25T14:16:26Z",
+      "actors": []
+    },
+    {
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability…",
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "source": "The Hacker News",
+      "published": "2026-07-25T12:52:43Z",
+      "actors": []
+    },
     {
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
       "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The attacker commits a…",
@@ -325,14 +341,6 @@
       "actors": []
     },
     {
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T16:32:35Z",
-      "actors": []
-    },
-    {
       "title": "State Department imposes visa restrictions on foreign cyber scammers",
       "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
       "url": "https://therecord.media/visa-restrictions-cyber-scammers",
@@ -484,14 +492,6 @@
       "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
       "source": "Dark Reading",
       "published": "2026-07-22T19:42:42Z",
-      "actors": []
-    },
-    {
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more. Reports filed before that date, including those already in GitHub's…",
-      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T18:37:42Z",
       "actors": []
     }
   ],
