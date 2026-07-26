@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T23:08:44Z",
+  "generated_at": "2026-07-26T00:13:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
+    "osint_news": 120,
     "threat_actors": 4,
     "attack_surface": 60
   },
@@ -127,6 +127,22 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
       "source": "BleepingComputer",
       "published": "2026-07-24T17:50:37Z",
+      "actors": []
+    },
+    {
+      "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
+      "summary": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
+      "url": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
+      "source": "The Record",
+      "published": "2026-07-24T17:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
+      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
+      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
+      "source": "The Record",
+      "published": "2026-07-24T15:55:00Z",
       "actors": []
     },
     {
@@ -325,6 +341,22 @@
       "actors": []
     },
     {
+      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
+      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
+      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
+      "source": "The Record",
+      "published": "2026-07-23T16:58:00Z",
+      "actors": []
+    },
+    {
+      "title": "State Department imposes visa restrictions on foreign cyber scammers",
+      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
+      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
+      "source": "The Record",
+      "published": "2026-07-23T16:29:00Z",
+      "actors": []
+    },
+    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and…",
       "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
@@ -346,6 +378,14 @@
       "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
       "source": "The Hacker News",
       "published": "2026-07-23T13:27:59Z",
+      "actors": []
+    },
+    {
+      "title": "Major Australian energy supplier confirms customer data compromised",
+      "summary": "Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.",
+      "url": "https://therecord.media/australia-origin-energy-data-breach",
+      "source": "The Record",
+      "published": "2026-07-23T13:20:00Z",
       "actors": []
     },
     {
@@ -453,46 +493,6 @@
       "actors": [
         "Sandworm"
       ]
-    },
-    {
-      "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
-      "summary": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
-      "url": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
-      "source": "Dark Reading",
-      "published": "2026-07-22T19:42:42Z",
-      "actors": []
-    },
-    {
-      "title": "GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier",
-      "summary": "Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier will pay $30,000 or more. Reports filed before that date, including those already in GitHub's…",
-      "url": "https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T18:37:42Z",
-      "actors": []
-    },
-    {
-      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
-      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default…",
-      "url": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
-      "source": "The Hacker News",
-      "published": "2026-07-22T18:07:16Z",
-      "actors": []
-    },
-    {
-      "title": "Rondo Meets Geoserver, (Wed, Jul 22nd)",
-      "summary": "This isn&#;x26;#;39;t a new attack, but something I saw \"pop-up\" in our logs this week:",
-      "url": "https://isc.sans.edu/diary/rss/33176",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-22T17:35:33Z",
-      "actors": []
-    },
-    {
-      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
-      "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
-      "url": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-      "source": "Dark Reading",
-      "published": "2026-07-22T15:53:47Z",
-      "actors": []
     }
   ],
   "threat_actors": [
