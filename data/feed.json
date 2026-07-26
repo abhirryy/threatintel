@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:45:53Z",
+  "generated_at": "2026-07-26T19:59:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -16,7 +16,7 @@
       "actors": []
     },
     {
-      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
       "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
       "source": "BleepingComputer",
