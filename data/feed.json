@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:45:52Z",
+  "generated_at": "2026-07-26T15:48:30Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
+      "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market [1]. Sadly, like so many security products, it suffers from basic…",
+      "url": "https://isc.sans.edu/diary/rss/33184",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-26T15:26:14Z",
+      "actors": []
+    },
     {
       "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
       "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
@@ -483,16 +491,6 @@
       "source": "Dark Reading",
       "published": "2026-07-22T23:50:01Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Are Learning to Live Off the AI Toolchain",
-      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
-      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-      "source": "Dark Reading",
-      "published": "2026-07-22T21:29:01Z",
-      "actors": [
-        "Sandworm"
-      ]
     }
   ],
   "threat_actors": [
