@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T13:14:31Z",
+  "generated_at": "2026-07-26T14:45:52Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-26T14:13:39Z",
+      "actors": []
+    },
     {
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
@@ -322,14 +330,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
       "source": "BleepingComputer",
       "published": "2026-07-23T21:20:34Z",
-      "actors": []
-    },
-    {
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T20:14:35Z",
       "actors": []
     },
     {
