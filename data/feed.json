@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:53:18Z",
+  "generated_at": "2026-07-27T22:57:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T22:49:44Z",
+      "actors": []
+    },
     {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
       "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
@@ -345,14 +353,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
       "source": "BleepingComputer",
       "published": "2026-07-24T17:50:37Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T15:41:44Z",
       "actors": []
     },
     {
