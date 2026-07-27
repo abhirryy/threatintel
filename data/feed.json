@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:14:54Z",
+  "generated_at": "2026-07-27T04:08:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33186",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-27T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
       "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market [1]. Sadly, like so many security products, it suffers from basic…",
@@ -482,14 +490,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
       "source": "Dark Reading",
       "published": "2026-07-23T01:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
-      "summary": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
-      "url": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
-      "source": "Dark Reading",
-      "published": "2026-07-22T23:50:01Z",
       "actors": []
     }
   ],
