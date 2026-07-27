@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:04:05Z",
+  "generated_at": "2026-07-27T17:52:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T17:29:07Z",
+      "actors": []
+    },
+    {
+      "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
+      "summary": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan.",
+      "url": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
+      "source": "The Record",
+      "published": "2026-07-27T16:00:00Z",
+      "actors": []
+    },
     {
       "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
       "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
@@ -314,14 +330,6 @@
       "actors": []
     },
     {
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T12:56:53Z",
-      "actors": []
-    },
-    {
       "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
       "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
       "url": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
@@ -434,14 +442,6 @@
       "actors": []
     },
     {
-      "title": "State Department imposes visa restrictions on foreign cyber scammers",
-      "summary": "Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.",
-      "url": "https://therecord.media/visa-restrictions-cyber-scammers",
-      "source": "The Record",
-      "published": "2026-07-23T16:29:00Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and…",
       "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
@@ -526,6 +526,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2025-68686",
+      "title": "CVE-2025-68686 - Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability",
+      "summary": "Fortinet FortiOS contains an exposure of sensitive information to an unauthorized actor vulnerability. This may allow a remote unauthenticated attacker to bypass the patch developed for the symbolic link persistency mechanism observed in some post-exploit cases, via crafted HTTP requests. An attacker would need first…",
+      "vendor": "Fortinet",
+      "product": "FortiOS",
+      "date_added": "2026-07-27",
+      "due_date": "2026-08-10",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68686",
+      "source": "CISA KEV",
+      "published": "2026-07-27T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-16232",
       "title": "CVE-2026-16232 - Check Point SmartConsole Improper Authentication Vulnerability",
@@ -1348,20 +1362,6 @@
       "due_date": "2026-06-03",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2010-0806",
-      "source": "CISA KEV",
-      "published": "2026-05-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-41091",
-      "title": "CVE-2026-41091 - Microsoft Defender Link Following Vulnerability",
-      "summary": "Microsoft Defender contains a link following vulnerability that allows an authorized attacker to elevate privileges locally.",
-      "vendor": "Microsoft",
-      "product": "Defender",
-      "date_added": "2026-05-20",
-      "due_date": "2026-06-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-41091",
       "source": "CISA KEV",
       "published": "2026-05-20T00:00:00Z",
       "actors": []
