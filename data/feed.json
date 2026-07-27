@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:17:48Z",
+  "generated_at": "2026-07-27T20:47:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
+      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco,…",
+      "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-07-27T18:10:05Z",
+      "actors": []
+    },
     {
       "title": "UK court rejects Bahrain immunity claim in spyware case",
       "summary": "The alleged hacking by officials in Bahrain “allowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers’ microphones and cameras to surveil the respondents,” according to the court opinion.",
@@ -480,14 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-07-23T13:27:59Z",
       "actors": []
-    },
-    {
-      "title": "Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge",
-      "summary": "The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the encryptor. The implant never opens an outbound connection of its own. Its process talks to 127.0.0.1 and…",
-      "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T13:11:09Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -536,6 +536,20 @@
       "due_date": "2026-08-10",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-68686",
+      "source": "CISA KEV",
+      "published": "2026-07-27T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-16812",
+      "title": "CVE-2026-16812 - Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the…",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "date_added": "2026-07-27",
+      "due_date": "2026-07-30",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16812",
       "source": "CISA KEV",
       "published": "2026-07-27T00:00:00Z",
       "actors": []
@@ -1348,20 +1362,6 @@
       "due_date": "2026-06-03",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2010-0249",
-      "source": "CISA KEV",
-      "published": "2026-05-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2010-0806",
-      "title": "CVE-2010-0806 - Microsoft Internet Explorer Use-After-Free Vulnerability",
-      "summary": "Microsoft Internet Explorer contains an use-after-free vulnerability that could allow remote attackers to execute arbitrary code via vectors involving access to an invalid pointer after the deletion of an object. The impacted product could be end-of-life (EoL) and/or end-of-service (EoS). Users should discontinue…",
-      "vendor": "Microsoft",
-      "product": "Internet Explorer",
-      "date_added": "2026-05-20",
-      "due_date": "2026-06-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2010-0806",
       "source": "CISA KEV",
       "published": "2026-05-20T00:00:00Z",
       "actors": []
