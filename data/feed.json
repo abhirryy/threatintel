@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:52:18Z",
+  "generated_at": "2026-07-27T19:17:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,43 @@
   },
   "osint_news": [
     {
+      "title": "UK court rejects Bahrain immunity claim in spyware case",
+      "summary": "The alleged hacking by officials in Bahrain “allowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers’ microphones and cameras to surveil the respondents,” according to the court opinion.",
+      "url": "https://therecord.media/uk-court-rejects-bahrain-immunity-claim-spyware-case",
+      "source": "The Record",
+      "published": "2026-07-27T17:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "Health system in South Carolina, Georgia closes offices after malware affects networks",
+      "summary": "On Sunday, AnMed published a statement online saying they were “experiencing a cybersecurity disruption involving malware” and were working to restore systems and determine the scope of the incident.",
+      "url": "https://therecord.media/health-system-south-carolina-georgia-disruptions-malware",
+      "source": "The Record",
+      "published": "2026-07-27T17:38:00Z",
+      "actors": []
+    },
+    {
+      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+      "summary": "Confidence in autonomous security tools is declining, and here's why.",
+      "url": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "source": "Dark Reading",
+      "published": "2026-07-27T17:31:18Z",
+      "actors": []
+    },
+    {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
       "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
       "url": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
       "source": "BleepingComputer",
       "published": "2026-07-27T17:29:07Z",
+      "actors": []
+    },
+    {
+      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, China's national…",
+      "url": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+      "source": "The Hacker News",
+      "published": "2026-07-27T17:16:28Z",
       "actors": []
     },
     {
@@ -274,14 +306,6 @@
       "actors": []
     },
     {
-      "title": "'Wrench' attacks against crypto holders appear to be on the rise",
-      "summary": "There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.",
-      "url": "https://therecord.media/wrench-attacks-against-cryptocurrency-holders",
-      "source": "The Record",
-      "published": "2026-07-24T15:55:00Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -434,14 +458,6 @@
       "actors": []
     },
     {
-      "title": "International alert spotlights Russia-linked attacks on Zimbra webmail",
-      "summary": "A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.",
-      "url": "https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear",
-      "source": "The Record",
-      "published": "2026-07-23T16:58:00Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
       "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and…",
       "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html",
       "source": "The Hacker News",
       "published": "2026-07-23T13:11:09Z",
-      "actors": []
-    },
-    {
-      "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
-      "summary": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the server in mid-April…",
-      "url": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T12:20:23Z",
-      "actors": []
-    },
-    {
-      "title": "How Synthetic Identity Fraud is Coming for Machine Identities",
-      "summary": "Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the attacker manufactures a new one, frankensteining together several real data points with fabricated ones…",
-      "url": "https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T11:45:00Z",
       "actors": []
     }
   ],
