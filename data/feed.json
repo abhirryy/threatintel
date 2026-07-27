@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-07-27T13:42:49Z",
+  "generated_at": "2026-07-27T16:04:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T15:39:51Z",
+      "actors": []
+    },
+    {
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T15:12:27Z",
+      "actors": []
+    },
+    {
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulletin 6.2.1 and…",
+      "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "source": "The Hacker News",
+      "published": "2026-07-27T14:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That is the mood. Here…",
+      "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "source": "The Hacker News",
+      "published": "2026-07-27T14:10:54Z",
+      "actors": []
+    },
+    {
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T14:01:11Z",
+      "actors": []
+    },
     {
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
       "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected ranges are <2.31.5…",
@@ -314,14 +354,6 @@
       "actors": []
     },
     {
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T11:17:19Z",
-      "actors": []
-    },
-    {
       "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
       "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's network on its own,…",
       "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
@@ -344,17 +376,6 @@
       "source": "The Hacker News",
       "published": "2026-07-24T07:41:06Z",
       "actors": []
-    },
-    {
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T07:36:39Z",
-      "actors": [
-        "Cl0p",
-        "Clop"
-      ]
     },
     {
       "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
@@ -394,14 +415,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
       "source": "Dark Reading",
       "published": "2026-07-23T21:23:18Z",
-      "actors": []
-    },
-    {
-      "title": "New Dolphin X malware uses AI to rank high-value targets",
-      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "source": "BleepingComputer",
-      "published": "2026-07-23T21:20:34Z",
       "actors": []
     },
     {
@@ -475,22 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-07-23T11:45:00Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-      "summary": "Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances. The activity involves malicious Packagist development versions spanning 10 packages associated with a…",
-      "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T11:28:54Z",
-      "actors": []
-    },
-    {
-      "title": "Agentic AI Challenges Progress in Confidential Computing",
-      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
-      "url": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-      "source": "Dark Reading",
-      "published": "2026-07-23T11:17:51Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -502,18 +499,6 @@
       "published": "2026-07-25T10:14:03Z",
       "actors": [
         "Cl0p"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T07:36:39Z",
-      "actors": [
-        "Cl0p",
-        "Clop"
       ],
       "kind": "news"
     },
