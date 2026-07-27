@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T07:49:08Z",
+  "generated_at": "2026-07-27T10:58:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Java Spring Boot \"heapdump\" scans, (Mon, Jul 27th)",
+      "summary": "Spring Boot exposes the endpoint \"/actuator/heapdump\" to collect debug information. By default, the endpoint will return a file heapdump.hprof, which includes a binary heapdump that can be used to analyze the current state of the application. Non-Java readers may be familiar with a similar concept, core dumps, which…",
+      "url": "https://isc.sans.edu/diary/rss/33188",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-27T10:04:51Z",
+      "actors": []
+    },
+    {
+      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler…",
+      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+      "source": "The Hacker News",
+      "published": "2026-07-27T08:48:47Z",
+      "actors": []
+    },
+    {
+      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits…",
+      "url": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+      "source": "The Hacker News",
+      "published": "2026-07-27T08:01:23Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -466,30 +490,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
       "source": "Dark Reading",
       "published": "2026-07-23T07:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication…",
-      "url": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T06:34:36Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Thursday, July 23rd, 2026 https://isc.sans.edu/podcastdetail/10020, (Thu, Jul 23rd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33178",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-23T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
-      "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
-      "source": "Dark Reading",
-      "published": "2026-07-23T01:00:00Z",
       "actors": []
     }
   ],
