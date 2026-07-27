@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-07-27T20:47:59Z",
+  "generated_at": "2026-07-27T21:53:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T21:08:15Z",
+      "actors": []
+    },
+    {
+      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
+      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T21:00:25Z",
+      "actors": []
+    },
+    {
+      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+      "url": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:57:26Z",
+      "actors": []
+    },
+    {
+      "title": "Outdated VPNs should be purged from federal agencies, senator says",
+      "summary": "Intelligence Committee member Ron Wyden wants CISA, OMB and NIST to lead a federal effort to rout out obsolete VPNs from the U.S. government.",
+      "url": "https://therecord.media/federal-purge-outdated-vpns-wyden-letter",
+      "source": "The Record",
+      "published": "2026-07-27T20:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:33:29Z",
+      "actors": [
+        "LockBit"
+      ]
+    },
     {
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
       "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco,…",
@@ -306,14 +348,6 @@
       "actors": []
     },
     {
-      "title": "Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry",
-      "summary": "The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.",
-      "url": "https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk",
-      "source": "The Record",
-      "published": "2026-07-24T17:14:00Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
@@ -335,22 +369,6 @@
       "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
       "source": "The Hacker News",
       "published": "2026-07-24T14:15:21Z",
-      "actors": []
-    },
-    {
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T14:04:29Z",
-      "actors": []
-    },
-    {
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters…",
-      "url": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T14:01:11Z",
       "actors": []
     },
     {
@@ -472,25 +490,20 @@
       "source": "The Hacker News",
       "published": "2026-07-23T15:02:07Z",
       "actors": []
-    },
-    {
-      "title": "When the \"Autonomous Attacker\" Is Your Own AI Model, (Thu, Jul 23rd)",
-      "summary": "Two disclosures, five days apart, described the same intrusion from opposite ends â€” one from the victim, one from the party that turned out to be responsible â€” and together they make one of the more instructive incidents of the year for defenders.",
-      "url": "https://isc.sans.edu/diary/rss/33180",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-23T13:40:27Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
-      "summary": "Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to read or write files anywhere on the Mac. Accomplish AI, which shared details of the vulnerability with…",
-      "url": "https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T13:27:59Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:33:29Z",
+      "actors": [
+        "LockBit"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
       "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL…",
