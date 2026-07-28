@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T17:08:10Z",
+  "generated_at": "2026-07-28T18:44:35Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-28T18:41:04Z",
+      "actors": []
+    },
+    {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "source": "BleepingComputer",
+      "published": "2026-07-28T18:08:50Z",
+      "actors": []
+    },
+    {
+      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+      "source": "Dark Reading",
+      "published": "2026-07-28T16:38:48Z",
+      "actors": []
+    },
     {
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
       "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through…",
@@ -402,22 +426,6 @@
       "actors": []
     },
     {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "source": "BleepingComputer",
-      "published": "2026-07-25T15:21:09Z",
-      "actors": []
-    },
-    {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "source": "BleepingComputer",
-      "published": "2026-07-25T14:16:26Z",
-      "actors": []
-    },
-    {
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
       "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability…",
       "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
       "source": "The Hacker News",
       "published": "2026-07-24T15:12:35Z",
-      "actors": []
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the…",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T14:15:21Z",
       "actors": []
     }
   ],
