@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:12:23Z",
+  "generated_at": "2026-07-28T15:36:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,54 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through…",
+      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "source": "The Hacker News",
+      "published": "2026-07-28T15:01:33Z",
+      "actors": []
+    },
+    {
+      "title": "India’s Bank of Baroda confirms cyber incident after hackers claim data theft",
+      "summary": "An employee's email account had been compromised, allowing unauthorized access to \"certain data,\" Bank of Baroda reported.",
+      "url": "https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident",
+      "source": "The Record",
+      "published": "2026-07-28T14:45:57Z",
+      "actors": []
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have…",
+      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "source": "The Hacker News",
+      "published": "2026-07-28T14:41:36Z",
+      "actors": []
+    },
+    {
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-28T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an…",
+      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-07-28T13:33:47Z",
+      "actors": []
+    },
+    {
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the…",
+      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-07-28T12:56:14Z",
+      "actors": []
+    },
     {
       "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
       "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
@@ -282,14 +330,6 @@
       "actors": []
     },
     {
-      "title": "Hackers used autonomous AI agent to spy on Thailand's finance ministry",
-      "summary": "Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.",
-      "url": "https://therecord.media/thailand-hackers-ai-finance-ministry",
-      "source": "The Record",
-      "published": "2026-07-27T12:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
       "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to a new analysis by Proofpoint, Cruciferra has been utilized by various…",
       "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
@@ -420,14 +460,6 @@
       "actors": []
     },
     {
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "source": "BleepingComputer",
-      "published": "2026-07-25T09:31:09Z",
-      "actors": []
-    },
-    {
       "title": "CISOs vs. Boards: Myth or Misunderstanding?",
       "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
       "url": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
@@ -457,38 +489,6 @@
       "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
       "source": "The Hacker News",
       "published": "2026-07-24T14:15:21Z",
-      "actors": []
-    },
-    {
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "source": "Dark Reading",
-      "published": "2026-07-24T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
-      "url": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "source": "Dark Reading",
-      "published": "2026-07-24T12:48:16Z",
-      "actors": []
-    },
-    {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed…",
-      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T11:53:55Z",
-      "actors": []
-    },
-    {
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier,…",
-      "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T11:45:17Z",
       "actors": []
     }
   ],
