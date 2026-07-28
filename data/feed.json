@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:38:32Z",
+  "generated_at": "2026-07-28T23:40:19Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Senate confirms Clayton as intel chief after delays",
+      "summary": "A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.",
+      "url": "https://therecord.media/jay-clayton-confirmed-dni-senate",
+      "source": "The Record",
+      "published": "2026-07-28T23:18:00Z",
+      "actors": []
+    },
     {
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "summary": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
@@ -343,14 +351,6 @@
       "url": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
       "source": "The Hacker News",
       "published": "2026-07-27T17:16:28Z",
-      "actors": []
-    },
-    {
-      "title": "Telegram phishing campaign targeted exiled Belarusian activist, Russians and Kazakhstanis",
-      "summary": "Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan.",
-      "url": "https://therecord.media/telegram-belarus-activist-russia-cyberattack",
-      "source": "The Record",
-      "published": "2026-07-27T16:00:00Z",
       "actors": []
     },
     {
