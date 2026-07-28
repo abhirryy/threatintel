@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:44:35Z",
+  "generated_at": "2026-07-28T20:08:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an…",
+      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "source": "The Hacker News",
+      "published": "2026-07-28T18:59:07Z",
+      "actors": []
+    },
     {
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
       "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
@@ -481,14 +489,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
       "source": "Dark Reading",
       "published": "2026-07-24T19:45:02Z",
-      "actors": []
-    },
-    {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised…",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T15:12:35Z",
       "actors": []
     }
   ],
