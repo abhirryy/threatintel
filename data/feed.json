@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:27:14Z",
+  "generated_at": "2026-07-28T13:12:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+      "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+      "source": "Dark Reading",
+      "published": "2026-07-28T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-07-28T12:10:23Z",
+      "actors": []
+    },
+    {
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previously undocumented…",
+      "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "source": "The Hacker News",
+      "published": "2026-07-28T11:55:20Z",
+      "actors": []
+    },
     {
       "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
       "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
@@ -88,6 +112,14 @@
       "actors": []
     },
     {
+      "title": "Agentic Browsers Rewind Web Security by 20 years",
+      "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+      "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+      "source": "Dark Reading",
+      "published": "2026-07-27T21:39:09Z",
+      "actors": []
+    },
+    {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
       "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
@@ -128,6 +160,14 @@
       "actors": [
         "LockBit"
       ]
+    },
+    {
+      "title": "Why Resetting Passwords No Longer Stops Attackers",
+      "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+      "url": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+      "source": "Dark Reading",
+      "published": "2026-07-27T18:39:50Z",
+      "actors": []
     },
     {
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
@@ -396,14 +436,6 @@
       "actors": []
     },
     {
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T19:55:01Z",
-      "actors": []
-    },
-    {
       "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
       "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
       "url": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
@@ -457,38 +489,6 @@
       "url": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
       "source": "The Hacker News",
       "published": "2026-07-24T11:45:17Z",
-      "actors": []
-    },
-    {
-      "title": "Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do",
-      "summary": "AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we ever imagined. This is why there are so many approaches, from prompt filtering to identity-layer…",
-      "url": "https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry",
-      "summary": "Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the country's treasury and tax collection. The agent then worked through the ministry's network on its own,…",
-      "url": "https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T10:15:29Z",
-      "actors": []
-    },
-    {
-      "title": "Golden Chickens Resurfaces With Four New Malware Families and Modular Implants",
-      "summary": "The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public disclosures into their inner workings. The malware families in question are: TinyEgg, ChonkyChicken,…",
-      "url": "https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T10:09:24Z",
-      "actors": []
-    },
-    {
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed them all, and…",
-      "url": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T07:41:06Z",
       "actors": []
     }
   ],
