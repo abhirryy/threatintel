@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:31:20Z",
+  "generated_at": "2026-07-28T22:38:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+      "summary": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+      "url": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+      "source": "Dark Reading",
+      "published": "2026-07-28T21:33:23Z",
+      "actors": []
+    },
     {
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
       "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
@@ -16,8 +24,8 @@
       "actors": []
     },
     {
-      "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
-      "summary": "Lots of Internet-exposed server management controllers are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "title": "Thousands of Data Center Controllers Open to Takeover",
+      "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
       "url": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
       "source": "Dark Reading",
       "published": "2026-07-28T21:07:55Z",
@@ -480,16 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-07-25T10:14:21Z",
       "actors": []
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL…",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T10:14:03Z",
-      "actors": [
-        "Cl0p"
-      ]
     }
   ],
   "threat_actors": [
