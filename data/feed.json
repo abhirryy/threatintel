@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:07:12Z",
+  "generated_at": "2026-07-28T03:32:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Tuesday, July 28th, 2026 https://isc.sans.edu/podcastdetail/10026, (Tue, Jul 28th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33190",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-28T02:00:03Z",
+      "actors": []
+    },
+    {
+      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+      "source": "Dark Reading",
+      "published": "2026-07-28T01:00:00Z",
+      "actors": []
+    },
     {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
@@ -473,22 +489,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
       "source": "Dark Reading",
       "published": "2026-07-23T21:23:18Z",
-      "actors": []
-    },
-    {
-      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
-      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the…",
-      "url": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T18:36:08Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
-      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and…",
-      "url": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
-      "source": "The Hacker News",
-      "published": "2026-07-23T15:02:07Z",
       "actors": []
     }
   ],
