@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:08:36Z",
+  "generated_at": "2026-07-28T21:31:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "source": "BleepingComputer",
+      "published": "2026-07-28T21:17:39Z",
+      "actors": []
+    },
+    {
+      "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
+      "summary": "Lots of Internet-exposed server management controllers are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "url": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+      "source": "Dark Reading",
+      "published": "2026-07-28T21:07:55Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "source": "BleepingComputer",
+      "published": "2026-07-28T20:37:06Z",
+      "actors": []
+    },
+    {
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "url": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "source": "Dark Reading",
+      "published": "2026-07-28T20:27:36Z",
+      "actors": []
+    },
+    {
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "source": "Dark Reading",
+      "published": "2026-07-28T20:05:32Z",
+      "actors": []
+    },
     {
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
       "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an…",
@@ -192,7 +232,7 @@
       "actors": []
     },
     {
-      "title": "Agentic Browsers Rewind Web Security by 20 years",
+      "title": "Agentic Browsers Rewind Web Security by 20 Years",
       "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
       "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
       "source": "Dark Reading",
@@ -410,22 +450,6 @@
       "actors": []
     },
     {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-26T14:13:39Z",
-      "actors": []
-    },
-    {
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "source": "BleepingComputer",
-      "published": "2026-07-25T22:37:47Z",
-      "actors": []
-    },
-    {
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
       "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024…",
       "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
@@ -466,30 +490,6 @@
       "actors": [
         "Cl0p"
       ]
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation…",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T09:53:41Z",
-      "actors": []
-    },
-    {
-      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
-      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
-      "source": "Dark Reading",
-      "published": "2026-07-24T21:31:53Z",
-      "actors": []
-    },
-    {
-      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
-      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
-      "source": "Dark Reading",
-      "published": "2026-07-24T19:45:02Z",
-      "actors": []
     }
   ],
   "threat_actors": [
