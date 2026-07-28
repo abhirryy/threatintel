@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:57:55Z",
+  "generated_at": "2026-07-28T00:07:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-27T23:49:44Z",
+      "actors": []
+    },
     {
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
@@ -345,14 +353,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
       "source": "BleepingComputer",
       "published": "2026-07-24T19:09:09Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-07-24T17:50:37Z",
       "actors": []
     },
     {
