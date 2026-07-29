@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-29T10:07:22Z",
+  "generated_at": "2026-07-29T12:19:11Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 80,
-    "threat_actors": 2,
+    "osint_news": 120,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "source": "BleepingComputer",
+      "published": "2026-07-29T11:12:19Z",
+      "actors": []
+    },
+    {
+      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed…",
+      "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+      "source": "The Hacker News",
+      "published": "2026-07-29T11:00:00Z",
+      "actors": []
+    },
     {
       "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
       "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS…",
@@ -72,6 +88,14 @@
       "actors": []
     },
     {
+      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+      "url": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+      "source": "Dark Reading",
+      "published": "2026-07-28T21:33:23Z",
+      "actors": []
+    },
+    {
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
       "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
@@ -80,11 +104,35 @@
       "actors": []
     },
     {
+      "title": "Thousands of Data Center Controllers Open to Takeover",
+      "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "url": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+      "source": "Dark Reading",
+      "published": "2026-07-28T21:07:55Z",
+      "actors": []
+    },
+    {
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "source": "BleepingComputer",
       "published": "2026-07-28T20:37:06Z",
+      "actors": []
+    },
+    {
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "url": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "source": "Dark Reading",
+      "published": "2026-07-28T20:27:36Z",
+      "actors": []
+    },
+    {
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "source": "Dark Reading",
+      "published": "2026-07-28T20:05:32Z",
       "actors": []
     },
     {
@@ -109,6 +157,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
       "source": "BleepingComputer",
       "published": "2026-07-28T18:08:50Z",
+      "actors": []
+    },
+    {
+      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+      "source": "Dark Reading",
+      "published": "2026-07-28T16:38:48Z",
       "actors": []
     },
     {
@@ -157,6 +213,14 @@
       "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
       "source": "The Hacker News",
       "published": "2026-07-28T12:56:14Z",
+      "actors": []
+    },
+    {
+      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+      "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+      "source": "Dark Reading",
+      "published": "2026-07-28T12:30:00Z",
       "actors": []
     },
     {
@@ -232,6 +296,14 @@
       "actors": []
     },
     {
+      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+      "source": "Dark Reading",
+      "published": "2026-07-28T01:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
@@ -245,6 +317,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-07-27T22:49:44Z",
+      "actors": []
+    },
+    {
+      "title": "Agentic Browsers Rewind Web Security by 20 Years",
+      "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+      "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+      "source": "Dark Reading",
+      "published": "2026-07-27T21:39:09Z",
       "actors": []
     },
     {
@@ -264,11 +344,37 @@
       "actors": []
     },
     {
+      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+      "url": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:57:26Z",
+      "actors": []
+    },
+    {
       "title": "Outdated VPNs should be purged from federal agencies, senator says",
       "summary": "Intelligence Committee member Ron Wyden wants CISA, OMB and NIST to lead a federal effort to rout out obsolete VPNs from the U.S. government.",
       "url": "https://therecord.media/federal-purge-outdated-vpns-wyden-letter",
       "source": "The Record",
       "published": "2026-07-27T20:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:33:29Z",
+      "actors": [
+        "LockBit"
+      ]
+    },
+    {
+      "title": "Why Resetting Passwords No Longer Stops Attackers",
+      "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+      "url": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+      "source": "Dark Reading",
+      "published": "2026-07-27T18:39:50Z",
       "actors": []
     },
     {
@@ -293,6 +399,14 @@
       "url": "https://therecord.media/health-system-south-carolina-georgia-disruptions-malware",
       "source": "The Record",
       "published": "2026-07-27T17:38:00Z",
+      "actors": []
+    },
+    {
+      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+      "summary": "Confidence in autonomous security tools is declining, and here's why.",
+      "url": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "source": "Dark Reading",
+      "published": "2026-07-27T17:31:18Z",
       "actors": []
     },
     {
@@ -344,14 +458,6 @@
       "actors": []
     },
     {
-      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
-      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-      "source": "BleepingComputer",
-      "published": "2026-07-27T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
       "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected ranges are <2.31.5…",
       "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
@@ -382,116 +488,21 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-07-27T10:04:51Z",
       "actors": []
-    },
-    {
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler…",
-      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T08:48:47Z",
-      "actors": []
-    },
-    {
-      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
-      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits…",
-      "url": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T08:01:23Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, July 27th, 2026 https://isc.sans.edu/podcastdetail/10024, (Mon, Jul 27th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33186",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-27T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Scans for ESAFENET CDG 3 Document Management System Weak Logins, (Sun, Jul 26th)",
-      "summary": "ESAFENET&#;x26;#;39;s CDG showed up in our data before. The company focused on secure document management and data leakage prevention solutions. The \"CDG\" stands for \"Content Data Guard\", and the product appears to be mostly targeting the Chinese market [1]. Sadly, like so many security products, it suffers from basic…",
-      "url": "https://isc.sans.edu/diary/rss/33184",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-07-26T15:26:14Z",
-      "actors": []
-    },
-    {
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024…",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T18:48:44Z",
-      "actors": []
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability…",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T12:52:43Z",
-      "actors": []
-    },
-    {
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The attacker commits a…",
-      "url": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T10:14:26Z",
-      "actors": []
-    },
-    {
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused…",
-      "url": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T10:14:21Z",
-      "actors": []
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL…",
-      "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T10:14:03Z",
-      "actors": [
-        "Cl0p"
-      ]
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation…",
-      "url": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T09:53:41Z",
-      "actors": []
-    },
-    {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised…",
-      "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T15:12:35Z",
-      "actors": []
-    },
-    {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the…",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T14:15:21Z",
-      "actors": []
-    },
-    {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed…",
-      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "source": "The Hacker News",
-      "published": "2026-07-24T11:53:55Z",
-      "actors": []
     }
   ],
   "threat_actors": [
     {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:33:29Z",
+      "actors": [
+        "LockBit"
+      ],
+      "kind": "news"
+    },
+    {
       "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
       "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL…",
       "url": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
@@ -499,6 +510,17 @@
       "published": "2026-07-25T10:14:03Z",
       "actors": [
         "Cl0p"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "Attackers Are Learning to Live Off the AI Toolchain",
+      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+      "source": "Dark Reading",
+      "published": "2026-07-22T21:29:01Z",
+      "actors": [
+        "Sandworm"
       ],
       "kind": "news"
     },
