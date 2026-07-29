@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-07-29T16:08:19Z",
+  "generated_at": "2026-07-29T17:37:56Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
+    "osint_news": 120,
     "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
+      "summary": "The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.",
+      "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
+      "source": "The Record",
+      "published": "2026-07-29T17:22:00Z",
+      "actors": []
+    },
     {
       "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
       "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
@@ -32,11 +40,19 @@
       "actors": []
     },
     {
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "source": "BleepingComputer",
       "published": "2026-07-29T14:55:57Z",
+      "actors": []
+    },
+    {
+      "title": "Laundry Bear’s webmail hackers had more in store after February, report says",
+      "summary": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.",
+      "url": "https://therecord.media/russia-hackers-outlook-webmail-malware",
+      "source": "The Record",
+      "published": "2026-07-29T14:45:00Z",
       "actors": []
     },
     {
@@ -80,10 +96,26 @@
       "actors": []
     },
     {
+      "title": "Russia accuses Telegram founder of aiding terrorism, seeks international arrest",
+      "summary": "Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.",
+      "url": "https://therecord.media/russia-telegram-durov-arrest",
+      "source": "The Record",
+      "published": "2026-07-29T12:45:00Z",
+      "actors": []
+    },
+    {
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
       "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing.…",
       "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
       "source": "The Hacker News",
+      "published": "2026-07-29T12:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattack hits Angola’s largest telco hours before landmark stock debut",
+      "summary": "Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.",
+      "url": "https://therecord.media/angola-unitel-cyberattack-outage",
+      "source": "The Record",
       "published": "2026-07-29T12:15:00Z",
       "actors": []
     },
@@ -173,6 +205,14 @@
       "url": "https://isc.sans.edu/diary/rss/33194",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-29T02:00:02Z",
+      "actors": []
+    },
+    {
+      "title": "Senate confirms Clayton as intel chief after delays",
+      "summary": "A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.",
+      "url": "https://therecord.media/jay-clayton-confirmed-dni-senate",
+      "source": "The Record",
+      "published": "2026-07-28T23:18:00Z",
       "actors": []
     },
     {
@@ -447,46 +487,6 @@
       "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
       "source": "The Hacker News",
       "published": "2026-07-27T18:10:05Z",
-      "actors": []
-    },
-    {
-      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
-      "summary": "Confidence in autonomous security tools is declining, and here's why.",
-      "url": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
-      "source": "Dark Reading",
-      "published": "2026-07-27T17:31:18Z",
-      "actors": []
-    },
-    {
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, China's national…",
-      "url": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T17:16:28Z",
-      "actors": []
-    },
-    {
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulletin 6.2.1 and…",
-      "url": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T14:40:00Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That is the mood. Here…",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T14:10:54Z",
-      "actors": []
-    },
-    {
-      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
-      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected ranges are <2.31.5…",
-      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T13:05:15Z",
       "actors": []
     }
   ],
