@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:09:12Z",
+  "generated_at": "2026-07-29T22:12:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -9,10 +9,18 @@
   "osint_news": [
     {
       "title": "Anthropic confirms Claude is down worldwide",
-      "summary": "[...]",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
       "source": "BleepingComputer",
-      "published": "2026-07-29T20:59:32Z",
+      "published": "2026-07-29T21:39:29Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-29T21:35:40Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33190",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-28T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
-      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
-      "source": "Dark Reading",
-      "published": "2026-07-28T01:00:00Z",
       "actors": []
     }
   ],
