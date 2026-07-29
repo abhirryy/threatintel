@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T20:02:28Z",
+  "generated_at": "2026-07-29T21:09:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Anthropic confirms Claude is down worldwide",
+      "summary": "[...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "source": "BleepingComputer",
+      "published": "2026-07-29T20:59:32Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
+      "source": "Dark Reading",
+      "published": "2026-07-29T19:48:12Z",
+      "actors": []
+    },
+    {
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+      "source": "Dark Reading",
+      "published": "2026-07-29T19:46:20Z",
+      "actors": []
+    },
     {
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
       "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as…",
@@ -240,19 +264,19 @@
       "actors": []
     },
     {
+      "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
+      "summary": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government alleges.",
+      "url": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
+      "source": "The Record",
+      "published": "2026-07-29T04:00:00Z",
+      "actors": []
+    },
+    {
       "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33194",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-29T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Senate confirms Clayton as intel chief after delays",
-      "summary": "A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.",
-      "url": "https://therecord.media/jay-clayton-confirmed-dni-senate",
-      "source": "The Record",
-      "published": "2026-07-28T23:18:00Z",
       "actors": []
     },
     {
@@ -461,30 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
       "source": "Dark Reading",
       "published": "2026-07-28T01:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-27T23:49:44Z",
-      "actors": []
-    },
-    {
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-27T22:49:44Z",
-      "actors": []
-    },
-    {
-      "title": "Agentic Browsers Rewind Web Security by 20 Years",
-      "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
-      "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
-      "source": "Dark Reading",
-      "published": "2026-07-27T21:39:09Z",
       "actors": []
     }
   ],
