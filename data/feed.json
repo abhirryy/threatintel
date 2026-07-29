@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:37:56Z",
+  "generated_at": "2026-07-29T18:41:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,51 @@
   },
   "osint_news": [
     {
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as…",
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-07-29T18:10:00Z",
+      "actors": []
+    },
+    {
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "source": "BleepingComputer",
+      "published": "2026-07-29T17:54:05Z",
+      "actors": []
+    },
+    {
+      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+      "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+      "source": "Dark Reading",
+      "published": "2026-07-29T17:43:38Z",
+      "actors": []
+    },
+    {
+      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "source": "Dark Reading",
+      "published": "2026-07-29T17:35:23Z",
+      "actors": []
+    },
+    {
       "title": "OpenAI says rogue agent behind Hugging Face hack broke into additional services",
       "summary": "The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.",
       "url": "https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services",
       "source": "The Record",
       "published": "2026-07-29T17:22:00Z",
+      "actors": []
+    },
+    {
+      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+      "url": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+      "source": "Dark Reading",
+      "published": "2026-07-29T17:06:52Z",
       "actors": []
     },
     {
@@ -445,48 +485,6 @@
       "url": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
       "source": "Dark Reading",
       "published": "2026-07-27T21:39:09Z",
-      "actors": []
-    },
-    {
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "source": "BleepingComputer",
-      "published": "2026-07-27T21:08:15Z",
-      "actors": []
-    },
-    {
-      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
-      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
-      "url": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
-      "source": "Dark Reading",
-      "published": "2026-07-27T20:57:26Z",
-      "actors": []
-    },
-    {
-      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
-      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-      "source": "Dark Reading",
-      "published": "2026-07-27T20:33:29Z",
-      "actors": [
-        "LockBit"
-      ]
-    },
-    {
-      "title": "Why Resetting Passwords No Longer Stops Attackers",
-      "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
-      "url": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
-      "source": "Dark Reading",
-      "published": "2026-07-27T18:39:50Z",
-      "actors": []
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco,…",
-      "url": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-07-27T18:10:05Z",
       "actors": []
     }
   ],
