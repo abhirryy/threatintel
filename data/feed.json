@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T04:30:59Z",
+  "generated_at": "2026-07-29T07:24:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which…",
+      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "source": "The Hacker News",
+      "published": "2026-07-29T06:45:02Z",
+      "actors": []
+    },
     {
       "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
       "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages…",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
       "source": "The Hacker News",
       "published": "2026-07-25T18:48:44Z",
-      "actors": []
-    },
-    {
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability…",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "source": "The Hacker News",
-      "published": "2026-07-25T12:52:43Z",
       "actors": []
     }
   ],
