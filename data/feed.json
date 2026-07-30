@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-07-30T12:57:41Z",
+  "generated_at": "2026-07-30T15:17:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Analog Devices discloses data breach, says operations unaffected",
+      "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T15:12:25Z",
+      "actors": []
+    },
+    {
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "summary": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyongyang-backed hackers and the ransomware ecosystem.",
+      "url": "https://therecord.media/north-korea-hackers-ransomware",
+      "source": "The Record",
+      "published": "2026-07-30T14:00:00Z",
+      "actors": [
+        "Lazarus"
+      ]
+    },
+    {
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a…",
+      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "source": "The Hacker News",
+      "published": "2026-07-30T13:34:09Z",
+      "actors": []
+    },
+    {
+      "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
+      "summary": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.",
+      "url": "https://therecord.media/north-korea-hackers-amazon-malware",
+      "source": "The Record",
+      "published": "2026-07-30T13:00:00Z",
+      "actors": []
+    },
     {
       "title": "Cyber extortionists steal data from UK Department for Education",
       "summary": "Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.",
@@ -89,7 +131,7 @@
     },
     {
       "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
-      "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
       "url": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
       "source": "Dark Reading",
       "published": "2026-07-30T01:00:00Z",
@@ -136,15 +178,23 @@
       "actors": []
     },
     {
+      "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
+      "summary": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government alleges.",
+      "url": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
+      "source": "The Record",
+      "published": "2026-07-29T21:00:00Z",
+      "actors": []
+    },
+    {
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
       "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
       "source": "Dark Reading",
       "published": "2026-07-29T19:48:12Z",
       "actors": []
     },
     {
-      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
       "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
       "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
       "source": "Dark Reading",
@@ -176,7 +226,7 @@
       "actors": []
     },
     {
-      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "title": "Hugging Face Hack: Lessons for Cyber Defenders",
       "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
       "source": "Dark Reading",
@@ -232,14 +282,6 @@
       "actors": []
     },
     {
-      "title": "Laundry Bear’s webmail hackers had more in store after February, report says",
-      "summary": "Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.",
-      "url": "https://therecord.media/russia-hackers-outlook-webmail-malware",
-      "source": "The Record",
-      "published": "2026-07-29T14:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
       "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
       "url": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
@@ -280,26 +322,10 @@
       "actors": []
     },
     {
-      "title": "Russia accuses Telegram founder of aiding terrorism, seeks international arrest",
-      "summary": "Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.",
-      "url": "https://therecord.media/russia-telegram-durov-arrest",
-      "source": "The Record",
-      "published": "2026-07-29T12:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
       "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing.…",
       "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
       "source": "The Hacker News",
-      "published": "2026-07-29T12:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Cyberattack hits Angola’s largest telco hours before landmark stock debut",
-      "summary": "Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.",
-      "url": "https://therecord.media/angola-unitel-cyberattack-outage",
-      "source": "The Record",
       "published": "2026-07-29T12:15:00Z",
       "actors": []
     },
@@ -462,33 +488,20 @@
       "source": "BleepingComputer",
       "published": "2026-07-28T18:08:50Z",
       "actors": []
-    },
-    {
-      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
-      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
-      "source": "Dark Reading",
-      "published": "2026-07-28T16:38:48Z",
-      "actors": []
-    },
-    {
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through…",
-      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "source": "The Hacker News",
-      "published": "2026-07-28T15:01:33Z",
-      "actors": []
-    },
-    {
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have…",
-      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "source": "The Hacker News",
-      "published": "2026-07-28T14:41:36Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
+      "summary": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyongyang-backed hackers and the ransomware ecosystem.",
+      "url": "https://therecord.media/north-korea-hackers-ransomware",
+      "source": "The Record",
+      "published": "2026-07-30T14:00:00Z",
+      "actors": [
+        "Lazarus"
+      ],
+      "kind": "news"
+    },
     {
       "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
       "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
