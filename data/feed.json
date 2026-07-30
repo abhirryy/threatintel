@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T11:18:09Z",
+  "generated_at": "2026-07-30T12:57:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Cyber extortionists steal data from UK Department for Education",
+      "summary": "Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.",
+      "url": "https://therecord.media/united-kingdom-ransomware-education",
+      "source": "The Record",
+      "published": "2026-07-30T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof of concept, the internally generated file triggered the same…",
+      "url": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "source": "The Hacker News",
+      "published": "2026-07-30T11:54:49Z",
+      "actors": []
+    },
+    {
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange…",
+      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "source": "The Hacker News",
+      "published": "2026-07-30T11:32:46Z",
+      "actors": []
+    },
     {
       "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
       "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromised page could…",
@@ -360,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "FTC sues Hims & Hers for allegedly sharing patient information with third-party platforms",
-      "summary": "Popular telehealth provider Hims & Hers \"shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy,\" the federal government alleges.",
-      "url": "https://therecord.media/hims-hers-privacy-lawsuit-ftc",
-      "source": "The Record",
-      "published": "2026-07-29T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "ISC Stormcast For Wednesday, July 29th, 2026 https://isc.sans.edu/podcastdetail/10028, (Wed, Jul 29th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33194",
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
       "source": "The Hacker News",
       "published": "2026-07-28T14:41:36Z",
-      "actors": []
-    },
-    {
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-28T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an…",
-      "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-07-28T13:33:47Z",
       "actors": []
     }
   ],
