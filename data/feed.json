@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T15:17:43Z",
+  "generated_at": "2026-07-30T16:54:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof…",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "published": "2026-07-30T16:49:00Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+      "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T16:46:15Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T15:56:33Z",
+      "actors": []
+    },
+    {
+      "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
+      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+      "source": "Dark Reading",
+      "published": "2026-07-30T15:28:43Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.…",
+      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "source": "The Hacker News",
+      "published": "2026-07-30T15:25:57Z",
+      "actors": []
+    },
     {
       "title": "Analog Devices discloses data breach, says operations unaffected",
       "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
@@ -447,46 +487,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "source": "BleepingComputer",
       "published": "2026-07-28T20:37:06Z",
-      "actors": []
-    },
-    {
-      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
-      "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
-      "url": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
-      "source": "Dark Reading",
-      "published": "2026-07-28T20:27:36Z",
-      "actors": []
-    },
-    {
-      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
-      "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
-      "source": "Dark Reading",
-      "published": "2026-07-28T20:05:32Z",
-      "actors": []
-    },
-    {
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an…",
-      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-      "source": "The Hacker News",
-      "published": "2026-07-28T18:59:07Z",
-      "actors": []
-    },
-    {
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-28T18:41:04Z",
-      "actors": []
-    },
-    {
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "source": "BleepingComputer",
-      "published": "2026-07-28T18:08:50Z",
       "actors": []
     }
   ],
