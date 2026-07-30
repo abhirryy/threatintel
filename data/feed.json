@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:16:23Z",
+  "generated_at": "2026-07-30T00:15:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "source": "BleepingComputer",
+      "published": "2026-07-29T23:44:07Z",
+      "actors": []
+    },
     {
       "title": "Anthropic confirms Claude is down worldwide",
       "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
@@ -429,14 +437,6 @@
       "url": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
       "source": "The Hacker News",
       "published": "2026-07-28T11:55:20Z",
-      "actors": []
-    },
-    {
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "source": "BleepingComputer",
-      "published": "2026-07-28T09:10:03Z",
       "actors": []
     },
     {
