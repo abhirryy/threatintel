@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T16:54:20Z",
+  "generated_at": "2026-07-30T18:14:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+      "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T18:13:24Z",
+      "actors": []
+    },
+    {
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T18:00:51Z",
+      "actors": []
+    },
+    {
+      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+      "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "source": "BleepingComputer",
+      "published": "2026-07-30T17:00:00Z",
+      "actors": []
+    },
     {
       "title": "Read This Before You Buy That TV Streaming Stick",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof…",
@@ -386,14 +410,6 @@
       "actors": []
     },
     {
-      "title": "These near-mint ASUS Chromebook refurbs are only $145",
-      "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-      "source": "BleepingComputer",
-      "published": "2026-07-29T11:12:19Z",
-      "actors": []
-    },
-    {
       "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
       "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed…",
       "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
@@ -466,27 +482,11 @@
       "actors": []
     },
     {
-      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-      "source": "BleepingComputer",
-      "published": "2026-07-28T21:17:39Z",
-      "actors": []
-    },
-    {
       "title": "Thousands of Data Center Controllers Open to Takeover",
       "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
       "url": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
       "source": "Dark Reading",
       "published": "2026-07-28T21:07:55Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "source": "BleepingComputer",
-      "published": "2026-07-28T20:37:06Z",
       "actors": []
     }
   ],
