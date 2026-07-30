@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T09:04:17Z",
+  "generated_at": "2026-07-30T11:18:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromised page could…",
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "source": "The Hacker News",
+      "published": "2026-07-30T10:33:15Z",
+      "actors": []
+    },
+    {
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In this campaign, the…",
+      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "source": "The Hacker News",
+      "published": "2026-07-30T10:32:59Z",
+      "actors": []
+    },
     {
       "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
       "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and…",
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
       "source": "The Hacker News",
       "published": "2026-07-28T13:33:47Z",
-      "actors": []
-    },
-    {
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the…",
-      "url": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-07-28T12:56:14Z",
-      "actors": []
-    },
-    {
-      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-      "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-      "source": "Dark Reading",
-      "published": "2026-07-28T12:30:00Z",
       "actors": []
     }
   ],
