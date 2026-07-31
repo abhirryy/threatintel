@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T21:05:01Z",
+  "generated_at": "2026-07-31T22:14:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Arch Linux disables AUR package adoption to stop malware flood",
+      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T21:38:08Z",
+      "actors": []
+    },
+    {
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T21:09:25Z",
+      "actors": []
+    },
     {
       "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
       "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
@@ -320,14 +336,6 @@
       "actors": []
     },
     {
-      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-      "source": "BleepingComputer",
-      "published": "2026-07-30T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
       "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a…",
       "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
@@ -429,14 +437,6 @@
       "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
       "source": "Dark Reading",
       "published": "2026-07-30T00:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "source": "BleepingComputer",
-      "published": "2026-07-29T23:44:07Z",
       "actors": []
     },
     {
