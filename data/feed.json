@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:12:40Z",
+  "generated_at": "2026-07-31T19:54:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+      "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T18:52:44Z",
+      "actors": []
+    },
+    {
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across…",
+      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "source": "The Hacker News",
+      "published": "2026-07-31T18:52:04Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+      "source": "Dark Reading",
+      "published": "2026-07-31T18:13:11Z",
+      "actors": []
+    },
     {
       "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
       "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
@@ -416,14 +440,6 @@
       "actors": []
     },
     {
-      "title": "Anthropic confirms Claude is down worldwide",
-      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "source": "BleepingComputer",
-      "published": "2026-07-29T21:39:29Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
       "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
       "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
       "source": "Dark Reading",
       "published": "2026-07-29T17:06:52Z",
-      "actors": []
-    },
-    {
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the…",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T15:39:30Z",
-      "actors": []
-    },
-    {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication…",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T15:31:15Z",
       "actors": []
     }
   ],
