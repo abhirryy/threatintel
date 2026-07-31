@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T07:37:37Z",
+  "generated_at": "2026-07-31T10:15:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "zipdump.py: Metadata Encoding, (Fri, Jul 31st)",
+      "summary": "I was asked for help with a problem similar to the following.",
+      "url": "https://isc.sans.edu/diary/rss/33202",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-07-31T09:22:19Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -479,14 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33196",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-29T07:32:37Z",
-      "actors": []
-    },
-    {
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service…",
-      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T07:07:23Z",
       "actors": []
     }
   ],
