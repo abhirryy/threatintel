@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:14:22Z",
+  "generated_at": "2026-07-31T23:17:54Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T22:16:42Z",
+      "actors": []
+    },
     {
       "title": "Arch Linux disables AUR package adoption to stop malware flood",
       "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
@@ -325,14 +333,6 @@
       "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
       "source": "The Hacker News",
       "published": "2026-07-30T15:25:57Z",
-      "actors": []
-    },
-    {
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "source": "BleepingComputer",
-      "published": "2026-07-30T15:12:25Z",
       "actors": []
     },
     {
