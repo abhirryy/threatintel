@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:35:41Z",
+  "generated_at": "2026-07-31T01:11:21Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T00:57:25Z",
+      "actors": []
+    },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
@@ -375,14 +383,6 @@
       "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
       "source": "The Hacker News",
       "published": "2026-07-29T15:31:15Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "source": "BleepingComputer",
-      "published": "2026-07-29T14:55:57Z",
       "actors": []
     },
     {
