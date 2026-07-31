@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-07-31T16:47:45Z",
+  "generated_at": "2026-07-31T18:12:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
+      "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
+      "url": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
+      "source": "The Record",
+      "published": "2026-07-31T17:47:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T17:35:35Z",
+      "actors": []
+    },
+    {
+      "title": "Cyber Command plans Silicon Valley office to drive innovation",
+      "summary": "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
+      "url": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
+      "source": "The Record",
+      "published": "2026-07-31T17:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "source": "BleepingComputer",
+      "published": "2026-07-31T16:49:49Z",
+      "actors": []
+    },
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a…",
+      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "source": "The Hacker News",
+      "published": "2026-07-31T16:39:31Z",
+      "actors": []
+    },
     {
       "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
       "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland…",
@@ -264,29 +304,11 @@
       "actors": []
     },
     {
-      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
-      "summary": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyongyang-backed hackers and the ransomware ecosystem.",
-      "url": "https://therecord.media/north-korea-hackers-ransomware",
-      "source": "The Record",
-      "published": "2026-07-30T14:00:00Z",
-      "actors": [
-        "Lazarus"
-      ]
-    },
-    {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
       "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a…",
       "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
       "source": "The Hacker News",
       "published": "2026-07-30T13:34:09Z",
-      "actors": []
-    },
-    {
-      "title": "North Korean hackers behind major open-source supply chain attacks, Amazon says",
-      "summary": "A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.",
-      "url": "https://therecord.media/north-korea-hackers-amazon-malware",
-      "source": "The Record",
-      "published": "2026-07-30T13:00:00Z",
       "actors": []
     },
     {
@@ -402,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-07-29T21:35:40Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
       "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
       "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
@@ -431,14 +445,6 @@
       "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
       "source": "The Hacker News",
       "published": "2026-07-29T18:10:00Z",
-      "actors": []
-    },
-    {
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "source": "BleepingComputer",
-      "published": "2026-07-29T17:54:05Z",
       "actors": []
     },
     {
@@ -480,28 +486,9 @@
       "source": "The Hacker News",
       "published": "2026-07-29T15:31:15Z",
       "actors": []
-    },
-    {
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
-      "url": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-      "source": "Dark Reading",
-      "published": "2026-07-29T14:40:33Z",
-      "actors": []
     }
   ],
   "threat_actors": [
-    {
-      "title": "North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn",
-      "summary": "Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between Pyongyang-backed hackers and the ransomware ecosystem.",
-      "url": "https://therecord.media/north-korea-hackers-ransomware",
-      "source": "The Record",
-      "published": "2026-07-30T14:00:00Z",
-      "actors": [
-        "Lazarus"
-      ],
-      "kind": "news"
-    },
     {
       "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
       "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
