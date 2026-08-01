@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T16:32:39Z",
+  "generated_at": "2026-08-01T17:38:02Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed…",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-01T17:17:22Z",
+      "actors": []
+    },
     {
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
       "source": "Dark Reading",
       "published": "2026-07-29T19:48:12Z",
-      "actors": []
-    },
-    {
-      "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
-      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-      "source": "Dark Reading",
-      "published": "2026-07-29T19:46:20Z",
       "actors": []
     }
   ],
