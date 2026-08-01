@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:55:01Z",
+  "generated_at": "2026-08-01T10:41:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who…",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "source": "The Hacker News",
+      "published": "2026-08-01T09:03:07Z",
+      "actors": []
+    },
     {
       "title": "Phishing Campaigns Targeting AI Solutions Providers, (Sat, Aug 1st)",
       "summary": "Most phishing campaigns rely on the fact that the victim is afraid to loose \"something\": money, access to information, ... Many brands have been impersonated by campaigns but I spotted some phishing emails that focus on AI services like ChatGPT.",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
       "source": "Dark Reading",
       "published": "2026-07-29T19:46:20Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as…",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T18:10:00Z",
       "actors": []
     }
   ],
