@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T00:09:34Z",
+  "generated_at": "2026-08-02T03:52:49Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33208",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-02T03:21:28Z",
+      "actors": []
+    },
     {
       "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
       "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed…",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
       "source": "Dark Reading",
       "published": "2026-07-30T00:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-      "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
-      "url": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-      "source": "Dark Reading",
-      "published": "2026-07-29T19:48:12Z",
       "actors": []
     }
   ],
