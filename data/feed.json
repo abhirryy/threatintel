@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T15:32:40Z",
+  "generated_at": "2026-08-02T16:31:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 80,
-    "threat_actors": 1,
+    "osint_news": 120,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
@@ -112,6 +112,14 @@
       "actors": []
     },
     {
+      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+      "source": "Dark Reading",
+      "published": "2026-07-31T18:13:11Z",
+      "actors": []
+    },
+    {
       "title": "CISA warns of spike in attacks on water systems as Minnesota incidents probed",
       "summary": "The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible.\"",
       "url": "https://therecord.media/cisa-warns-of-spike-in-water-system-attacks",
@@ -165,6 +173,38 @@
       "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
       "source": "BleepingComputer",
       "published": "2026-07-31T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
+      "summary": "The most valuable move any security team can make is building a certificate and key inventory.",
+      "url": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
+      "source": "Dark Reading",
+      "published": "2026-07-31T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
+      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
+      "source": "Dark Reading",
+      "published": "2026-07-31T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
+      "url": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "source": "Dark Reading",
+      "published": "2026-07-31T13:19:36Z",
+      "actors": []
+    },
+    {
+      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
+      "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories.",
+      "url": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
+      "source": "Dark Reading",
+      "published": "2026-07-31T13:00:00Z",
       "actors": []
     },
     {
@@ -264,6 +304,22 @@
       "actors": []
     },
     {
+      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
+      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
+      "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
+      "source": "Dark Reading",
+      "published": "2026-07-30T21:16:13Z",
+      "actors": []
+    },
+    {
+      "title": "AI Harnesses Burst With Potential Exploit Opps",
+      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+      "url": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
+      "source": "Dark Reading",
+      "published": "2026-07-30T19:40:40Z",
+      "actors": []
+    },
+    {
       "title": "Semiconductor chip titan Analog Devices reports data breach",
       "summary": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.",
       "url": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
@@ -309,6 +365,14 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "source": "Krebs on Security",
       "published": "2026-07-30T16:49:00Z",
+      "actors": []
+    },
+    {
+      "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
+      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+      "source": "Dark Reading",
+      "published": "2026-07-30T15:28:43Z",
       "actors": []
     },
     {
@@ -400,6 +464,14 @@
       "actors": []
     },
     {
+      "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+      "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "url": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+      "source": "Dark Reading",
+      "published": "2026-07-30T01:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Reconnaissance First: An SSH Bot That Sizes Up Your Hardware Before Deploying a Miner [Guest Diary], (Thu, Jul 30th)",
       "summary": "[This is a Guest Diary by Adam Cann, an ISC intern as part of the SANS.edu BACS program]",
       "url": "https://isc.sans.edu/diary/rss/33198",
@@ -408,87 +480,37 @@
       "actors": []
     },
     {
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as…",
-      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T18:10:00Z",
-      "actors": []
-    },
-    {
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the…",
-      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T15:39:30Z",
-      "actors": []
-    },
-    {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication…",
-      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T15:31:15Z",
-      "actors": []
-    },
-    {
-      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
-      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls.…",
-      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T13:48:36Z",
-      "actors": []
-    },
-    {
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites…",
-      "url": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T13:42:57Z",
-      "actors": []
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing.…",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T12:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3…",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T11:57:00Z",
-      "actors": []
-    },
-    {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack. According to The State of Incident Response Readiness 2026, based on a survey of…",
-      "url": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T11:13:10Z",
-      "actors": []
-    },
-    {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed…",
-      "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T11:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS…",
-      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "source": "The Hacker News",
-      "published": "2026-07-29T08:58:27Z",
+      "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+      "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+      "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+      "source": "Dark Reading",
+      "published": "2026-07-30T00:30:00Z",
       "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "source": "Dark Reading",
+      "published": "2026-07-27T20:33:29Z",
+      "actors": [
+        "LockBit"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "Attackers Are Learning to Live Off the AI Toolchain",
+      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+      "url": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+      "source": "Dark Reading",
+      "published": "2026-07-22T21:29:01Z",
+      "actors": [
+        "Sandworm"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
