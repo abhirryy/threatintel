@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:01:37Z",
+  "generated_at": "2026-08-02T22:05:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-08-02T21:14:29Z",
+      "actors": []
+    },
     {
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
@@ -349,14 +357,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
       "source": "BleepingComputer",
       "published": "2026-07-30T18:00:51Z",
-      "actors": []
-    },
-    {
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "source": "BleepingComputer",
-      "published": "2026-07-30T17:00:00Z",
       "actors": []
     },
     {
