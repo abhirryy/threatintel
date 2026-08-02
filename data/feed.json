@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:05:07Z",
+  "generated_at": "2026-08-02T23:07:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "source": "BleepingComputer",
+      "published": "2026-08-02T22:31:41Z",
+      "actors": []
+    },
     {
       "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
       "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
@@ -349,14 +357,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
       "source": "BleepingComputer",
       "published": "2026-07-30T18:13:24Z",
-      "actors": []
-    },
-    {
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "source": "BleepingComputer",
-      "published": "2026-07-30T18:00:51Z",
       "actors": []
     },
     {
