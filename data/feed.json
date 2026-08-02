@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T17:39:05Z",
+  "generated_at": "2026-08-02T18:41:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -113,7 +113,7 @@
     },
     {
       "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
-      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
       "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
       "source": "Dark Reading",
       "published": "2026-07-31T18:13:11Z",
