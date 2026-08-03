@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:09:41Z",
+  "generated_at": "2026-08-03T18:05:30Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
+      "summary": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.",
+      "url": "https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations",
+      "source": "The Record",
+      "published": "2026-08-03T17:36:00Z",
+      "actors": []
+    },
+    {
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-03T17:00:56Z",
+      "actors": []
+    },
+    {
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key,…",
+      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "source": "The Hacker News",
+      "published": "2026-08-03T16:24:47Z",
+      "actors": []
+    },
+    {
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the…",
+      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "source": "The Hacker News",
+      "published": "2026-08-03T16:15:13Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+      "summary": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+      "source": "Dark Reading",
+      "published": "2026-08-03T15:42:18Z",
+      "actors": []
+    },
     {
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
@@ -65,7 +105,7 @@
     },
     {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web…",
+      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake…",
       "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
       "source": "The Hacker News",
       "published": "2026-08-03T10:49:06Z",
@@ -336,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "Anthropic says its AI hacked real-world companies in three incidents",
-      "summary": "Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet.",
-      "url": "https://therecord.media/anthropic-ai-hacked-three-real-companies",
-      "source": "The Record",
-      "published": "2026-07-31T12:15:00Z",
-      "actors": []
-    },
-    {
       "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
       "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The findings have been…",
       "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
@@ -400,14 +432,6 @@
       "actors": []
     },
     {
-      "title": "South Korea fines telco giant KT $39 million for customer data breach",
-      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-07-30T22:28:30Z",
-      "actors": []
-    },
-    {
       "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
       "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
       "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
@@ -461,30 +485,6 @@
       "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
       "source": "The Hacker News",
       "published": "2026-07-30T13:34:09Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
-      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof of concept, the internally generated file triggered the same…",
-      "url": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
-      "source": "The Hacker News",
-      "published": "2026-07-30T11:54:49Z",
-      "actors": []
-    },
-    {
-      "title": "The Network Has Become the Control Plane for AI Security",
-      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange…",
-      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
-      "source": "The Hacker News",
-      "published": "2026-07-30T11:32:46Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
-      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromised page could…",
-      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
-      "source": "The Hacker News",
-      "published": "2026-07-30T10:33:15Z",
       "actors": []
     }
   ],
