@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:56:25Z",
+  "generated_at": "2026-08-03T13:44:06Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Biotech giant Amgen says patient data stolen from third-party cloud systems",
+      "summary": "The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.",
+      "url": "https://therecord.media/amgen-hackers-cyberattack-sec",
+      "source": "The Record",
+      "published": "2026-08-03T12:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says",
+      "summary": "Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.",
+      "url": "https://therecord.media/russian-wifi-hackers-hotels",
+      "source": "The Record",
+      "published": "2026-08-03T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the…",
+      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "source": "The Hacker News",
+      "published": "2026-08-03T11:30:00Z",
+      "actors": []
+    },
     {
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web…",
@@ -328,14 +352,6 @@
       "actors": []
     },
     {
-      "title": "Finland to disconnect fiber-optic link to Russia as lease expires",
-      "summary": "Finland stopped power transmissions with Russia at the start of the war in Ukraine, and two related telecom connections will stop at the end of this year, authorities said.",
-      "url": "https://therecord.media/finland-russia-fiber-optic-disconnection",
-      "source": "The Record",
-      "published": "2026-07-31T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "ISC Stormcast For Friday, July 31st, 2026 https://isc.sans.edu/podcastdetail/10032, (Fri, Jul 31st)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33204",
@@ -381,14 +397,6 @@
       "url": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
       "source": "Dark Reading",
       "published": "2026-07-30T19:40:40Z",
-      "actors": []
-    },
-    {
-      "title": "Semiconductor chip titan Analog Devices reports data breach",
-      "summary": "In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.",
-      "url": "https://therecord.media/analog-devices-semiconductor-company-data-breach",
-      "source": "The Record",
-      "published": "2026-07-30T19:10:00Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
       "source": "The Hacker News",
       "published": "2026-07-30T07:40:48Z",
-      "actors": []
-    },
-    {
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be…",
-      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "source": "The Hacker News",
-      "published": "2026-07-30T07:28:43Z",
       "actors": []
     }
   ],
