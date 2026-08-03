@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:53:44Z",
+  "generated_at": "2026-08-03T21:00:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New Tool Traces AI Videos Back to Their Source",
+      "summary": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
+      "url": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+      "source": "Dark Reading",
+      "published": "2026-08-03T20:42:28Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues",
+      "summary": "Last month's incidents in which Claude breached real-world systems derived from over-permissioning, especially with Internet access.",
+      "url": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+      "source": "Dark Reading",
+      "published": "2026-08-03T20:31:12Z",
+      "actors": []
+    },
+    {
+      "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
+      "summary": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.",
+      "url": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
+      "source": "The Record",
+      "published": "2026-08-03T20:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "source": "BleepingComputer",
+      "published": "2026-08-03T20:01:22Z",
+      "actors": []
+    },
     {
       "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
       "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
@@ -312,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "Cyber Command plans Silicon Valley office to drive innovation",
-      "summary": "The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).",
-      "url": "https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation",
-      "source": "The Record",
-      "published": "2026-07-31T17:35:00Z",
-      "actors": []
-    },
-    {
       "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
@@ -341,14 +365,6 @@
       "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
       "source": "The Hacker News",
       "published": "2026-07-31T14:45:01Z",
-      "actors": []
-    },
-    {
-      "title": "ESET tracks rise in malicious AI skills and adaptable malware",
-      "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-07-31T14:01:11Z",
       "actors": []
     },
     {
@@ -469,22 +485,6 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "source": "Krebs on Security",
       "published": "2026-07-30T16:49:00Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
-      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
-      "source": "Dark Reading",
-      "published": "2026-07-30T15:28:43Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder.…",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "source": "The Hacker News",
-      "published": "2026-07-30T15:25:57Z",
       "actors": []
     }
   ],
