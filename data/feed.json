@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T00:11:28Z",
+  "generated_at": "2026-08-03T03:56:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33210",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-03T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33198",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-30T00:42:29Z",
-      "actors": []
-    },
-    {
-      "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
-      "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
-      "url": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
-      "source": "Dark Reading",
-      "published": "2026-07-30T00:30:00Z",
       "actors": []
     }
   ],
