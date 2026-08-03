@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T22:14:25Z",
+  "generated_at": "2026-08-03T23:30:02Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -24,8 +24,8 @@
       "actors": []
     },
     {
-      "title": "Anthropic: AI Attacks Result of Security Gaps, Not Model Issues",
-      "summary": "Last month's incidents in which Claude breached real-world systems derived from over-permissioning, especially with Internet access.",
+      "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
+      "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
       "url": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
       "source": "Dark Reading",
       "published": "2026-08-03T20:31:12Z",
