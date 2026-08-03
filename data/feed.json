@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:05:30Z",
+  "generated_at": "2026-08-03T19:53:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-08-03T19:25:10Z",
+      "actors": []
+    },
+    {
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is…",
+      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "source": "The Hacker News",
+      "published": "2026-08-03T18:43:53Z",
+      "actors": []
+    },
     {
       "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
       "summary": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.",
@@ -424,14 +440,6 @@
       "actors": []
     },
     {
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "source": "BleepingComputer",
-      "published": "2026-07-31T00:57:25Z",
-      "actors": []
-    },
-    {
       "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
       "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
       "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
@@ -478,14 +486,6 @@
       "source": "The Hacker News",
       "published": "2026-07-30T15:25:57Z",
       "actors": []
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a…",
-      "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "source": "The Hacker News",
-      "published": "2026-07-30T13:34:09Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -513,6 +513,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-18577",
+      "title": "CVE-2026-18577 - N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.",
+      "vendor": "N-able",
+      "product": "N-central",
+      "date_added": "2026-08-03",
+      "due_date": "2026-08-06",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18577",
+      "source": "CISA KEV",
+      "published": "2026-08-03T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-20316",
       "title": "CVE-2026-20316 - Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability",
@@ -745,7 +759,7 @@
       "product": "SMA1000 Appliances",
       "date_added": "2026-07-14",
       "due_date": "2026-07-17",
-      "ransomware": "Unknown",
+      "ransomware": "Known",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-15409",
       "source": "CISA KEV",
       "published": "2026-07-14T00:00:00Z",
@@ -759,7 +773,7 @@
       "product": "SMA1000 Appliances",
       "date_added": "2026-07-14",
       "due_date": "2026-07-17",
-      "ransomware": "Unknown",
+      "ransomware": "Known",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-15410",
       "source": "CISA KEV",
       "published": "2026-07-14T00:00:00Z",
@@ -1335,20 +1349,6 @@
       "due_date": "2026-06-03",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2009-1537",
-      "source": "CISA KEV",
-      "published": "2026-05-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2009-3459",
-      "title": "CVE-2009-3459 - Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability",
-      "summary": "Adobe Acrobat and Reader contain a heap-based buffer overflow vulnerability which could allow remote attackers to execute arbitrary code via a crafted PDF file that triggers memory corruption.",
-      "vendor": "Adobe",
-      "product": "Acrobat and Reader",
-      "date_added": "2026-05-20",
-      "due_date": "2026-06-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2009-3459",
       "source": "CISA KEV",
       "published": "2026-05-20T00:00:00Z",
       "actors": []
