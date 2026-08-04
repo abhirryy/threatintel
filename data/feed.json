@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T14:39:49Z",
+  "generated_at": "2026-08-04T16:31:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Britain’s next war won’t be an away game: Q&A with former head of Defence Intelligence",
+      "summary": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.",
+      "url": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
+      "source": "The Record",
+      "published": "2026-08-04T16:19:00Z",
+      "actors": []
+    },
+    {
+      "title": "Polish convenience store chain Żabka hacked through third-party account",
+      "summary": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
+      "url": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
+      "source": "The Record",
+      "published": "2026-08-04T15:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "source": "BleepingComputer",
+      "published": "2026-08-04T15:24:35Z",
+      "actors": []
+    },
     {
       "title": "Russian businesses erase Durov-linked products after 'terrorist' designation",
       "summary": "The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency accused Telegram of failing to remove channels and bots allegedly used by Ukrainian intelligence,…",
@@ -171,14 +195,6 @@
       "actors": []
     },
     {
-      "title": "Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen",
-      "summary": "The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.",
-      "url": "https://therecord.media/bitcoin-theft-coldcard-cyberattack",
-      "source": "The Record",
-      "published": "2026-08-03T20:15:00Z",
-      "actors": []
-    },
-    {
       "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
       "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
@@ -200,14 +216,6 @@
       "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
       "source": "The Hacker News",
       "published": "2026-08-03T18:43:53Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations",
-      "summary": "A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.",
-      "url": "https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations",
-      "source": "The Record",
-      "published": "2026-08-03T17:36:00Z",
       "actors": []
     },
     {
@@ -424,14 +432,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
       "source": "BleepingComputer",
       "published": "2026-07-31T21:38:08Z",
-      "actors": []
-    },
-    {
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "source": "BleepingComputer",
-      "published": "2026-07-31T21:09:25Z",
       "actors": []
     },
     {
