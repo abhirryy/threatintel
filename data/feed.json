@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:24:55Z",
+  "generated_at": "2026-08-04T07:13:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
+      "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
+      "source": "Dark Reading",
+      "published": "2026-08-04T07:00:00Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -480,14 +488,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
       "source": "Dark Reading",
       "published": "2026-07-30T21:16:13Z",
-      "actors": []
-    },
-    {
-      "title": "AI Harnesses Burst With Potential Exploit Opps",
-      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-      "url": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-      "source": "Dark Reading",
-      "published": "2026-07-30T19:40:40Z",
       "actors": []
     }
   ],
