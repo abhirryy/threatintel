@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T07:13:50Z",
+  "generated_at": "2026-08-04T10:01:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case…",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "source": "The Hacker News",
+      "published": "2026-08-04T07:00:13Z",
+      "actors": []
+    },
     {
       "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
       "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
@@ -480,14 +488,6 @@
       "url": "https://isc.sans.edu/diary/rss/33204",
       "source": "SANS Internet Storm Center",
       "published": "2026-07-31T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
-      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
-      "url": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
-      "source": "Dark Reading",
-      "published": "2026-07-30T21:16:13Z",
       "actors": []
     }
   ],
