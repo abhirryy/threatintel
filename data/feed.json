@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T18:14:57Z",
+  "generated_at": "2026-08-04T20:02:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "source": "BleepingComputer",
+      "published": "2026-08-04T19:03:09Z",
+      "actors": []
+    },
+    {
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "source": "BleepingComputer",
+      "published": "2026-08-04T18:50:55Z",
+      "actors": []
+    },
+    {
+      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
+      "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
+      "source": "Dark Reading",
+      "published": "2026-08-04T18:37:35Z",
+      "actors": []
+    },
     {
       "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
       "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user…",
@@ -427,22 +451,6 @@
       "actors": []
     },
     {
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "source": "BleepingComputer",
-      "published": "2026-07-31T22:16:42Z",
-      "actors": []
-    },
-    {
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "source": "BleepingComputer",
-      "published": "2026-07-31T21:38:08Z",
-      "actors": []
-    },
-    {
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across…",
       "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
@@ -480,14 +488,6 @@
       "url": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
       "source": "Dark Reading",
       "published": "2026-07-31T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
-      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
-      "source": "Dark Reading",
-      "published": "2026-07-31T13:30:00Z",
       "actors": []
     }
   ],
