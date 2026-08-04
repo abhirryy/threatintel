@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T20:02:08Z",
+  "generated_at": "2026-08-04T21:22:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 115,
     "threat_actors": 3,
     "attack_surface": 60
   },
@@ -40,35 +40,11 @@
       "actors": []
     },
     {
-      "title": "Britain’s next war won’t be an away game: Q&A with former head of Defence Intelligence",
-      "summary": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.",
-      "url": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
-      "source": "The Record",
-      "published": "2026-08-04T16:19:00Z",
-      "actors": []
-    },
-    {
-      "title": "Polish convenience store chain Żabka hacked through third-party account",
-      "summary": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
-      "url": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
-      "source": "The Record",
-      "published": "2026-08-04T15:55:00Z",
-      "actors": []
-    },
-    {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "source": "BleepingComputer",
       "published": "2026-08-04T15:24:35Z",
-      "actors": []
-    },
-    {
-      "title": "Russian businesses erase Durov-linked products after 'terrorist' designation",
-      "summary": "The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency accused Telegram of failing to remove channels and bots allegedly used by Ukrainian intelligence,…",
-      "url": "https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation",
-      "source": "The Record",
-      "published": "2026-08-04T14:11:00Z",
       "actors": []
     },
     {
@@ -104,27 +80,11 @@
       "actors": []
     },
     {
-      "title": "Apple launches new legal challenge against UK over iCloud access",
-      "summary": "Seeking to protect users' iCloud accounts, Apple is reportedly mounting a new challenge to British legal demands for ways around the company's Advanced Data Protection feature.",
-      "url": "https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge",
-      "source": "The Record",
-      "published": "2026-08-04T13:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
       "summary": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&#;x26;#;39;t noticed before. All of these URLs appear to be associated with diagnostic tools:",
       "url": "https://isc.sans.edu/diary/rss/33214",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-04T12:46:19Z",
-      "actors": []
-    },
-    {
-      "title": "Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected",
-      "summary": "The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.",
-      "url": "https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities",
-      "source": "The Record",
-      "published": "2026-08-04T12:45:00Z",
       "actors": []
     },
     {
@@ -488,6 +448,46 @@
       "url": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
       "source": "Dark Reading",
       "published": "2026-07-31T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
+      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
+      "source": "Dark Reading",
+      "published": "2026-07-31T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
+      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
+      "url": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
+      "source": "Dark Reading",
+      "published": "2026-07-31T13:19:36Z",
+      "actors": []
+    },
+    {
+      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
+      "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories.",
+      "url": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
+      "source": "Dark Reading",
+      "published": "2026-07-31T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
+      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant…",
+      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "source": "The Hacker News",
+      "published": "2026-07-31T12:51:52Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
+      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The findings have been…",
+      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+      "source": "The Hacker News",
+      "published": "2026-07-31T11:55:00Z",
       "actors": []
     }
   ],
