@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:31:43Z",
+  "generated_at": "2026-08-04T18:14:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user…",
+      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "source": "The Hacker News",
+      "published": "2026-08-04T17:27:39Z",
+      "actors": []
+    },
     {
       "title": "Britain’s next war won’t be an away game: Q&A with former head of Defence Intelligence",
       "summary": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.",
@@ -481,14 +489,6 @@
       "source": "Dark Reading",
       "published": "2026-07-31T13:30:00Z",
       "actors": []
-    },
-    {
-      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
-      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
-      "url": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
-      "source": "Dark Reading",
-      "published": "2026-07-31T13:19:36Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -528,6 +528,48 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-18556",
+      "title": "CVE-2026-18556 - N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.",
+      "vendor": "N-able",
+      "product": "N-central",
+      "date_added": "2026-08-04",
+      "due_date": "2026-08-07",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18556",
+      "source": "CISA KEV",
+      "published": "2026-08-04T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-34486",
+      "title": "CVE-2026-34486 - Apache Tomcat Missing Encryption of Sensitive Data Vulnerability",
+      "summary": "Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor.",
+      "vendor": "Apache",
+      "product": "Tomcat",
+      "date_added": "2026-08-04",
+      "due_date": "2026-08-07",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34486",
+      "source": "CISA KEV",
+      "published": "2026-08-04T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-9198",
+      "title": "CVE-2026-9198 - IBM Langflow Code Injection Vulnerability",
+      "summary": "Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.",
+      "vendor": "IBM",
+      "product": "Langflow",
+      "date_added": "2026-08-04",
+      "due_date": "2026-08-07",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9198",
+      "source": "CISA KEV",
+      "published": "2026-08-04T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-18577",
       "title": "CVE-2026-18577 - N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
@@ -1324,48 +1366,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-34291",
       "source": "CISA KEV",
       "published": "2026-05-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-34926",
-      "title": "CVE-2026-34926 - Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability",
-      "summary": "Trend Micro Apex One (on-premise) contains a directory traversal vulnerability that could allow a pre-authenticated local attacker to modify a key table on the server to inject malicious code to deploy to agents on affected installations.",
-      "vendor": "Trend Micro",
-      "product": "Apex One",
-      "date_added": "2026-05-21",
-      "due_date": "2026-06-04",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34926",
-      "source": "CISA KEV",
-      "published": "2026-05-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2008-4250",
-      "title": "CVE-2008-4250 - Microsoft Windows Buffer Overflow Vulnerability",
-      "summary": "Microsoft Windows contains a buffer overflow vulnerability in the Windows Server Service that allows remote attackers to execute arbitrary code via a crafted RPC request that triggers an overflow during path canonicalization.",
-      "vendor": "Microsoft",
-      "product": "Windows",
-      "date_added": "2026-05-20",
-      "due_date": "2026-06-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2008-4250",
-      "source": "CISA KEV",
-      "published": "2026-05-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2009-1537",
-      "title": "CVE-2009-1537 - Microsoft DirectX NULL Byte Overwrite Vulnerability",
-      "summary": "Microsoft DirectX contains a NULL byte overwrite vulnerability in the QuickTime Movie Parser Filter in quartz.dll in DirectShow which could allow remote attackers to execute arbitrary code via a crafted QuickTime media file.",
-      "vendor": "Microsoft",
-      "product": "DirectX",
-      "date_added": "2026-05-20",
-      "due_date": "2026-06-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2009-1537",
-      "source": "CISA KEV",
-      "published": "2026-05-20T00:00:00Z",
       "actors": []
     }
   ]
