@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:08:23Z",
+  "generated_at": "2026-08-05T14:31:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "How AI-powered phishing killed blocklists for good",
+      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "source": "BleepingComputer",
+      "published": "2026-08-05T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
+      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
+      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
+      "source": "The Record",
+      "published": "2026-08-05T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
+      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
+      "url": "https://therecord.media/anthropic-ai-hacking-uk",
+      "source": "The Record",
+      "published": "2026-08-05T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and…",
+      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T11:43:27Z",
+      "actors": []
+    },
+    {
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and…",
+      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T11:43:19Z",
+      "actors": []
+    },
     {
       "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
       "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read flaw is tracked as…",
@@ -160,14 +200,6 @@
       "actors": []
     },
     {
-      "title": "Russian businesses erase Durov-linked products after 'terrorist' designation",
-      "summary": "The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency accused Telegram of failing to remove channels and bots allegedly used by Ukrainian intelligence,…",
-      "url": "https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation",
-      "source": "The Record",
-      "published": "2026-08-04T14:11:00Z",
-      "actors": []
-    },
-    {
       "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
       "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
@@ -196,14 +228,6 @@
       "summary": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
       "url": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
       "source": "Dark Reading",
-      "published": "2026-08-04T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Apple launches new legal challenge against UK over iCloud access",
-      "summary": "Seeking to protect users' iCloud accounts, Apple is reportedly mounting a new challenge to British legal demands for ways around the company's Advanced Data Protection feature.",
-      "url": "https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge",
-      "source": "The Record",
       "published": "2026-08-04T13:00:00Z",
       "actors": []
     },
@@ -459,35 +483,11 @@
       "actors": []
     },
     {
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "source": "BleepingComputer",
-      "published": "2026-08-02T22:31:41Z",
-      "actors": []
-    },
-    {
       "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
       "summary": "Introduction",
       "url": "https://isc.sans.edu/diary/rss/33208",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-02T04:05:08Z",
-      "actors": []
-    },
-    {
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed…",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "source": "The Hacker News",
-      "published": "2026-08-01T17:17:22Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who…",
-      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "source": "The Hacker News",
-      "published": "2026-08-01T09:03:07Z",
       "actors": []
     }
   ],
