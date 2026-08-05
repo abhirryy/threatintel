@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-08-05T19:47:28Z",
+  "generated_at": "2026-08-05T20:49:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+      "url": "https://therecord.media/chinese-hackers-telecoms-house",
+      "source": "The Record",
+      "published": "2026-08-05T20:45:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ]
+    },
+    {
+      "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
+      "summary": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.",
+      "url": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
+      "source": "The Record",
+      "published": "2026-08-05T20:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "source": "BleepingComputer",
+      "published": "2026-08-05T19:55:25Z",
+      "actors": []
+    },
+    {
+      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
+      "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+      "source": "Dark Reading",
+      "published": "2026-08-05T19:47:55Z",
+      "actors": []
+    },
     {
       "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
       "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
@@ -240,14 +274,6 @@
       "actors": []
     },
     {
-      "title": "OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud",
-      "summary": "A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers.",
-      "url": "https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption",
-      "source": "The Record",
-      "published": "2026-08-04T20:15:00Z",
-      "actors": []
-    },
-    {
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
@@ -277,14 +303,6 @@
       "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
       "source": "The Hacker News",
       "published": "2026-08-04T17:27:39Z",
-      "actors": []
-    },
-    {
-      "title": "Britain’s next war won’t be an away game: Q&A with former head of Defence Intelligence",
-      "summary": "As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.",
-      "url": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
-      "source": "The Record",
-      "published": "2026-08-04T16:19:00Z",
       "actors": []
     },
     {
@@ -443,14 +461,6 @@
       "actors": []
     },
     {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-08-03T19:25:10Z",
-      "actors": []
-    },
-    {
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
       "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is…",
       "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
@@ -481,17 +491,20 @@
       "source": "Dark Reading",
       "published": "2026-08-03T15:42:18Z",
       "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed…",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "source": "The Hacker News",
-      "published": "2026-08-03T14:03:11Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+      "url": "https://therecord.media/chinese-hackers-telecoms-house",
+      "source": "The Record",
+      "published": "2026-08-05T20:45:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
       "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
