@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:57:52Z",
+  "generated_at": "2026-08-05T19:47:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,43 @@
   },
   "osint_news": [
     {
+      "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
+      "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
+      "url": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
+      "source": "Dark Reading",
+      "published": "2026-08-05T19:08:36Z",
+      "actors": []
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes…",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T18:44:31Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from…",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T18:33:47Z",
+      "actors": []
+    },
+    {
+      "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
+      "summary": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
+      "source": "Dark Reading",
+      "published": "2026-08-05T18:03:31Z",
+      "actors": []
+    },
+    {
       "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
       "summary": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every supply-chain incident I have worked. In the keyv / cacheable compromise that has been unfolding since…",
       "url": "https://isc.sans.edu/diary/rss/33218",
       "source": "SANS Internet Storm Center",
-      "published": "2026-08-05T17:53:03Z",
+      "published": "2026-08-05T17:56:15Z",
       "actors": []
     },
     {
@@ -456,38 +488,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "source": "The Hacker News",
       "published": "2026-08-03T14:03:11Z",
-      "actors": []
-    },
-    {
-      "title": "Is There Really a Fix for CISO Fatigue?",
-      "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
-      "source": "Dark Reading",
-      "published": "2026-08-03T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the…",
-      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "source": "The Hacker News",
-      "published": "2026-08-03T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake…",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "source": "The Hacker News",
-      "published": "2026-08-03T10:49:06Z",
-      "actors": []
-    },
-    {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners…",
-      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "source": "The Hacker News",
-      "published": "2026-08-03T09:13:56Z",
       "actors": []
     }
   ],
