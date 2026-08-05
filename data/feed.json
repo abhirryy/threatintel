@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-08-05T10:01:01Z",
+  "generated_at": "2026-08-05T12:08:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
+    "osint_news": 120,
     "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read flaw is tracked as…",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T11:04:23Z",
+      "actors": []
+    },
+    {
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n API tokens and…",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T10:35:29Z",
+      "actors": []
+    },
+    {
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026,…",
+      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T09:23:03Z",
+      "actors": []
+    },
     {
       "title": "Angola's Largest Telco Breached Hours Before IPO",
       "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
@@ -37,6 +61,14 @@
       "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
       "source": "The Hacker News",
       "published": "2026-08-05T05:47:19Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33216",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-05T02:00:02Z",
       "actors": []
     },
     {
@@ -176,6 +208,14 @@
       "actors": []
     },
     {
+      "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
+      "summary": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&#;x26;#;39;t noticed before. All of these URLs appear to be associated with diagnostic tools:",
+      "url": "https://isc.sans.edu/diary/rss/33214",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-04T12:46:19Z",
+      "actors": []
+    },
+    {
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
       "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced…",
       "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
@@ -221,6 +261,14 @@
       "url": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
       "source": "Dark Reading",
       "published": "2026-08-04T07:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, August 4th, 2026 https://isc.sans.edu/podcastdetail/10036, (Tue, Aug 4th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33212",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-04T02:00:03Z",
       "actors": []
     },
     {
@@ -403,11 +451,27 @@
       "actors": []
     },
     {
+      "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33210",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-03T02:00:02Z",
+      "actors": []
+    },
+    {
       "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
       "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "source": "BleepingComputer",
       "published": "2026-08-02T22:31:41Z",
+      "actors": []
+    },
+    {
+      "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33208",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-02T04:05:08Z",
       "actors": []
     },
     {
@@ -424,70 +488,6 @@
       "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
       "source": "The Hacker News",
       "published": "2026-08-01T09:03:07Z",
-      "actors": []
-    },
-    {
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It…",
-      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-08-01T07:12:42Z",
-      "actors": []
-    },
-    {
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses…",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "source": "The Hacker News",
-      "published": "2026-08-01T06:29:05Z",
-      "actors": []
-    },
-    {
-      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
-      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across…",
-      "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
-      "source": "The Hacker News",
-      "published": "2026-07-31T18:52:04Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
-      "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
-      "source": "Dark Reading",
-      "published": "2026-07-31T18:13:11Z",
-      "actors": []
-    },
-    {
-      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a…",
-      "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-      "source": "The Hacker News",
-      "published": "2026-07-31T16:39:31Z",
-      "actors": []
-    },
-    {
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland…",
-      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "source": "The Hacker News",
-      "published": "2026-07-31T14:45:01Z",
-      "actors": []
-    },
-    {
-      "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
-      "summary": "The most valuable move any security team can make is building a certificate and key inventory.",
-      "url": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
-      "source": "Dark Reading",
-      "published": "2026-07-31T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
-      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
-      "source": "Dark Reading",
-      "published": "2026-07-31T13:30:00Z",
       "actors": []
     }
   ],
