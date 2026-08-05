@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T22:01:50Z",
+  "generated_at": "2026-08-05T23:14:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "source": "BleepingComputer",
+      "published": "2026-08-05T23:00:50Z",
+      "actors": []
+    },
     {
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
       "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
@@ -435,14 +443,6 @@
         "APT29",
         "Midnight Blizzard"
       ]
-    },
-    {
-      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
-      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
-      "source": "BleepingComputer",
-      "published": "2026-08-03T23:58:01Z",
-      "actors": []
     },
     {
       "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
