@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T14:31:43Z",
+  "generated_at": "2026-08-05T16:18:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+      "source": "BleepingComputer",
+      "published": "2026-08-05T15:51:33Z",
+      "actors": []
+    },
+    {
+      "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
+      "summary": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
+      "url": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
+      "source": "The Record",
+      "published": "2026-08-05T15:36:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google Blogger locks hundreds of blogs in malware false positive",
+      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+      "source": "BleepingComputer",
+      "published": "2026-08-05T14:59:29Z",
+      "actors": []
+    },
+    {
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's…",
+      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T14:27:30Z",
+      "actors": []
+    },
     {
       "title": "How AI-powered phishing killed blocklists for good",
       "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
@@ -21,6 +53,14 @@
       "url": "https://therecord.media/iran-cyberattacks-water-treatment",
       "source": "The Record",
       "published": "2026-08-05T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm package…",
+      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "source": "The Hacker News",
+      "published": "2026-08-05T13:41:27Z",
       "actors": []
     },
     {
@@ -181,14 +221,6 @@
       "url": "https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine",
       "source": "The Record",
       "published": "2026-08-04T16:19:00Z",
-      "actors": []
-    },
-    {
-      "title": "Polish convenience store chain Żabka hacked through third-party account",
-      "summary": "Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.",
-      "url": "https://therecord.media/poland-convenience-store-chain-zabka-cyberattack",
-      "source": "The Record",
-      "published": "2026-08-04T15:55:00Z",
       "actors": []
     },
     {
@@ -395,22 +427,6 @@
       "actors": []
     },
     {
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "source": "BleepingComputer",
-      "published": "2026-08-03T15:04:39Z",
-      "actors": []
-    },
-    {
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "source": "BleepingComputer",
-      "published": "2026-08-03T14:45:55Z",
-      "actors": []
-    },
-    {
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed…",
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
@@ -472,22 +488,6 @@
       "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
       "source": "The Hacker News",
       "published": "2026-08-03T06:40:31Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 3rd, 2026 https://isc.sans.edu/podcastdetail/10034, (Mon, Aug 3rd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33210",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-03T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Atomic MacOS (AMOS) stealer infection, (Sun, Aug 2nd)",
-      "summary": "Introduction",
-      "url": "https://isc.sans.edu/diary/rss/33208",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-02T04:05:08Z",
       "actors": []
     }
   ],
