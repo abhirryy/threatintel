@@ -1,18 +1,42 @@
 {
-  "generated_at": "2026-08-05T23:14:14Z",
+  "generated_at": "2026-08-06T00:12:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+      "source": "Dark Reading",
+      "published": "2026-08-05T23:35:28Z",
+      "actors": []
+    },
+    {
+      "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+      "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
+      "url": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+      "source": "Dark Reading",
+      "published": "2026-08-05T23:30:00Z",
+      "actors": []
+    },
     {
       "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
       "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
       "source": "BleepingComputer",
       "published": "2026-08-05T23:00:50Z",
+      "actors": []
+    },
+    {
+      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
+      "url": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+      "source": "Dark Reading",
+      "published": "2026-08-05T22:18:25Z",
       "actors": []
     },
     {
@@ -87,14 +111,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
       "source": "Dark Reading",
       "published": "2026-08-05T18:03:31Z",
-      "actors": []
-    },
-    {
-      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-      "source": "Dark Reading",
-      "published": "2026-08-05T17:57:15Z",
       "actors": []
     },
     {
@@ -475,22 +491,6 @@
       "source": "The Hacker News",
       "published": "2026-08-03T18:43:53Z",
       "actors": []
-    },
-    {
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key,…",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "source": "The Hacker News",
-      "published": "2026-08-03T16:24:47Z",
-      "actors": []
-    },
-    {
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the…",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "source": "The Hacker News",
-      "published": "2026-08-03T16:15:13Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -514,17 +514,6 @@
       "actors": [
         "APT29",
         "Midnight Blizzard"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
-      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-      "source": "Dark Reading",
-      "published": "2026-07-27T20:33:29Z",
-      "actors": [
-        "LockBit"
       ],
       "kind": "news"
     },
