@@ -1,12 +1,44 @@
 {
-  "generated_at": "2026-08-06T13:16:46Z",
+  "generated_at": "2026-08-06T15:33:52Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
+      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and…",
+      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+      "source": "The Hacker News",
+      "published": "2026-08-06T15:24:31Z",
+      "actors": []
+    },
+    {
+      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
+      "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T14:02:12Z",
+      "actors": []
+    },
+    {
+      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
+      "summary": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
+      "url": "https://therecord.media/belarus-hacker-ransomware-sentenced",
+      "source": "The Record",
+      "published": "2026-08-06T13:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
+      "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but…",
+      "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
+      "source": "The Hacker News",
+      "published": "2026-08-06T12:16:58Z",
+      "actors": []
+    },
     {
       "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
       "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis…",
@@ -290,14 +322,6 @@
       "actors": []
     },
     {
-      "title": "Anthropic AI agent faked identities, phished real developers in UK government hacking test",
-      "summary": "An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to Britain’s AI Security Institute.",
-      "url": "https://therecord.media/anthropic-ai-hacking-uk",
-      "source": "The Record",
-      "published": "2026-08-05T13:00:00Z",
-      "actors": []
-    },
-    {
       "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
       "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and…",
       "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
@@ -464,30 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-08-04T13:11:22Z",
       "actors": []
-    },
-    {
-      "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
-      "summary": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
-      "url": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
-      "source": "Dark Reading",
-      "published": "2026-08-04T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Botnet Hunting for Vulnerabilities in Diagnostic Tools, (Tue, Aug 4th)",
-      "summary": "This morning, I noticed specific sources \"hunting\" for vulnerabilities in URLs that I haven&#;x26;#;39;t noticed before. All of these URLs appear to be associated with diagnostic tools:",
-      "url": "https://isc.sans.edu/diary/rss/33214",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-04T12:46:19Z",
-      "actors": []
-    },
-    {
-      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
-      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced…",
-      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
-      "source": "The Hacker News",
-      "published": "2026-08-04T11:30:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -499,18 +499,6 @@
       "published": "2026-08-05T20:45:00Z",
       "actors": [
         "Salt Typhoon"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T00:17:15Z",
-      "actors": [
-        "APT29",
-        "Midnight Blizzard"
       ],
       "kind": "news"
     },
