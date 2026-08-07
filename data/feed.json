@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T13:17:45Z",
+  "generated_at": "2026-08-07T14:28:42Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "source": "BleepingComputer",
+      "published": "2026-08-07T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Levi Strauss says hackers breached employee computers, accessed corporate data",
+      "summary": "Intruders exfiltrated certain corporate information after gaining access to three company-issued computers through a social engineering attack, Levi Strauss reported.",
+      "url": "https://therecord.media/levis-data-breach-social-engineering",
+      "source": "The Record",
+      "published": "2026-08-07T13:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "source": "BleepingComputer",
+      "published": "2026-08-07T13:34:40Z",
+      "actors": []
+    },
+    {
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. Under additional conditions, the bug can be chained into PHP code execution on the server. Tracked as CVE-2026-64638 (CVSS score: 8.9), the High-severity…",
+      "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T12:56:23Z",
+      "actors": []
+    },
     {
       "title": "French rugby club Stade Français restores systems after cyberattack, probes data leak",
       "summary": "The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain fully operational.",
@@ -320,14 +352,6 @@
       "actors": []
     },
     {
-      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
-      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
-      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
-      "source": "The Record",
-      "published": "2026-08-06T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33222",
@@ -461,30 +485,6 @@
       "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
       "source": "The Hacker News",
       "published": "2026-08-05T15:36:03Z",
-      "actors": []
-    },
-    {
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data…",
-      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T15:14:05Z",
-      "actors": []
-    },
-    {
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T14:59:29Z",
-      "actors": []
-    },
-    {
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's…",
-      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T14:27:30Z",
       "actors": []
     }
   ],
