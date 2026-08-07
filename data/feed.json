@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-07T10:12:12Z",
+  "generated_at": "2026-08-07T11:08:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
-    "threat_actors": 1,
+    "osint_news": 120,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"The campaign uses…",
+      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T10:38:27Z",
+      "actors": []
+    },
+    {
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache…",
+      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T10:09:54Z",
+      "actors": []
+    },
     {
       "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
       "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior…",
@@ -17,7 +33,7 @@
     },
     {
       "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, Stagg said…",
+      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary…",
       "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
       "source": "The Hacker News",
       "published": "2026-08-07T08:52:11Z",
@@ -97,7 +113,7 @@
     },
     {
       "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
-      "summary": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.",
+      "summary": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
       "url": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
       "source": "Dark Reading",
       "published": "2026-08-06T19:00:11Z",
@@ -125,6 +141,14 @@
       "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
       "source": "The Hacker News",
       "published": "2026-08-06T17:58:30Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
+      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
+      "url": "https://therecord.media/cyberattack-north-carolina-ports",
+      "source": "The Record",
+      "published": "2026-08-06T17:15:00Z",
       "actors": []
     },
     {
@@ -173,6 +197,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
       "source": "BleepingComputer",
       "published": "2026-08-06T14:02:12Z",
+      "actors": []
+    },
+    {
+      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
+      "summary": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
+      "url": "https://therecord.media/belarus-hacker-ransomware-sentenced",
+      "source": "The Record",
+      "published": "2026-08-06T13:15:00Z",
       "actors": []
     },
     {
@@ -256,6 +288,22 @@
       "actors": []
     },
     {
+      "title": "State Department says Trump raised cyber scam compound issue with Xi",
+      "summary": "President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue.",
+      "url": "https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds",
+      "source": "The Record",
+      "published": "2026-08-06T04:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "source": "The Record",
+      "published": "2026-08-06T04:00:00Z",
+      "actors": []
+    },
+    {
       "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33222",
@@ -310,6 +358,16 @@
       "source": "BleepingComputer",
       "published": "2026-08-05T21:53:26Z",
       "actors": []
+    },
+    {
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+      "url": "https://therecord.media/chinese-hackers-telecoms-house",
+      "source": "The Record",
+      "published": "2026-08-05T20:45:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ]
     },
     {
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
@@ -430,65 +488,20 @@
       "source": "The Hacker News",
       "published": "2026-08-05T13:41:27Z",
       "actors": []
-    },
-    {
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and…",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T11:43:27Z",
-      "actors": []
-    },
-    {
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and…",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T11:43:19Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read flaw is tracked as…",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T11:04:23Z",
-      "actors": []
-    },
-    {
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n API tokens and…",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T10:35:29Z",
-      "actors": []
-    },
-    {
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026,…",
-      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T09:23:03Z",
-      "actors": []
-    },
-    {
-      "title": "Angola's Largest Telco Breached Hours Before IPO",
-      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
-      "source": "Dark Reading",
-      "published": "2026-08-05T08:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to…",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T07:53:50Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says",
+      "summary": "Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.",
+      "url": "https://therecord.media/chinese-hackers-telecoms-house",
+      "source": "The Record",
+      "published": "2026-08-05T20:45:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
