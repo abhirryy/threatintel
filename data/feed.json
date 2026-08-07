@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:33:23Z",
+  "generated_at": "2026-08-07T03:35:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33224",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-07T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
       "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
       "source": "The Hacker News",
       "published": "2026-08-05T07:53:50Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability…",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T07:40:39Z",
       "actors": []
     }
   ],
