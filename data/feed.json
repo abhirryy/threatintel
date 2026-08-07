@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T15:33:52Z",
+  "generated_at": "2026-08-07T00:33:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,118 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+      "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T22:48:22Z",
+      "actors": []
+    },
+    {
+      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
+      "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T22:37:17Z",
+      "actors": []
+    },
+    {
+      "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
+      "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
+      "source": "Dark Reading",
+      "published": "2026-08-06T21:42:50Z",
+      "actors": []
+    },
+    {
+      "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
+      "summary": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
+      "url": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
+      "source": "Dark Reading",
+      "published": "2026-08-06T20:38:51Z",
+      "actors": []
+    },
+    {
+      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
+      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T20:07:24Z",
+      "actors": []
+    },
+    {
+      "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
+      "summary": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
+      "source": "Dark Reading",
+      "published": "2026-08-06T19:00:11Z",
+      "actors": []
+    },
+    {
+      "title": "Swiss government SharePoint breach compromised 200 accounts",
+      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T18:14:19Z",
+      "actors": []
+    },
+    {
+      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
+      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T18:03:45Z",
+      "actors": []
+    },
+    {
+      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as CVE-2026-64561 and affects…",
+      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-08-06T17:58:30Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
+      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
+      "url": "https://therecord.media/cyberattack-north-carolina-ports",
+      "source": "The Record",
+      "published": "2026-08-06T17:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is…",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "source": "The Hacker News",
+      "published": "2026-08-06T17:13:15Z",
+      "actors": []
+    },
+    {
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted…",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "published": "2026-08-06T17:00:56Z",
+      "actors": []
+    },
+    {
+      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
+      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen…",
+      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+      "source": "The Hacker News",
+      "published": "2026-08-06T16:17:13Z",
+      "actors": []
+    },
+    {
+      "title": "Meta AI model hacked a company during misconfigured cyber test",
+      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
+      "source": "BleepingComputer",
+      "published": "2026-08-06T16:11:39Z",
+      "actors": []
+    },
     {
       "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
       "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and…",
@@ -112,6 +224,22 @@
       "actors": []
     },
     {
+      "title": "State Department says Trump raised cyber scam compound issue with Xi",
+      "summary": "President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue.",
+      "url": "https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds",
+      "source": "The Record",
+      "published": "2026-08-06T04:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists",
+      "summary": "Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.",
+      "url": "https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists",
+      "source": "The Record",
+      "published": "2026-08-06T04:00:00Z",
+      "actors": []
+    },
+    {
       "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33222",
@@ -176,14 +304,6 @@
       "actors": [
         "Salt Typhoon"
       ]
-    },
-    {
-      "title": "Canadian man pleads guilty to Snowflake hacks that led to 165 breaches",
-      "summary": "A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.",
-      "url": "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
-      "source": "The Record",
-      "published": "2026-08-05T20:15:00Z",
-      "actors": []
     },
     {
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
@@ -266,14 +386,6 @@
       "actors": []
     },
     {
-      "title": "Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident",
-      "summary": "Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.",
-      "url": "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
-      "source": "The Record",
-      "published": "2026-08-05T15:36:00Z",
-      "actors": []
-    },
-    {
       "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
       "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data…",
       "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
@@ -303,14 +415,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
       "source": "BleepingComputer",
       "published": "2026-08-05T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents",
-      "summary": "Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.",
-      "url": "https://therecord.media/iran-cyberattacks-water-treatment",
-      "source": "The Record",
-      "published": "2026-08-05T14:00:00Z",
       "actors": []
     },
     {
@@ -384,110 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-08-05T07:40:39Z",
       "actors": []
-    },
-    {
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August…",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T05:47:19Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, August 5th, 2026 https://isc.sans.edu/podcastdetail/10038, (Wed, Aug 5th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33216",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-05T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
-      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T23:39:59Z",
-      "actors": []
-    },
-    {
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T22:18:20Z",
-      "actors": []
-    },
-    {
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T21:45:36Z",
-      "actors": []
-    },
-    {
-      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
-      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T19:03:09Z",
-      "actors": []
-    },
-    {
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T18:50:55Z",
-      "actors": []
-    },
-    {
-      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
-      "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
-      "source": "Dark Reading",
-      "published": "2026-08-04T18:37:35Z",
-      "actors": []
-    },
-    {
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user…",
-      "url": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "source": "The Hacker News",
-      "published": "2026-08-04T17:27:39Z",
-      "actors": []
-    },
-    {
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T15:24:35Z",
-      "actors": []
-    },
-    {
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "source": "BleepingComputer",
-      "published": "2026-08-04T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442…",
-      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-      "source": "The Hacker News",
-      "published": "2026-08-04T13:30:23Z",
-      "actors": []
-    },
-    {
-      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
-      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise…",
-      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
-      "source": "The Hacker News",
-      "published": "2026-08-04T13:11:22Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -546,7 +546,7 @@
     {
       "cve": "CVE-2026-34486",
       "title": "CVE-2026-34486 - Apache Tomcat Missing Encryption of Sensitive Data Vulnerability",
-      "summary": "Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor.",
+      "summary": "Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor. This vulnerability can be chained with CVE‑2025‑24813.",
       "vendor": "Apache",
       "product": "Tomcat",
       "date_added": "2026-08-04",
