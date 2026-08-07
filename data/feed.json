@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:41:46Z",
+  "generated_at": "2026-08-07T08:00:56Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Linux Shell Forensic: Let?s Dive Into Atuin!, (Fri, Aug 7th)",
+      "summary": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historization of the typed commands through a flat file in the $HOME directory (ex: $HOME/.bash_history). They…",
+      "url": "https://isc.sans.edu/diary/rss/33226",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-07T07:22:28Z",
+      "actors": []
+    },
+    {
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping…",
+      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T06:50:05Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -96,7 +112,7 @@
       "actors": []
     },
     {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is…",
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "source": "The Hacker News",
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
       "source": "The Hacker News",
       "published": "2026-08-05T09:23:03Z",
-      "actors": []
-    },
-    {
-      "title": "Angola's Largest Telco Breached Hours Before IPO",
-      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
-      "source": "Dark Reading",
-      "published": "2026-08-05T08:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to…",
-      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T07:53:50Z",
       "actors": []
     }
   ],
