@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:26:39Z",
+  "generated_at": "2026-08-07T17:25:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
+      "summary": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
+      "url": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
+      "source": "The Record",
+      "published": "2026-08-07T16:58:00Z",
+      "actors": []
+    },
+    {
+      "title": "Military device manufacturer discloses cyber incident to SEC",
+      "summary": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
+      "url": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
+      "source": "The Record",
+      "published": "2026-08-07T16:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI-Generated Patches Fail Half the Time",
+      "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
+      "url": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
+      "source": "Dark Reading",
+      "published": "2026-08-07T16:47:43Z",
+      "actors": []
+    },
     {
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
       "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
@@ -224,14 +248,6 @@
       "actors": []
     },
     {
-      "title": "Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate",
-      "summary": "North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.",
-      "url": "https://therecord.media/cyberattack-north-carolina-ports",
-      "source": "The Record",
-      "published": "2026-08-06T17:15:00Z",
-      "actors": []
-    },
-    {
       "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is…",
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
@@ -277,14 +293,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
       "source": "BleepingComputer",
       "published": "2026-08-06T14:02:12Z",
-      "actors": []
-    },
-    {
-      "title": "Belarusian cybercriminal behind Ransom Cartel gets 16-year prison sentence",
-      "summary": "A Belarusian national active in the cybercriminal world for decades was sentenced to 16 years in U.S. prison for running the Ransom Cartel ransomware operation.",
-      "url": "https://therecord.media/belarus-hacker-ransomware-sentenced",
-      "source": "The Record",
-      "published": "2026-08-06T13:15:00Z",
       "actors": []
     },
     {
@@ -478,14 +486,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-08-05T17:56:15Z",
       "actors": []
-    },
-    {
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T17:49:41Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -502,6 +502,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-8037",
+      "title": "CVE-2026-8037 - Progress LoadMaster Command Injection Vulnerability",
+      "summary": "Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.",
+      "vendor": "Progress",
+      "product": "LoadMaster",
+      "date_added": "2026-08-07",
+      "due_date": "2026-08-10",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-8037",
+      "source": "CISA KEV",
+      "published": "2026-08-07T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-63077",
       "title": "CVE-2026-63077 - JetBrains TeamCity Deserialization of Untrusted Data Vulnerability",
@@ -1326,20 +1340,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48172",
       "source": "CISA KEV",
       "published": "2026-05-26T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-9082",
-      "title": "CVE-2026-9082 - Drupal Core SQL Injection Vulnerability",
-      "summary": "Drupal Core contains a SQL injection vulnerability that could allow for privilege escalation and remote code execution via specially crafted requests sent with the database abstraction API.",
-      "vendor": "Drupal",
-      "product": "Core",
-      "date_added": "2026-05-22",
-      "due_date": "2026-05-27",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9082",
-      "source": "CISA KEV",
-      "published": "2026-05-22T00:00:00Z",
       "actors": []
     }
   ]
