@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:17:59Z",
+  "generated_at": "2026-08-07T20:02:53Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,43 @@
   },
   "osint_news": [
     {
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+      "source": "BleepingComputer",
+      "published": "2026-08-07T19:30:41Z",
+      "actors": []
+    },
+    {
       "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
       "summary": "The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems.",
       "url": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
       "source": "The Record",
       "published": "2026-08-07T18:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a…",
+      "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T18:48:17Z",
+      "actors": []
+    },
+    {
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS…",
+      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T18:29:08Z",
+      "actors": []
+    },
+    {
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security…",
+      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T18:16:13Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
       "source": "Dark Reading",
       "published": "2026-08-05T19:08:36Z",
-      "actors": []
-    },
-    {
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes…",
-      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T18:44:31Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from…",
-      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-      "source": "The Hacker News",
-      "published": "2026-08-05T18:33:47Z",
-      "actors": []
-    },
-    {
-      "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
-      "summary": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
-      "source": "Dark Reading",
-      "published": "2026-08-05T18:03:31Z",
-      "actors": []
-    },
-    {
-      "title": "Don't Revoke That Token Yet: Inside the keyv/cacheable npm Worm, (Wed, Aug 5th)",
-      "summary": "When you learn that a compromised package executed on one of your build hosts, muscle memory takes over: revoke the npm token, rotate the GitHub PAT, cycle the cloud keys. That reflex has been correct in almost every supply-chain incident I have worked. In the keyv / cacheable compromise that has been unfolding since…",
-      "url": "https://isc.sans.edu/diary/rss/33218",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-05T17:56:15Z",
       "actors": []
     }
   ],
