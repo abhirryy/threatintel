@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:12:19Z",
+  "generated_at": "2026-08-07T19:17:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
+      "summary": "The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems.",
+      "url": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
+      "source": "The Record",
+      "published": "2026-08-07T18:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "US cyber ambassador nominee Cassady confirmed in Senate",
+      "summary": "NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.",
+      "url": "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
+      "source": "The Record",
+      "published": "2026-08-07T18:14:00Z",
+      "actors": []
+    },
     {
       "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
       "summary": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
@@ -56,14 +72,6 @@
       "actors": []
     },
     {
-      "title": "Levi Strauss says hackers breached employee computers, accessed corporate data",
-      "summary": "Intruders exfiltrated certain corporate information after gaining access to three company-issued computers through a social engineering attack, Levi Strauss reported.",
-      "url": "https://therecord.media/levis-data-breach-social-engineering",
-      "source": "The Record",
-      "published": "2026-08-07T13:35:00Z",
-      "actors": []
-    },
-    {
       "title": "North Carolina Ports confirms cyberattack disrupting operations",
       "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
@@ -77,14 +85,6 @@
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
       "source": "The Hacker News",
       "published": "2026-08-07T12:56:23Z",
-      "actors": []
-    },
-    {
-      "title": "French rugby club Stade Français restores systems after cyberattack, probes data leak",
-      "summary": "The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain fully operational.",
-      "url": "https://therecord.media/french-rugby-club-restores-systems-after-cyberattack",
-      "source": "The Record",
-      "published": "2026-08-07T12:00:00Z",
       "actors": []
     },
     {
