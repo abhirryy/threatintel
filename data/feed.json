@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:28:42Z",
+  "generated_at": "2026-08-07T15:28:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
+      "summary": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
+      "url": "https://therecord.media/irregular-ai-security-company-incidents",
+      "source": "The Record",
+      "published": "2026-08-07T15:00:00Z",
+      "actors": []
+    },
     {
       "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
       "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
@@ -33,7 +41,7 @@
     },
     {
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. Under additional conditions, the bug can be chained into PHP code execution on the server. Tracked as CVE-2026-64638 (CVSS score: 8.9), the High-severity…",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled…",
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
       "source": "The Hacker News",
       "published": "2026-08-07T12:56:23Z",
@@ -341,14 +349,6 @@
       "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
       "source": "The Hacker News",
       "published": "2026-08-06T06:04:30Z",
-      "actors": []
-    },
-    {
-      "title": "State Department says Trump raised cyber scam compound issue with Xi",
-      "summary": "President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue.",
-      "url": "https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds",
-      "source": "The Record",
-      "published": "2026-08-06T04:00:00Z",
       "actors": []
     },
     {
