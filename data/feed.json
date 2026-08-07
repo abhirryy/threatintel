@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:02:53Z",
+  "generated_at": "2026-08-07T20:53:42Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-07T20:14:46Z",
+      "actors": []
+    },
     {
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
       "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
       "source": "Dark Reading",
       "published": "2026-08-05T19:47:55Z",
-      "actors": []
-    },
-    {
-      "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
-      "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
-      "url": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
-      "source": "Dark Reading",
-      "published": "2026-08-05T19:08:36Z",
       "actors": []
     }
   ],
