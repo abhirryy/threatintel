@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T06:25:27Z",
+  "generated_at": "2026-08-08T07:29:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -49,7 +49,7 @@
     },
     {
       "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security…",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent…",
       "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
       "source": "The Hacker News",
       "published": "2026-08-07T18:16:13Z",
