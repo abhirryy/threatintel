@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T17:51:37Z",
+  "generated_at": "2026-08-08T18:24:34Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
+    "osint_news": 120,
     "threat_actors": 1,
     "attack_surface": 60
   },
@@ -72,6 +72,14 @@
       "actors": []
     },
     {
+      "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
+      "summary": "The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems.",
+      "url": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
+      "source": "The Record",
+      "published": "2026-08-07T18:55:00Z",
+      "actors": []
+    },
+    {
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
       "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a…",
       "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
@@ -96,6 +104,30 @@
       "actors": []
     },
     {
+      "title": "US cyber ambassador nominee Cassady confirmed in Senate",
+      "summary": "NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.",
+      "url": "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
+      "source": "The Record",
+      "published": "2026-08-07T18:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
+      "summary": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
+      "url": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
+      "source": "The Record",
+      "published": "2026-08-07T16:58:00Z",
+      "actors": []
+    },
+    {
+      "title": "Military device manufacturer discloses cyber incident to SEC",
+      "summary": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
+      "url": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
+      "source": "The Record",
+      "published": "2026-08-07T16:52:00Z",
+      "actors": []
+    },
+    {
       "title": "AI-Generated Patches Fail Half the Time",
       "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
       "url": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
@@ -109,6 +141,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
       "source": "BleepingComputer",
       "published": "2026-08-07T15:48:20Z",
+      "actors": []
+    },
+    {
+      "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
+      "summary": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
+      "url": "https://therecord.media/irregular-ai-security-company-incidents",
+      "source": "The Record",
+      "published": "2026-08-07T15:00:00Z",
       "actors": []
     },
     {
@@ -445,46 +485,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
       "source": "Dark Reading",
       "published": "2026-08-05T23:35:28Z",
-      "actors": []
-    },
-    {
-      "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
-      "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
-      "url": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
-      "source": "Dark Reading",
-      "published": "2026-08-05T23:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T23:00:50Z",
-      "actors": []
-    },
-    {
-      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
-      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
-      "url": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
-      "source": "Dark Reading",
-      "published": "2026-08-05T22:18:25Z",
-      "actors": []
-    },
-    {
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T21:53:26Z",
-      "actors": []
-    },
-    {
-      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
-      "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
-      "source": "Dark Reading",
-      "published": "2026-08-05T19:47:55Z",
       "actors": []
     }
   ],
