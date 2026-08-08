@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T08:58:56Z",
+  "generated_at": "2026-08-08T09:48:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security…",
+      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "source": "The Hacker News",
+      "published": "2026-08-08T08:54:50Z",
+      "actors": []
+    },
+    {
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI…",
+      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "source": "The Hacker News",
+      "published": "2026-08-08T08:03:57Z",
+      "actors": []
+    },
     {
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
       "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary…",
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
       "source": "Dark Reading",
       "published": "2026-08-05T23:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T23:00:50Z",
-      "actors": []
-    },
-    {
-      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
-      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
-      "url": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
-      "source": "Dark Reading",
-      "published": "2026-08-05T22:18:25Z",
       "actors": []
     }
   ],
