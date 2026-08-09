@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T22:01:35Z",
+  "generated_at": "2026-08-09T22:43:58Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
+    "osint_news": 120,
     "threat_actors": 1,
     "attack_surface": 60
   },
@@ -232,11 +232,27 @@
       "actors": []
     },
     {
+      "title": "Linux Shell Forensic: Let?s Dive Into Atuin!, (Fri, Aug 7th)",
+      "summary": "UNIX systems (including Linux) are well-known to record a lot of activities in many different locations. But there is one domain where they definitely lack of \"modern\" logging: shells. Most shells provide an historization of the typed commands through a flat file in the $HOME directory (ex: $HOME/.bash_history). They…",
+      "url": "https://isc.sans.edu/diary/rss/33226",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-07T07:22:28Z",
+      "actors": []
+    },
+    {
       "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
       "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping…",
       "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
       "source": "The Hacker News",
       "published": "2026-08-07T06:50:05Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Friday, August 7th, 2026 https://isc.sans.edu/podcastdetail/10042, (Fri, Aug 7th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33224",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-07T02:00:02Z",
       "actors": []
     },
     {
@@ -448,43 +464,27 @@
       "actors": []
     },
     {
+      "title": "ISC Stormcast For Thursday, August 6th, 2026 https://isc.sans.edu/podcastdetail/10040, (Thu, Aug 6th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33222",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-06T02:00:02Z",
+      "actors": []
+    },
+    {
+      "title": "22 Seconds to Compromise: How Automated SSH Actors Move From Login to Persistence Before You Can Blink [Guest Diary], (Thu, Aug 6th)",
+      "summary": "[This is a Guest Diary by Daryl Jiminez, an ISC intern as part of the SANS.edu BACS program]",
+      "url": "https://isc.sans.edu/diary/rss/33220",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-06T00:15:40Z",
+      "actors": []
+    },
+    {
       "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
       "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
       "url": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
       "source": "Dark Reading",
       "published": "2026-08-05T23:35:28Z",
-      "actors": []
-    },
-    {
-      "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
-      "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
-      "url": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
-      "source": "Dark Reading",
-      "published": "2026-08-05T23:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T23:00:50Z",
-      "actors": []
-    },
-    {
-      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
-      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
-      "url": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
-      "source": "Dark Reading",
-      "published": "2026-08-05T22:18:25Z",
-      "actors": []
-    },
-    {
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-05T21:53:26Z",
       "actors": []
     }
   ],
