@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-10T14:01:24Z",
+  "generated_at": "2026-08-10T15:11:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 1,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T14:34:32Z",
+      "actors": []
+    },
+    {
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasingly adding device trust to their Zero Trust strategies. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T14:01:11Z",
+      "actors": []
+    },
     {
       "title": "British ‘Com’ member who abused more than 100 girls worldwide jailed for two years",
       "summary": "Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.",
@@ -14,6 +30,16 @@
       "source": "The Record",
       "published": "2026-08-10T13:46:00Z",
       "actors": []
+    },
+    {
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI…",
+      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T13:19:58Z",
+      "actors": [
+        "Kimsuky"
+      ]
     },
     {
       "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
@@ -392,22 +418,6 @@
       "actors": []
     },
     {
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-06T18:14:19Z",
-      "actors": []
-    },
-    {
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "source": "BleepingComputer",
-      "published": "2026-08-06T18:03:45Z",
-      "actors": []
-    },
-    {
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
       "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as CVE-2026-64561 and affects…",
       "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
@@ -478,17 +488,20 @@
       "source": "The Hacker News",
       "published": "2026-08-06T11:30:00Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from…",
-      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T09:19:23Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI…",
+      "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T13:19:58Z",
+      "actors": [
+        "Kimsuky"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
