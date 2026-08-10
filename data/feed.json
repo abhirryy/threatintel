@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:56:57Z",
+  "generated_at": "2026-08-10T21:49:39Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T21:12:10Z",
+      "actors": []
+    },
+    {
+      "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
+      "summary": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
+      "source": "Dark Reading",
+      "published": "2026-08-10T21:02:23Z",
+      "actors": []
+    },
     {
       "title": "FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure",
       "summary": "The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.",
@@ -440,14 +456,6 @@
       "actors": []
     },
     {
-      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-      "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "source": "BleepingComputer",
-      "published": "2026-08-06T22:48:22Z",
-      "actors": []
-    },
-    {
       "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
       "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
@@ -485,14 +493,6 @@
       "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
       "source": "The Hacker News",
       "published": "2026-08-06T17:58:30Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is…",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T17:13:15Z",
       "actors": []
     }
   ],
