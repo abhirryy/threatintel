@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:49:39Z",
+  "generated_at": "2026-08-10T22:23:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
+      "summary": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
+      "url": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
+      "source": "Dark Reading",
+      "published": "2026-08-10T21:54:22Z",
+      "actors": []
+    },
+    {
+      "title": "Multistate Water System Attacks Widen, Iran Suspected",
+      "summary": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.",
+      "url": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
+      "source": "Dark Reading",
+      "published": "2026-08-10T21:34:38Z",
+      "actors": []
+    },
     {
       "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
       "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
@@ -477,22 +493,6 @@
       "url": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
       "source": "Dark Reading",
       "published": "2026-08-06T20:38:51Z",
-      "actors": []
-    },
-    {
-      "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
-      "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-      "source": "Dark Reading",
-      "published": "2026-08-06T19:00:11Z",
-      "actors": []
-    },
-    {
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as CVE-2026-64561 and affects…",
-      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T17:58:30Z",
       "actors": []
     }
   ],
