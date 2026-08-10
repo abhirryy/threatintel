@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:05:40Z",
+  "generated_at": "2026-08-10T23:48:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T23:07:21Z",
+      "actors": []
+    },
     {
       "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
       "summary": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
@@ -373,14 +381,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
       "source": "BleepingComputer",
       "published": "2026-08-07T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "North Carolina Ports confirms cyberattack disrupting operations",
-      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-      "source": "BleepingComputer",
-      "published": "2026-08-07T13:34:40Z",
       "actors": []
     },
     {
