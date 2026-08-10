@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:38:20Z",
+  "generated_at": "2026-08-10T12:31:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T12:11:52Z",
+      "actors": []
+    },
+    {
+      "title": "Valve notifies Steam hardware customers of a data breach",
+      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T11:47:55Z",
+      "actors": []
+    },
     {
       "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
@@ -408,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "source": "BleepingComputer",
-      "published": "2026-08-06T14:02:12Z",
-      "actors": []
-    },
-    {
       "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
       "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but…",
       "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
       "source": "The Hacker News",
       "published": "2026-08-06T07:19:54Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
-      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data…",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T06:51:43Z",
       "actors": []
     }
   ],
