@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:02:58Z",
+  "generated_at": "2026-08-10T19:11:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
+      "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
+      "source": "Dark Reading",
+      "published": "2026-08-10T17:56:34Z",
+      "actors": []
+    },
     {
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
@@ -485,14 +493,6 @@
       "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "source": "The Hacker News",
       "published": "2026-08-06T17:13:15Z",
-      "actors": []
-    },
-    {
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted…",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "source": "Krebs on Security",
-      "published": "2026-08-06T17:00:56Z",
       "actors": []
     }
   ],
