@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-08-10T15:11:16Z",
+  "generated_at": "2026-08-10T16:09:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Poland uncovers second heat plant cyberattack that went hidden for months",
+      "summary": "The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.",
+      "url": "https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden",
+      "source": "The Record",
+      "published": "2026-08-10T15:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "Senate Democrats introduce bill to distribute $300 million annually to shore up water system cybersecurity",
+      "summary": "Two Democratic senators introduced legislation that would allocate $300 million each year to fund cybersecurity improvements for the water and wastewater sector.",
+      "url": "https://therecord.media/senate-water-cybersecurity-legislation",
+      "source": "The Record",
+      "published": "2026-08-10T15:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
+      "summary": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelligence agency.",
+      "url": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
+      "source": "The Record",
+      "published": "2026-08-10T15:21:00Z",
+      "actors": [
+        "Sandworm"
+      ]
+    },
     {
       "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
       "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
@@ -55,14 +81,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
       "source": "BleepingComputer",
       "published": "2026-08-10T12:56:28Z",
-      "actors": []
-    },
-    {
-      "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
-      "summary": "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
-      "url": "https://therecord.media/new-zealand-russian-hackers-sanctions",
-      "source": "The Record",
-      "published": "2026-08-10T12:30:00Z",
       "actors": []
     },
     {
@@ -202,14 +220,6 @@
       "actors": []
     },
     {
-      "title": "Water utilities group partners with DEF CON offshoot for Water Watch Center",
-      "summary": "The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems.",
-      "url": "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
-      "source": "The Record",
-      "published": "2026-08-07T18:55:00Z",
-      "actors": []
-    },
-    {
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
       "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a…",
       "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
@@ -231,14 +241,6 @@
       "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
       "source": "The Hacker News",
       "published": "2026-08-07T18:16:13Z",
-      "actors": []
-    },
-    {
-      "title": "US cyber ambassador nominee Cassady confirmed in Senate",
-      "summary": "NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.",
-      "url": "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
-      "source": "The Record",
-      "published": "2026-08-07T18:14:00Z",
       "actors": []
     },
     {
@@ -491,6 +493,17 @@
     }
   ],
   "threat_actors": [
+    {
+      "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
+      "summary": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelligence agency.",
+      "url": "https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers",
+      "source": "The Record",
+      "published": "2026-08-10T15:21:00Z",
+      "actors": [
+        "Sandworm"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
       "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI…",
