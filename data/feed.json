@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-08-10T17:08:53Z",
+  "generated_at": "2026-08-10T18:02:58Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 5,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T17:42:00Z",
+      "actors": [
+        "Medusa"
+      ]
+    },
+    {
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security…",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T17:29:17Z",
+      "actors": []
+    },
+    {
+      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+      "source": "Dark Reading",
+      "published": "2026-08-10T17:09:20Z",
+      "actors": []
+    },
+    {
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.…",
+      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T16:38:37Z",
+      "actors": [
+        "Medusa"
+      ]
+    },
     {
       "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
       "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
@@ -129,14 +165,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
       "source": "BleepingComputer",
       "published": "2026-08-10T12:11:52Z",
-      "actors": []
-    },
-    {
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security…",
-      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "source": "The Hacker News",
-      "published": "2026-08-10T11:52:16Z",
       "actors": []
     },
     {
@@ -436,14 +464,6 @@
       "actors": []
     },
     {
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "source": "BleepingComputer",
-      "published": "2026-08-06T20:07:24Z",
-      "actors": []
-    },
-    {
       "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
       "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
       "url": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
@@ -474,25 +494,31 @@
       "source": "Krebs on Security",
       "published": "2026-08-06T17:00:56Z",
       "actors": []
-    },
-    {
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen…",
-      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T16:17:13Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and…",
-      "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T15:24:31Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T17:42:00Z",
+      "actors": [
+        "Medusa"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.…",
+      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T16:38:37Z",
+      "actors": [
+        "Medusa"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Russian military hackers pose as recruiters to target Ukrainian IT workers",
       "summary": "Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military intelligence agency.",
