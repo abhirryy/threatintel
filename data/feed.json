@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:31:17Z",
+  "generated_at": "2026-08-10T14:01:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "British ‘Com’ member who abused more than 100 girls worldwide jailed for two years",
+      "summary": "Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.",
+      "url": "https://therecord.media/british-com-member-abuse-jailed-two-years",
+      "source": "The Record",
+      "published": "2026-08-10T13:46:00Z",
+      "actors": []
+    },
+    {
+      "title": "China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns",
+      "summary": "A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.",
+      "url": "https://therecord.media/china-hackers-ransomware-microsoft",
+      "source": "The Record",
+      "published": "2026-08-10T13:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "source": "BleepingComputer",
+      "published": "2026-08-10T12:56:28Z",
+      "actors": []
+    },
+    {
+      "title": "New Zealand sanctions Russian hackers, propaganda groups over Ukraine war",
+      "summary": "New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.",
+      "url": "https://therecord.media/new-zealand-russian-hackers-sanctions",
+      "source": "The Record",
+      "published": "2026-08-10T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced…",
+      "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T12:25:04Z",
+      "actors": []
+    },
     {
       "title": "LexisNexis shuts down services after suspicious activity on servers",
       "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
@@ -16,11 +56,27 @@
       "actors": []
     },
     {
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security…",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T11:52:16Z",
+      "actors": []
+    },
+    {
       "title": "Valve notifies Steam hardware customers of a data breach",
       "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
       "source": "BleepingComputer",
       "published": "2026-08-10T11:47:55Z",
+      "actors": []
+    },
+    {
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the…",
+      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T11:33:41Z",
       "actors": []
     },
     {
@@ -160,22 +216,6 @@
       "actors": []
     },
     {
-      "title": "New Mexico judge orders Meta to pay $567 million in kids online safety case",
-      "summary": "The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.",
-      "url": "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
-      "source": "The Record",
-      "published": "2026-08-07T16:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "Military device manufacturer discloses cyber incident to SEC",
-      "summary": "IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.",
-      "url": "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
-      "source": "The Record",
-      "published": "2026-08-07T16:52:00Z",
-      "actors": []
-    },
-    {
       "title": "AI-Generated Patches Fail Half the Time",
       "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
       "url": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
@@ -189,14 +229,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
       "source": "BleepingComputer",
       "published": "2026-08-07T15:48:20Z",
-      "actors": []
-    },
-    {
-      "title": "Irregular, firm behind AI hacking incidents, won't say if there were more",
-      "summary": "A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”",
-      "url": "https://therecord.media/irregular-ai-security-company-incidents",
-      "source": "The Record",
-      "published": "2026-08-07T15:00:00Z",
       "actors": []
     },
     {
@@ -408,14 +440,6 @@
       "actors": []
     },
     {
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "source": "BleepingComputer",
-      "published": "2026-08-06T16:11:39Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
       "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and…",
       "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
@@ -461,30 +485,6 @@
       "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
       "source": "The Hacker News",
       "published": "2026-08-06T09:19:23Z",
-      "actors": []
-    },
-    {
-      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
-      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level…",
-      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T08:57:30Z",
-      "actors": []
-    },
-    {
-      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed…",
-      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T08:05:22Z",
-      "actors": []
-    },
-    {
-      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
-      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New…",
-      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
-      "source": "The Hacker News",
-      "published": "2026-08-06T07:19:54Z",
       "actors": []
     }
   ],
