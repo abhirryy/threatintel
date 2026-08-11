@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:07:32Z",
+  "generated_at": "2026-08-11T21:02:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out…",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T20:10:55Z",
+      "actors": []
+    },
     {
       "title": "NSA installs DHS lawyer as new general counsel",
       "summary": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.",
@@ -24,11 +32,27 @@
       "actors": []
     },
     {
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by…",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T19:36:37Z",
+      "actors": []
+    },
+    {
       "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
       "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
       "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
       "source": "The Record",
       "published": "2026-08-11T19:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in…",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T19:08:47Z",
       "actors": []
     },
     {
@@ -467,30 +491,6 @@
       "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
       "source": "The Hacker News",
       "published": "2026-08-07T18:48:17Z",
-      "actors": []
-    },
-    {
-      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS…",
-      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-      "source": "The Hacker News",
-      "published": "2026-08-07T18:29:08Z",
-      "actors": []
-    },
-    {
-      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent…",
-      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-      "source": "The Hacker News",
-      "published": "2026-08-07T18:16:13Z",
-      "actors": []
-    },
-    {
-      "title": "AI-Generated Patches Fail Half the Time",
-      "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
-      "url": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-      "source": "Dark Reading",
-      "published": "2026-08-07T16:47:43Z",
       "actors": []
     }
   ],
