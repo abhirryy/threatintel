@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:59:21Z",
+  "generated_at": "2026-08-11T22:54:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "source": "BleepingComputer",
+      "published": "2026-08-11T22:15:22Z",
+      "actors": []
+    },
     {
       "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
       "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
@@ -337,14 +345,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
       "source": "Dark Reading",
       "published": "2026-08-10T21:34:38Z",
-      "actors": []
-    },
-    {
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "source": "BleepingComputer",
-      "published": "2026-08-10T21:12:10Z",
       "actors": []
     },
     {
