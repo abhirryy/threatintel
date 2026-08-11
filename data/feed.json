@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:08:25Z",
+  "generated_at": "2026-08-11T18:06:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
+      "summary": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code execution bugs.",
+      "url": "https://isc.sans.edu/diary/rss/33236",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-11T17:54:49Z",
+      "actors": []
+    },
+    {
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "source": "BleepingComputer",
+      "published": "2026-08-11T17:38:42Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint…",
+      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T16:47:44Z",
+      "actors": []
+    },
+    {
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver…",
+      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T16:35:27Z",
+      "actors": []
+    },
     {
       "title": "Wesco confirms security incident after ExfilSquad claims data theft",
       "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
@@ -350,14 +382,6 @@
       "actors": []
     },
     {
-      "title": "LexisNexis shuts down services after suspicious activity on servers",
-      "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
-      "source": "BleepingComputer",
-      "published": "2026-08-10T12:11:52Z",
-      "actors": []
-    },
-    {
       "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
       "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the…",
       "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
@@ -467,30 +491,6 @@
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
       "source": "The Hacker News",
       "published": "2026-08-07T12:56:23Z",
-      "actors": []
-    },
-    {
-      "title": "Growing Up The Hard Way",
-      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to…",
-      "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-      "source": "The Hacker News",
-      "published": "2026-08-07T11:55:26Z",
-      "actors": []
-    },
-    {
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3,…",
-      "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-08-07T11:10:33Z",
-      "actors": []
-    },
-    {
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior…",
-      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "source": "The Hacker News",
-      "published": "2026-08-07T10:58:38Z",
       "actors": []
     }
   ],
