@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-08-11T21:02:25Z",
+  "generated_at": "2026-08-11T21:59:21Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 5,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+      "url": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "source": "Dark Reading",
+      "published": "2026-08-11T21:42:34Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "source": "Krebs on Security",
+      "published": "2026-08-11T21:28:35Z",
+      "actors": []
+    },
+    {
+      "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
+      "summary": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
+      "source": "Dark Reading",
+      "published": "2026-08-11T21:16:25Z",
+      "actors": []
+    },
+    {
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "source": "BleepingComputer",
+      "published": "2026-08-11T21:07:24Z",
+      "actors": [
+        "Sandworm"
+      ]
+    },
     {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out…",
@@ -322,14 +356,6 @@
       "actors": []
     },
     {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "source": "BleepingComputer",
-      "published": "2026-08-10T19:24:40Z",
-      "actors": []
-    },
-    {
       "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
       "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
       "url": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
@@ -468,33 +494,20 @@
       "source": "The Hacker News",
       "published": "2026-08-08T06:58:31Z",
       "actors": []
-    },
-    {
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve…",
-      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "source": "The Hacker News",
-      "published": "2026-08-08T06:57:43Z",
-      "actors": []
-    },
-    {
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score:…",
-      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-      "source": "The Hacker News",
-      "published": "2026-08-08T06:52:16Z",
-      "actors": []
-    },
-    {
-      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a…",
-      "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-      "source": "The Hacker News",
-      "published": "2026-08-07T18:48:17Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "source": "BleepingComputer",
+      "published": "2026-08-11T21:07:24Z",
+      "actors": [
+        "Sandworm"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
       "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat…",
