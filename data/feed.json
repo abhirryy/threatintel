@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:30:41Z",
+  "generated_at": "2026-08-11T07:49:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the…",
+      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T06:55:45Z",
+      "actors": []
+    },
     {
       "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
       "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were modified within…",
@@ -485,14 +493,6 @@
       "url": "https://isc.sans.edu/diary/rss/33224",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-07T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
-      "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
-      "source": "Dark Reading",
-      "published": "2026-08-06T21:42:50Z",
       "actors": []
     }
   ],
