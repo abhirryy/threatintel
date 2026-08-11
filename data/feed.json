@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:42:42Z",
+  "generated_at": "2026-08-11T10:36:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
+      "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+      "source": "BleepingComputer",
+      "published": "2026-08-11T09:47:06Z",
+      "actors": []
+    },
     {
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
       "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the…",
@@ -397,14 +405,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
       "source": "BleepingComputer",
       "published": "2026-08-07T15:48:20Z",
-      "actors": []
-    },
-    {
-      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
-      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-      "source": "BleepingComputer",
-      "published": "2026-08-07T14:00:10Z",
       "actors": []
     },
     {
