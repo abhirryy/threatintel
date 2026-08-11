@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:31:12Z",
+  "generated_at": "2026-08-11T06:30:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were modified within…",
+      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "source": "The Hacker News",
+      "published": "2026-08-11T05:48:44Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -485,14 +493,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
       "source": "Dark Reading",
       "published": "2026-08-06T21:42:50Z",
-      "actors": []
-    },
-    {
-      "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
-      "summary": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
-      "source": "Dark Reading",
-      "published": "2026-08-06T20:39:30Z",
       "actors": []
     }
   ],
