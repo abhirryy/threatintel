@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:28:28Z",
+  "generated_at": "2026-08-11T12:24:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Kids’ online safety bill faces dim prospects of passage this session despite progress",
+      "summary": "Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session.",
+      "url": "https://therecord.media/kids-online-safety-act-congress",
+      "source": "The Record",
+      "published": "2026-08-11T12:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
+      "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-11T12:12:16Z",
+      "actors": []
+    },
     {
       "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
       "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
@@ -246,14 +262,6 @@
       "actors": []
     },
     {
-      "title": "British ‘Com’ member who abused more than 100 girls worldwide jailed for two years",
-      "summary": "Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.",
-      "url": "https://therecord.media/british-com-member-abuse-jailed-two-years",
-      "source": "The Record",
-      "published": "2026-08-10T13:46:00Z",
-      "actors": []
-    },
-    {
       "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
       "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI…",
       "url": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
@@ -389,14 +397,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "source": "BleepingComputer",
       "published": "2026-08-07T20:14:46Z",
-      "actors": []
-    },
-    {
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "source": "BleepingComputer",
-      "published": "2026-08-07T19:30:41Z",
       "actors": []
     },
     {
