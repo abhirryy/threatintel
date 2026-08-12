@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:26:09Z",
+  "generated_at": "2026-08-12T12:12:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T11:21:42Z",
+      "actors": []
+    },
+    {
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An…",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "source": "The Hacker News",
+      "published": "2026-08-12T11:13:03Z",
+      "actors": []
+    },
     {
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
@@ -324,14 +340,6 @@
       "actors": []
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T11:03:01Z",
-      "actors": []
-    },
-    {
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
       "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported…",
       "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
@@ -485,14 +493,6 @@
       "url": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
       "source": "The Hacker News",
       "published": "2026-08-10T12:25:04Z",
-      "actors": []
-    },
-    {
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the…",
-      "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "source": "The Hacker News",
-      "published": "2026-08-10T11:33:41Z",
       "actors": []
     }
   ],
