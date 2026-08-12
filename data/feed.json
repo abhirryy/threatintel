@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:50:19Z",
+  "generated_at": "2026-08-12T14:49:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
+      "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;and collecting meaningful additional data. Our reader David commented that this can also be done…",
+      "url": "https://isc.sans.edu/diary/rss/33240",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-12T14:21:10Z",
+      "actors": []
+    },
+    {
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T14:15:09Z",
+      "actors": []
+    },
+    {
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked…",
+      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "source": "The Hacker News",
+      "published": "2026-08-12T14:09:50Z",
+      "actors": []
+    },
+    {
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire.…",
+      "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+      "source": "Dark Reading",
+      "published": "2026-08-12T14:00:00Z",
+      "actors": []
+    },
     {
       "title": "Three intrusions at UK criminal records office went undetected for two years",
       "summary": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.",
@@ -316,27 +356,11 @@
       "actors": []
     },
     {
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each agent was actually created to do. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T13:15:24Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
       "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities…",
       "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
       "source": "The Hacker News",
       "published": "2026-08-11T13:11:23Z",
-      "actors": []
-    },
-    {
-      "title": "DDoS attacks over 1 Tbps surged fivefold in the second quarter",
-      "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T13:00:00Z",
       "actors": []
     },
     {
@@ -468,30 +492,6 @@
       "actors": [
         "Medusa"
       ]
-    },
-    {
-      "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
-      "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
-      "url": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
-      "source": "Dark Reading",
-      "published": "2026-08-10T16:25:22Z",
-      "actors": []
-    },
-    {
-      "title": "Scans for Solana (Surfpool?) Endpoints, (Mon, Aug 10th)",
-      "summary": "Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developers. These APIs will either \"speak\" JSON or gRPC. One implementation often used for development is \"surfpool,\" which is used…",
-      "url": "https://isc.sans.edu/diary/rss/33230",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-10T16:24:45Z",
-      "actors": []
-    },
-    {
-      "title": "Sherlock Holmes Was the 'OG' Social Engineer",
-      "summary": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
-      "url": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
-      "source": "Dark Reading",
-      "published": "2026-08-10T15:59:27Z",
-      "actors": []
     }
   ],
   "threat_actors": [
