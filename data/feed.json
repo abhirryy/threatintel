@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-08-12T14:49:18Z",
+  "generated_at": "2026-08-12T15:45:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 5,
+    "threat_actors": 6,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T15:38:08Z",
+      "actors": [
+        "Lazarus"
+      ]
+    },
     {
       "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
       "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;and collecting meaningful additional data. Our reader David commented that this can also be done…",
@@ -348,14 +358,6 @@
       "actors": []
     },
     {
-      "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
-      "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T13:20:28Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
       "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities…",
       "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
@@ -495,6 +497,17 @@
     }
   ],
   "threat_actors": [
+    {
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T15:38:08Z",
+      "actors": [
+        "Lazarus"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
       "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
