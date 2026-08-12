@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-08-12T17:43:17Z",
+  "generated_at": "2026-08-12T18:39:30Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 6,
+    "threat_actors": 7,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point…",
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-12T17:39:27Z",
+      "actors": [
+        "Lazarus"
+      ]
+    },
     {
       "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
       "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
       "url": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
       "source": "The Record",
       "published": "2026-08-12T17:28:00Z",
+      "actors": []
+    },
+    {
+      "title": "Walmart's \"Trusted Agent\" Approach to Purple Teaming",
+      "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+      "url": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+      "source": "Dark Reading",
+      "published": "2026-08-12T16:28:04Z",
       "actors": []
     },
     {
@@ -476,27 +494,20 @@
       "source": "The Hacker News",
       "published": "2026-08-10T17:29:17Z",
       "actors": []
-    },
-    {
-      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-      "source": "Dark Reading",
-      "published": "2026-08-10T17:09:20Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
-      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.…",
-      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
-      "source": "The Hacker News",
-      "published": "2026-08-10T16:38:37Z",
-      "actors": [
-        "Medusa"
-      ]
     }
   ],
   "threat_actors": [
+    {
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point…",
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-12T17:39:27Z",
+      "actors": [
+        "Lazarus"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
       "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
