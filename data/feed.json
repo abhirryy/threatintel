@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-12T00:42:43Z",
+  "generated_at": "2026-08-12T03:13:13Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 115,
     "threat_actors": 5,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33238",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-12T02:00:03Z",
+      "actors": []
+    },
+    {
+      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T01:15:55Z",
+      "actors": []
+    },
     {
       "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
       "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
@@ -58,14 +74,6 @@
       "actors": []
     },
     {
-      "title": "NSA installs DHS lawyer as new general counsel",
-      "summary": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.",
-      "url": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
-      "source": "The Record",
-      "published": "2026-08-11T20:00:09Z",
-      "actors": []
-    },
-    {
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
@@ -79,14 +87,6 @@
       "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
       "source": "The Hacker News",
       "published": "2026-08-11T19:36:37Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
-      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
-      "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-      "source": "The Record",
-      "published": "2026-08-11T19:15:00Z",
       "actors": []
     },
     {
@@ -172,14 +172,6 @@
       "actors": []
     },
     {
-      "title": "Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe",
-      "summary": "Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.",
-      "url": "https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate",
-      "source": "The Record",
-      "published": "2026-08-11T15:43:45Z",
-      "actors": []
-    },
-    {
       "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
       "summary": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
@@ -209,22 +201,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
       "source": "BleepingComputer",
       "published": "2026-08-11T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Local governments in four states dealing with cyberattacks that have shut down services",
-      "summary": "Municipalities in California, Oklahoma, Wisconsin and Texas are all recovering from disruptive cyberattacks that have affected government operations.",
-      "url": "https://therecord.media/cyberattacks-ransomware-local-governments",
-      "source": "The Record",
-      "published": "2026-08-11T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Kids’ online safety bill faces dim prospects of passage this session despite progress",
-      "summary": "Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session.",
-      "url": "https://therecord.media/kids-online-safety-act-congress",
-      "source": "The Record",
-      "published": "2026-08-11T12:15:00Z",
       "actors": []
     },
     {
@@ -321,14 +297,6 @@
       "url": "https://isc.sans.edu/diary/rss/33232",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-11T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "source": "BleepingComputer",
-      "published": "2026-08-10T23:07:21Z",
       "actors": []
     },
     {
@@ -493,6 +461,38 @@
       "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
       "source": "The Hacker News",
       "published": "2026-08-08T06:58:31Z",
+      "actors": []
+    },
+    {
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve…",
+      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "source": "The Hacker News",
+      "published": "2026-08-08T06:57:43Z",
+      "actors": []
+    },
+    {
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score:…",
+      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "source": "The Hacker News",
+      "published": "2026-08-08T06:52:16Z",
+      "actors": []
+    },
+    {
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a…",
+      "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T18:48:17Z",
+      "actors": []
+    },
+    {
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS…",
+      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "source": "The Hacker News",
+      "published": "2026-08-07T18:29:08Z",
       "actors": []
     }
   ],
