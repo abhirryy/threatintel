@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-12T20:27:13Z",
+  "generated_at": "2026-08-12T21:22:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 115,
     "threat_actors": 7,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T20:54:59Z",
+      "actors": []
+    },
     {
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
       "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
@@ -24,14 +32,6 @@
       "actors": [
         "Lazarus"
       ]
-    },
-    {
-      "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
-      "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
-      "url": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
-      "source": "The Record",
-      "published": "2026-08-12T17:28:00Z",
-      "actors": []
     },
     {
       "title": "Walmart's \"Trusted Agent\" Approach to Purple Teaming",
@@ -100,14 +100,6 @@
       "actors": []
     },
     {
-      "title": "Three intrusions at UK criminal records office went undetected for two years",
-      "summary": "Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.",
-      "url": "https://therecord.media/uk-criminal-records-office-acro-data-breaches",
-      "source": "The Record",
-      "published": "2026-08-12T13:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
       "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
       "url": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
@@ -116,27 +108,11 @@
       "actors": []
     },
     {
-      "title": "Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery",
-      "summary": "This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.",
-      "url": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
-      "source": "The Record",
-      "published": "2026-08-12T12:38:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-08-12T12:25:37Z",
-      "actors": []
-    },
-    {
-      "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign",
-      "summary": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.",
-      "url": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
-      "source": "The Record",
-      "published": "2026-08-12T12:06:00Z",
       "actors": []
     },
     {
@@ -286,14 +262,6 @@
       "actors": []
     },
     {
-      "title": "NSA installs DHS lawyer as new general counsel",
-      "summary": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.",
-      "url": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
-      "source": "The Record",
-      "published": "2026-08-11T20:00:09Z",
-      "actors": []
-    },
-    {
       "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
       "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
@@ -341,14 +309,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
       "source": "BleepingComputer",
       "published": "2026-08-11T18:26:03Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T18:08:50Z",
       "actors": []
     },
     {
@@ -493,6 +453,48 @@
       "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
       "source": "The Hacker News",
       "published": "2026-08-10T17:29:17Z",
+      "actors": []
+    },
+    {
+      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+      "source": "Dark Reading",
+      "published": "2026-08-10T17:09:20Z",
+      "actors": []
+    },
+    {
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said.…",
+      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "source": "The Hacker News",
+      "published": "2026-08-10T16:38:37Z",
+      "actors": [
+        "Medusa"
+      ]
+    },
+    {
+      "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
+      "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
+      "url": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
+      "source": "Dark Reading",
+      "published": "2026-08-10T16:25:22Z",
+      "actors": []
+    },
+    {
+      "title": "Scans for Solana (Surfpool?) Endpoints, (Mon, Aug 10th)",
+      "summary": "Solana is a crypto platform known for speed. Developers like it to develop distributed applications or to implement crypto payments. To interact with the blockchain, APIs are provided for developers. These APIs will either \"speak\" JSON or gRPC. One implementation often used for development is \"surfpool,\" which is used…",
+      "url": "https://isc.sans.edu/diary/rss/33230",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-10T16:24:45Z",
+      "actors": []
+    },
+    {
+      "title": "Sherlock Holmes Was the 'OG' Social Engineer",
+      "summary": "The crime solver wore disguises, spied on targets, and built intelligence networks long before modern-day tactics emerged. He has lessons for today's ethical- and unethical hackers.",
+      "url": "https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer",
+      "source": "Dark Reading",
+      "published": "2026-08-10T15:59:27Z",
       "actors": []
     }
   ],
