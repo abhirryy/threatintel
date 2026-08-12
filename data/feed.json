@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:39:30Z",
+  "generated_at": "2026-08-12T19:48:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T18:54:57Z",
+      "actors": []
+    },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point…",
@@ -349,14 +357,6 @@
       "url": "https://isc.sans.edu/diary/rss/33236",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-11T17:54:49Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T17:38:42Z",
       "actors": []
     },
     {
