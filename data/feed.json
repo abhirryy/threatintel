@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T15:45:01Z",
+  "generated_at": "2026-08-12T16:40:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+      "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T16:05:12Z",
+      "actors": []
+    },
     {
       "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
       "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
@@ -347,14 +355,6 @@
       "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
       "source": "The Hacker News",
       "published": "2026-08-11T16:35:27Z",
-      "actors": []
-    },
-    {
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T15:59:35Z",
       "actors": []
     },
     {
