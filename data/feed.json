@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:04:34Z",
+  "generated_at": "2026-08-12T09:21:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from…",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-12T08:04:52Z",
+      "actors": []
+    },
     {
       "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
       "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient…",
@@ -485,14 +493,6 @@
       "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
       "source": "The Hacker News",
       "published": "2026-08-10T07:38:23Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security…",
-      "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "source": "The Hacker News",
-      "published": "2026-08-10T05:50:03Z",
       "actors": []
     }
   ],
