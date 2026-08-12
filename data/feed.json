@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:09:03Z",
+  "generated_at": "2026-08-12T23:00:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "source": "BleepingComputer",
+      "published": "2026-08-12T22:22:57Z",
+      "actors": []
+    },
     {
       "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
       "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
@@ -349,14 +357,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
       "source": "BleepingComputer",
       "published": "2026-08-11T18:34:23Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T18:26:03Z",
       "actors": []
     },
     {
