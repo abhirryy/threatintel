@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T16:40:12Z",
+  "generated_at": "2026-08-12T17:43:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
+      "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
+      "url": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
+      "source": "The Record",
+      "published": "2026-08-12T17:28:00Z",
+      "actors": []
+    },
     {
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
@@ -273,14 +281,6 @@
       "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
       "source": "The Hacker News",
       "published": "2026-08-11T19:36:37Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout",
-      "summary": "The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.",
-      "url": "https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response",
-      "source": "The Record",
-      "published": "2026-08-11T19:15:00Z",
       "actors": []
     },
     {
