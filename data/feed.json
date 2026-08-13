@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-08-13T12:30:52Z",
+  "generated_at": "2026-08-13T14:03:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 7,
+    "threat_actors": 6,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+      "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
+      "summary": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
+      "url": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
+      "source": "The Record",
+      "published": "2026-08-13T13:37:32Z",
+      "actors": []
+    },
+    {
+      "title": "White House taps security firms for offensive hack-back operations",
+      "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T13:30:53Z",
+      "actors": []
+    },
+    {
+      "title": "Trump taps cyber firms to go on offensive against criminals",
+      "summary": "The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.",
+      "url": "https://therecord.media/trump-cyber-crime-offensive",
+      "source": "The Record",
+      "published": "2026-08-13T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Germany moves to give spy agencies hacking and sabotage powers",
+      "summary": "Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul of the country’s spy laws of the postwar era.",
+      "url": "https://therecord.media/germany-spy-agency-powers",
+      "source": "The Record",
+      "published": "2026-08-13T12:45:00Z",
+      "actors": []
+    },
     {
       "title": "WhatsApp rolls out new feature that flags potential scam messages",
       "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
@@ -196,27 +236,11 @@
       "actors": []
     },
     {
-      "title": "Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery",
-      "summary": "This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.",
-      "url": "https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai",
-      "source": "The Record",
-      "published": "2026-08-12T12:38:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
       "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-08-12T12:25:37Z",
-      "actors": []
-    },
-    {
-      "title": "CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign",
-      "summary": "Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.",
-      "url": "https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug",
-      "source": "The Record",
-      "published": "2026-08-12T12:06:00Z",
       "actors": []
     },
     {
@@ -316,14 +340,6 @@
       "actors": []
     },
     {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T22:15:22Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
       "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
       "url": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
@@ -348,29 +364,11 @@
       "actors": []
     },
     {
-      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T21:07:24Z",
-      "actors": [
-        "Sandworm"
-      ]
-    },
-    {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out…",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
       "source": "The Hacker News",
       "published": "2026-08-11T20:10:55Z",
-      "actors": []
-    },
-    {
-      "title": "NSA installs DHS lawyer as new general counsel",
-      "summary": "Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.",
-      "url": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
-      "source": "The Record",
-      "published": "2026-08-11T20:00:09Z",
       "actors": []
     },
     {
@@ -516,17 +514,6 @@
       "published": "2026-08-12T15:38:08Z",
       "actors": [
         "Lazarus"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T21:07:24Z",
-      "actors": [
-        "Sandworm"
       ],
       "kind": "news"
     },
