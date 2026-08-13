@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:10:22Z",
+  "generated_at": "2026-08-13T17:13:26Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Flock tightens privacy controls amid scandals over officer abuse",
+      "summary": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.",
+      "url": "https://therecord.media/flock-safety-audit-assistance-police-departments",
+      "source": "The Record",
+      "published": "2026-08-13T16:47:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T16:40:23Z",
+      "actors": []
+    },
     {
       "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
       "summary": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
@@ -162,14 +178,6 @@
       ]
     },
     {
-      "title": "FBI: Hackers using social engineering to breach accounts and steal explicit content",
-      "summary": "Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.",
-      "url": "https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert",
-      "source": "The Record",
-      "published": "2026-08-12T17:28:00Z",
-      "actors": []
-    },
-    {
       "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
       "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
       "url": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
@@ -281,14 +289,6 @@
       "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
       "source": "The Hacker News",
       "published": "2026-08-12T11:13:03Z",
-      "actors": []
-    },
-    {
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "source": "BleepingComputer",
-      "published": "2026-08-12T10:15:22Z",
       "actors": []
     },
     {
