@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:35:16Z",
+  "generated_at": "2026-08-13T12:30:52Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T11:50:22Z",
+      "actors": []
+    },
     {
       "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
       "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
@@ -363,14 +371,6 @@
       "url": "https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel",
       "source": "The Record",
       "published": "2026-08-11T20:00:09Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-08-11T19:45:31Z",
       "actors": []
     },
     {
