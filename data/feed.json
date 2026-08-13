@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-08-13T20:02:28Z",
+  "generated_at": "2026-08-13T20:57:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 6,
+    "threat_actors": 7,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T20:47:02Z",
+      "actors": [
+        "Akira"
+      ]
+    },
     {
       "title": "Hackers breach govt webmail while running parallel crypto fraud",
       "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
@@ -233,14 +243,6 @@
       "url": "https://isc.sans.edu/diary/rss/33240",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-12T14:21:10Z",
-      "actors": []
-    },
-    {
-      "title": "FBI: Hackers target online accounts to steal nude photos",
-      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-      "source": "BleepingComputer",
-      "published": "2026-08-12T14:15:09Z",
       "actors": []
     },
     {
@@ -495,6 +497,17 @@
     }
   ],
   "threat_actors": [
+    {
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "source": "BleepingComputer",
+      "published": "2026-08-13T20:47:02Z",
+      "actors": [
+        "Akira"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
       "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point…",
