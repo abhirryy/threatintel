@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:46:57Z",
+  "generated_at": "2026-08-13T11:35:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -106,8 +106,8 @@
       "actors": []
     },
     {
-      "title": "Walmart's \"Trusted Agent\" Approach to Purple Teaming",
-      "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
+      "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
       "url": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
       "source": "Dark Reading",
       "published": "2026-08-12T16:28:04Z",
