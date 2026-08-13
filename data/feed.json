@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T23:53:17Z",
+  "generated_at": "2026-08-13T01:41:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+      "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor is collecting and…",
+      "url": "https://isc.sans.edu/diary/rss/33242",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-13T01:26:53Z",
+      "actors": []
+    },
     {
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
       "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
@@ -485,14 +493,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
       "source": "Dark Reading",
       "published": "2026-08-10T21:02:23Z",
-      "actors": []
-    },
-    {
-      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
-      "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-      "source": "Dark Reading",
-      "published": "2026-08-10T17:56:34Z",
       "actors": []
     }
   ],
