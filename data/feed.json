@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:56:51Z",
+  "generated_at": "2026-08-14T14:57:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "source": "BleepingComputer",
+      "published": "2026-08-14T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "What Boards Need to Know About Tech Risk",
+      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?",
+      "url": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+      "source": "Dark Reading",
+      "published": "2026-08-14T14:00:00Z",
+      "actors": []
+    },
     {
       "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
       "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
@@ -193,14 +209,6 @@
       "url": "https://therecord.media/trump-cyber-crime-offensive",
       "source": "The Record",
       "published": "2026-08-13T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "WhatsApp rolls out new feature that flags potential scam messages",
-      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-      "source": "BleepingComputer",
-      "published": "2026-08-13T11:50:22Z",
       "actors": []
     },
     {
@@ -485,14 +493,6 @@
       "url": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
       "source": "The Hacker News",
       "published": "2026-08-11T11:35:03Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported…",
-      "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "source": "The Hacker News",
-      "published": "2026-08-11T10:48:26Z",
       "actors": []
     }
   ],
