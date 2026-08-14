@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:51:30Z",
+  "generated_at": "2026-08-14T11:38:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising…",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "source": "Krebs on Security",
+      "published": "2026-08-14T11:24:35Z",
+      "actors": []
+    },
+    {
+      "title": "RingCentral data breach exposed info of 1.6 million accounts",
+      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-08-14T10:52:05Z",
+      "actors": []
+    },
     {
       "title": "Data analyst sent to prison for stealing data, extorting employer",
       "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
@@ -223,14 +239,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
       "source": "Dark Reading",
       "published": "2026-08-12T21:08:54Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-      "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-12T20:54:59Z",
       "actors": []
     },
     {
@@ -483,14 +491,6 @@
       "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
       "source": "The Hacker News",
       "published": "2026-08-11T10:24:00Z",
-      "actors": []
-    },
-    {
-      "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
-      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional…",
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "source": "The Hacker News",
-      "published": "2026-08-11T09:16:24Z",
       "actors": []
     }
   ],
