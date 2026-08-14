@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:57:51Z",
+  "generated_at": "2026-08-14T15:58:29Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "source": "BleepingComputer",
+      "published": "2026-08-14T14:59:55Z",
+      "actors": []
+    },
     {
       "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
       "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
@@ -193,14 +201,6 @@
       "url": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
       "source": "The Record",
       "published": "2026-08-13T13:37:32Z",
-      "actors": []
-    },
-    {
-      "title": "White House taps security firms for offensive hack-back operations",
-      "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
-      "source": "BleepingComputer",
-      "published": "2026-08-13T13:30:53Z",
       "actors": []
     },
     {
