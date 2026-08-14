@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:11:12Z",
+  "generated_at": "2026-08-14T23:38:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "source": "BleepingComputer",
+      "published": "2026-08-14T23:24:17Z",
+      "actors": []
+    },
     {
       "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
       "summary": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges.",
@@ -217,14 +225,6 @@
       "url": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
       "source": "The Record",
       "published": "2026-08-13T15:52:00Z",
-      "actors": []
-    },
-    {
-      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-      "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "source": "BleepingComputer",
-      "published": "2026-08-13T15:13:19Z",
       "actors": []
     },
     {
