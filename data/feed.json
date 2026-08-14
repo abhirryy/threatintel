@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:07:44Z",
+  "generated_at": "2026-08-14T02:44:34Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33246",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-14T02:00:03Z",
+      "actors": []
+    },
+    {
+      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
+      "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-14T01:19:12Z",
+      "actors": []
+    },
     {
       "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
       "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
@@ -233,14 +249,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
       "source": "Dark Reading",
       "published": "2026-08-12T16:28:04Z",
-      "actors": []
-    },
-    {
-      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
-      "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
-      "source": "BleepingComputer",
-      "published": "2026-08-12T16:05:12Z",
       "actors": []
     },
     {
@@ -483,14 +491,6 @@
       "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
       "source": "The Hacker News",
       "published": "2026-08-11T09:16:24Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the…",
-      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "source": "The Hacker News",
-      "published": "2026-08-11T06:55:45Z",
       "actors": []
     }
   ],
