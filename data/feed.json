@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:52:37Z",
+  "generated_at": "2026-08-15T14:16:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "source": "BleepingComputer",
+      "published": "2026-08-15T14:14:38Z",
+      "actors": []
+    },
     {
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
       "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
@@ -209,14 +217,6 @@
       "url": "https://therecord.media/flock-safety-audit-assistance-police-departments",
       "source": "The Record",
       "published": "2026-08-13T16:47:00Z",
-      "actors": []
-    },
-    {
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "source": "BleepingComputer",
-      "published": "2026-08-13T16:40:23Z",
       "actors": []
     },
     {
