@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:58:06Z",
+  "generated_at": "2026-08-15T12:52:34Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -16,7 +16,7 @@
       "actors": []
     },
     {
-      "title": "Investigation of banking hack leads to arrests in Germany, Brazil",
+      "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
       "summary": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges.",
       "url": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
       "source": "The Record",
