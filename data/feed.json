@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-16T23:38:46Z",
+  "generated_at": "2026-08-16T23:56:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 7,
+    "threat_actors": 6,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "source": "BleepingComputer",
+      "published": "2026-08-16T23:47:06Z",
+      "actors": []
+    },
     {
       "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
       "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
@@ -200,16 +208,6 @@
       "source": "BleepingComputer",
       "published": "2026-08-13T21:12:47Z",
       "actors": []
-    },
-    {
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "source": "BleepingComputer",
-      "published": "2026-08-13T20:47:02Z",
-      "actors": [
-        "Akira"
-      ]
     },
     {
       "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
@@ -505,17 +503,6 @@
       "published": "2026-08-14T11:55:45Z",
       "actors": [
         "Clop"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "source": "BleepingComputer",
-      "published": "2026-08-13T20:47:02Z",
-      "actors": [
-        "Akira"
       ],
       "kind": "news"
     },
