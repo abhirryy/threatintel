@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:12:37Z",
+  "generated_at": "2026-08-17T21:43:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://isc.sans.edu/diary/rss/33254",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-17T20:26:39Z",
+      "actors": []
+    },
+    {
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+      "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "source": "Dark Reading",
+      "published": "2026-08-17T20:26:34Z",
       "actors": []
     },
     {
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
       "source": "The Hacker News",
       "published": "2026-08-13T11:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
-      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
-      "url": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
-      "source": "Dark Reading",
-      "published": "2026-08-13T10:00:00Z",
       "actors": []
     }
   ],
