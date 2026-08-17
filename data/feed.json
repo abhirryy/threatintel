@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:35:44Z",
+  "generated_at": "2026-08-17T02:46:02Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33250",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-17T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
       "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
@@ -483,14 +491,6 @@
       "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
       "source": "The Hacker News",
       "published": "2026-08-11T16:47:44Z",
-      "actors": []
-    },
-    {
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver…",
-      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "source": "The Hacker News",
-      "published": "2026-08-11T16:35:27Z",
       "actors": []
     }
   ],
