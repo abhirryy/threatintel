@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:40:00Z",
+  "generated_at": "2026-08-17T15:01:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "source": "BleepingComputer",
+      "published": "2026-08-17T14:47:08Z",
+      "actors": []
+    },
     {
       "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
       "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global password for…",
@@ -263,14 +271,6 @@
       "url": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
       "source": "Dark Reading",
       "published": "2026-08-14T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T13:45:18Z",
       "actors": []
     },
     {
