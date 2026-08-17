@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:17:47Z",
+  "generated_at": "2026-08-17T20:48:15Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+      "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.",
+      "url": "https://isc.sans.edu/diary/rss/33254",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-17T20:26:39Z",
+      "actors": []
+    },
     {
       "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
       "summary": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.",
@@ -481,14 +489,6 @@
       "url": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
       "source": "Dark Reading",
       "published": "2026-08-13T07:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by…",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T06:09:48Z",
       "actors": []
     }
   ],
