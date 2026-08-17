@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:53:47Z",
+  "generated_at": "2026-08-17T19:25:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "source": "BleepingComputer",
+      "published": "2026-08-17T19:12:39Z",
+      "actors": []
+    },
     {
       "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
       "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
@@ -287,14 +295,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
       "source": "BleepingComputer",
       "published": "2026-08-14T14:59:55Z",
-      "actors": []
-    },
-    {
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T14:00:10Z",
       "actors": []
     },
     {
