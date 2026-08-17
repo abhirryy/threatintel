@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:59:37Z",
+  "generated_at": "2026-08-17T17:36:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
+      "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
+      "url": "https://therecord.media/safepal-crypto-hardware-breach",
+      "source": "The Record",
+      "published": "2026-08-17T17:00:00Z",
+      "actors": []
+    },
     {
       "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
       "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered.",
@@ -295,14 +303,6 @@
       "url": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
       "source": "Dark Reading",
       "published": "2026-08-14T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
-      "summary": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.",
-      "url": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
-      "source": "The Record",
-      "published": "2026-08-14T13:14:15Z",
       "actors": []
     },
     {
