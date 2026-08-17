@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:43:08Z",
+  "generated_at": "2026-08-17T22:01:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+      "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+      "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+      "source": "Dark Reading",
+      "published": "2026-08-17T21:37:23Z",
+      "actors": []
+    },
     {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has…",
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
       "source": "The Hacker News",
       "published": "2026-08-13T11:53:14Z",
-      "actors": []
-    },
-    {
-      "title": "North Korean Remote Workers Are Infiltrating Government and Businesses: How to Expose Them Before Hiring",
-      "summary": "Companies are used to thinking about attackers as outsiders trying to break in. North Korean IT workers flip that model. They apply for jobs, pass interviews, receive legitimate credentials, and can end up inside the same systems companies spend millions trying to protect. That risk is no longer theoretical. The FBI…",
-      "url": "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T11:45:00Z",
       "actors": []
     }
   ],
