@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:34:55Z",
+  "generated_at": "2026-08-17T14:04:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and…",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T13:23:51Z",
+      "actors": []
+    },
     {
       "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
       "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
@@ -485,14 +493,6 @@
       "url": "https://isc.sans.edu/diary/rss/33240",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-12T14:21:10Z",
-      "actors": []
-    },
-    {
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked…",
-      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "source": "The Hacker News",
-      "published": "2026-08-12T14:09:50Z",
       "actors": []
     }
   ],
