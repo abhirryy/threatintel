@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:56:23Z",
+  "generated_at": "2026-08-17T16:33:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
+      "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered.",
+      "url": "https://therecord.media/irregular-ai-hacking-model-blog",
+      "source": "The Record",
+      "published": "2026-08-17T16:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
+      "summary": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures.",
+      "url": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+      "source": "The Record",
+      "published": "2026-08-17T16:01:00Z",
+      "actors": []
+    },
+    {
+      "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+      "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
+      "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+      "source": "Dark Reading",
+      "published": "2026-08-17T15:44:34Z",
+      "actors": []
+    },
     {
       "title": "Microsoft confirms GitHub is down worldwide",
       "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
@@ -380,22 +404,6 @@
       "actors": []
     },
     {
-      "title": "Flock tightens privacy controls amid scandals over officer abuse",
-      "summary": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.",
-      "url": "https://therecord.media/flock-safety-audit-assistance-police-departments",
-      "source": "The Record",
-      "published": "2026-08-13T16:47:00Z",
-      "actors": []
-    },
-    {
-      "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
-      "summary": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.",
-      "url": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
-      "source": "The Record",
-      "published": "2026-08-13T15:52:00Z",
-      "actors": []
-    },
-    {
       "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
       "summary": "Afghan telecom providers and South Asian critical infrastructure organizations have emerged as the target of a new ongoing campaign that delivers a previously undocumented backdoor called PATCHCORD. According to Acronis Threat Research Unit (TRU), the backdoor is a compiled C/C++ implant delivered by means of…",
       "url": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
@@ -484,14 +492,6 @@
       "actors": [
         "Lazarus"
       ]
-    },
-    {
-      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
-      "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
-      "url": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-      "source": "Dark Reading",
-      "published": "2026-08-12T16:28:04Z",
-      "actors": []
     }
   ],
   "threat_actors": [
