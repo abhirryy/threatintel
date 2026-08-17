@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:56:19Z",
+  "generated_at": "2026-08-17T12:52:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "source": "BleepingComputer",
+      "published": "2026-08-17T12:33:11Z",
+      "actors": []
+    },
+    {
+      "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
+      "summary": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure.",
+      "url": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
+      "source": "The Record",
+      "published": "2026-08-17T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security.…",
+      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T11:58:00Z",
+      "actors": []
+    },
     {
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
@@ -16,6 +40,14 @@
       "actors": [
         "Clop"
       ]
+    },
+    {
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a chain that began in…",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T10:52:34Z",
+      "actors": []
     },
     {
       "title": "French tax authority data breach affects 678,000 individuals",
@@ -278,14 +310,6 @@
       "actors": []
     },
     {
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T10:52:05Z",
-      "actors": []
-    },
-    {
       "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
       "summary": "Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks. In a statement shared with TechCrunch, the iPhone maker said it alerted an unspecified number of users targeted in 110 countries and that it has notified customers in over 150…",
       "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
@@ -371,14 +395,6 @@
       "url": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
       "source": "The Hacker News",
       "published": "2026-08-13T13:43:14Z",
-      "actors": []
-    },
-    {
-      "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
-      "summary": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology.",
-      "url": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
-      "source": "The Record",
-      "published": "2026-08-13T13:37:32Z",
       "actors": []
     },
     {
@@ -477,22 +493,6 @@
       "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
       "source": "The Hacker News",
       "published": "2026-08-12T14:09:50Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
-      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
-      "source": "Dark Reading",
-      "published": "2026-08-12T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
-      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-      "source": "Dark Reading",
-      "published": "2026-08-12T12:41:03Z",
       "actors": []
     }
   ],
