@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:52:06Z",
+  "generated_at": "2026-08-17T20:17:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+      "summary": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.",
+      "url": "https://therecord.media/financial-info-leak-debt-consolidator",
+      "source": "The Record",
+      "published": "2026-08-17T20:05:00Z",
+      "actors": []
+    },
     {
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
@@ -271,14 +279,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
       "source": "BleepingComputer",
       "published": "2026-08-14T23:24:17Z",
-      "actors": []
-    },
-    {
-      "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
-      "summary": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges.",
-      "url": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
-      "source": "The Record",
-      "published": "2026-08-14T20:31:00Z",
       "actors": []
     },
     {
