@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:48:15Z",
+  "generated_at": "2026-08-17T21:12:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has…",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T21:03:04Z",
+      "actors": []
+    },
     {
       "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
       "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.",
@@ -481,14 +489,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
       "source": "Dark Reading",
       "published": "2026-08-13T10:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-      "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
-      "url": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-      "source": "Dark Reading",
-      "published": "2026-08-13T07:00:00Z",
       "actors": []
     }
   ],
