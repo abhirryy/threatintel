@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-08-17T14:04:18Z",
+  "generated_at": "2026-08-17T14:40:00Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 6,
+    "threat_actors": 5,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+      "summary": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol used a simple global password for…",
+      "url": "https://isc.sans.edu/diary/rss/33252",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-17T14:33:58Z",
+      "actors": []
+    },
+    {
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "source": "BleepingComputer",
+      "published": "2026-08-17T14:00:10Z",
+      "actors": []
+    },
     {
       "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
       "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and…",
@@ -284,16 +300,6 @@
       "actors": []
     },
     {
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T11:55:45Z",
-      "actors": [
-        "Clop"
-      ]
-    },
-    {
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising…",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -486,14 +492,6 @@
       "source": "Dark Reading",
       "published": "2026-08-12T16:28:04Z",
       "actors": []
-    },
-    {
-      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
-      "summary": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#;x26;#;x5f;history\"&#;x26;#;xc2;&#;x26;#;xa0;and collecting meaningful additional data. Our reader David commented that this can also be done…",
-      "url": "https://isc.sans.edu/diary/rss/33240",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-12T14:21:10Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -516,17 +514,6 @@
       "published": "2026-08-14T13:08:56Z",
       "actors": [
         "Mustang Panda"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T11:55:45Z",
-      "actors": [
-        "Clop"
       ],
       "kind": "news"
     },
@@ -565,6 +552,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2025-62593",
+      "title": "CVE-2025-62593 - Ray-Project Ray Code Injection Vulnerability",
+      "summary": "Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
+      "vendor": "Ray-Project",
+      "product": "Ray",
+      "date_added": "2026-08-18",
+      "due_date": "2026-08-21",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-62593",
+      "source": "CISA KEV",
+      "published": "2026-08-18T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-20349",
       "title": "CVE-2026-20349 - Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability",
@@ -1389,20 +1390,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0257",
       "source": "CISA KEV",
       "published": "2026-05-29T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-48027",
-      "title": "CVE-2026-48027 - Nx Console Embedded Malicious Code Vulnerability",
-      "summary": "Nx Console contains an embedded malicious code vulnerability that allowed a malicious version of Nx Console to be published. The compromised extension fetched an obfuscated payload that could harvested credentials from multiple sources on disk and in memory.",
-      "vendor": "Nx",
-      "product": "Nx Console",
-      "date_added": "2026-05-27",
-      "due_date": "2026-06-10",
-      "ransomware": "Known",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48027",
-      "source": "CISA KEV",
-      "published": "2026-05-27T00:00:00Z",
       "actors": []
     }
   ]
