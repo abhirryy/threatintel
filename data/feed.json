@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:25:41Z",
+  "generated_at": "2026-08-17T19:52:06Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,51 @@
   },
   "osint_news": [
     {
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "source": "BleepingComputer",
+      "published": "2026-08-17T19:35:01Z",
+      "actors": []
+    },
+    {
+      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
+      "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\"",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+      "source": "Dark Reading",
+      "published": "2026-08-17T19:22:56Z",
+      "actors": []
+    },
+    {
       "title": "Pokémon Center data breach exposes customer info, cancels some orders",
       "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
       "source": "BleepingComputer",
       "published": "2026-08-17T19:12:39Z",
+      "actors": []
+    },
+    {
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. The issue was…",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T18:44:17Z",
+      "actors": []
+    },
+    {
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was…",
+      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T18:22:09Z",
+      "actors": []
+    },
+    {
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December…",
+      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "source": "The Hacker News",
+      "published": "2026-08-17T17:41:06Z",
       "actors": []
     },
     {
@@ -290,14 +330,6 @@
       "actors": []
     },
     {
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T14:59:55Z",
-      "actors": []
-    },
-    {
       "title": "What Boards Need to Know About Tech Risk",
       "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?",
       "url": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
@@ -458,40 +490,6 @@
       "source": "The Hacker News",
       "published": "2026-08-13T06:09:48Z",
       "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33244",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-13T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-      "summary": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the activity my DShield sensor is collecting and…",
-      "url": "https://isc.sans.edu/diary/rss/33242",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-13T01:26:53Z",
-      "actors": []
-    },
-    {
-      "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
-      "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
-      "source": "Dark Reading",
-      "published": "2026-08-12T21:08:54Z",
-      "actors": []
-    },
-    {
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point…",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "source": "The Hacker News",
-      "published": "2026-08-12T17:39:27Z",
-      "actors": [
-        "Lazarus"
-      ]
     }
   ],
   "threat_actors": [
