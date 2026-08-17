@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:54:48Z",
+  "generated_at": "2026-08-17T10:32:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "source": "BleepingComputer",
+      "published": "2026-08-17T10:09:48Z",
+      "actors": []
+    },
     {
       "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
       "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
@@ -207,14 +215,6 @@
       "url": "https://isc.sans.edu/diary/rss/33246",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-14T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
-      "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T01:19:12Z",
       "actors": []
     },
     {
