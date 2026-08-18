@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-18T06:18:23Z",
+  "generated_at": "2026-08-18T07:10:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 5,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and…",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T06:34:20Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -482,14 +490,6 @@
       "source": "The Hacker News",
       "published": "2026-08-13T15:00:29Z",
       "actors": []
-    },
-    {
-      "title": "AmnesiaStealer Hijacks Chromium Sessions to Give Attackers Live Browser Control on macOS",
-      "summary": "Cybersecurity researchers have disclosed details of a new macOS-oriented, Rust-based information stealer called AmnesiaStealer that's capable of hijacking Chromium web browsers to steal session data. The multi-stage stealer is spread via a counterfeit GitHub download page titled \"Download for macOS\" and claims to be…",
-      "url": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T13:43:14Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -523,17 +523,6 @@
       "published": "2026-08-12T17:39:27Z",
       "actors": [
         "Lazarus"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat…",
-      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "source": "The Hacker News",
-      "published": "2026-08-11T18:36:47Z",
-      "actors": [
-        "Sandworm"
       ],
       "kind": "news"
     },
