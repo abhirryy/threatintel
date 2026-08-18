@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:15:01Z",
+  "generated_at": "2026-08-18T16:52:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Berlin cuts two state ministries off government network after security breach",
+      "summary": "The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks since Friday as a precaution.",
+      "url": "https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach",
+      "source": "The Record",
+      "published": "2026-08-18T16:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "University of Texas forced to take systems offline in San Antonio after cyberattack",
+      "summary": "The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones, offline in response.",
+      "url": "https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio",
+      "source": "The Record",
+      "published": "2026-08-18T16:20:00Z",
+      "actors": []
+    },
     {
       "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
       "summary": "The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.",
@@ -221,22 +237,6 @@
       "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
       "source": "The Hacker News",
       "published": "2026-08-17T17:41:06Z",
-      "actors": []
-    },
-    {
-      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
-      "summary": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.",
-      "url": "https://therecord.media/safepal-crypto-hardware-breach",
-      "source": "The Record",
-      "published": "2026-08-17T17:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
-      "summary": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered.",
-      "url": "https://therecord.media/irregular-ai-hacking-model-blog",
-      "source": "The Record",
-      "published": "2026-08-17T16:15:00Z",
       "actors": []
     },
     {
