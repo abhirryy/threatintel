@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T18:22:47Z",
+  "generated_at": "2026-08-18T19:06:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -18,6 +18,22 @@
       ]
     },
     {
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn…",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T17:47:22Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports…",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T17:44:05Z",
+      "actors": []
+    },
+    {
       "title": "Clop created custom web shell for Windchill data theft attacks",
       "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
@@ -26,6 +42,14 @@
       "actors": [
         "Clop"
       ]
+    },
+    {
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from…",
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T16:58:16Z",
+      "actors": []
     },
     {
       "title": "Berlin cuts two state ministries off government network after security breach",
@@ -469,30 +493,6 @@
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "source": "Krebs on Security",
       "published": "2026-08-14T11:24:35Z",
-      "actors": []
-    },
-    {
-      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-      "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions. The technique assumes that an operator…",
-      "url": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T11:07:45Z",
-      "actors": []
-    },
-    {
-      "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
-      "summary": "Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time.…",
-      "url": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T10:57:00Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
-      "summary": "Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks. In a statement shared with TechCrunch, the iPhone maker said it alerted an unspecified number of users targeted in 110 countries and that it has notified customers in over 150…",
-      "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T10:44:34Z",
       "actors": []
     }
   ],
