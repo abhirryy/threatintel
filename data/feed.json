@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:49:51Z",
+  "generated_at": "2026-08-18T02:07:21Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33256",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-18T02:00:03Z",
+      "actors": []
+    },
     {
       "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
       "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
       "source": "The Hacker News",
       "published": "2026-08-13T13:43:14Z",
-      "actors": []
-    },
-    {
-      "title": "WindRelay Android Malware Turns Victims' Phones Into NFC Relays for Payment Fraud",
-      "summary": "A previously unseen Android near field communication (NFC) relay malware family dubbed WindRelay is being deployed in conjunction with a known remote access trojan (RAT) called SpyNote as part of a contactless payment fraud scheme. The purpose-built malware, according to Group-IB, is designed to capture live card data…",
-      "url": "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T11:53:14Z",
       "actors": []
     }
   ],
