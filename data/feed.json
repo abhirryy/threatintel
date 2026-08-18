@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:51:47Z",
+  "generated_at": "2026-08-18T11:17:42Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft tests faster Windows File Explorer, new context menu",
+      "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T11:14:28Z",
+      "actors": []
+    },
     {
       "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
@@ -319,14 +327,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
       "source": "BleepingComputer",
       "published": "2026-08-16T17:29:52Z",
-      "actors": []
-    },
-    {
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "source": "BleepingComputer",
-      "published": "2026-08-16T15:07:44Z",
       "actors": []
     },
     {
