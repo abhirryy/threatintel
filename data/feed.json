@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:14:06Z",
+  "generated_at": "2026-08-18T09:51:42Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T09:24:49Z",
+      "actors": []
+    },
+    {
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from…",
+      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T09:10:45Z",
+      "actors": []
+    },
     {
       "title": "Microsoft starts removing WMIC tool used by cybercriminals",
       "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
@@ -330,14 +346,6 @@
       "actors": []
     },
     {
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "source": "BleepingComputer",
-      "published": "2026-08-14T23:24:17Z",
-      "actors": []
-    },
-    {
       "title": "Mission-Driven Security: Inside a Global Bank's Defense",
       "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
       "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
       "source": "The Hacker News",
       "published": "2026-08-13T18:17:10Z",
-      "actors": []
-    },
-    {
-      "title": "New PATCHCORD Backdoor Targets Afghan Telecom and Indian Critical Infrastructure",
-      "summary": "Afghan telecom providers and South Asian critical infrastructure organizations have emerged as the target of a new ongoing campaign that delivers a previously undocumented backdoor called PATCHCORD. According to Acronis Threat Research Unit (TRU), the backdoor is a compiled C/C++ implant delivered by means of…",
-      "url": "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T15:00:29Z",
       "actors": []
     }
   ],
