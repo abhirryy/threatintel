@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:19:20Z",
+  "generated_at": "2026-08-18T10:51:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T10:32:16Z",
+      "actors": []
+    },
     {
       "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
       "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
@@ -319,14 +327,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
       "source": "BleepingComputer",
       "published": "2026-08-16T15:07:44Z",
-      "actors": []
-    },
-    {
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "source": "BleepingComputer",
-      "published": "2026-08-15T14:14:38Z",
       "actors": []
     },
     {
