@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:12:38Z",
+  "generated_at": "2026-08-18T13:58:39Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -11,6 +11,14 @@
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "source": "Dark Reading",
+      "published": "2026-08-18T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "url": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
       "source": "Dark Reading",
       "published": "2026-08-18T13:00:00Z",
       "actors": []
@@ -481,14 +489,6 @@
       "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
       "source": "The Hacker News",
       "published": "2026-08-14T10:44:34Z",
-      "actors": []
-    },
-    {
-      "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
-      "summary": "A new White House memo signed by U.S. President Donald Trump has instructed the National Coordination Center (NCC) to establish a program that would allow private sector companies to take advantage of their \"innovative capabilities\" to break into foreign Transnational Criminal Organizations (TCOs) and disrupt them.…",
-      "url": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T09:38:56Z",
       "actors": []
     }
   ],
