@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:46:16Z",
+  "generated_at": "2026-08-18T12:15:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign…",
+      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T11:40:06Z",
+      "actors": []
+    },
+    {
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the…",
+      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T11:30:00Z",
+      "actors": []
+    },
     {
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
       "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
@@ -473,22 +489,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
       "source": "Dark Reading",
       "published": "2026-08-13T20:45:17Z",
-      "actors": []
-    },
-    {
-      "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
-      "summary": "A newly disclosed zero-day flaw in GeoServer is seeing active exploitation efforts, per watchTowr. The vulnerability, which has yet to be assigned a CVE identifier, is an SQL injection vulnerability in the open-source platform that can lead to remote code execution (RCE). The security defect remains unpatched. It was…",
-      "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T18:45:12Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: GhostJacking AI Attacks, EtherHiding ClickFix, Cursor CLI Flaw + 17 More Stories",
-      "summary": "Some weeks have one big security story. Others bring many smaller updates that are easy to miss but still matter. This week has plenty of them, covering cloud services, AI tools, malware, data breaches, scams, and new attack methods. The latest ThreatsDay Bulletin puts all of these short updates in one place, so you…",
-      "url": "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
-      "source": "The Hacker News",
-      "published": "2026-08-13T18:17:10Z",
       "actors": []
     }
   ],
