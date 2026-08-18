@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-08-18T17:21:04Z",
+  "generated_at": "2026-08-18T17:51:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 5,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T17:29:51Z",
+      "actors": [
+        "Clop"
+      ]
+    },
     {
       "title": "Berlin cuts two state ministries off government network after security breach",
       "summary": "The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks since Friday as a precaution.",
@@ -362,14 +372,6 @@
       "actors": []
     },
     {
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-      "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-      "source": "BleepingComputer",
-      "published": "2026-08-16T22:28:57Z",
-      "actors": []
-    },
-    {
       "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
       "summary": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.",
       "url": "https://isc.sans.edu/diary/rss/33248",
@@ -493,6 +495,17 @@
     }
   ],
   "threat_actors": [
+    {
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T17:29:51Z",
+      "actors": [
+        "Clop"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
