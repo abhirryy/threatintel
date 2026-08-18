@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T16:52:25Z",
+  "generated_at": "2026-08-18T17:21:04Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -539,6 +539,62 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-33824",
+      "title": "CVE-2026-33824 - Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
+      "summary": "Microsoft Internet Key Exchange (IKE) Service Extensions contains a double free vulnerability that could enable remote code execution.",
+      "vendor": "Microsoft",
+      "product": "Internet Key Exchange (IKE) Service Extensions",
+      "date_added": "2026-08-18",
+      "due_date": "2026-08-21",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33824",
+      "source": "CISA KEV",
+      "published": "2026-08-18T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-59310",
+      "title": "CVE-2026-59310 - Broadcom VMware vCenter Path Traversal Vulnerability",
+      "summary": "Broadcom VMware vCenter contains a path traversal vulnerability which could allow a threat actor with network access to vCenter to execute arbitrary code.",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "date_added": "2026-08-18",
+      "due_date": "2026-08-21",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59310",
+      "source": "CISA KEV",
+      "published": "2026-08-18T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-55040",
+      "title": "CVE-2026-55040 - Microsoft SharePoint Weak Authentication Vulnerability",
+      "summary": "Microsoft SharePoint contains a weak authentication vulnerability which allows an unauthorized attacker to bypass a security feature over a network.",
+      "vendor": "Microsoft",
+      "product": "SharePoint",
+      "date_added": "2026-08-18",
+      "due_date": "2026-08-21",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-55040",
+      "source": "CISA KEV",
+      "published": "2026-08-18T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-65400",
+      "title": "CVE-2026-65400 - Apple macOS Improper Authentication Vulnerability",
+      "summary": "Apple macOS contains an improper authentication vulnerability that could allow an attacker on the network to authenticate to Screen Sharing without valid credentials.",
+      "vendor": "Apple",
+      "product": "macOS",
+      "date_added": "2026-08-18",
+      "due_date": "2026-08-21",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65400",
+      "source": "CISA KEV",
+      "published": "2026-08-18T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2025-62593",
       "title": "CVE-2025-62593 - Ray-Project Ray Code Injection Vulnerability",
@@ -1321,62 +1377,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-45247",
       "source": "CISA KEV",
       "published": "2026-06-03T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2022-0492",
-      "title": "CVE-2022-0492 - Linux Kernel Improper Authentication Vulnerability",
-      "summary": "Linux Kernel contains an improper authentication vulnerability which could allow for privilege escalation via the cgroups v1 release_agent feature.",
-      "vendor": "Linux",
-      "product": "Kernel",
-      "date_added": "2026-06-02",
-      "due_date": "2026-06-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0492",
-      "source": "CISA KEV",
-      "published": "2026-06-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2025-48595",
-      "title": "CVE-2025-48595 - Android Framework Integer Overflow Vulnerability",
-      "summary": "Android Framework contains an integer overflow vulnerability that allows for code execution that could allow for local privilege escalation.",
-      "vendor": "Android",
-      "product": "Framework",
-      "date_added": "2026-06-02",
-      "due_date": "2026-06-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-48595",
-      "source": "CISA KEV",
-      "published": "2026-06-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2024-21182",
-      "title": "CVE-2024-21182 - Oracle WebLogic Server Unspecified Vulnerability",
-      "summary": "Oracle WebLogic contains an unspecified vulnerability that could allow an unauthenticated attacker with network access via T3, IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in unauthorized access to critical data or complete access to all Oracle WebLogic Server…",
-      "vendor": "Oracle",
-      "product": "WebLogic Server",
-      "date_added": "2026-06-01",
-      "due_date": "2026-06-04",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-21182",
-      "source": "CISA KEV",
-      "published": "2026-06-01T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-0257",
-      "title": "CVE-2026-0257 - Palo Alto Networks PAN-OS Authentication Bypass Vulnerability",
-      "summary": "Palo Alto Networks PAN-OS contains an authentication bypass vulnerability that allows attackers to bypass security restrictions and establish an unauthorized VPN connection.",
-      "vendor": "Palo Alto Networks",
-      "product": "PAN-OS",
-      "date_added": "2026-05-29",
-      "due_date": "2026-06-01",
-      "ransomware": "Known",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0257",
-      "source": "CISA KEV",
-      "published": "2026-05-29T00:00:00Z",
       "actors": []
     }
   ]
