@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:58:39Z",
+  "generated_at": "2026-08-18T14:42:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T14:01:11Z",
+      "actors": []
+    },
     {
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -367,14 +375,6 @@
       "url": "https://isc.sans.edu/diary/rss/33248",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-16T21:31:48Z",
-      "actors": []
-    },
-    {
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "source": "BleepingComputer",
-      "published": "2026-08-16T17:29:52Z",
       "actors": []
     },
     {
