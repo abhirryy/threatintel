@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:56:52Z",
+  "generated_at": "2026-08-18T20:30:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "source": "BleepingComputer",
+      "published": "2026-08-18T20:14:58Z",
+      "actors": []
+    },
+    {
+      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
+      "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
+      "url": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
+      "source": "Dark Reading",
+      "published": "2026-08-18T18:32:01Z",
+      "actors": []
+    },
     {
       "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical infrastructure sectors, were attacked as…",
@@ -390,14 +406,6 @@
       "actors": []
     },
     {
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "source": "BleepingComputer",
-      "published": "2026-08-16T23:47:06Z",
-      "actors": []
-    },
-    {
       "title": "Wireshark 4.6.8 Released, (Sun, Aug 16th)",
       "summary": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs.",
       "url": "https://isc.sans.edu/diary/rss/33248",
@@ -485,14 +493,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
       "source": "Dark Reading",
       "published": "2026-08-14T12:17:21Z",
-      "actors": []
-    },
-    {
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising…",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "source": "Krebs on Security",
-      "published": "2026-08-14T11:24:35Z",
       "actors": []
     }
   ],
