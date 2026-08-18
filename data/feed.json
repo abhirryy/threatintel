@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T12:15:16Z",
+  "generated_at": "2026-08-18T13:12:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,27 @@
   },
   "osint_news": [
     {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign…",
-      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "source": "Dark Reading",
+      "published": "2026-08-18T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on…",
+      "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
       "source": "The Hacker News",
-      "published": "2026-08-18T11:40:06Z",
+      "published": "2026-08-18T12:38:36Z",
+      "actors": []
+    },
+    {
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared…",
+      "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T12:38:20Z",
       "actors": []
     },
     {
@@ -21,6 +37,14 @@
       "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
       "source": "The Hacker News",
       "published": "2026-08-18T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign…",
+      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T11:20:00Z",
       "actors": []
     },
     {
@@ -136,8 +160,8 @@
       "actors": []
     },
     {
-      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
-      "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\"",
+      "title": "Adam Shostack Talks Hugging Face Breach & PHANTOM-B",
+      "summary": "The security expert talks with the Dark Reading News Desk about why he \"blown away\" by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
       "source": "Dark Reading",
       "published": "2026-08-17T19:22:56Z",
@@ -465,30 +489,6 @@
       "url": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
       "source": "The Hacker News",
       "published": "2026-08-14T09:38:56Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
-      "summary": "The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud. \"Both missions are administered from a single control panel, XG-Web, a browser-centric remote-access and…",
-      "url": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T07:54:18Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33246",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-14T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-      "summary": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-      "source": "Dark Reading",
-      "published": "2026-08-13T20:45:17Z",
       "actors": []
     }
   ],
