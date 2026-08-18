@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T14:42:28Z",
+  "generated_at": "2026-08-18T15:14:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
+      "summary": "The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.",
+      "url": "https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians",
+      "source": "The Record",
+      "published": "2026-08-18T14:45:00Z",
+      "actors": []
+    },
     {
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
@@ -229,14 +237,6 @@
       "url": "https://therecord.media/irregular-ai-hacking-model-blog",
       "source": "The Record",
       "published": "2026-08-17T16:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
-      "summary": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures.",
-      "url": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
-      "source": "The Record",
-      "published": "2026-08-17T16:01:00Z",
       "actors": []
     },
     {
