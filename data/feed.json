@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T09:18:28Z",
+  "generated_at": "2026-08-19T09:54:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 7,
+    "threat_actors": 8,
     "attack_surface": 60
   },
   "osint_news": [
@@ -23,6 +23,24 @@
       "published": "2026-08-19T08:00:48Z",
       "actors": [
         "Medusa"
+      ]
+    },
+    {
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection, staging, and exfiltration. The tech…",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T06:01:53Z",
+      "actors": []
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web…",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T05:39:25Z",
+      "actors": [
+        "Clop"
       ]
     },
     {
@@ -478,22 +496,6 @@
       "source": "The Hacker News",
       "published": "2026-08-14T18:48:46Z",
       "actors": []
-    },
-    {
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "source": "Dark Reading",
-      "published": "2026-08-14T17:32:46Z",
-      "actors": []
-    },
-    {
-      "title": "IAM Compliance Requirements and Best Practices",
-      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic…",
-      "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T17:19:49Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -505,6 +507,17 @@
       "published": "2026-08-19T08:00:48Z",
       "actors": [
         "Medusa"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web…",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T05:39:25Z",
+      "actors": [
+        "Clop"
       ],
       "kind": "news"
     },
