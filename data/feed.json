@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:56:37Z",
+  "generated_at": "2026-08-19T11:30:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on…",
+      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T11:25:28Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "source": "BleepingComputer",
+      "published": "2026-08-19T11:14:28Z",
+      "actors": []
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper…",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T11:01:48Z",
+      "actors": []
+    },
     {
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
@@ -408,14 +432,6 @@
       "actors": []
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "source": "BleepingComputer",
-      "published": "2026-08-17T12:33:11Z",
-      "actors": []
-    },
-    {
       "title": "How MCP Servers Can Expose Enterprise Secrets",
       "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security.…",
       "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
@@ -477,22 +493,6 @@
       "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
       "source": "The Hacker News",
       "published": "2026-08-15T07:24:04Z",
-      "actors": []
-    },
-    {
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "source": "Dark Reading",
-      "published": "2026-08-14T19:24:18Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and…",
-      "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-      "source": "The Hacker News",
-      "published": "2026-08-14T18:48:46Z",
       "actors": []
     }
   ],
