@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:54:30Z",
+  "generated_at": "2026-08-19T12:43:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
+      "summary": "The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.",
+      "url": "https://therecord.media/iran-cyberattacks-us-doj",
+      "source": "The Record",
+      "published": "2026-08-19T12:15:00Z",
+      "actors": []
+    },
     {
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
       "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on…",
@@ -200,17 +208,17 @@
       "actors": []
     },
     {
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "url": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "source": "Dark Reading",
       "published": "2026-08-18T13:00:00Z",
       "actors": []
     },
     {
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "url": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
       "source": "Dark Reading",
       "published": "2026-08-18T13:00:00Z",
       "actors": []
@@ -301,14 +309,6 @@
       "url": "https://isc.sans.edu/diary/rss/33256",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-18T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Ukrainian software developer faces 12 years in Swiss ransomware trial",
-      "summary": "The unnamed 52-year-old is accused of attacking Swiss train manufacturer Stadler Rail alongside other enterprises as part of an international ransomware operation.",
-      "url": "https://therecord.media/ukrainian-software-developer-court-switzerland",
-      "source": "The Record",
-      "published": "2026-08-17T23:00:00Z",
       "actors": []
     },
     {
