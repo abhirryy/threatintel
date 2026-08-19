@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:49:17Z",
+  "generated_at": "2026-08-19T09:18:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
+      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
+      "source": "BleepingComputer",
+      "published": "2026-08-19T09:10:20Z",
+      "actors": []
+    },
     {
       "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
       "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
@@ -405,14 +413,6 @@
       "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
       "source": "The Hacker News",
       "published": "2026-08-17T10:52:34Z",
-      "actors": []
-    },
-    {
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "source": "BleepingComputer",
-      "published": "2026-08-17T10:09:48Z",
       "actors": []
     },
     {
