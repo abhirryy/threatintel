@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:38:35Z",
+  "generated_at": "2026-08-19T21:02:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Rogue ransomware affiliate poses as data recovery firm to steal payments",
+      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
+      "source": "BleepingComputer",
+      "published": "2026-08-19T20:59:58Z",
+      "actors": []
+    },
+    {
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-08-19T20:53:38Z",
+      "actors": []
+    },
+    {
+      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+      "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+      "source": "Dark Reading",
+      "published": "2026-08-19T20:32:09Z",
+      "actors": []
+    },
     {
       "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
       "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
@@ -368,22 +392,6 @@
       "actors": []
     },
     {
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "source": "BleepingComputer",
-      "published": "2026-08-18T10:32:16Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
-      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-08-18T09:24:49Z",
-      "actors": []
-    },
-    {
       "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
       "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from…",
       "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
@@ -485,14 +493,6 @@
       "url": "https://isc.sans.edu/diary/rss/33252",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-17T14:33:58Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and…",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "source": "The Hacker News",
-      "published": "2026-08-17T13:23:51Z",
       "actors": []
     }
   ],
