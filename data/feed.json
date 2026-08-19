@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T19:12:50Z",
+  "generated_at": "2026-08-19T19:42:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -217,6 +217,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
       "source": "BleepingComputer",
       "published": "2026-08-18T20:14:58Z",
+      "actors": []
+    },
+    {
+      "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
+      "summary": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
+      "source": "Dark Reading",
+      "published": "2026-08-18T19:09:51Z",
       "actors": []
     },
     {
@@ -485,14 +493,6 @@
       "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
       "source": "The Hacker News",
       "published": "2026-08-17T10:52:34Z",
-      "actors": []
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source…",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "source": "The Hacker News",
-      "published": "2026-08-17T09:29:55Z",
       "actors": []
     }
   ],
