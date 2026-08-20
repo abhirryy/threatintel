@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:04:18Z",
+  "generated_at": "2026-08-20T18:56:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -29,6 +29,22 @@
       "url": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
       "source": "The Record",
       "published": "2026-08-20T17:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+      "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+      "source": "Dark Reading",
+      "published": "2026-08-20T17:32:51Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit…",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T17:23:48Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
       "source": "Dark Reading",
       "published": "2026-08-18T18:32:01Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn…",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "source": "The Hacker News",
-      "published": "2026-08-18T17:47:22Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports…",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-08-18T17:44:05Z",
       "actors": []
     }
   ],
