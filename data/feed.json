@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:44:32Z",
+  "generated_at": "2026-08-20T15:17:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "source": "Dark Reading",
+      "published": "2026-08-20T14:59:22Z",
+      "actors": []
+    },
     {
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
@@ -173,14 +181,6 @@
       "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
       "source": "The Hacker News",
       "published": "2026-08-20T06:04:34Z",
-      "actors": []
-    },
-    {
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "source": "Dark Reading",
-      "published": "2026-08-20T04:15:00Z",
       "actors": []
     },
     {
