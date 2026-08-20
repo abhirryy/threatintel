@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:03:46Z",
+  "generated_at": "2026-08-20T21:38:30Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+      "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
+      "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+      "source": "Dark Reading",
+      "published": "2026-08-20T20:42:18Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
       "source": "Dark Reading",
       "published": "2026-08-19T01:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-      "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-      "url": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-      "source": "Dark Reading",
-      "published": "2026-08-18T21:25:58Z",
       "actors": []
     }
   ],
