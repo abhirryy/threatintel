@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T13:08:03Z",
+  "generated_at": "2026-08-20T13:58:04Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "source": "Dark Reading",
+      "published": "2026-08-20T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
+      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins.",
+      "url": "https://isc.sans.edu/diary/rss/33266",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-20T13:09:50Z",
+      "actors": []
+    },
     {
       "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
       "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of folks (and commercial tools) aren&#;x26;#;39;t using it yet.&#;x26;#;xc2;&#;x26;#;xa0;…",
@@ -21,6 +37,38 @@
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
       "source": "BleepingComputer",
       "published": "2026-08-20T12:14:38Z",
+      "actors": []
+    },
+    {
+      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.…",
+      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T12:01:24Z",
+      "actors": []
+    },
+    {
+      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but…",
+      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server. The attacks,…",
+      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T11:39:35Z",
+      "actors": []
+    },
+    {
+      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+      "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the…",
+      "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T11:26:08Z",
       "actors": []
     },
     {
@@ -441,54 +489,6 @@
       "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
       "source": "The Hacker News",
       "published": "2026-08-18T11:20:00Z",
-      "actors": []
-    },
-    {
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from…",
-      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-08-18T09:10:45Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and…",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-08-18T06:34:20Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33256",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-18T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
-      "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
-      "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
-      "source": "Dark Reading",
-      "published": "2026-08-17T21:37:23Z",
-      "actors": []
-    },
-    {
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has…",
-      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-08-17T21:03:04Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
-      "summary": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS.",
-      "url": "https://isc.sans.edu/diary/rss/33254",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-17T20:26:39Z",
       "actors": []
     }
   ],
