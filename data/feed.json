@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:34:31Z",
+  "generated_at": "2026-08-20T19:59:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,22 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+      "url": "https://therecord.media/china-cyber-espionage-central-asia",
+      "source": "The Record",
+      "published": "2026-08-20T19:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy.",
+      "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+      "source": "Dark Reading",
+      "published": "2026-08-20T19:11:15Z",
       "actors": []
     },
     {
@@ -392,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "US charges Iranians for sprawling hacking campaign on government agencies, universities",
-      "summary": "The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.",
-      "url": "https://therecord.media/iran-cyberattacks-us-doj",
-      "source": "The Record",
-      "published": "2026-08-19T12:15:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
       "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was…",
       "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
@@ -479,14 +487,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
       "source": "Dark Reading",
       "published": "2026-08-18T20:17:24Z",
-      "actors": []
-    },
-    {
-      "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
-      "summary": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
-      "source": "Dark Reading",
-      "published": "2026-08-18T19:09:51Z",
       "actors": []
     }
   ],
