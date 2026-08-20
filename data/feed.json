@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T12:03:58Z",
+  "generated_at": "2026-08-20T13:08:03Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -12,7 +12,15 @@
       "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of folks (and commercial tools) aren&#;x26;#;39;t using it yet.&#;x26;#;xc2;&#;x26;#;xa0;…",
       "url": "https://isc.sans.edu/diary/rss/33264",
       "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T11:47:54Z",
+      "published": "2026-08-20T12:45:32Z",
+      "actors": []
+    },
+    {
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "source": "BleepingComputer",
+      "published": "2026-08-20T12:14:38Z",
       "actors": []
     },
     {
@@ -285,14 +293,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-08-19T10:12:24Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T09:10:20Z",
       "actors": []
     },
     {
