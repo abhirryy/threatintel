@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:38:30Z",
+  "generated_at": "2026-08-20T22:01:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
       "source": "Dark Reading",
       "published": "2026-08-20T20:42:18Z",
+      "actors": []
+    },
+    {
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10,…",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T20:22:35Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33258",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-19T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
-      "summary": "In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
-      "source": "Dark Reading",
-      "published": "2026-08-19T01:00:00Z",
       "actors": []
     }
   ],
