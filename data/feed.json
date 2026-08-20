@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:56:05Z",
+  "generated_at": "2026-08-20T19:34:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Calling on Cyber Pros to Help Defend City Hall",
+      "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
+      "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "source": "Dark Reading",
+      "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
     {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
@@ -479,14 +487,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
       "source": "Dark Reading",
       "published": "2026-08-18T19:09:51Z",
-      "actors": []
-    },
-    {
-      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
-      "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
-      "url": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
-      "source": "Dark Reading",
-      "published": "2026-08-18T18:32:01Z",
       "actors": []
     }
   ],
