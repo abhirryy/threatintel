@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T15:53:11Z",
+  "generated_at": "2026-08-20T16:30:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "source": "BleepingComputer",
       "published": "2026-08-20T14:39:48Z",
+      "actors": []
+    },
+    {
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which…",
+      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T14:36:27Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "source": "Dark Reading",
-      "published": "2026-08-18T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "url": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
       "source": "Dark Reading",
       "published": "2026-08-18T13:00:00Z",
       "actors": []
