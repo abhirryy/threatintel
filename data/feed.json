@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:59:40Z",
+  "generated_at": "2026-08-20T20:38:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include…",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T19:59:19Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
       "source": "Dark Reading",
       "published": "2026-08-18T21:25:58Z",
-      "actors": []
-    },
-    {
-      "title": "'CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture",
-      "summary": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
-      "source": "Dark Reading",
-      "published": "2026-08-18T20:17:24Z",
       "actors": []
     }
   ],
