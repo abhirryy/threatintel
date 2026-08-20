@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:41:20Z",
+  "generated_at": "2026-08-20T18:04:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-08-20T17:53:52Z",
+      "actors": []
+    },
     {
       "title": "N-able Bug Exposes Password Vault Master Keys",
       "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
@@ -341,14 +349,6 @@
       "url": "https://isc.sans.edu/diary/rss/33260",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-19T14:24:58Z",
-      "actors": []
-    },
-    {
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T14:00:10Z",
       "actors": []
     },
     {
