@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:00:37Z",
+  "generated_at": "2026-08-21T08:52:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab…",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "source": "The Hacker News",
+      "published": "2026-08-21T07:04:25Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
       "source": "The Hacker News",
       "published": "2026-08-19T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on…",
-      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T11:25:28Z",
       "actors": []
     }
   ],
