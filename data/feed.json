@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:42:47Z",
+  "generated_at": "2026-08-21T11:09:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,22 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T11:04:10Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T11:00:00Z",
       "actors": []
     },
     {
@@ -408,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T18:09:13Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
       "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks…",
       "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
@@ -429,14 +437,6 @@
       "url": "https://therecord.media/nsa-fbi-warns-of-hackers-using-ai-generated-tools-critical-infrastructure",
       "source": "The Record",
       "published": "2026-08-19T17:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T17:50:01Z",
       "actors": []
     },
     {
