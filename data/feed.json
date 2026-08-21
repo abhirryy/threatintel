@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-21T17:38:19Z",
+  "generated_at": "2026-08-21T18:02:53Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 70,
     "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T18:01:30Z",
+      "actors": []
+    },
     {
       "title": "U.S. Bank says breach claims related to fourth-party incident",
       "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
@@ -64,14 +72,6 @@
       "actors": []
     },
     {
-      "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
-      "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
-      "source": "Dark Reading",
-      "published": "2026-08-21T14:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
       "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform.",
       "url": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
@@ -85,14 +85,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
       "source": "BleepingComputer",
       "published": "2026-08-21T13:39:35Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Adds Controls That Should've Been There Already",
-      "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
-      "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-      "source": "Dark Reading",
-      "published": "2026-08-21T13:30:00Z",
       "actors": []
     },
     {
@@ -152,43 +144,11 @@
       "actors": []
     },
     {
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity…",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News…",
       "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
       "source": "The Hacker News",
       "published": "2026-08-21T06:06:11Z",
-      "actors": []
-    },
-    {
-      "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
-      "summary": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#;x26;#;39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ... This is that method. Also, remember when we discussed yesterday…",
-      "url": "https://isc.sans.edu/diary/rss/33272",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-21T02:47:00Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33270",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-21T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "summary": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise. One log that really bears looking at is the log of successful and failed logins. the call for that is:",
-      "url": "https://isc.sans.edu/diary/rss/33268",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-21T01:49:18Z",
-      "actors": []
-    },
-    {
-      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
-      "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
-      "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-      "source": "Dark Reading",
-      "published": "2026-08-20T20:42:18Z",
       "actors": []
     },
     {
@@ -216,14 +176,6 @@
       "actors": []
     },
     {
-      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy.",
-      "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-      "source": "Dark Reading",
-      "published": "2026-08-20T19:11:15Z",
-      "actors": []
-    },
-    {
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -232,27 +184,11 @@
       "actors": []
     },
     {
-      "title": "N-able Bug Exposes Password Vault Master Keys",
-      "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-      "source": "Dark Reading",
-      "published": "2026-08-20T17:39:24Z",
-      "actors": []
-    },
-    {
       "title": "Senators press TikTok over withholding of safety features for some users",
       "summary": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\"",
       "url": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
       "source": "The Record",
       "published": "2026-08-20T17:33:00Z",
-      "actors": []
-    },
-    {
-      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
-      "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-      "source": "Dark Reading",
-      "published": "2026-08-20T17:32:51Z",
       "actors": []
     },
     {
@@ -269,14 +205,6 @@
       "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
       "source": "The Hacker News",
       "published": "2026-08-20T16:59:44Z",
-      "actors": []
-    },
-    {
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "source": "Dark Reading",
-      "published": "2026-08-20T14:59:22Z",
       "actors": []
     },
     {
@@ -320,35 +248,11 @@
       "actors": []
     },
     {
-      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "source": "Dark Reading",
-      "published": "2026-08-20T13:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
       "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote…",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
       "source": "The Hacker News",
       "published": "2026-08-20T13:24:28Z",
-      "actors": []
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins.",
-      "url": "https://isc.sans.edu/diary/rss/33266",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T13:09:50Z",
-      "actors": []
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-      "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of folks (and commercial tools) aren&#;x26;#;39;t using it yet.&#;x26;#;xc2;&#;x26;#;xa0;…",
-      "url": "https://isc.sans.edu/diary/rss/33264",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T12:45:32Z",
       "actors": []
     },
     {
@@ -424,14 +328,6 @@
       "actors": []
     },
     {
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-20T09:46:54Z",
-      "actors": []
-    },
-    {
       "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
       "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure…",
       "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
@@ -448,30 +344,6 @@
       "actors": []
     },
     {
-      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33262",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
-      "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-      "source": "Dark Reading",
-      "published": "2026-08-19T20:32:09Z",
-      "actors": []
-    },
-    {
-      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-      "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-      "source": "Dark Reading",
-      "published": "2026-08-19T19:54:43Z",
-      "actors": []
-    },
-    {
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an…",
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
@@ -485,6 +357,136 @@
       "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
       "source": "The Hacker News",
       "published": "2026-08-19T18:06:44Z",
+      "actors": []
+    },
+    {
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and…",
+      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T13:12:17Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was…",
+      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T11:34:28Z",
+      "actors": []
+    },
+    {
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a…",
+      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on…",
+      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T11:25:28Z",
+      "actors": []
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper…",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T11:01:48Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
+      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection, staging, and exfiltration. The tech…",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T06:01:53Z",
+      "actors": []
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
+      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web…",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "source": "The Hacker News",
+      "published": "2026-08-19T05:39:25Z",
+      "actors": [
+        "Clop"
+      ]
+    },
+    {
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn…",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T17:47:22Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports…",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T17:44:05Z",
+      "actors": []
+    },
+    {
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from…",
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T16:58:16Z",
+      "actors": []
+    },
+    {
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on…",
+      "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T12:38:36Z",
+      "actors": []
+    },
+    {
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared…",
+      "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T12:38:20Z",
+      "actors": []
+    },
+    {
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the…",
+      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign…",
+      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T11:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from…",
+      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T09:10:45Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and…",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-08-18T06:34:20Z",
       "actors": []
     }
   ],
