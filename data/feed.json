@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:52:22Z",
+  "generated_at": "2026-08-21T16:24:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "U.S. Bank says breach claims related to fourth-party incident",
+      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
+      "url": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
+      "source": "The Record",
+      "published": "2026-08-21T16:16:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T15:55:15Z",
+      "actors": []
+    },
     {
       "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
       "summary": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application.",
@@ -408,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "source": "BleepingComputer",
-      "published": "2026-08-20T06:51:03Z",
-      "actors": []
-    },
-    {
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
       "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload…",
       "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
@@ -453,14 +461,6 @@
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
       "source": "The Hacker News",
       "published": "2026-08-19T19:02:40Z",
-      "actors": []
-    },
-    {
-      "title": "Electronic health record company CareCloud says 3.7 million people affected by breach",
-      "summary": "Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s electronic health record environments.",
-      "url": "https://therecord.media/electronic-health-record-company-carecloud-data-breach",
-      "source": "The Record",
-      "published": "2026-08-19T18:10:00Z",
       "actors": []
     },
     {
