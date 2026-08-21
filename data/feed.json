@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:56:56Z",
+  "generated_at": "2026-08-21T14:41:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,27 @@
   },
   "osint_news": [
     {
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T14:00:10Z",
+      "actors": []
+    },
+    {
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
-      "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
+      "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform.",
+      "url": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
+      "source": "The Record",
+      "published": "2026-08-21T13:55:00Z",
       "actors": []
     },
     {
@@ -408,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T20:59:58Z",
-      "actors": []
-    },
-    {
       "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
       "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
       "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33260",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-19T14:24:58Z",
-      "actors": []
-    },
-    {
-      "title": "Latvian officials resign after cyberattack exposes data on 1.2 million people",
-      "summary": "Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.",
-      "url": "https://therecord.media/latvia-cyberattack-vehicle-data",
-      "source": "The Record",
-      "published": "2026-08-19T13:45:00Z",
       "actors": []
     }
   ],
