@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T13:07:09Z",
+  "generated_at": "2026-08-21T13:56:56Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,22 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T13:39:35Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Adds Controls That Should've Been There Already",
+      "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+      "source": "Dark Reading",
+      "published": "2026-08-21T13:30:00Z",
       "actors": []
     },
     {
@@ -400,14 +416,6 @@
       "actors": []
     },
     {
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T20:53:38Z",
-      "actors": []
-    },
-    {
       "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
       "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
       "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
@@ -477,14 +485,6 @@
       "url": "https://therecord.media/latvia-cyberattack-vehicle-data",
       "source": "The Record",
       "published": "2026-08-19T13:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and…",
-      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T13:12:17Z",
       "actors": []
     }
   ],
