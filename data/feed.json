@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:03:24Z",
+  "generated_at": "2026-08-21T10:42:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "source": "BleepingComputer",
+      "published": "2026-08-21T10:10:42Z",
       "actors": []
     },
     {
@@ -437,14 +445,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
       "source": "Dark Reading",
       "published": "2026-08-19T16:58:23Z",
-      "actors": []
-    },
-    {
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-08-19T15:56:09Z",
       "actors": []
     },
     {
