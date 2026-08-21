@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:09:09Z",
+  "generated_at": "2026-08-21T11:41:49Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -37,6 +37,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
       "source": "BleepingComputer",
       "published": "2026-08-21T10:10:42Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device…",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "source": "The Hacker News",
+      "published": "2026-08-21T10:03:11Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
       "source": "The Hacker News",
       "published": "2026-08-19T11:34:28Z",
-      "actors": []
-    },
-    {
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a…",
-      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T11:30:00Z",
       "actors": []
     }
   ],
