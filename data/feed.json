@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:00:58Z",
+  "generated_at": "2026-08-21T20:35:13Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+      "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
+      "url": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+      "source": "The Record",
+      "published": "2026-08-21T19:56:00Z",
+      "actors": []
+    },
+    {
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it…",
+      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "source": "The Hacker News",
+      "published": "2026-08-21T18:53:00Z",
+      "actors": []
+    },
     {
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
@@ -256,16 +272,8 @@
       "actors": []
     },
     {
-      "title": "Senators press TikTok over withholding of safety features for some users",
-      "summary": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\"",
-      "url": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
-      "source": "The Record",
-      "published": "2026-08-20T17:33:00Z",
-      "actors": []
-    },
-    {
       "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
-      "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+      "summary": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
       "url": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
       "source": "Dark Reading",
       "published": "2026-08-20T17:32:51Z",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
       "source": "Dark Reading",
       "published": "2026-08-19T19:54:43Z",
-      "actors": []
-    },
-    {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an…",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T19:02:40Z",
       "actors": []
     }
   ],
