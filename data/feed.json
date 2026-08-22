@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:01:56Z",
+  "generated_at": "2026-08-22T15:31:34Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million…",
+      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "source": "The Hacker News",
+      "published": "2026-08-22T14:32:41Z",
+      "actors": []
+    },
     {
       "title": "Hackers infect Android car head units with proxy botnet malware",
       "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
       "source": "Dark Reading",
       "published": "2026-08-19T20:32:09Z",
-      "actors": []
-    },
-    {
-      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-      "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-      "source": "Dark Reading",
-      "published": "2026-08-19T19:54:43Z",
       "actors": []
     }
   ],
