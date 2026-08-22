@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:55:22Z",
+  "generated_at": "2026-08-22T13:32:54Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "source": "BleepingComputer",
+      "published": "2026-08-22T13:00:09Z",
+      "actors": []
+    },
     {
       "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
       "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
@@ -437,14 +445,6 @@
       "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
       "source": "The Hacker News",
       "published": "2026-08-20T10:38:28Z",
-      "actors": []
-    },
-    {
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-08-20T10:02:02Z",
       "actors": []
     },
     {
