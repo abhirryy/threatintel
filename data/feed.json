@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-23T14:57:42Z",
+  "generated_at": "2026-08-23T15:29:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
+    "osint_news": 120,
     "threat_actors": 2,
     "attack_surface": 60
   },
@@ -48,6 +48,14 @@
       "actors": []
     },
     {
+      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+      "summary": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.",
+      "url": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+      "source": "The Record",
+      "published": "2026-08-21T19:56:00Z",
+      "actors": []
+    },
+    {
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
       "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it…",
       "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
@@ -69,6 +77,14 @@
       "url": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
       "source": "Dark Reading",
       "published": "2026-08-21T17:36:53Z",
+      "actors": []
+    },
+    {
+      "title": "U.S. Bank says breach claims related to fourth-party incident",
+      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
+      "url": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
+      "source": "The Record",
+      "published": "2026-08-21T16:16:00Z",
       "actors": []
     },
     {
@@ -96,6 +112,14 @@
       "actors": []
     },
     {
+      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
+      "summary": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application.",
+      "url": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
+      "source": "The Record",
+      "published": "2026-08-21T15:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
       "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
@@ -117,6 +141,14 @@
       "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
+      "summary": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform.",
+      "url": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
+      "source": "The Record",
+      "published": "2026-08-21T13:55:00Z",
       "actors": []
     },
     {
@@ -253,6 +285,14 @@
       "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
       "source": "The Hacker News",
       "published": "2026-08-20T19:59:19Z",
+      "actors": []
+    },
+    {
+      "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
+      "summary": "Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.",
+      "url": "https://therecord.media/china-cyber-espionage-central-asia",
+      "source": "The Record",
+      "published": "2026-08-20T19:30:00Z",
       "actors": []
     },
     {
@@ -445,46 +485,6 @@
       "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
       "source": "The Hacker News",
       "published": "2026-08-20T06:04:34Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33262",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
-      "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-      "source": "Dark Reading",
-      "published": "2026-08-19T20:32:09Z",
-      "actors": []
-    },
-    {
-      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-      "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-      "source": "Dark Reading",
-      "published": "2026-08-19T19:54:43Z",
-      "actors": []
-    },
-    {
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an…",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T19:02:40Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks…",
-      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T18:06:44Z",
       "actors": []
     }
   ],
