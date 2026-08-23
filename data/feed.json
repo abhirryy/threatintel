@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:02:39Z",
+  "generated_at": "2026-08-23T14:35:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "source": "BleepingComputer",
+      "published": "2026-08-23T14:23:46Z",
+      "actors": []
+    },
     {
       "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
       "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million…",
@@ -413,14 +421,6 @@
       "url": "https://isc.sans.edu/diary/rss/33264",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-20T12:45:32Z",
-      "actors": []
-    },
-    {
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "source": "BleepingComputer",
-      "published": "2026-08-20T12:14:38Z",
       "actors": []
     },
     {
