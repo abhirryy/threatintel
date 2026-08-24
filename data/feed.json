@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T15:02:02Z",
+  "generated_at": "2026-08-24T15:51:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T15:17:16Z",
+      "actors": []
+    },
+    {
+      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+      "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
+      "url": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+      "source": "Dark Reading",
+      "published": "2026-08-24T15:02:32Z",
+      "actors": []
+    },
     {
       "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
       "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
@@ -312,14 +328,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-21T11:04:10Z",
-      "actors": []
-    },
-    {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device…",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
       "source": "The Hacker News",
       "published": "2026-08-20T13:24:28Z",
-      "actors": []
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-      "summary": "Building on the last diary on Using MS Graph and Powershell, let&#;x26;#;39;s look at \"Risky\" logins.",
-      "url": "https://isc.sans.edu/diary/rss/33266",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T13:09:50Z",
       "actors": []
     }
   ],
