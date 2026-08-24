@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:11:26Z",
+  "generated_at": "2026-08-24T15:02:02Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+      "url": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+      "source": "Dark Reading",
+      "published": "2026-08-24T14:34:59Z",
+      "actors": []
+    },
     {
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
@@ -281,7 +289,7 @@
     },
     {
       "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-      "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+      "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
       "url": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
       "source": "Dark Reading",
       "published": "2026-08-21T13:10:33Z",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33266",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-20T13:09:50Z",
-      "actors": []
-    },
-    {
-      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-      "summary": "Microsoft Graph is a newer API that is meant to replace several others.&#;x26;#;xc2;&#;x26;#;xa0; OK, it&#;x26;#;39;s at version 2.3.9, so it&#;x26;#;39;s not all that new, but it&#;x26;#;39;s new enough that lots of folks (and commercial tools) aren&#;x26;#;39;t using it yet.&#;x26;#;xc2;&#;x26;#;xa0;…",
-      "url": "https://isc.sans.edu/diary/rss/33264",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-20T12:45:32Z",
       "actors": []
     }
   ],
