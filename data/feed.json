@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:03:07Z",
+  "generated_at": "2026-08-24T09:59:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T09:42:05Z",
+      "actors": []
+    },
     {
       "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
       "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam.…",
@@ -389,14 +397,6 @@
       "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "source": "The Hacker News",
       "published": "2026-08-20T14:36:27Z",
-      "actors": []
-    },
-    {
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "source": "BleepingComputer",
-      "published": "2026-08-20T14:01:11Z",
       "actors": []
     },
     {
