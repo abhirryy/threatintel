@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T23:09:20Z",
+  "generated_at": "2026-08-24T23:34:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
@@ -69,6 +69,22 @@
       "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
       "source": "BleepingComputer",
       "published": "2026-08-24T17:56:24Z",
+      "actors": []
+    },
+    {
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean…",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "source": "The Hacker News",
+      "published": "2026-08-24T17:41:30Z",
+      "actors": []
+    },
+    {
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites…",
+      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "source": "The Hacker News",
+      "published": "2026-08-24T17:41:11Z",
       "actors": []
     },
     {
@@ -149,14 +165,6 @@
       "url": "https://therecord.media/android-botnet-china-hackers",
       "source": "The Record",
       "published": "2026-08-24T12:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean…",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T11:58:00Z",
       "actors": []
     },
     {
@@ -478,28 +486,9 @@
       "source": "Dark Reading",
       "published": "2026-08-20T14:59:22Z",
       "actors": []
-    },
-    {
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which…",
-      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T14:36:27Z",
-      "actors": []
     }
   ],
   "threat_actors": [
-    {
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web…",
-      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "source": "The Hacker News",
-      "published": "2026-08-19T05:39:25Z",
-      "actors": [
-        "Clop"
-      ],
-      "kind": "news"
-    },
     {
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
