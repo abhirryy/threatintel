@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:46:49Z",
+  "generated_at": "2026-08-24T22:10:35Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+      "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+      "source": "Dark Reading",
+      "published": "2026-08-24T21:46:55Z",
+      "actors": []
+    },
     {
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "source": "The Hacker News",
       "published": "2026-08-20T14:36:27Z",
-      "actors": []
-    },
-    {
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a…",
-      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T13:48:24Z",
       "actors": []
     }
   ],
