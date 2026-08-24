@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:02:43Z",
+  "generated_at": "2026-08-24T20:43:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "New Zealand to pursue social media ban for children under 16",
+      "summary": "The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation, digital ID services, formal IDs and existing account information for verification.",
+      "url": "https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children",
+      "source": "The Record",
+      "published": "2026-08-24T20:36:00Z",
+      "actors": []
+    },
     {
       "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
       "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
@@ -285,14 +293,6 @@
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "source": "The Hacker News",
       "published": "2026-08-21T15:41:44Z",
-      "actors": []
-    },
-    {
-      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "summary": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application.",
-      "url": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "source": "The Record",
-      "published": "2026-08-21T15:00:00Z",
       "actors": []
     },
     {
