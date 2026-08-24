@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:45:52Z",
+  "generated_at": "2026-08-24T11:14:15Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T10:45:12Z",
+      "actors": []
+    },
     {
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
@@ -225,7 +233,7 @@
     },
     {
       "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-08-21T11:04:10Z",
@@ -381,14 +389,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
       "source": "Dark Reading",
       "published": "2026-08-20T14:59:22Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-20T14:39:48Z",
       "actors": []
     },
     {
