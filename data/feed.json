@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:45:16Z",
+  "generated_at": "2026-08-24T23:09:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
+      "summary": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
+      "url": "https://therecord.media/iran-cyberattacks-us-uk",
+      "source": "The Record",
+      "published": "2026-08-24T23:00:00Z",
+      "actors": []
+    },
     {
       "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
       "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
@@ -285,14 +293,6 @@
       "url": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
       "source": "Dark Reading",
       "published": "2026-08-21T17:36:53Z",
-      "actors": []
-    },
-    {
-      "title": "U.S. Bank says breach claims related to fourth-party incident",
-      "summary": "The bank said there is no evidence that its own systems, networks or data repositories were compromised.",
-      "url": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
-      "source": "The Record",
-      "published": "2026-08-21T16:16:00Z",
       "actors": []
     },
     {
