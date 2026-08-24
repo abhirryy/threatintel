@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:25:44Z",
+  "generated_at": "2026-08-24T14:11:26Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,35 @@
   },
   "osint_news": [
     {
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T14:00:19Z",
+      "actors": []
+    },
+    {
+      "title": "South Korean startup platform breach exposes key management failures",
+      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T14:00:10Z",
+      "actors": []
+    },
+    {
       "title": "Microsoft: August updates break printing, PDF export in WPF apps",
       "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
       "source": "BleepingComputer",
       "published": "2026-08-24T12:40:21Z",
+      "actors": []
+    },
+    {
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain…",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "source": "The Hacker News",
+      "published": "2026-08-24T12:35:36Z",
       "actors": []
     },
     {
@@ -288,22 +312,6 @@
       "actors": []
     },
     {
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-08-21T11:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "source": "BleepingComputer",
-      "published": "2026-08-21T10:10:42Z",
-      "actors": []
-    },
-    {
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device…",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33264",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-20T12:45:32Z",
-      "actors": []
-    },
-    {
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.…",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T12:01:24Z",
       "actors": []
     }
   ],
