@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-24T17:05:31Z",
+  "generated_at": "2026-08-24T17:43:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 110,
     "threat_actors": 2,
     "attack_surface": 60
   },
@@ -24,7 +24,7 @@
       "actors": []
     },
     {
-      "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
       "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
       "url": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
       "source": "Dark Reading",
@@ -141,22 +141,6 @@
       "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
       "source": "The Hacker News",
       "published": "2026-08-24T08:08:31Z",
-      "actors": []
-    },
-    {
-      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
-      "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up . It doesn&#;x26;#;39;t use real steganography:",
-      "url": "https://isc.sans.edu/diary/rss/33274",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-24T07:23:16Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33276",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-24T02:00:03Z",
       "actors": []
     },
     {
@@ -368,30 +352,6 @@
       "actors": []
     },
     {
-      "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
-      "summary": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#;x26;#;39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ... This is that method. Also, remember when we discussed yesterday…",
-      "url": "https://isc.sans.edu/diary/rss/33272",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-21T02:47:00Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33270",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-21T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "summary": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise. One log that really bears looking at is the log of successful and failed logins. the call for that is:",
-      "url": "https://isc.sans.edu/diary/rss/33268",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-21T01:49:18Z",
-      "actors": []
-    },
-    {
       "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
       "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
       "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
@@ -485,6 +445,46 @@
       "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
       "source": "The Hacker News",
       "published": "2026-08-20T13:35:13Z",
+      "actors": []
+    },
+    {
+      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "source": "Dark Reading",
+      "published": "2026-08-20T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote…",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T13:24:28Z",
+      "actors": []
+    },
+    {
+      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.…",
+      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T12:01:24Z",
+      "actors": []
+    },
+    {
+      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but…",
+      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server. The attacks,…",
+      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "source": "The Hacker News",
+      "published": "2026-08-20T11:39:35Z",
       "actors": []
     }
   ],
