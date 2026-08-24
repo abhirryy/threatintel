@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-24T17:43:28Z",
+  "generated_at": "2026-08-24T18:15:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
+    "osint_news": 120,
     "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "TikTok reaches $400M settlement with US over COPPA violations",
+      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T17:56:24Z",
+      "actors": []
+    },
     {
       "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
       "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
@@ -141,6 +149,22 @@
       "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
       "source": "The Hacker News",
       "published": "2026-08-24T08:08:31Z",
+      "actors": []
+    },
+    {
+      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
+      "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up . It doesn&#;x26;#;39;t use real steganography:",
+      "url": "https://isc.sans.edu/diary/rss/33274",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-24T07:23:16Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33276",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-24T02:00:03Z",
       "actors": []
     },
     {
@@ -312,14 +336,6 @@
       "actors": []
     },
     {
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "source": "BleepingComputer",
-      "published": "2026-08-21T12:25:33Z",
-      "actors": []
-    },
-    {
       "title": "Wazuh and AI For Enhanced SOC Workflows",
       "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has…",
       "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
@@ -349,6 +365,30 @@
       "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
       "source": "The Hacker News",
       "published": "2026-08-21T06:06:11Z",
+      "actors": []
+    },
+    {
+      "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
+      "summary": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#;x26;#;39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ... This is that method. Also, remember when we discussed yesterday…",
+      "url": "https://isc.sans.edu/diary/rss/33272",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-21T02:47:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33270",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-21T02:00:03Z",
+      "actors": []
+    },
+    {
+      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
+      "summary": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise. One log that really bears looking at is the log of successful and failed logins. the call for that is:",
+      "url": "https://isc.sans.edu/diary/rss/33268",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-21T01:49:18Z",
       "actors": []
     },
     {
@@ -445,46 +485,6 @@
       "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
       "source": "The Hacker News",
       "published": "2026-08-20T13:35:13Z",
-      "actors": []
-    },
-    {
-      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "source": "Dark Reading",
-      "published": "2026-08-20T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
-      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote…",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T13:24:28Z",
-      "actors": []
-    },
-    {
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography.…",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T12:01:24Z",
-      "actors": []
-    },
-    {
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but…",
-      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T11:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server. The attacks,…",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T11:39:35Z",
       "actors": []
     }
   ],
