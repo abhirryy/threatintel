@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T20:43:51Z",
+  "generated_at": "2026-08-24T21:13:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+      "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+      "url": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+      "source": "Dark Reading",
+      "published": "2026-08-24T20:51:27Z",
+      "actors": []
+    },
     {
       "title": "New Zealand to pursue social media ban for children under 16",
       "summary": "The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation, digital ID services, formal IDs and existing account information for verification.",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
       "source": "The Hacker News",
       "published": "2026-08-20T13:48:24Z",
-      "actors": []
-    },
-    {
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler…",
-      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "source": "The Hacker News",
-      "published": "2026-08-20T13:35:13Z",
       "actors": []
     }
   ],
