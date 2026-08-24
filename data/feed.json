@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:04:24Z",
+  "generated_at": "2026-08-24T19:39:42Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-24T19:26:32Z",
+      "actors": []
+    },
     {
       "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
       "summary": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers.",
@@ -309,14 +317,6 @@
       "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-      "source": "BleepingComputer",
-      "published": "2026-08-21T13:39:35Z",
       "actors": []
     },
     {
