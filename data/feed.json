@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:52:21Z",
+  "generated_at": "2026-08-25T16:28:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Massive DDoS attack disrupts Norway’s government digital services",
+      "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "source": "BleepingComputer",
+      "published": "2026-08-25T15:52:36Z",
+      "actors": []
+    },
     {
       "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
       "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit Server Side Request Forgery (SSRF)…",
@@ -349,14 +357,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
       "source": "BleepingComputer",
       "published": "2026-08-24T10:45:12Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-08-24T09:42:05Z",
       "actors": []
     },
     {
