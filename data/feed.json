@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T17:07:38Z",
+  "generated_at": "2026-08-25T17:44:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -502,6 +502,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-60004",
+      "title": "CVE-2026-60004 - Gitea Code Injection Vulnerability",
+      "summary": "Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
+      "vendor": "Gitea",
+      "product": "Gitea",
+      "date_added": "2026-08-25",
+      "due_date": "2026-08-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-60004",
+      "source": "CISA KEV",
+      "published": "2026-08-25T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-21962",
       "title": "CVE-2026-21962 - Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
@@ -1324,20 +1338,6 @@
       "due_date": "2026-06-23",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-11645",
-      "source": "CISA KEV",
-      "published": "2026-06-09T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-7473",
-      "title": "CVE-2026-7473 - Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability",
-      "summary": "Arista Extensible Operating System (EOS) contains an incomplete comparison with missing factors vulnerability when the switch incorrectly decapsulate and forwards other unexpected tunneled packet with a destination IP matching its configured decapsulation IP.",
-      "vendor": "Arista",
-      "product": "Extensible Operating System",
-      "date_added": "2026-06-09",
-      "due_date": "2026-06-23",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-7473",
       "source": "CISA KEV",
       "published": "2026-06-09T00:00:00Z",
       "actors": []
