@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:16:54Z",
+  "generated_at": "2026-08-25T19:04:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Employee benefits platform Paylogix says hackers stole financial and health data",
+      "summary": "The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems.",
+      "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
+      "source": "The Record",
+      "published": "2026-08-25T18:45:00Z",
+      "actors": []
+    },
     {
       "title": "Massive DDoS attack disrupts Norway’s government digital services",
       "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
@@ -213,14 +221,6 @@
       "url": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
       "source": "Dark Reading",
       "published": "2026-08-24T20:51:27Z",
-      "actors": []
-    },
-    {
-      "title": "New Zealand to pursue social media ban for children under 16",
-      "summary": "The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation, digital ID services, formal IDs and existing account information for verification.",
-      "url": "https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children",
-      "source": "The Record",
-      "published": "2026-08-24T20:36:00Z",
       "actors": []
     },
     {
