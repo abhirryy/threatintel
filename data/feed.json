@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T09:57:35Z",
+  "generated_at": "2026-08-25T10:40:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
-    "threat_actors": 1,
+    "osint_news": 110,
+    "threat_actors": 0,
     "attack_surface": 60
   },
   "osint_news": [
@@ -488,19 +488,7 @@
       "actors": []
     }
   ],
-  "threat_actors": [
-    {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "source": "Krebs on Security",
-      "published": "2026-06-23T16:12:49Z",
-      "actors": [
-        "Scattered Spider"
-      ],
-      "kind": "news"
-    }
-  ],
+  "threat_actors": [],
   "attack_surface": [
     {
       "cve": "CVE-2026-21962",
