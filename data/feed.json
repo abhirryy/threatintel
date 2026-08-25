@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-08-25T10:40:41Z",
+  "generated_at": "2026-08-25T11:05:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
-    "threat_actors": 0,
+    "osint_news": 120,
+    "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+      "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+      "source": "BleepingComputer",
+      "published": "2026-08-25T10:53:20Z",
+      "actors": []
+    },
     {
       "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
       "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below -…",
@@ -352,14 +360,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-08-21T14:54:49Z",
-      "actors": []
-    },
-    {
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
       "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
@@ -488,7 +488,19 @@
       "actors": []
     }
   ],
-  "threat_actors": [],
+  "threat_actors": [
+    {
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "source": "Krebs on Security",
+      "published": "2026-06-23T16:12:49Z",
+      "actors": [
+        "Scattered Spider"
+      ],
+      "kind": "news"
+    }
+  ],
   "attack_surface": [
     {
       "cve": "CVE-2026-21962",
