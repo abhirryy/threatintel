@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:39:27Z",
+  "generated_at": "2026-08-25T21:59:52Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "source": "BleepingComputer",
+      "published": "2026-08-25T21:58:14Z",
+      "actors": []
+    },
     {
       "title": "Hackers abuse npm mirrors to host phishing redirect pages",
       "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
@@ -333,14 +341,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
       "source": "BleepingComputer",
       "published": "2026-08-24T14:00:19Z",
-      "actors": []
-    },
-    {
-      "title": "South Korean startup platform breach exposes key management failures",
-      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-      "source": "BleepingComputer",
-      "published": "2026-08-24T14:00:10Z",
       "actors": []
     },
     {
