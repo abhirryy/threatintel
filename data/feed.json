@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:03:29Z",
+  "generated_at": "2026-08-25T20:40:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "58 arrested in international cybercrime crackdown",
+      "summary": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe.",
+      "url": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
+      "source": "The Record",
+      "published": "2026-08-25T20:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "source": "BleepingComputer",
+      "published": "2026-08-25T20:25:26Z",
+      "actors": []
+    },
+    {
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+      "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+      "url": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "source": "Dark Reading",
+      "published": "2026-08-25T19:50:16Z",
+      "actors": []
+    },
     {
       "title": "Employee benefits platform Paylogix says hackers stole financial and health data",
       "summary": "The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems.",
@@ -200,14 +224,6 @@
       "actors": []
     },
     {
-      "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
-      "summary": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.",
-      "url": "https://therecord.media/iran-cyberattacks-us-uk",
-      "source": "The Record",
-      "published": "2026-08-24T23:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
       "summary": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
@@ -360,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-      "source": "BleepingComputer",
-      "published": "2026-08-24T10:45:12Z",
-      "actors": []
-    },
-    {
       "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
       "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam.…",
       "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
       "source": "The Hacker News",
       "published": "2026-08-21T10:03:11Z",
-      "actors": []
-    },
-    {
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab…",
-      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "source": "The Hacker News",
-      "published": "2026-08-21T07:04:25Z",
       "actors": []
     }
   ],
