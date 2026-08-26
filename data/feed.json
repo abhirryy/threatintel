@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:21:57Z",
+  "generated_at": "2026-08-26T07:23:27Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary…",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T06:27:07Z",
+      "actors": []
+    },
+    {
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the…",
+      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T05:47:28Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "source": "Dark Reading",
       "published": "2026-08-21T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Adds Controls That Should've Been There Already",
-      "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
-      "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-      "source": "Dark Reading",
-      "published": "2026-08-21T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-      "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
-      "url": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-      "source": "Dark Reading",
-      "published": "2026-08-21T13:10:33Z",
       "actors": []
     }
   ],
