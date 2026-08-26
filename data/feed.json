@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T01:26:19Z",
+  "generated_at": "2026-08-26T02:49:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33282",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-26T02:40:13Z",
+      "actors": []
+    },
     {
       "title": "LACMA data breach last year exposed social security and medical data",
       "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
       "source": "Dark Reading",
       "published": "2026-08-21T13:10:33Z",
-      "actors": []
-    },
-    {
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has…",
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "source": "The Hacker News",
-      "published": "2026-08-21T11:21:39Z",
       "actors": []
     }
   ],
