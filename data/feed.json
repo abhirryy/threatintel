@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:12:26Z",
+  "generated_at": "2026-08-26T14:06:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "source": "BleepingComputer",
+      "published": "2026-08-26T13:17:54Z",
+      "actors": []
+    },
     {
       "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
       "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
@@ -29,6 +37,14 @@
       "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
       "source": "The Hacker News",
       "published": "2026-08-26T11:36:49Z",
+      "actors": []
+    },
+    {
+      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+      "summary": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.",
+      "url": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
+      "source": "Dark Reading",
+      "published": "2026-08-26T11:33:40Z",
       "actors": []
     },
     {
@@ -257,7 +273,7 @@
     },
     {
       "title": "UK government seeks powers to secretly block risky tech suppliers",
-      "summary": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret.",
+      "summary": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret.",
       "url": "https://therecord.media/uk-technology-national-security",
       "source": "The Record",
       "published": "2026-08-25T12:45:00Z",
@@ -384,14 +400,6 @@
       "actors": []
     },
     {
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "source": "BleepingComputer",
-      "published": "2026-08-24T17:56:24Z",
-      "actors": []
-    },
-    {
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
       "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean…",
       "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
       "source": "The Hacker News",
       "published": "2026-08-24T08:08:31Z",
-      "actors": []
-    },
-    {
-      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
-      "summary": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up . It doesn&#;x26;#;39;t use real steganography:",
-      "url": "https://isc.sans.edu/diary/rss/33274",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-24T07:23:16Z",
       "actors": []
     }
   ],
