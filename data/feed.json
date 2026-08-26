@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T09:52:28Z",
+  "generated_at": "2026-08-26T10:29:13Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC News on August 10,…",
+      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T10:27:23Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn. The…",
+      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T09:38:45Z",
+      "actors": []
+    },
     {
       "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
       "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
       "source": "The Hacker News",
       "published": "2026-08-22T14:32:41Z",
-      "actors": []
-    },
-    {
-      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
-      "url": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-      "source": "Dark Reading",
-      "published": "2026-08-21T20:24:42Z",
-      "actors": []
-    },
-    {
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it…",
-      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "source": "The Hacker News",
-      "published": "2026-08-21T18:53:00Z",
       "actors": []
     }
   ],
