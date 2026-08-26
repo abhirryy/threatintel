@@ -1,18 +1,34 @@
 {
-  "generated_at": "2026-08-26T20:11:25Z",
+  "generated_at": "2026-08-26T23:36:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 115,
     "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
     {
-      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
-      "summary": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday.",
-      "url": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
-      "source": "The Record",
-      "published": "2026-08-26T19:10:00Z",
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "source": "BleepingComputer",
+      "published": "2026-08-26T21:33:20Z",
+      "actors": []
+    },
+    {
+      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+      "source": "Dark Reading",
+      "published": "2026-08-26T21:33:06Z",
+      "actors": []
+    },
+    {
+      "title": "Red Flags That Expose Fake North Korean IT Workers",
+      "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
+      "url": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+      "source": "Dark Reading",
+      "published": "2026-08-26T19:21:24Z",
       "actors": []
     },
     {
@@ -21,14 +37,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
       "source": "BleepingComputer",
       "published": "2026-08-26T18:48:24Z",
-      "actors": []
-    },
-    {
-      "title": "Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case",
-      "summary": "A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products.",
-      "url": "https://therecord.media/meta-settlement-children-online-safety-social-media",
-      "source": "The Record",
-      "published": "2026-08-26T18:35:00Z",
       "actors": []
     },
     {
@@ -56,27 +64,11 @@
       "actors": []
     },
     {
-      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
-      "summary": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.",
-      "url": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
-      "source": "The Record",
-      "published": "2026-08-26T16:25:00Z",
-      "actors": []
-    },
-    {
       "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
       "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes, we trust our…",
       "url": "https://isc.sans.edu/diary/rss/33284",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-26T15:58:15Z",
-      "actors": []
-    },
-    {
-      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
-      "summary": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.",
-      "url": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
-      "source": "The Record",
-      "published": "2026-08-26T15:45:00Z",
       "actors": []
     },
     {
@@ -280,14 +272,6 @@
       "actors": []
     },
     {
-      "title": "58 arrested in international cybercrime crackdown",
-      "summary": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe.",
-      "url": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
-      "source": "The Record",
-      "published": "2026-08-25T20:33:00Z",
-      "actors": []
-    },
-    {
       "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
       "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
@@ -349,14 +333,6 @@
       "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
       "source": "The Hacker News",
       "published": "2026-08-25T14:07:37Z",
-      "actors": []
-    },
-    {
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T14:01:11Z",
       "actors": []
     },
     {
@@ -485,6 +461,30 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
       "source": "The Hacker News",
       "published": "2026-08-24T14:32:10Z",
+      "actors": []
+    },
+    {
+      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+      "summary": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+      "source": "Dark Reading",
+      "published": "2026-08-24T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain…",
+      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "source": "The Hacker News",
+      "published": "2026-08-24T12:35:36Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier…",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-08-24T11:56:34Z",
       "actors": []
     }
   ],
