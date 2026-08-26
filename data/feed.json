@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T15:00:23Z",
+  "generated_at": "2026-08-26T16:25:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
+      "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes, we trust our…",
+      "url": "https://isc.sans.edu/diary/rss/33284",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-26T15:58:15Z",
+      "actors": []
+    },
+    {
+      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
+      "summary": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.",
+      "url": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
+      "source": "The Record",
+      "published": "2026-08-26T15:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "source": "BleepingComputer",
+      "published": "2026-08-26T15:19:21Z",
+      "actors": []
+    },
     {
       "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
       "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
@@ -328,14 +352,6 @@
       "actors": []
     },
     {
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T12:04:02Z",
-      "actors": []
-    },
-    {
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
       "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially…",
       "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
@@ -349,14 +365,6 @@
       "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
       "source": "The Hacker News",
       "published": "2026-08-25T11:52:43Z",
-      "actors": []
-    },
-    {
-      "title": "Large DDoS attack knocks Norwegian public services offline",
-      "summary": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.",
-      "url": "https://therecord.media/norway-cyberattack-ddos-government",
-      "source": "The Record",
-      "published": "2026-08-25T11:45:00Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
       "source": "The Hacker News",
       "published": "2026-08-24T11:56:34Z",
-      "actors": []
-    },
-    {
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The…",
-      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T11:51:36Z",
       "actors": []
     }
   ],
