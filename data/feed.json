@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:03:49Z",
+  "generated_at": "2026-08-26T13:12:26Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "source": "BleepingComputer",
+      "published": "2026-08-26T12:06:28Z",
+      "actors": []
+    },
+    {
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe…",
+      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T11:55:00Z",
+      "actors": []
+    },
     {
       "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
       "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human…",
@@ -41,7 +57,7 @@
     },
     {
       "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
-      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
       "url": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
       "source": "Dark Reading",
       "published": "2026-08-26T08:30:00Z",
@@ -64,7 +80,7 @@
       "actors": []
     },
     {
-      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
       "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an unsigned 64-bit…",
       "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
       "source": "The Hacker News",
@@ -137,7 +153,7 @@
     },
     {
       "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
-      "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+      "summary": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
       "url": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
       "source": "Dark Reading",
       "published": "2026-08-25T19:50:16Z",
@@ -392,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-08-24T15:17:16Z",
-      "actors": []
-    },
-    {
       "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
       "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
       "url": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
@@ -425,7 +433,7 @@
     },
     {
       "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
-      "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
+      "summary": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
       "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
       "source": "Dark Reading",
       "published": "2026-08-24T14:00:00Z",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33274",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-24T07:23:16Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33276",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-24T02:00:03Z",
       "actors": []
     }
   ],
