@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:15:46Z",
+  "generated_at": "2026-08-26T20:11:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
+      "summary": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday.",
+      "url": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
+      "source": "The Record",
+      "published": "2026-08-26T19:10:00Z",
+      "actors": []
+    },
+    {
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "source": "BleepingComputer",
+      "published": "2026-08-26T18:48:24Z",
+      "actors": []
+    },
+    {
+      "title": "Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case",
+      "summary": "A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products.",
+      "url": "https://therecord.media/meta-settlement-children-online-safety-social-media",
+      "source": "The Record",
+      "published": "2026-08-26T18:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "Android Malware Hijacks Update System for Car Head Units",
+      "summary": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
+      "source": "Dark Reading",
+      "published": "2026-08-26T17:33:45Z",
+      "actors": []
+    },
     {
       "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
       "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a Chinese state-sponsored group known as…",
@@ -272,14 +304,6 @@
       "actors": []
     },
     {
-      "title": "Employee benefits platform Paylogix says hackers stole financial and health data",
-      "summary": "The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems.",
-      "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
-      "source": "The Record",
-      "published": "2026-08-25T18:45:00Z",
-      "actors": []
-    },
-    {
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
       "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our…",
       "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
@@ -333,22 +357,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
       "source": "BleepingComputer",
       "published": "2026-08-25T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Ukraine to give Britain access to battlefield data to train AI",
-      "summary": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems.",
-      "url": "https://therecord.media/ukraine-uk-ai-drone-data",
-      "source": "The Record",
-      "published": "2026-08-25T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T13:51:58Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
       "source": "The Hacker News",
       "published": "2026-08-24T14:32:10Z",
-      "actors": []
-    },
-    {
-      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
-      "summary": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-      "source": "Dark Reading",
-      "published": "2026-08-24T14:00:00Z",
       "actors": []
     }
   ],
