@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:25:01Z",
+  "generated_at": "2026-08-26T18:15:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a Chinese state-sponsored group known as…",
+      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T16:42:03Z",
+      "actors": []
+    },
+    {
+      "title": "Meta agrees to $18 billion settlement over teen social media harms",
+      "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+      "source": "BleepingComputer",
+      "published": "2026-08-26T16:41:05Z",
+      "actors": []
+    },
+    {
+      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
+      "summary": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.",
+      "url": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
+      "source": "The Record",
+      "published": "2026-08-26T16:25:00Z",
+      "actors": []
+    },
     {
       "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
       "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes, we trust our…",
@@ -21,6 +45,14 @@
       "url": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
       "source": "The Record",
       "published": "2026-08-26T15:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the cyber espionage…",
+      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "source": "The Hacker News",
+      "published": "2026-08-26T15:35:05Z",
       "actors": []
     },
     {
@@ -328,22 +360,6 @@
       "actors": []
     },
     {
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "UK government seeks powers to secretly block risky tech suppliers",
-      "summary": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret.",
-      "url": "https://therecord.media/uk-technology-national-security",
-      "source": "The Record",
-      "published": "2026-08-25T12:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
       "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local…",
       "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
@@ -470,22 +486,6 @@
       "source": "Dark Reading",
       "published": "2026-08-24T14:00:00Z",
       "actors": []
-    },
-    {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain…",
-      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T12:35:36Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier…",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T11:56:34Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -502,6 +502,90 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2021-23758",
+      "title": "CVE-2021-23758 - Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
+      "summary": "Ajax.NET Professional (AjaxPro) contains a deserialization of untrusted data vulnerability that could allow for remote code execution via arbitrary .NET classes. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
+      "vendor": "Ajax.NET Professional",
+      "product": "Ajax.NET Professional",
+      "date_added": "2026-08-26",
+      "due_date": "2026-09-09",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-23758",
+      "source": "CISA KEV",
+      "published": "2026-08-26T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2015-3246",
+      "title": "CVE-2015-3246 - Red Hat Libuser Race Condition Vulnerability",
+      "summary": "Red Hat libuser contains a race condition vulnerability that allows authenticated local users to corrupt the /etc/passwd file to cause a denial of service or privilege escalation.",
+      "vendor": "Red Hat",
+      "product": "Libuser",
+      "date_added": "2026-08-26",
+      "due_date": "2026-09-09",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3246",
+      "source": "CISA KEV",
+      "published": "2026-08-26T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2015-5287",
+      "title": "CVE-2015-5287 - Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability",
+      "summary": "Red Hat Automatic Bug Reporting Tool (ABRT) contains a privilege escalation vulnerability that could allow local users with certain permissions to gain privileges via a symlink attack on a file with a predictable name. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to…",
+      "vendor": "Red Hat",
+      "product": "Automatic Bug Reporting Tool",
+      "date_added": "2026-08-26",
+      "due_date": "2026-09-09",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5287",
+      "source": "CISA KEV",
+      "published": "2026-08-26T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2022-0995",
+      "title": "CVE-2022-0995 - Linux Kernel Out-of-Bounds Write Vulnerability",
+      "summary": "Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "date_added": "2026-08-26",
+      "due_date": "2026-09-09",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0995",
+      "source": "CISA KEV",
+      "published": "2026-08-26T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-8452",
+      "title": "CVE-2026-8452 - Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability which could lead to denial of service.",
+      "vendor": "Citrix",
+      "product": "NetScaler ADC and NetScaler Gateway",
+      "date_added": "2026-08-26",
+      "due_date": "2026-08-29",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-8452",
+      "source": "CISA KEV",
+      "published": "2026-08-26T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2019-1068",
+      "title": "CVE-2019-1068 - Microsoft SQL Server Remote Code Execution Vulnerability",
+      "summary": "Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.",
+      "vendor": "Microsoft",
+      "product": "SQL Server",
+      "date_added": "2026-08-26",
+      "due_date": "2026-08-29",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-1068",
+      "source": "CISA KEV",
+      "published": "2026-08-26T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-60004",
       "title": "CVE-2026-60004 - Gitea Code Injection Vulnerability",
@@ -1256,90 +1340,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20253",
       "source": "CISA KEV",
       "published": "2026-06-18T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-48907",
-      "title": "CVE-2026-48907 - Widget Factory Joomla Content Editor Improper Access Control Vulnerability",
-      "summary": "Widget Factory Joomla Content Editor contains an improper access control vulnerability which could allow for upload and execution of PHP code via the creation of new editor profiles for unauthenticated users.",
-      "vendor": "Widget Factory",
-      "product": "Joomla Content Editor ",
-      "date_added": "2026-06-16",
-      "due_date": "2026-06-19",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48907",
-      "source": "CISA KEV",
-      "published": "2026-06-16T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-54420",
-      "title": "CVE-2026-54420 - LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following Vulnerability",
-      "summary": "LiteSpeed cPanel plugin contains a UNIX symbolic link (Symlink) following vulnerability that could allow a user with FTP or web shell access on a shared hosting server running CloudLinux/CageFS.",
-      "vendor": "LiteSpeed",
-      "product": "cPanel Plugin",
-      "date_added": "2026-06-15",
-      "due_date": "2026-06-18",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-54420",
-      "source": "CISA KEV",
-      "published": "2026-06-15T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-20262",
-      "title": "CVE-2026-20262 - Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability",
-      "summary": "Cisco Catalyst SD-WAN Manager contains a directory or path traversal vulnerability that could allow an authenticated, remote attacker to create a file or overwrite any file on the filesystem of an affected system.",
-      "vendor": "Cisco",
-      "product": "Catalyst SD-WAN Manager",
-      "date_added": "2026-06-15",
-      "due_date": "2026-06-29",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20262",
-      "source": "CISA KEV",
-      "published": "2026-06-15T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-35273",
-      "title": "CVE-2026-35273 - Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability",
-      "summary": "Oracle PeopleSoft Enterprise PeopleTools contains a missing authentication for critical function vulnerability which could allow an unauthenticated attacker to obtain takeover of PeopleSoft Enterprise PeopleTools.",
-      "vendor": "Oracle",
-      "product": " PeopleSoft Enterprise PeopleTools",
-      "date_added": "2026-06-12",
-      "due_date": "2026-06-15",
-      "ransomware": "Known",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-35273",
-      "source": "CISA KEV",
-      "published": "2026-06-12T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-10520",
-      "title": "CVE-2026-10520 - Ivanti Sentry OS Command Injection Vulnerability",
-      "summary": "Ivanti Sentry (formerly known as MobileIron Sentry) contains an OS command injection vulnerability which could allow a remote unauthenticated user to achieve root-level remote code execution. This vulnerability can be successfully exploited in cases where the Sentry appliance is in an unmanaged state with its…",
-      "vendor": "Ivanti",
-      "product": "Sentry",
-      "date_added": "2026-06-11",
-      "due_date": "2026-06-14",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-10520",
-      "source": "CISA KEV",
-      "published": "2026-06-11T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-11645",
-      "title": "CVE-2026-11645 - Google Chromium V8 Out-of-Bounds Read and Write Vulnerability",
-      "summary": "Google Chromium V8 out-of-bounds read and write vulnerability that could allow a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-      "vendor": "Google",
-      "product": "Chromium V8",
-      "date_added": "2026-06-09",
-      "due_date": "2026-06-23",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-11645",
-      "source": "CISA KEV",
-      "published": "2026-06-09T00:00:00Z",
       "actors": []
     }
   ]
