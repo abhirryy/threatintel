@@ -1,12 +1,222 @@
 {
-  "generated_at": "2026-08-27T05:01:27Z",
+  "generated_at": "2026-08-27T16:24:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
+    "osint_news": 120,
     "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Manchester Airports Group says hackers stole travelers' data",
+      "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T16:12:26Z",
+      "actors": []
+    },
+    {
+      "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
+      "summary": "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country.",
+      "url": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
+      "source": "The Record",
+      "published": "2026-08-27T15:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
+      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
+      "url": "https://therecord.media/germany-cyberattacks-china-russia",
+      "source": "The Record",
+      "published": "2026-08-27T14:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "How Threat Research and MDR Help SMBs Build a Defensive Edge",
+      "summary": "Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and human expertise can help SMBs strengthen their defenses. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Android 17 adds ECH support to make web browsing harder to track",
+      "summary": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works…",
+      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T13:39:56Z",
+      "actors": []
+    },
+    {
+      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
+      "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T13:31:13Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
+      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an email address.",
+      "url": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
+      "source": "The Record",
+      "published": "2026-08-27T13:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Australia charges two men for TeamPCP supply-chain hacking spree",
+      "summary": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year.",
+      "url": "https://therecord.media/australia-teampcp-hackers-arrested",
+      "source": "The Record",
+      "published": "2026-08-27T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
+      "summary": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T12:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "Webinar: How Google Workspace breaches happen and what to do next",
+      "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T12:16:24Z",
+      "actors": []
+    },
+    {
+      "title": "DOJ firearms agency says hackers breached system containing investigation targets",
+      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed it experienced a cyberattack on a system containing investigation information, as a prolific ransomware gang claimed to have carried out the breach.",
+      "url": "https://therecord.media/doj-atf-cyberattack-qilin-ransomware",
+      "source": "The Record",
+      "published": "2026-08-27T12:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to…",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T11:56:30Z",
+      "actors": []
+    },
+    {
+      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
+      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Michael Gaebler, 23,…",
+      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T11:56:26Z",
+      "actors": []
+    },
+    {
+      "title": "What the Data Says About AI in Security Operations in 2026",
+      "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are currently testing it out, and only 4% have no plans to adopt it. For the…",
+      "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
+      "summary": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
+      "source": "Dark Reading",
+      "published": "2026-08-27T11:16:01Z",
+      "actors": []
+    },
+    {
+      "title": "Carhartt data breach exposes information of 12.9 million accounts",
+      "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T11:10:04Z",
+      "actors": []
+    },
+    {
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from…",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "Krebs on Security",
+      "published": "2026-08-27T11:04:15Z",
+      "actors": []
+    },
+    {
+      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
+      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health…",
+      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T11:00:57Z",
+      "actors": []
+    },
+    {
+      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
+      "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.",
+      "url": "https://isc.sans.edu/diary/rss/33290",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-27T09:57:28Z",
+      "actors": []
+    },
+    {
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload execution, while…",
+      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T09:33:38Z",
+      "actors": []
+    },
+    {
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T09:16:50Z",
+      "actors": []
+    },
+    {
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T08:13:50Z",
+      "actors": [
+        "Qilin"
+      ]
+    },
+    {
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, the attack was…",
+      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T08:13:11Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation. The vulnerabilities are…",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T07:05:28Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Thursday, August 27th, 2026 https://isc.sans.edu/podcastdetail/10070, (Thu, Aug 27th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33286",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-27T02:00:03Z",
+      "actors": []
+    },
     {
       "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
       "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
@@ -24,11 +234,11 @@
       "actors": []
     },
     {
-      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
-      "summary": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.",
-      "url": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
-      "source": "The Record",
-      "published": "2026-08-26T20:53:00Z",
+      "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
+      "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.",
+      "url": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
+      "source": "Dark Reading",
+      "published": "2026-08-26T19:54:34Z",
       "actors": []
     },
     {
@@ -40,27 +250,11 @@
       "actors": []
     },
     {
-      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
-      "summary": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday.",
-      "url": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
-      "source": "The Record",
-      "published": "2026-08-26T19:10:00Z",
-      "actors": []
-    },
-    {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
       "source": "BleepingComputer",
       "published": "2026-08-26T18:48:24Z",
-      "actors": []
-    },
-    {
-      "title": "Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case",
-      "summary": "A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products.",
-      "url": "https://therecord.media/meta-settlement-children-online-safety-social-media",
-      "source": "The Record",
-      "published": "2026-08-26T18:35:00Z",
       "actors": []
     },
     {
@@ -88,19 +282,11 @@
       "actors": []
     },
     {
-      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
-      "summary": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.",
-      "url": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
-      "source": "The Record",
-      "published": "2026-08-26T16:25:00Z",
-      "actors": []
-    },
-    {
-      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
-      "summary": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.",
-      "url": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
-      "source": "The Record",
-      "published": "2026-08-26T15:45:00Z",
+      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
+      "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes, we trust our…",
+      "url": "https://isc.sans.edu/diary/rss/33284",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-26T15:58:15Z",
       "actors": []
     },
     {
@@ -136,14 +322,6 @@
       "actors": []
     },
     {
-      "title": "Snowflake ends service-account passwords. Now comes the hard part",
-      "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
       "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island…",
       "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
@@ -152,27 +330,11 @@
       "actors": []
     },
     {
-      "title": "Ubiquiti patches three max severity security vulnerabilities",
-      "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T13:17:54Z",
-      "actors": []
-    },
-    {
       "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Both organizations…",
       "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
       "source": "The Hacker News",
       "published": "2026-08-26T13:07:02Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T12:06:28Z",
       "actors": []
     },
     {
@@ -197,14 +359,6 @@
       "url": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
       "source": "Dark Reading",
       "published": "2026-08-26T11:33:40Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T11:07:48Z",
       "actors": []
     },
     {
@@ -272,19 +426,11 @@
       "actors": []
     },
     {
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T21:58:14Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T21:39:01Z",
+      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33282",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-26T02:40:13Z",
       "actors": []
     },
     {
@@ -293,14 +439,6 @@
       "url": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
       "source": "Dark Reading",
       "published": "2026-08-25T21:08:55Z",
-      "actors": []
-    },
-    {
-      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T20:25:26Z",
       "actors": []
     },
     {
@@ -320,11 +458,11 @@
       "actors": []
     },
     {
-      "title": "Massive DDoS attack disrupts Norway’s government digital services",
-      "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T15:52:36Z",
+      "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
+      "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit Server Side Request Forgery (SSRF)…",
+      "url": "https://isc.sans.edu/diary/rss/33280",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-25T15:03:33Z",
       "actors": []
     },
     {
@@ -333,14 +471,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
       "source": "Dark Reading",
       "published": "2026-08-25T14:53:13Z",
-      "actors": []
-    },
-    {
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "source": "BleepingComputer",
-      "published": "2026-08-25T14:44:16Z",
       "actors": []
     },
     {
@@ -358,145 +488,17 @@
       "source": "The Hacker News",
       "published": "2026-08-25T13:19:41Z",
       "actors": []
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local…",
-      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T12:43:51Z",
-      "actors": []
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially…",
-      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T11:56:15Z",
-      "actors": []
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat…",
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T11:52:43Z",
-      "actors": []
-    },
-    {
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control…",
-      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T11:33:44Z",
-      "actors": []
-    },
-    {
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required…",
-      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T11:14:07Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below -…",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T08:34:07Z",
-      "actors": []
-    },
-    {
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS…",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T06:12:35Z",
-      "actors": []
-    },
-    {
-      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-      "summary": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-      "source": "Dark Reading",
-      "published": "2026-08-24T21:46:55Z",
-      "actors": []
-    },
-    {
-      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
-      "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
-      "url": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
-      "source": "Dark Reading",
-      "published": "2026-08-24T20:51:27Z",
-      "actors": []
-    },
-    {
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean…",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T17:41:30Z",
-      "actors": []
-    },
-    {
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites…",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T17:41:11Z",
-      "actors": []
-    },
-    {
-      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-      "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
-      "url": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-      "source": "Dark Reading",
-      "published": "2026-08-24T15:02:32Z",
-      "actors": []
-    },
-    {
-      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
-      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
-      "url": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
-      "source": "Dark Reading",
-      "published": "2026-08-24T14:34:59Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are.…",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T14:32:10Z",
-      "actors": []
-    },
-    {
-      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
-      "summary": "AI is discovering more vulnerabilities at a faster pace and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-      "source": "Dark Reading",
-      "published": "2026-08-24T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain…",
-      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T12:35:36Z",
-      "actors": []
     }
   ],
   "threat_actors": [
     {
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider,…",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "source": "Krebs on Security",
-      "published": "2026-06-23T16:12:49Z",
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T08:13:50Z",
       "actors": [
-        "Scattered Spider"
+        "Qilin"
       ],
       "kind": "news"
     }
