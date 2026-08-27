@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-26T23:36:32Z",
+  "generated_at": "2026-08-27T05:01:27Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
+    "osint_news": 110,
     "threat_actors": 1,
     "attack_surface": 60
   },
@@ -24,6 +24,14 @@
       "actors": []
     },
     {
+      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
+      "summary": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.",
+      "url": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
+      "source": "The Record",
+      "published": "2026-08-26T20:53:00Z",
+      "actors": []
+    },
+    {
       "title": "Red Flags That Expose Fake North Korean IT Workers",
       "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
       "url": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
@@ -32,11 +40,27 @@
       "actors": []
     },
     {
+      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
+      "summary": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday.",
+      "url": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
+      "source": "The Record",
+      "published": "2026-08-26T19:10:00Z",
+      "actors": []
+    },
+    {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
       "source": "BleepingComputer",
       "published": "2026-08-26T18:48:24Z",
+      "actors": []
+    },
+    {
+      "title": "Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case",
+      "summary": "A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products.",
+      "url": "https://therecord.media/meta-settlement-children-online-safety-social-media",
+      "source": "The Record",
+      "published": "2026-08-26T18:35:00Z",
       "actors": []
     },
     {
@@ -64,11 +88,19 @@
       "actors": []
     },
     {
-      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
-      "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes, we trust our…",
-      "url": "https://isc.sans.edu/diary/rss/33284",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-26T15:58:15Z",
+      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
+      "summary": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.",
+      "url": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
+      "source": "The Record",
+      "published": "2026-08-26T16:25:00Z",
+      "actors": []
+    },
+    {
+      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
+      "summary": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.",
+      "url": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
+      "source": "The Record",
+      "published": "2026-08-26T15:45:00Z",
       "actors": []
     },
     {
@@ -240,14 +272,6 @@
       "actors": []
     },
     {
-      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33282",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-26T02:40:13Z",
-      "actors": []
-    },
-    {
       "title": "LACMA data breach last year exposed social security and medical data",
       "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
@@ -301,14 +325,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
       "source": "BleepingComputer",
       "published": "2026-08-25T15:52:36Z",
-      "actors": []
-    },
-    {
-      "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
-      "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit Server Side Request Forgery (SSRF)…",
-      "url": "https://isc.sans.edu/diary/rss/33280",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-25T15:03:33Z",
       "actors": []
     },
     {
@@ -400,14 +416,6 @@
       "actors": []
     },
     {
-      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33278",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-25T02:00:03Z",
-      "actors": []
-    },
-    {
       "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
       "summary": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
       "source": "The Hacker News",
       "published": "2026-08-24T12:35:36Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier…",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-08-24T11:56:34Z",
       "actors": []
     }
   ],
