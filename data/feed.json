@@ -1,18 +1,178 @@
 {
-  "generated_at": "2026-08-28T12:42:34Z",
+  "generated_at": "2026-08-28T22:42:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-08-28T22:40:17Z",
+      "actors": []
+    },
+    {
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the…",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T21:30:52Z",
+      "actors": []
+    },
+    {
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a…",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T20:38:47Z",
+      "actors": []
+    },
+    {
+      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+      "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+      "source": "Dark Reading",
+      "published": "2026-08-28T20:19:22Z",
+      "actors": []
+    },
+    {
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "source": "BleepingComputer",
+      "published": "2026-08-28T19:08:26Z",
+      "actors": []
+    },
+    {
+      "title": "Offensive Security Investments Surge as AI Threats Increase",
+      "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
+      "source": "Dark Reading",
+      "published": "2026-08-28T18:25:43Z",
+      "actors": []
+    },
+    {
+      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+      "source": "BleepingComputer",
+      "published": "2026-08-28T18:18:55Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration,…",
+      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T17:12:15Z",
+      "actors": []
+    },
+    {
+      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
+      "summary": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
+      "source": "BleepingComputer",
+      "published": "2026-08-28T16:36:47Z",
+      "actors": []
+    },
+    {
+      "title": "PaperCut warns of hackers using printer management software flaw in attacks",
+      "summary": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.",
+      "url": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
+      "source": "The Record",
+      "published": "2026-08-28T16:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "summary": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from eavesdropping on…",
+      "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T16:20:46Z",
+      "actors": []
+    },
+    {
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines.…",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T15:56:55Z",
+      "actors": []
+    },
+    {
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and…",
+      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T15:27:26Z",
+      "actors": []
+    },
+    {
+      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
+      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
+      "source": "BleepingComputer",
+      "published": "2026-08-28T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "You Need Cyber Deception for OT",
+      "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
+      "url": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
+      "source": "Dark Reading",
+      "published": "2026-08-28T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Defining an AI Kill Switch Is Hard, but Necessary",
+      "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
+      "source": "Dark Reading",
+      "published": "2026-08-28T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
+      "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
+      "source": "Dark Reading",
+      "published": "2026-08-28T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
+      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-28T12:58:43Z",
+      "actors": []
+    },
+    {
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a…",
+      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T12:07:24Z",
+      "actors": []
+    },
     {
       "title": "Toy-making giant Hasbro disclose data breach affecting employees",
       "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
       "source": "BleepingComputer",
       "published": "2026-08-28T11:46:57Z",
+      "actors": []
+    },
+    {
+      "title": "Key Reasons Why Identity Fabric Matters in 2026",
+      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility.…",
+      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
+      "source": "The Hacker News",
+      "published": "2026-08-28T11:30:00Z",
       "actors": []
     },
     {
@@ -218,30 +378,6 @@
       "actors": []
     },
     {
-      "title": "Australia charges two men for TeamPCP supply-chain hacking spree",
-      "summary": "Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year.",
-      "url": "https://therecord.media/australia-teampcp-hackers-arrested",
-      "source": "The Record",
-      "published": "2026-08-27T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-      "summary": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T12:16:32Z",
-      "actors": []
-    },
-    {
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "summary": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T12:16:24Z",
-      "actors": []
-    },
-    {
       "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
       "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to…",
       "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
@@ -271,14 +407,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
       "source": "Dark Reading",
       "published": "2026-08-27T11:16:01Z",
-      "actors": []
-    },
-    {
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "summary": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T11:10:04Z",
       "actors": []
     },
     {
@@ -314,24 +442,6 @@
       "actors": []
     },
     {
-      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
-      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T09:16:50Z",
-      "actors": []
-    },
-    {
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T08:13:50Z",
-      "actors": [
-        "Qilin"
-      ]
-    },
-    {
       "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
       "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, the attack was…",
       "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
@@ -353,14 +463,6 @@
       "url": "https://isc.sans.edu/diary/rss/33286",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-27T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
-      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T21:33:20Z",
       "actors": []
     },
     {
@@ -386,110 +488,6 @@
       "source": "Dark Reading",
       "published": "2026-08-26T19:21:24Z",
       "actors": []
-    },
-    {
-      "title": "Android Malware Hijacks Update System for Car Head Units",
-      "summary": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
-      "source": "Dark Reading",
-      "published": "2026-08-26T17:33:45Z",
-      "actors": []
-    },
-    {
-      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a Chinese state-sponsored group known as…",
-      "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T16:42:03Z",
-      "actors": []
-    },
-    {
-      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
-      "summary": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#;x26;#;x3f;&#;x26;#;xc2;&#;x26;#;xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on purpose).&#;x26;#;xc2;&#;x26;#;xa0; Yes, we trust our…",
-      "url": "https://isc.sans.edu/diary/rss/33284",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-26T15:58:15Z",
-      "actors": []
-    },
-    {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "summary": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the cyber espionage…",
-      "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T15:35:05Z",
-      "actors": []
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island…",
-      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T13:44:31Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Both organizations…",
-      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T13:07:02Z",
-      "actors": []
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "summary": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe…",
-      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T11:55:00Z",
-      "actors": []
-    },
-    {
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human…",
-      "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T11:36:49Z",
-      "actors": []
-    },
-    {
-      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
-      "summary": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials.",
-      "url": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
-      "source": "Dark Reading",
-      "published": "2026-08-26T11:33:40Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
-      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC News on August 10,…",
-      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T10:27:23Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
-      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn. The…",
-      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
-      "source": "The Hacker News",
-      "published": "2026-08-26T09:38:45Z",
-      "actors": []
-    },
-    {
-      "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
-      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
-      "url": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
-      "source": "Dark Reading",
-      "published": "2026-08-26T08:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
-      "summary": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
-      "source": "Dark Reading",
-      "published": "2026-08-26T08:00:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -501,17 +499,6 @@
       "published": "2026-08-28T08:20:59Z",
       "actors": [
         "APT28"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "ATF confirms “major incident” after recent Qilin breach claims",
-      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T08:13:50Z",
-      "actors": [
-        "Qilin"
       ],
       "kind": "news"
     }
