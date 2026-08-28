@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:24:48Z",
+  "generated_at": "2026-08-28T01:03:15Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,54 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+      "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T21:38:53Z",
+      "actors": []
+    },
+    {
+      "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
+      "summary": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the technology.",
+      "url": "https://therecord.media/trump-cyber-electricity-parts",
+      "source": "The Record",
+      "published": "2026-08-27T19:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
+      "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
+      "source": "Dark Reading",
+      "published": "2026-08-27T19:31:45Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI…",
+      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T18:36:19Z",
+      "actors": []
+    },
+    {
+      "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
+      "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
+      "source": "Dark Reading",
+      "published": "2026-08-27T17:25:09Z",
+      "actors": []
+    },
+    {
+      "title": "PaperCut warns of NG, MF flaw exploited in zero-day attacks",
+      "summary": "PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-08-27T16:31:53Z",
+      "actors": []
+    },
     {
       "title": "Manchester Airports Group says hackers stole travelers' data",
       "summary": "The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]",
@@ -21,6 +69,22 @@
       "url": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
       "source": "The Record",
       "published": "2026-08-27T15:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+      "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a…",
+      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T15:13:00Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing their real behavior,…",
+      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+      "source": "The Hacker News",
+      "published": "2026-08-27T15:12:16Z",
       "actors": []
     },
     {
@@ -93,14 +157,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
       "source": "BleepingComputer",
       "published": "2026-08-27T12:16:24Z",
-      "actors": []
-    },
-    {
-      "title": "DOJ firearms agency says hackers breached system containing investigation targets",
-      "summary": "The Bureau of Alcohol, Tobacco, Firearms and Explosives confirmed it experienced a cyberattack on a system containing investigation information, as a prolific ransomware gang claimed to have carried out the breach.",
-      "url": "https://therecord.media/doj-atf-cyberattack-qilin-ransomware",
-      "source": "The Record",
-      "published": "2026-08-27T12:15:00Z",
       "actors": []
     },
     {
@@ -306,22 +362,6 @@
       "actors": []
     },
     {
-      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
-      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T14:47:51Z",
-      "actors": []
-    },
-    {
-      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
-      "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
-      "source": "BleepingComputer",
-      "published": "2026-08-26T14:17:59Z",
-      "actors": []
-    },
-    {
       "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
       "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island…",
       "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
@@ -448,46 +488,6 @@
       "source": "Dark Reading",
       "published": "2026-08-25T19:50:16Z",
       "actors": []
-    },
-    {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our…",
-      "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T18:17:17Z",
-      "actors": []
-    },
-    {
-      "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
-      "summary": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit Server Side Request Forgery (SSRF)…",
-      "url": "https://isc.sans.edu/diary/rss/33280",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-25T15:03:33Z",
-      "actors": []
-    },
-    {
-      "title": "Is Cyber Facing an Affordability Crisis?",
-      "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-      "source": "Dark Reading",
-      "published": "2026-08-25T14:53:13Z",
-      "actors": []
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publication, and the…",
-      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T14:07:37Z",
-      "actors": []
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into…",
-      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "source": "The Hacker News",
-      "published": "2026-08-25T13:19:41Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -504,6 +504,48 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2023-49105",
+      "title": "CVE-2023-49105 - ownCloud Improper Authentication Vulnerability",
+      "summary": "ownCloud contains an improper authentication vulnerability that allows an attacker to access, modify, or delete any file without authentication if the username of a victim is known, and the victim has no signing-key configured.",
+      "vendor": "ownCloud",
+      "product": "ownCloud",
+      "date_added": "2026-08-27",
+      "due_date": "2026-08-30",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49105",
+      "source": "CISA KEV",
+      "published": "2026-08-27T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-53362",
+      "title": "CVE-2026-53362 - Linux Kernel Unspecified Vulnerability",
+      "summary": "Linux Kernel contains an unspecified vulnerability that can allow for privilege escalation via IPv6 networking subsystem. This vulnerability can impact multiple products, including but not limited to Suse, Red Hat, and other products using Linux.",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "date_added": "2026-08-27",
+      "due_date": "2026-08-30",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53362",
+      "source": "CISA KEV",
+      "published": "2026-08-27T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-66384",
+      "title": "CVE-2026-66384 - JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
+      "summary": "JFrog Artifactory contains an improper limitation of a pathname to a restricted directory vulnerability. This can allow an authenticated user to write data outside the intended Docker cache path under specific remote-repository conditions.",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "date_added": "2026-08-27",
+      "due_date": "2026-09-10",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-66384",
+      "source": "CISA KEV",
+      "published": "2026-08-27T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2021-23758",
       "title": "CVE-2021-23758 - Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
@@ -1300,48 +1342,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34910",
       "source": "CISA KEV",
       "published": "2026-06-23T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-34909",
-      "title": "CVE-2026-34909 - Ubiquiti UniFi OS Path Traversal Vulnerability",
-      "summary": "Ubiquiti UniFi OS contains a path traversal vulnerability which could allow a malicious actor with access to the network to access files on the underlying system that could be manipulated to access an underlying account.",
-      "vendor": "Ubiquiti",
-      "product": "UniFi OS",
-      "date_added": "2026-06-23",
-      "due_date": "2026-06-26",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34909",
-      "source": "CISA KEV",
-      "published": "2026-06-23T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-34908",
-      "title": "CVE-2026-34908 - Ubiquiti UniFi OS Improper Access Control Vulnerability",
-      "summary": "Ubiquiti UniFi OS contains an improper access control vulnerability which could allow a malicious actor with access to the network to make unauthorized changes to the system.",
-      "vendor": "Ubiquiti",
-      "product": "UniFi OS",
-      "date_added": "2026-06-23",
-      "due_date": "2026-06-26",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34908",
-      "source": "CISA KEV",
-      "published": "2026-06-23T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-20253",
-      "title": "CVE-2026-20253 - Splunk Enterprise Missing Authentication for Critical Function Vulnerability",
-      "summary": "Splunk Enterprise contains a missing authentication for critical function vulnerability which could allow an unauthenticated user to create or truncate arbitrary files through a PostgreSQL sidecar service endpoint.",
-      "vendor": "Splunk",
-      "product": "Enterprise",
-      "date_added": "2026-06-18",
-      "due_date": "2026-06-21",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20253",
-      "source": "CISA KEV",
-      "published": "2026-06-18T00:00:00Z",
       "actors": []
     }
   ]
