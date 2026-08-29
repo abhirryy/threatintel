@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:42:43Z",
+  "generated_at": "2026-08-29T03:54:21Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+      "summary": "",
+      "url": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+      "source": "Dark Reading",
+      "published": "2026-11-12T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "summary": "",
+      "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "source": "Dark Reading",
+      "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
     {
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
       "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
@@ -471,22 +487,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
       "source": "Dark Reading",
       "published": "2026-08-26T21:33:06Z",
-      "actors": []
-    },
-    {
-      "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
-      "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.",
-      "url": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
-      "source": "Dark Reading",
-      "published": "2026-08-26T19:54:34Z",
-      "actors": []
-    },
-    {
-      "title": "Red Flags That Expose Fake North Korean IT Workers",
-      "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
-      "url": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
-      "source": "Dark Reading",
-      "published": "2026-08-26T19:21:24Z",
       "actors": []
     }
   ],
