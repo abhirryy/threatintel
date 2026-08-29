@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:21:46Z",
+  "generated_at": "2026-08-29T18:43:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed…",
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "source": "The Hacker News",
+      "published": "2026-08-29T16:25:03Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33286",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-27T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
-      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
-      "source": "Dark Reading",
-      "published": "2026-08-26T21:33:06Z",
       "actors": []
     }
   ],
