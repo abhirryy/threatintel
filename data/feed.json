@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T10:50:08Z",
+  "generated_at": "2026-08-29T15:21:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "source": "BleepingComputer",
+      "published": "2026-08-29T14:19:23Z",
       "actors": []
     },
     {
@@ -375,14 +383,6 @@
       "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
       "source": "The Hacker News",
       "published": "2026-08-27T13:39:56Z",
-      "actors": []
-    },
-    {
-      "title": "Australia arrests alleged TeamPCP hackers behind supply-chain attacks",
-      "summary": "Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T13:31:13Z",
       "actors": []
     },
     {
