@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T21:18:59Z",
+  "generated_at": "2026-08-29T23:26:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+      "summary": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+      "source": "BleepingComputer",
+      "published": "2026-08-29T23:11:51Z",
       "actors": []
     },
     {
@@ -375,14 +383,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/",
       "source": "BleepingComputer",
       "published": "2026-08-27T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "Android 17 adds ECH support to make web browsing harder to track",
-      "summary": "Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T14:00:00Z",
       "actors": []
     },
     {
