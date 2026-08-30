@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T07:19:47Z",
+  "generated_at": "2026-08-30T13:01:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 110,
     "threat_actors": 1,
     "attack_surface": 60
   },
@@ -24,11 +24,11 @@
       "actors": []
     },
     {
-      "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-      "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes.",
-      "url": "https://isc.sans.edu/diary/rss/33288",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-30T07:14:49Z",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to…",
+      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "source": "The Hacker News",
+      "published": "2026-08-30T07:36:33Z",
       "actors": []
     },
     {
@@ -282,22 +282,6 @@
       ]
     },
     {
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "summary": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files? A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware[ 1 ]. Can we go a bit further? I (vibe-)coded a Python script based on the pefile library[…",
-      "url": "https://isc.sans.edu/diary/rss/33292",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-28T07:04:13Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33294",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-28T02:00:02Z",
-      "actors": []
-    },
-    {
       "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
       "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
@@ -458,14 +442,6 @@
       "actors": []
     },
     {
-      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
-      "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.",
-      "url": "https://isc.sans.edu/diary/rss/33290",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-27T09:57:28Z",
-      "actors": []
-    },
-    {
       "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
       "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload execution, while…",
       "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
@@ -487,6 +463,30 @@
       "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
       "source": "The Hacker News",
       "published": "2026-08-27T07:05:28Z",
+      "actors": []
+    },
+    {
+      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+      "source": "Dark Reading",
+      "published": "2026-08-26T21:33:06Z",
+      "actors": []
+    },
+    {
+      "title": "'HTTP Terminator' Hunts for Novel Desync Attacks",
+      "summary": "James Kettle of PortSwigger talks with the Dark Reading News Desk about his AI-powered open source tool, which found new HTTP request-smuggling techniques.",
+      "url": "https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks",
+      "source": "Dark Reading",
+      "published": "2026-08-26T19:54:34Z",
+      "actors": []
+    },
+    {
+      "title": "Red Flags That Expose Fake North Korean IT Workers",
+      "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
+      "url": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+      "source": "Dark Reading",
+      "published": "2026-08-26T19:21:24Z",
       "actors": []
     }
   ],
