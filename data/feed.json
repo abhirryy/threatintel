@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:08:14Z",
+  "generated_at": "2026-08-31T20:03:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,86 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
+      "summary": "At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend.",
+      "url": "https://therecord.media/crypto-tectonic-hack-cronos",
+      "source": "The Record",
+      "published": "2026-08-31T19:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T18:51:04Z",
+      "actors": []
+    },
+    {
+      "title": "AI Model Rules Are Not Security Controls",
+      "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
+      "url": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
+      "source": "Dark Reading",
+      "published": "2026-08-31T17:34:26Z",
+      "actors": []
+    },
+    {
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing…",
+      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T17:24:28Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T16:56:57Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI confirms ChatGPT outage as users report errors",
+      "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T16:50:50Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T14:52:03Z",
+      "actors": []
+    },
+    {
+      "title": "Berlin says it won’t pay ransom after hackers steal government data",
+      "summary": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August.",
+      "url": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
+      "source": "The Record",
+      "published": "2026-08-31T14:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "File servers are here to stay. Here’s how to manage them securely",
+      "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps,…",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T13:50:00Z",
       "actors": []
     },
     {
@@ -216,14 +296,6 @@
       "actors": []
     },
     {
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T19:08:26Z",
-      "actors": []
-    },
-    {
       "title": "Offensive Security Investments Surge as AI Threats Increase",
       "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
       "url": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
@@ -232,27 +304,11 @@
       "actors": []
     },
     {
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T18:18:55Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
       "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration,…",
       "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
       "source": "The Hacker News",
       "published": "2026-08-28T17:12:15Z",
-      "actors": []
-    },
-    {
-      "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
-      "summary": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T16:36:47Z",
       "actors": []
     },
     {
@@ -288,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?",
-      "summary": "AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple intelligence sources and turn vulnerability data into faster remediation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "You Need Cyber Deception for OT",
       "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
       "url": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
@@ -317,14 +365,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
       "source": "Dark Reading",
       "published": "2026-08-28T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "summary": "Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T12:58:43Z",
       "actors": []
     },
     {
@@ -402,14 +442,6 @@
       "actors": []
     },
     {
-      "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
-      "summary": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the technology.",
-      "url": "https://therecord.media/trump-cyber-electricity-parts",
-      "source": "The Record",
-      "published": "2026-08-27T19:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Chinese Routers Sold Worldwide Contain Backdoors",
       "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
@@ -431,14 +463,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
       "source": "Dark Reading",
       "published": "2026-08-27T17:25:09Z",
-      "actors": []
-    },
-    {
-      "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
-      "summary": "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country.",
-      "url": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
-      "source": "The Record",
-      "published": "2026-08-27T15:30:00Z",
       "actors": []
     },
     {
@@ -464,30 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-08-27T13:39:56Z",
       "actors": []
-    },
-    {
-      "title": "Learn How to Build Security Operations Ready for AI-Powered Attacks",
-      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to…",
-      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T11:56:30Z",
-      "actors": []
-    },
-    {
-      "title": "Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks",
-      "summary": "The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the open-source security scanners Trivy and Checkmarx KICS and the AI gateway LiteLLM. Louis Michael Gaebler, 23,…",
-      "url": "https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T11:56:26Z",
-      "actors": []
-    },
-    {
-      "title": "What the Data Says About AI in Security Operations in 2026",
-      "summary": "AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use AI daily. Another 56% are currently testing it out, and only 4% have no plans to adopt it. For the…",
-      "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T11:30:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -504,6 +504,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-82078",
+      "title": "CVE-2026-82078 - PaperCut NG/MF Unsafe Reflection Vulnerability",
+      "summary": "PaperCut NG/MF contains an unsafe reflection vulnerability that allows an attacker to manipulate system configuration parameters and execute arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process. This vulnerability can be chained with CVE-2026-81578.",
+      "vendor": "PaperCut",
+      "product": "NG/MF",
+      "date_added": "2026-08-31",
+      "due_date": "2026-09-14",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82078",
+      "source": "CISA KEV",
+      "published": "2026-08-31T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-81578",
+      "title": "CVE-2026-81578 - PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
+      "summary": "PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.",
+      "vendor": "PaperCut",
+      "product": "NG/MF",
+      "date_added": "2026-08-31",
+      "due_date": "2026-09-14",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81578",
+      "source": "CISA KEV",
+      "published": "2026-08-31T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2023-49105",
       "title": "CVE-2023-49105 - ownCloud Improper Authentication Vulnerability",
@@ -1314,34 +1342,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20230",
       "source": "CISA KEV",
       "published": "2026-06-25T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2025-67038",
-      "title": "CVE-2025-67038 - Lantronix EDS5000 Code Injection Vulnerability",
-      "summary": "Lantronix EDS5000 contains a code injection vulnerability that could allow attackers to inject arbitrary OS commands into the username parameter. Injected commands are executed with root privileges.",
-      "vendor": "Lantronix",
-      "product": "EDS5000",
-      "date_added": "2026-06-23",
-      "due_date": "2026-06-26",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-67038",
-      "source": "CISA KEV",
-      "published": "2026-06-23T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-34910",
-      "title": "CVE-2026-34910 - Ubiquiti UniFi OS Improper Input Validation Vulnerability",
-      "summary": "Ubiquiti UniFi OS contains an improper input validation vulnerability which could allow a malicious actor with access to the network to conduct command injection.",
-      "vendor": "Ubiquiti",
-      "product": "UniFi OS",
-      "date_added": "2026-06-23",
-      "due_date": "2026-06-26",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-34910",
-      "source": "CISA KEV",
-      "published": "2026-06-23T00:00:00Z",
       "actors": []
     }
   ]
