@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T20:03:25Z",
+  "generated_at": "2026-08-31T23:47:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,46 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
+      "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
+      "source": "Dark Reading",
+      "published": "2026-08-31T21:08:46Z",
+      "actors": []
+    },
+    {
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T20:47:54Z",
+      "actors": []
+    },
+    {
+      "title": "Five plead guilty in latest federal ATM jackpotting case",
+      "summary": "Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals.",
+      "url": "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
+      "source": "The Record",
+      "published": "2026-08-31T20:31:00Z",
+      "actors": []
+    },
+    {
+      "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
+      "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
+      "url": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
+      "source": "Dark Reading",
+      "published": "2026-08-31T20:25:36Z",
+      "actors": []
+    },
+    {
+      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
+      "summary": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session &#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x94; history, filesystem output, working paths,…",
+      "url": "https://isc.sans.edu/diary/rss/33298",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-08-31T20:00:34Z",
       "actors": []
     },
     {
@@ -264,14 +304,6 @@
       "actors": []
     },
     {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T22:40:17Z",
-      "actors": []
-    },
-    {
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
       "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the…",
       "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
@@ -309,14 +341,6 @@
       "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
       "source": "The Hacker News",
       "published": "2026-08-28T17:12:15Z",
-      "actors": []
-    },
-    {
-      "title": "PaperCut warns of hackers using printer management software flaw in attacks",
-      "summary": "PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.",
-      "url": "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
-      "source": "The Record",
-      "published": "2026-08-28T16:30:00Z",
       "actors": []
     },
     {
@@ -463,30 +487,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
       "source": "Dark Reading",
       "published": "2026-08-27T17:25:09Z",
-      "actors": []
-    },
-    {
-      "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
-      "summary": "Credit: Hacktron Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially crafted AVIF image files and the other through a path traversal flaw affecting servers that use a…",
-      "url": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T15:13:00Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
-      "summary": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine. The rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, malicious tools waiting before showing their real behavior,…",
-      "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T15:12:16Z",
-      "actors": []
-    },
-    {
-      "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works…",
-      "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T13:39:56Z",
       "actors": []
     }
   ],
