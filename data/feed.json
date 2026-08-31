@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T06:18:02Z",
+  "generated_at": "2026-08-31T14:08:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,94 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T13:30:01Z",
+      "actors": []
+    },
+    {
+      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
+      "summary": "The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application.",
+      "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
+      "source": "The Record",
+      "published": "2026-08-31T12:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Slovenian casinos reopen after cyberattack knocked gaming systems offline",
+      "summary": "One of Slovenia’s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days.",
+      "url": "https://therecord.media/slovenia-cyberattack-casinos-reopen",
+      "source": "The Record",
+      "published": "2026-08-31T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
+      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers…",
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T12:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
+      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated…",
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T11:47:24Z",
+      "actors": []
+    },
+    {
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether…",
+      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T11:31:47Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T10:23:46Z",
+      "actors": []
+    },
+    {
+      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T09:22:47Z",
+      "actors": []
+    },
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
+      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia,…",
+      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T09:04:55Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "summary": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+      "source": "BleepingComputer",
+      "published": "2026-08-31T08:29:42Z",
+      "actors": []
+    },
+    {
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted. Last week, the DoJ said the National Aeronautics and Space…",
+      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "source": "The Hacker News",
+      "published": "2026-08-31T07:56:53Z",
       "actors": []
     },
     {
@@ -225,7 +313,7 @@
     },
     {
       "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-      "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
+      "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
       "source": "Dark Reading",
       "published": "2026-08-28T13:00:00Z",
@@ -245,14 +333,6 @@
       "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
       "source": "The Hacker News",
       "published": "2026-08-28T12:07:24Z",
-      "actors": []
-    },
-    {
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T11:46:57Z",
       "actors": []
     },
     {
@@ -280,27 +360,11 @@
       "actors": []
     },
     {
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T10:29:42Z",
-      "actors": []
-    },
-    {
       "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
       "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described…",
       "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
       "source": "The Hacker News",
       "published": "2026-08-28T09:45:15Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-      "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "published": "2026-08-28T09:10:13Z",
       "actors": []
     },
     {
@@ -335,14 +399,6 @@
       "url": "https://isc.sans.edu/diary/rss/33294",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-28T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "summary": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "source": "BleepingComputer",
-      "published": "2026-08-27T21:38:53Z",
       "actors": []
     },
     {
@@ -402,27 +458,11 @@
       "actors": []
     },
     {
-      "title": "Chinese and Russian spies stepping up cyberattacks, German companies report",
-      "summary": "Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.",
-      "url": "https://therecord.media/germany-cyberattacks-china-russia",
-      "source": "The Record",
-      "published": "2026-08-27T14:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers",
       "summary": "Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via prompt injection and Kiro Powers. The security flaw, which does not have a CVE identifier, works…",
       "url": "https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html",
       "source": "The Hacker News",
       "published": "2026-08-27T13:39:56Z",
-      "actors": []
-    },
-    {
-      "title": "Cyberattack on Manchester Airports Group exposes data of 8.7 million customers",
-      "summary": "A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an email address.",
-      "url": "https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info",
-      "source": "The Record",
-      "published": "2026-08-27T13:15:00Z",
       "actors": []
     },
     {
@@ -447,46 +487,6 @@
       "url": "https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html",
       "source": "The Hacker News",
       "published": "2026-08-27T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
-      "summary": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
-      "source": "Dark Reading",
-      "published": "2026-08-27T11:16:01Z",
-      "actors": []
-    },
-    {
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from…",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "source": "Krebs on Security",
-      "published": "2026-08-27T11:04:15Z",
-      "actors": []
-    },
-    {
-      "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
-      "summary": "Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT. \"The samples employ diverse lure themes, suggesting an effort to appeal to a broad range of potential victims. These include government notices, public health…",
-      "url": "https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T11:00:57Z",
-      "actors": []
-    },
-    {
-      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
-      "summary": "As I've mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center.",
-      "url": "https://isc.sans.edu/diary/rss/33290",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-27T09:57:28Z",
-      "actors": []
-    },
-    {
-      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
-      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload execution, while…",
-      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T09:33:38Z",
       "actors": []
     }
   ],
