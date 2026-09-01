@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:45:58Z",
+  "generated_at": "2026-09-01T12:48:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,78 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-01T12:38:35Z",
+      "actors": []
+    },
+    {
+      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
+      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia.",
+      "url": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
+      "source": "The Record",
+      "published": "2026-09-01T12:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cyber risk from frontier AI poses ‘most immediate concern’ to global financial system, watchdog warns",
+      "summary": "Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to “prepare for more severe scenarios involving simultaneous disruption across multiple firms or shared technology dependencies.”",
+      "url": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
+      "source": "The Record",
+      "published": "2026-09-01T12:28:00Z",
+      "actors": []
+    },
+    {
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most…",
+      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "source": "The Hacker News",
+      "published": "2026-09-01T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "source": "BleepingComputer",
+      "published": "2026-09-01T09:15:07Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actors attempted to gain…",
+      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "source": "The Hacker News",
+      "published": "2026-09-01T09:05:30Z",
+      "actors": []
+    },
+    {
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on X, is to…",
+      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "source": "The Hacker News",
+      "published": "2026-09-01T08:26:24Z",
+      "actors": []
+    },
+    {
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-01T07:48:24Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "source": "The Hacker News",
+      "published": "2026-09-01T07:22:30Z",
       "actors": []
     },
     {
@@ -112,7 +184,7 @@
       "actors": []
     },
     {
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "source": "BleepingComputer",
@@ -165,22 +237,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
       "source": "BleepingComputer",
       "published": "2026-08-31T13:30:01Z",
-      "actors": []
-    },
-    {
-      "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
-      "summary": "The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application.",
-      "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
-      "source": "The Record",
-      "published": "2026-08-31T12:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "Slovenian casinos reopen after cyberattack knocked gaming systems offline",
-      "summary": "One of Slovenia’s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days.",
-      "url": "https://therecord.media/slovenia-cyberattack-casinos-reopen",
-      "source": "The Record",
-      "published": "2026-08-31T12:30:00Z",
       "actors": []
     },
     {
@@ -272,14 +328,6 @@
       "actors": []
     },
     {
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "summary": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "source": "BleepingComputer",
-      "published": "2026-08-30T14:17:44Z",
-      "actors": []
-    },
-    {
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
       "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to…",
       "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
@@ -296,27 +344,11 @@
       "actors": []
     },
     {
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "summary": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "source": "BleepingComputer",
-      "published": "2026-08-29T23:11:51Z",
-      "actors": []
-    },
-    {
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
       "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed…",
       "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
       "source": "The Hacker News",
       "published": "2026-08-29T16:25:03Z",
-      "actors": []
-    },
-    {
-      "title": "Brave browser adds email aliases to help users evade tracking",
-      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-      "source": "BleepingComputer",
-      "published": "2026-08-29T14:19:23Z",
       "actors": []
     },
     {
@@ -453,40 +485,6 @@
       "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
       "source": "The Hacker News",
       "published": "2026-08-28T08:25:36Z",
-      "actors": []
-    },
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed…",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T08:20:59Z",
-      "actors": [
-        "APT28"
-      ]
-    },
-    {
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "summary": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files? A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware[ 1 ]. Can we go a bit further? I (vibe-)coded a Python script based on the pefile library[…",
-      "url": "https://isc.sans.edu/diary/rss/33292",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-28T07:04:13Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33294",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-28T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
-      "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-      "source": "Dark Reading",
-      "published": "2026-08-27T19:31:45Z",
       "actors": []
     }
   ],
