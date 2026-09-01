@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T16:59:44Z",
+  "generated_at": "2026-09-01T19:52:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Aesto Health says data breach affects over 9.5 million patients",
+      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+      "source": "BleepingComputer",
+      "published": "2026-09-01T19:28:17Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "source": "BleepingComputer",
+      "published": "2026-09-01T17:54:22Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "source": "The Hacker News",
+      "published": "2026-09-01T17:53:11Z",
+      "actors": []
+    },
+    {
+      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
+      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and…",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "source": "The Hacker News",
+      "published": "2026-09-01T17:19:24Z",
       "actors": []
     },
     {
@@ -320,22 +352,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
-      "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T10:23:46Z",
-      "actors": []
-    },
-    {
-      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
-      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T09:22:47Z",
-      "actors": []
-    },
-    {
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia,…",
       "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
       "source": "Dark Reading",
       "published": "2026-08-28T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a…",
-      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T12:07:24Z",
-      "actors": []
-    },
-    {
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility.…",
-      "url": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T11:30:00Z",
       "actors": []
     }
   ],
