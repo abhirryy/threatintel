@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:52:09Z",
+  "generated_at": "2026-09-01T22:16:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,62 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33300",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-01T21:30:18Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
+      "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
+      "source": "Dark Reading",
+      "published": "2026-09-01T21:05:53Z",
+      "actors": []
+    },
+    {
+      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
+      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
+      "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
+      "source": "Dark Reading",
+      "published": "2026-09-01T21:03:19Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+      "source": "BleepingComputer",
+      "published": "2026-09-01T20:53:23Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+      "source": "Dark Reading",
+      "published": "2026-09-01T20:48:52Z",
+      "actors": []
+    },
+    {
+      "title": "China's 'Fire Ant' campaign used compromised Cisco routers as platform for more attacks",
+      "summary": "A hacking operation dubbed Fire Ant \"didn’t just compromise systems,\" according to researchers. \"It compromised the trust layer those systems depend on.\"",
+      "url": "https://therecord.media/router-hacks-fire-ant-group-china",
+      "source": "The Record",
+      "published": "2026-09-01T20:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
+      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
+      "source": "Dark Reading",
+      "published": "2026-09-01T20:13:09Z",
       "actors": []
     },
     {
@@ -192,14 +248,6 @@
       "actors": []
     },
     {
-      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
-      "summary": "Introduction",
-      "url": "https://isc.sans.edu/diary/rss/33300",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-01T00:33:21Z",
-      "actors": []
-    },
-    {
       "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
       "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
@@ -245,14 +293,6 @@
       "url": "https://isc.sans.edu/diary/rss/33298",
       "source": "SANS Internet Storm Center",
       "published": "2026-08-31T20:00:34Z",
-      "actors": []
-    },
-    {
-      "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
-      "summary": "At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend.",
-      "url": "https://therecord.media/crypto-tectonic-hack-cronos",
-      "source": "The Record",
-      "published": "2026-08-31T19:45:00Z",
       "actors": []
     },
     {
@@ -317,14 +357,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
       "source": "The Hacker News",
       "published": "2026-08-31T13:50:00Z",
-      "actors": []
-    },
-    {
-      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T13:30:01Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
       "source": "The Hacker News",
       "published": "2026-08-28T15:56:55Z",
-      "actors": []
-    },
-    {
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and…",
-      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T15:27:26Z",
-      "actors": []
-    },
-    {
-      "title": "You Need Cyber Deception for OT",
-      "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
-      "url": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
-      "source": "Dark Reading",
-      "published": "2026-08-28T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-      "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-      "source": "Dark Reading",
-      "published": "2026-08-28T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-      "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-      "source": "Dark Reading",
-      "published": "2026-08-28T13:00:00Z",
       "actors": []
     }
   ],
