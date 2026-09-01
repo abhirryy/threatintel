@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T23:47:37Z",
+  "generated_at": "2026-09-01T02:05:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33302",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-01T02:00:03Z",
+      "actors": []
+    },
+    {
+      "title": "Guildma (Astaroth) malware infection from Brazilian Portuguese email, (Tue, Sep 1st)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33300",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-01T00:33:21Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
       "source": "Dark Reading",
       "published": "2026-08-27T19:31:45Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-      "summary": "OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late May. The incident, the company said, took place during cybersecurity evaluations of several OpenAI…",
-      "url": "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-08-27T18:36:19Z",
-      "actors": []
-    },
-    {
-      "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
-      "summary": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
-      "source": "Dark Reading",
-      "published": "2026-08-27T17:25:09Z",
       "actors": []
     }
   ],
