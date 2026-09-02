@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T04:47:59Z",
+  "generated_at": "2026-09-02T09:07:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,54 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T09:06:48Z",
+      "actors": []
+    },
+    {
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T08:00:43Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer…",
+      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T07:47:13Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T07:08:50Z",
+      "actors": []
+    },
+    {
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with…",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T06:56:30Z",
+      "actors": []
+    },
+    {
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T06:39:29Z",
       "actors": []
     },
     {
@@ -352,30 +400,6 @@
       "actors": []
     },
     {
-      "title": "OpenAI confirms ChatGPT outage as users report errors",
-      "summary": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T16:50:50Z",
-      "actors": []
-    },
-    {
-      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-      "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T14:52:03Z",
-      "actors": []
-    },
-    {
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
       "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps,…",
       "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
@@ -461,30 +485,6 @@
       "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
       "source": "The Hacker News",
       "published": "2026-08-28T21:30:52Z",
-      "actors": []
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a…",
-      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T20:38:47Z",
-      "actors": []
-    },
-    {
-      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
-      "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-      "source": "Dark Reading",
-      "published": "2026-08-28T20:19:22Z",
-      "actors": []
-    },
-    {
-      "title": "Offensive Security Investments Surge as AI Threats Increase",
-      "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-      "source": "Dark Reading",
-      "published": "2026-08-28T18:25:43Z",
       "actors": []
     }
   ],
