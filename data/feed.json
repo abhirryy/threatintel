@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:57:00Z",
+  "generated_at": "2026-09-02T22:30:15Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+      "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
+      "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
+      "source": "Dark Reading",
+      "published": "2026-09-02T21:14:06Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T21:00:13Z",
+      "actors": []
+    },
+    {
+      "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
+      "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
+      "source": "Dark Reading",
+      "published": "2026-09-02T20:43:59Z",
+      "actors": []
+    },
+    {
+      "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
+      "summary": "Former cybercriminal Brett Johnson provides a look inside the mind of a threat actor and discusses where AI provides the most value for attackers.",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
+      "source": "Dark Reading",
+      "published": "2026-09-02T19:46:31Z",
       "actors": []
     },
     {
@@ -392,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T12:38:35Z",
-      "actors": []
-    },
-    {
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
       "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most…",
       "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
@@ -461,30 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
       "source": "Dark Reading",
       "published": "2026-08-31T20:09:24Z",
-      "actors": []
-    },
-    {
-      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
-      "summary": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session &#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x94; history, filesystem output, working paths,…",
-      "url": "https://isc.sans.edu/diary/rss/33298",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-31T20:00:34Z",
-      "actors": []
-    },
-    {
-      "title": "AI Model Rules Are Not Security Controls",
-      "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
-      "url": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-      "source": "Dark Reading",
-      "published": "2026-08-31T17:34:26Z",
-      "actors": []
-    },
-    {
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing…",
-      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "source": "The Hacker News",
-      "published": "2026-08-31T17:24:28Z",
       "actors": []
     }
   ],
