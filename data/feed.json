@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T09:07:57Z",
+  "generated_at": "2026-09-02T13:38:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,86 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained…",
+      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T13:12:45Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
+      "url": "https://therecord.media/hackers-russia-fundraisers-ukraine",
+      "source": "The Record",
+      "published": "2026-09-02T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T12:30:22Z",
+      "actors": []
+    },
+    {
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on…",
+      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T12:22:02Z",
+      "actors": []
+    },
+    {
+      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
+      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
+      "url": "https://therecord.media/sality-botnet-cyber-doj",
+      "source": "The Record",
+      "published": "2026-09-02T12:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here.…",
+      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T11:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-83548 (CVSS score:…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T10:53:49Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T10:29:39Z",
+      "actors": []
+    },
+    {
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability…",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T09:18:02Z",
+      "actors": []
+    },
+    {
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in…",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T09:10:23Z",
       "actors": []
     },
     {
@@ -81,7 +161,7 @@
     },
     {
       "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "summary": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
+      "summary": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
       "source": "Dark Reading",
       "published": "2026-09-02T01:00:00Z",
@@ -104,7 +184,7 @@
       "actors": []
     },
     {
-      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
       "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
       "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
       "source": "Dark Reading",
@@ -128,7 +208,7 @@
       "actors": []
     },
     {
-      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
       "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
       "source": "Dark Reading",
@@ -256,14 +336,6 @@
       "actors": []
     },
     {
-      "title": "Cyber risk from frontier AI poses ‘most immediate concern’ to global financial system, watchdog warns",
-      "summary": "Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to “prepare for more severe scenarios involving simultaneous disruption across multiple firms or shared technology dependencies.”",
-      "url": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
-      "source": "The Record",
-      "published": "2026-09-01T12:28:00Z",
-      "actors": []
-    },
-    {
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
       "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most…",
       "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
@@ -336,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "Five plead guilty in latest federal ATM jackpotting case",
-      "summary": "Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals.",
-      "url": "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
-      "source": "The Record",
-      "published": "2026-08-31T20:31:00Z",
-      "actors": []
-    },
-    {
       "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
       "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
       "url": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
@@ -368,14 +432,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T18:51:04Z",
-      "actors": []
-    },
-    {
       "title": "AI Model Rules Are Not Security Controls",
       "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
       "url": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
@@ -389,14 +445,6 @@
       "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
       "source": "The Hacker News",
       "published": "2026-08-31T17:24:28Z",
-      "actors": []
-    },
-    {
-      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-      "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T16:56:57Z",
       "actors": []
     },
     {
@@ -437,54 +485,6 @@
       "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
       "source": "The Hacker News",
       "published": "2026-08-31T09:04:55Z",
-      "actors": []
-    },
-    {
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted. Last week, the DoJ said the National Aeronautics and Space…",
-      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "source": "The Hacker News",
-      "published": "2026-08-31T07:56:53Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33296",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-31T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to…",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "source": "The Hacker News",
-      "published": "2026-08-30T07:36:33Z",
-      "actors": []
-    },
-    {
-      "title": "YARA-X 1.20.0 Release, (Sun, Aug 30th)",
-      "summary": "YARA-X&#;x26;#;39;s 1.20.0 release brings 14 improvements and 13 bugfixes.",
-      "url": "https://isc.sans.edu/diary/rss/33288",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-08-30T07:14:49Z",
-      "actors": []
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed…",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "source": "The Hacker News",
-      "published": "2026-08-29T16:25:03Z",
-      "actors": []
-    },
-    {
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the…",
-      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T21:30:52Z",
       "actors": []
     }
   ],
