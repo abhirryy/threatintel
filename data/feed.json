@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:16:28Z",
+  "generated_at": "2026-09-02T00:20:06Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by…",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "published": "2026-09-01T22:40:28Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
       "source": "The Hacker News",
       "published": "2026-08-28T16:20:46Z",
-      "actors": []
-    },
-    {
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines.…",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T15:56:55Z",
       "actors": []
     }
   ],
