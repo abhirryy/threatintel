@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T13:38:25Z",
+  "generated_at": "2026-09-02T17:21:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 1,
+    "threat_actors": 0,
     "attack_surface": 60
   },
   "osint_news": [
@@ -21,6 +21,54 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
+      "summary": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
+      "source": "Dark Reading",
+      "published": "2026-09-02T16:51:21Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T15:47:08Z",
+      "actors": []
+    },
+    {
+      "title": "New pro-Ukraine hacker group targets Russian companies with custom ransomware",
+      "summary": "The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week.",
+      "url": "https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia",
+      "source": "The Record",
+      "published": "2026-09-02T15:07:00Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and…",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T14:06:59Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "source": "BleepingComputer",
+      "published": "2026-09-02T14:02:12Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting. Check…",
+      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "source": "The Hacker News",
+      "published": "2026-09-02T13:44:16Z",
       "actors": []
     },
     {
@@ -328,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "Iranian cyber spies target aviation, fintech developers with new malware",
-      "summary": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia.",
-      "url": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
-      "source": "The Record",
-      "published": "2026-09-01T12:33:00Z",
-      "actors": []
-    },
-    {
       "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
       "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most…",
       "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
@@ -368,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T07:48:24Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
       "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute…",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
@@ -397,14 +429,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
       "source": "Dark Reading",
       "published": "2026-08-31T21:08:46Z",
-      "actors": []
-    },
-    {
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "source": "BleepingComputer",
-      "published": "2026-08-31T20:47:54Z",
       "actors": []
     },
     {
@@ -462,45 +486,9 @@
       "source": "The Hacker News",
       "published": "2026-08-31T12:14:00Z",
       "actors": []
-    },
-    {
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated…",
-      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "source": "The Hacker News",
-      "published": "2026-08-31T11:47:24Z",
-      "actors": []
-    },
-    {
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether…",
-      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "source": "The Hacker News",
-      "published": "2026-08-31T11:31:47Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia,…",
-      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "source": "The Hacker News",
-      "published": "2026-08-31T09:04:55Z",
-      "actors": []
     }
   ],
-  "threat_actors": [
-    {
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed…",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "source": "The Hacker News",
-      "published": "2026-08-28T08:20:59Z",
-      "actors": [
-        "APT28"
-      ],
-      "kind": "news"
-    }
-  ],
+  "threat_actors": [],
   "attack_surface": [
     {
       "cve": "CVE-2026-82078",
