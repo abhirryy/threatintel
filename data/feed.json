@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:01:09Z",
+  "generated_at": "2026-09-03T09:39:39Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,30 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
+      "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T08:55:25Z",
+      "actors": []
+    },
+    {
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in…",
+      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T06:26:59Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability…",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T05:19:04Z",
       "actors": []
     },
     {
@@ -416,14 +440,6 @@
       "actors": []
     },
     {
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
       "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
       "url": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
       "source": "The Hacker News",
       "published": "2026-09-01T07:22:30Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33302",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-01T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
-      "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
-      "source": "Dark Reading",
-      "published": "2026-08-31T21:08:46Z",
       "actors": []
     }
   ],
