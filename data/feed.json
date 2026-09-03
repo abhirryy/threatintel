@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T09:39:39Z",
+  "generated_at": "2026-09-03T13:53:13Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -24,11 +24,83 @@
       "actors": []
     },
     {
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T13:50:59Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T12:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "'Breeze Comet' Tears Into Brazilian & Global Financial Systems",
+      "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
+      "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+      "source": "Dark Reading",
+      "published": "2026-09-03T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "US and Canadian court data exposed in Thomson Reuters breach",
+      "summary": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
+      "url": "https://therecord.media/thomson-reuters-cyberattack-data",
+      "source": "The Record",
+      "published": "2026-09-03T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic…",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T11:58:00Z",
+      "actors": []
+    },
+    {
+      "title": "Plex warns users to patch security vulnerabilities immediately",
+      "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T11:02:22Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and…",
+      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T10:43:01Z",
+      "actors": []
+    },
+    {
+      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the…",
+      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T10:36:39Z",
+      "actors": []
+    },
+    {
       "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
       "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
       "source": "BleepingComputer",
       "published": "2026-09-03T08:55:25Z",
+      "actors": []
+    },
+    {
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's…",
+      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T08:43:17Z",
       "actors": []
     },
     {
@@ -216,14 +288,6 @@
       "actors": []
     },
     {
-      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
-      "summary": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.",
-      "url": "https://therecord.media/sality-botnet-cyber-doj",
-      "source": "The Record",
-      "published": "2026-09-02T12:15:00Z",
-      "actors": []
-    },
-    {
       "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
       "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here.…",
       "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
@@ -392,14 +456,6 @@
       "actors": []
     },
     {
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T17:54:22Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
       "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog…",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
@@ -416,22 +472,6 @@
       "actors": []
     },
     {
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "summary": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T14:45:06Z",
-      "actors": []
-    },
-    {
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "summary": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T14:28:40Z",
-      "actors": []
-    },
-    {
       "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
       "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injected code runs two…",
       "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
@@ -445,46 +485,6 @@
       "url": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
       "source": "Dark Reading",
       "published": "2026-09-01T13:56:42Z",
-      "actors": []
-    },
-    {
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using…",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T13:08:58Z",
-      "actors": []
-    },
-    {
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most…",
-      "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actors attempted to gain…",
-      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T09:05:30Z",
-      "actors": []
-    },
-    {
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on X, is to…",
-      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T08:26:24Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute…",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T07:22:30Z",
       "actors": []
     }
   ],
