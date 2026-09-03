@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:28:35Z",
+  "generated_at": "2026-09-03T20:05:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,46 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T20:04:24Z",
+      "actors": []
+    },
+    {
+      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+      "source": "Dark Reading",
+      "published": "2026-09-03T19:42:39Z",
+      "actors": []
+    },
+    {
+      "title": "Large group of Serbian opposition, activist figures targeted with spyware",
+      "summary": "At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic researchers.",
+      "url": "https://therecord.media/serbia-spyware-pegasus-europe",
+      "source": "The Record",
+      "published": "2026-09-03T19:30:41Z",
+      "actors": []
+    },
+    {
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T18:28:12Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe…",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T18:02:47Z",
       "actors": []
     },
     {
@@ -328,14 +368,6 @@
       "actors": []
     },
     {
-      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-      "summary": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.",
-      "url": "https://therecord.media/hackers-russia-fundraisers-ukraine",
-      "source": "The Record",
-      "published": "2026-09-02T13:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Dropbox accounts breached through Lenovo email verification flaw",
       "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
@@ -368,14 +400,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T10:29:39Z",
-      "actors": []
-    },
-    {
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
       "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability…",
       "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
@@ -389,14 +413,6 @@
       "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
       "source": "The Hacker News",
       "published": "2026-09-02T09:10:23Z",
-      "actors": []
-    },
-    {
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T09:06:48Z",
       "actors": []
     },
     {
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
       "source": "Dark Reading",
       "published": "2026-09-01T21:03:19Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
-      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
-      "source": "Dark Reading",
-      "published": "2026-09-01T20:48:52Z",
-      "actors": []
-    },
-    {
-      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
-      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
-      "source": "Dark Reading",
-      "published": "2026-09-01T20:13:09Z",
       "actors": []
     }
   ],
