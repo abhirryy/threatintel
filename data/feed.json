@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:05:32Z",
+  "generated_at": "2026-09-03T22:31:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T22:01:37Z",
+      "actors": []
+    },
+    {
+      "title": "Large Enterprises Targeted in Fake Merger & Acquisition Scams",
+      "summary": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+      "source": "Dark Reading",
+      "published": "2026-09-03T20:18:14Z",
       "actors": []
     },
     {
@@ -368,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T12:30:22Z",
-      "actors": []
-    },
-    {
       "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
       "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on…",
       "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
       "source": "Dark Reading",
       "published": "2026-09-01T21:05:53Z",
-      "actors": []
-    },
-    {
-      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
-      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
-      "url": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
-      "source": "Dark Reading",
-      "published": "2026-09-01T21:03:19Z",
       "actors": []
     }
   ],
