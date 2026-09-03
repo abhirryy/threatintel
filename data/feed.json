@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T13:53:13Z",
+  "generated_at": "2026-09-03T17:28:35Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,70 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR…",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T15:52:07Z",
+      "actors": []
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access…",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T15:26:47Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T15:22:33Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T15:13:29Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T15:02:52Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-09-03T14:52:20Z",
+      "actors": []
+    },
+    {
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the…",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "source": "The Hacker News",
+      "published": "2026-09-03T14:39:05Z",
+      "actors": []
+    },
+    {
+      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+      "source": "Dark Reading",
+      "published": "2026-09-03T14:38:49Z",
       "actors": []
     },
     {
@@ -136,7 +200,7 @@
       "actors": []
     },
     {
-      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
+      "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
       "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
       "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
       "source": "Dark Reading",
@@ -336,14 +400,6 @@
       "actors": []
     },
     {
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T08:00:43Z",
-      "actors": []
-    },
-    {
       "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
       "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer…",
       "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
@@ -365,14 +421,6 @@
       "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
       "source": "The Hacker News",
       "published": "2026-09-02T06:56:30Z",
-      "actors": []
-    },
-    {
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T06:39:29Z",
       "actors": []
     },
     {
@@ -424,14 +472,6 @@
       "actors": []
     },
     {
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T20:53:23Z",
-      "actors": []
-    },
-    {
       "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
       "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
@@ -445,46 +485,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
       "source": "Dark Reading",
       "published": "2026-09-01T20:13:09Z",
-      "actors": []
-    },
-    {
-      "title": "Aesto Health says data breach affects over 9.5 million patients",
-      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-      "source": "BleepingComputer",
-      "published": "2026-09-01T19:28:17Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog…",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T17:53:11Z",
-      "actors": []
-    },
-    {
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "summary": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as \"specializing in manipulating payment systems and…",
-      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T17:19:24Z",
-      "actors": []
-    },
-    {
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "summary": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS devices. \"The injected code runs two…",
-      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "source": "The Hacker News",
-      "published": "2026-09-01T14:07:20Z",
-      "actors": []
-    },
-    {
-      "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
-      "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
-      "url": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
-      "source": "Dark Reading",
-      "published": "2026-09-01T13:56:42Z",
       "actors": []
     }
   ],
