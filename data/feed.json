@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:20:23Z",
+  "generated_at": "2026-09-04T04:48:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33310",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-04T02:00:02Z",
       "actors": []
     },
     {
@@ -225,7 +233,7 @@
     },
     {
       "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in…",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0-day privilege escalation that abuses the office…",
       "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
       "source": "The Hacker News",
       "published": "2026-09-03T06:26:59Z",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33300",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-01T21:30:18Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
-      "url": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-      "source": "Dark Reading",
-      "published": "2026-09-01T21:05:53Z",
       "actors": []
     }
   ],
