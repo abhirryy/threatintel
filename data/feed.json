@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:07:30Z",
+  "generated_at": "2026-09-04T13:31:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,54 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
+      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T13:22:01Z",
+      "actors": []
+    },
+    {
+      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
+      "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
+      "source": "Dark Reading",
+      "published": "2026-09-04T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "G7 urges organizations to prepare for quantum cyber threats",
+      "summary": "In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.",
+      "url": "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
+      "source": "The Record",
+      "published": "2026-09-04T12:34:00Z",
+      "actors": []
+    },
+    {
+      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
+      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T12:22:30Z",
+      "actors": []
+    },
+    {
+      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
+      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T11:48:17Z",
+      "actors": []
+    },
+    {
+      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form Builder that allows…",
+      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+      "source": "The Hacker News",
+      "published": "2026-09-04T08:48:45Z",
       "actors": []
     },
     {
@@ -320,14 +368,6 @@
       "actors": []
     },
     {
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "summary": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T19:28:46Z",
-      "actors": []
-    },
-    {
       "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
       "summary": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
       "url": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
@@ -368,35 +408,11 @@
       "actors": []
     },
     {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T15:47:08Z",
-      "actors": []
-    },
-    {
-      "title": "New pro-Ukraine hacker group targets Russian companies with custom ransomware",
-      "summary": "The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week.",
-      "url": "https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia",
-      "source": "The Record",
-      "published": "2026-09-02T15:07:00Z",
-      "actors": []
-    },
-    {
       "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
       "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and…",
       "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
       "source": "The Hacker News",
       "published": "2026-09-02T14:06:59Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T14:02:12Z",
       "actors": []
     },
     {
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
       "source": "The Hacker News",
       "published": "2026-09-02T07:08:50Z",
-      "actors": []
-    },
-    {
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with…",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T06:56:30Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33304",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-02T02:00:02Z",
       "actors": []
     }
   ],
