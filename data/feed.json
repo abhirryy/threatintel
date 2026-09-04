@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T19:28:01Z",
+  "generated_at": "2026-09-04T21:44:03Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -141,6 +141,14 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
       "source": "BleepingComputer",
       "published": "2026-09-04T12:22:30Z",
+      "actors": []
+    },
+    {
+      "title": "Insurers Search for Answers to Rein in Rogue AI",
+      "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
+      "url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
+      "source": "Dark Reading",
+      "published": "2026-09-04T12:15:03Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
       "source": "The Hacker News",
       "published": "2026-09-02T12:22:02Z",
-      "actors": []
-    },
-    {
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here.…",
-      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T11:30:00Z",
       "actors": []
     }
   ],
