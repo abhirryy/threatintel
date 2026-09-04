@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:31:07Z",
+  "generated_at": "2026-09-04T17:01:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,94 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T16:56:45Z",
+      "actors": []
+    },
+    {
+      "title": "Companies Have Six Months to Prepare for Automated Attacks",
+      "summary": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
+      "source": "Dark Reading",
+      "published": "2026-09-04T15:57:31Z",
+      "actors": []
+    },
+    {
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email…",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "source": "The Hacker News",
+      "published": "2026-09-04T15:57:15Z",
+      "actors": []
+    },
+    {
+      "title": "US, Britain to coordinate on scam center takedowns",
+      "summary": "The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.",
+      "url": "https://therecord.media/scam-compounds-coordination-us-uk-memorandum",
+      "source": "The Record",
+      "published": "2026-09-04T15:42:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T15:25:59Z",
+      "actors": []
+    },
+    {
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4…",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "source": "The Hacker News",
+      "published": "2026-09-04T15:20:19Z",
+      "actors": []
+    },
+    {
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a…",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "source": "The Hacker News",
+      "published": "2026-09-04T14:51:13Z",
+      "actors": []
+    },
+    {
+      "title": "UK account-hack losses surge as new reporting system exposes hidden cases",
+      "summary": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier.",
+      "url": "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
+      "source": "The Record",
+      "published": "2026-09-04T14:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T14:30:15Z",
+      "actors": []
+    },
+    {
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "source": "BleepingComputer",
+      "published": "2026-09-04T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
+      "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
+      "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
+      "source": "The Record",
+      "published": "2026-09-04T13:39:00Z",
       "actors": []
     },
     {
@@ -232,26 +320,10 @@
       "actors": []
     },
     {
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "source": "BleepingComputer",
-      "published": "2026-09-03T12:16:32Z",
-      "actors": []
-    },
-    {
       "title": "'Breeze Comet' Tears Into Brazilian & Global Financial Systems",
       "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
       "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
       "source": "Dark Reading",
-      "published": "2026-09-03T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "US and Canadian court data exposed in Thomson Reuters breach",
-      "summary": "Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.",
-      "url": "https://therecord.media/thomson-reuters-cyberattack-data",
-      "source": "The Record",
       "published": "2026-09-03T12:00:00Z",
       "actors": []
     },
@@ -261,14 +333,6 @@
       "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
       "source": "The Hacker News",
       "published": "2026-09-03T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "summary": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "source": "BleepingComputer",
-      "published": "2026-09-03T11:02:22Z",
       "actors": []
     },
     {
@@ -285,14 +349,6 @@
       "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
       "source": "The Hacker News",
       "published": "2026-09-03T10:36:39Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs",
-      "summary": "Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "source": "BleepingComputer",
-      "published": "2026-09-03T08:55:25Z",
       "actors": []
     },
     {
@@ -344,14 +400,6 @@
       "actors": []
     },
     {
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "summary": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "source": "BleepingComputer",
-      "published": "2026-09-02T21:00:13Z",
-      "actors": []
-    },
-    {
       "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
       "summary": "The exploitation activity follows attacks earlier this summer on two other zero-day vulnerabilities in the vendor's edge devices.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
@@ -368,27 +416,11 @@
       "actors": []
     },
     {
-      "title": "Russian national facing 20 years for malware campaign that infected 80,000 freelancers",
-      "summary": "Searzhudin Tamirlanovich Aktulaev appeared in a San Francisco federal court on Monday after being arrested in Cyprus in May 2025 and extradited to the U.S. last week.",
-      "url": "https://therecord.media/russian-national-facing-20-years-malware-campaign",
-      "source": "The Record",
-      "published": "2026-09-02T18:43:00Z",
-      "actors": []
-    },
-    {
       "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
       "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and…",
       "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
       "source": "The Hacker News",
       "published": "2026-09-02T18:27:49Z",
-      "actors": []
-    },
-    {
-      "title": "Health data of more than 9.5 million people leaked from Aesto record system",
-      "summary": "The healthcare data company Aesto informed federal regulators this week that more than 9.5 million people had sensitive information leaked during a cyberattack last December.",
-      "url": "https://therecord.media/health-data-aesto-cyberattack-leak",
-      "source": "The Record",
-      "published": "2026-09-02T17:15:00Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
       "source": "The Hacker News",
       "published": "2026-09-02T10:53:49Z",
-      "actors": []
-    },
-    {
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability…",
-      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T09:18:02Z",
-      "actors": []
-    },
-    {
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in…",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T09:10:23Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer…",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T07:47:13Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB…",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T07:08:50Z",
       "actors": []
     }
   ],
