@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:19:33Z",
+  "generated_at": "2026-09-05T22:06:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it…",
+      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "source": "The Hacker News",
+      "published": "2026-09-05T20:14:47Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
       "source": "Dark Reading",
       "published": "2026-09-02T19:46:31Z",
-      "actors": []
-    },
-    {
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and…",
-      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T18:27:49Z",
       "actors": []
     }
   ],
