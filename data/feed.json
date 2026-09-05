@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T23:23:51Z",
+  "generated_at": "2026-09-05T01:14:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
+      "summary": "Enterprises face an unmanaged crisis of AI agent and MCP server sprawl, characterized by rapid, decentralized proliferation of autonomous agents, protocol connections operating with excessive privilege, opaque execution paths, and identity blind spots. Absent agent-aware governance, modern enterprises struggle to…",
+      "url": "https://isc.sans.edu/diary/rss/33312",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-05T01:07:10Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
       "source": "The Hacker News",
       "published": "2026-09-02T13:12:45Z",
-      "actors": []
-    },
-    {
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on…",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T12:22:02Z",
       "actors": []
     }
   ],
