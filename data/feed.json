@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:00:52Z",
+  "generated_at": "2026-09-05T15:58:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "source": "BleepingComputer",
+      "published": "2026-09-05T14:29:13Z",
+      "actors": []
+    },
+    {
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August…",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "source": "The Hacker News",
+      "published": "2026-09-05T14:17:02Z",
       "actors": []
     },
     {
@@ -336,14 +352,6 @@
       "actors": []
     },
     {
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "source": "BleepingComputer",
-      "published": "2026-09-03T14:52:20Z",
-      "actors": []
-    },
-    {
       "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
       "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the…",
       "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
       "source": "The Hacker News",
       "published": "2026-09-02T16:41:06Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and…",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T14:06:59Z",
       "actors": []
     }
   ],
