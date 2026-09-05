@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:14:20Z",
+  "generated_at": "2026-09-05T05:50:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -25,10 +25,10 @@
     },
     {
       "title": "numbat - AI agent observability, (Fri, Sep 4th)",
-      "summary": "Enterprises face an unmanaged crisis of AI agent and MCP server sprawl, characterized by rapid, decentralized proliferation of autonomous agents, protocol connections operating with excessive privilege, opaque execution paths, and identity blind spots. Absent agent-aware governance, modern enterprises struggle to…",
+      "summary": "",
       "url": "https://isc.sans.edu/diary/rss/33312",
       "source": "SANS Internet Storm Center",
-      "published": "2026-09-05T01:07:10Z",
+      "published": "2026-09-05T03:39:52Z",
       "actors": []
     },
     {
