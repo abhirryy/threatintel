@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T05:50:07Z",
+  "generated_at": "2026-09-05T09:33:12Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. The…",
+      "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+      "source": "The Hacker News",
+      "published": "2026-09-05T07:55:10Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+      "source": "The Hacker News",
+      "published": "2026-09-05T07:31:53Z",
       "actors": []
     },
     {
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
       "source": "The Hacker News",
       "published": "2026-09-02T14:06:59Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting. Check…",
-      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T13:44:16Z",
-      "actors": []
-    },
-    {
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained…",
-      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "source": "The Hacker News",
-      "published": "2026-09-02T13:12:45Z",
       "actors": []
     }
   ],
