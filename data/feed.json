@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:27:18Z",
+  "generated_at": "2026-09-06T23:03:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)",
+      "summary": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access after a patch is installed.",
+      "url": "https://isc.sans.edu/diary/rss/33314",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-06T21:43:17Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33308",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-03T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "AI's Vulnerability Surge May Be More Manageable Than First Feared",
-      "summary": "New research suggests the coming Vulnpocalypse may not be so overwhelming for enterprise security teams — if they have the right strategies.",
-      "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
-      "source": "Dark Reading",
-      "published": "2026-09-02T21:14:06Z",
       "actors": []
     }
   ],
