@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T14:25:08Z",
+  "generated_at": "2026-09-06T17:15:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers conceal phishing lures using invisible Unicode characters",
+      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+      "source": "BleepingComputer",
+      "published": "2026-09-06T14:23:46Z",
       "actors": []
     },
     {
@@ -381,14 +389,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
       "source": "BleepingComputer",
       "published": "2026-09-03T15:13:29Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "source": "BleepingComputer",
-      "published": "2026-09-03T15:02:52Z",
       "actors": []
     },
     {
