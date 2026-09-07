@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T00:56:37Z",
+  "generated_at": "2026-09-07T05:52:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+      "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+      "source": "BleepingComputer",
+      "published": "2026-09-07T01:15:43Z",
       "actors": []
     },
     {
@@ -389,14 +397,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
       "source": "BleepingComputer",
       "published": "2026-09-03T15:22:33Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-      "source": "BleepingComputer",
-      "published": "2026-09-03T15:13:29Z",
       "actors": []
     },
     {
