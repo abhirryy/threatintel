@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:20:06Z",
+  "generated_at": "2026-09-07T16:33:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,78 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity,…",
+      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "source": "The Hacker News",
+      "published": "2026-09-07T15:51:56Z",
+      "actors": []
+    },
+    {
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "source": "BleepingComputer",
+      "published": "2026-09-07T15:39:51Z",
+      "actors": []
+    },
+    {
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code…",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "source": "The Hacker News",
+      "published": "2026-09-07T14:36:07Z",
+      "actors": []
+    },
+    {
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "source": "BleepingComputer",
+      "published": "2026-09-07T13:05:11Z",
+      "actors": []
+    },
+    {
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-07T12:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
+      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
+      "url": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
+      "source": "The Record",
+      "published": "2026-09-07T11:50:00Z",
+      "actors": []
+    },
+    {
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in…",
+      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "source": "The Hacker News",
+      "published": "2026-09-07T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a…",
+      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "source": "The Hacker News",
+      "published": "2026-09-07T11:36:39Z",
+      "actors": []
+    },
+    {
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild. Security…",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "source": "The Hacker News",
+      "published": "2026-09-07T11:20:14Z",
       "actors": []
     },
     {
@@ -272,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "source": "BleepingComputer",
-      "published": "2026-09-04T13:22:01Z",
-      "actors": []
-    },
-    {
       "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
       "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
@@ -296,27 +360,11 @@
       "actors": []
     },
     {
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "source": "BleepingComputer",
-      "published": "2026-09-04T12:22:30Z",
-      "actors": []
-    },
-    {
       "title": "Insurers Search for Answers to Rein in Rogue AI",
       "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
       "url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
       "source": "Dark Reading",
       "published": "2026-09-04T12:15:03Z",
-      "actors": []
-    },
-    {
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-04T11:48:17Z",
       "actors": []
     },
     {
@@ -349,14 +397,6 @@
       "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
       "source": "The Hacker News",
       "published": "2026-09-04T06:47:52Z",
-      "actors": []
-    },
-    {
-      "title": "US offers $10 million for info on Iranian allegedly behind cyberattacks on critical infrastructure",
-      "summary": "Amir Yaryab is the leader of the IRGC's cyber unit and oversees hacker groups such as the CyberAv3ngers, the State Department said in posting a reward for information about him.",
-      "url": "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
-      "source": "The Record",
-      "published": "2026-09-04T04:00:00Z",
       "actors": []
     },
     {
@@ -445,46 +485,6 @@
       "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
       "source": "The Hacker News",
       "published": "2026-09-03T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and…",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T10:43:01Z",
-      "actors": []
-    },
-    {
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the…",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T10:36:39Z",
-      "actors": []
-    },
-    {
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's…",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T08:43:17Z",
-      "actors": []
-    },
-    {
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0-day privilege escalation that abuses the office…",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T06:26:59Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability…",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T05:19:04Z",
       "actors": []
     }
   ],
