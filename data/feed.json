@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T16:33:22Z",
+  "generated_at": "2026-09-07T20:07:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing…",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "source": "The Hacker News",
+      "published": "2026-09-07T18:12:09Z",
+      "actors": []
+    },
+    {
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "source": "BleepingComputer",
+      "published": "2026-09-07T16:50:29Z",
       "actors": []
     },
     {
@@ -328,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "source": "BleepingComputer",
-      "published": "2026-09-04T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
       "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
       "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
       "source": "Dark Reading",
       "published": "2026-09-03T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
-      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic…",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T11:58:00Z",
       "actors": []
     }
   ],
