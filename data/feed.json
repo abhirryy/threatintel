@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:54:12Z",
+  "generated_at": "2026-09-08T20:44:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,86 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "summary": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T20:35:14Z",
+      "actors": []
+    },
+    {
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "summary": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be critical to meeting the new requirements.…",
+      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T20:24:16Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T20:08:55Z",
+      "actors": []
+    },
+    {
+      "title": "CIA official touts agency’s Cyber Mission Center in capture of Venezuela’s Maduro",
+      "summary": "A \"flawless\" performance by the CIA's Cyber Mission Center contributed to the capture of Venezuelan President Nicolás Maduro in January, agency Deputy Director Michael Ellis says.",
+      "url": "https://therecord.media/cia-cyber-operations-maduro-capture-venezuela",
+      "source": "The Record",
+      "published": "2026-09-08T19:46:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russian suspect in bank account takeovers is extradited to US",
+      "summary": "A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment.",
+      "url": "https://therecord.media/russian-cybercrime-bank-extradition",
+      "source": "The Record",
+      "published": "2026-09-08T19:37:42Z",
+      "actors": []
+    },
+    {
+      "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
+      "summary": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two vulnerabilities are listed as exploited in the wild, while none were publicly disclosed before…",
+      "url": "https://isc.sans.edu/diary/rss/33320",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-08T19:20:30Z",
+      "actors": []
+    },
+    {
+      "title": "Italian tech collective Autistici/Inventati shuts down after US terrorist designation",
+      "summary": "On August 26, the State Department labeled A/I an “extremist group” operating infrastructure for “far-left militants across the world” and announced that anyone engaging with the group financially risked exposure to sanctions.",
+      "url": "https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation",
+      "source": "The Record",
+      "published": "2026-09-08T19:12:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
+      "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T18:49:19Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
+      "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T18:18:05Z",
+      "actors": []
+    },
+    {
+      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
+      "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T17:57:03Z",
       "actors": []
     },
     {
@@ -136,27 +216,11 @@
       "actors": []
     },
     {
-      "title": "French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack",
-      "summary": "French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.",
-      "url": "https://therecord.media/france-hacker-arrest-zerobytes",
-      "source": "The Record",
-      "published": "2026-09-08T12:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers build AI frameworks for widescale credential theft",
       "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
       "source": "BleepingComputer",
       "published": "2026-09-08T12:03:03Z",
-      "actors": []
-    },
-    {
-      "title": "Cyberattack encrypts systems at Bavarian municipal utility",
-      "summary": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.",
-      "url": "https://therecord.media/cyberattack-bavaria-germany-utility",
-      "source": "The Record",
-      "published": "2026-09-08T12:00:00Z",
       "actors": []
     },
     {
@@ -208,14 +272,6 @@
       "actors": []
     },
     {
-      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default…",
-      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-      "source": "BleepingComputer",
-      "published": "2026-09-08T07:35:50Z",
-      "actors": []
-    },
-    {
       "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
       "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K.…",
       "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
@@ -240,14 +296,6 @@
       "actors": []
     },
     {
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "source": "BleepingComputer",
-      "published": "2026-09-07T16:50:29Z",
-      "actors": []
-    },
-    {
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity,…",
       "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
@@ -256,43 +304,11 @@
       "actors": []
     },
     {
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "source": "BleepingComputer",
-      "published": "2026-09-07T15:39:51Z",
-      "actors": []
-    },
-    {
       "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
       "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code…",
       "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
       "source": "The Hacker News",
       "published": "2026-09-07T14:36:07Z",
-      "actors": []
-    },
-    {
-      "title": "Mathspace discloses data breach affecting over 1 million people",
-      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
-      "source": "BleepingComputer",
-      "published": "2026-09-07T13:05:11Z",
-      "actors": []
-    },
-    {
-      "title": "Trezor data breach impact now reaches 81,000 customers",
-      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
-      "source": "BleepingComputer",
-      "published": "2026-09-07T12:16:32Z",
-      "actors": []
-    },
-    {
-      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
-      "summary": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.",
-      "url": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
-      "source": "The Record",
-      "published": "2026-09-07T11:50:00Z",
       "actors": []
     },
     {
@@ -317,14 +333,6 @@
       "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
       "source": "The Hacker News",
       "published": "2026-09-07T11:20:14Z",
-      "actors": []
-    },
-    {
-      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
-      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
-      "source": "BleepingComputer",
-      "published": "2026-09-07T10:36:37Z",
       "actors": []
     },
     {
@@ -478,18 +486,66 @@
       "source": "The Hacker News",
       "published": "2026-09-04T08:48:45Z",
       "actors": []
-    },
-    {
-      "title": "Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws",
-      "summary": "Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those issues are, but said CVE identifiers…",
-      "url": "https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html",
-      "source": "The Hacker News",
-      "published": "2026-09-04T07:35:14Z",
-      "actors": []
     }
   ],
   "threat_actors": [],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-75650",
+      "title": "CVE-2026-75650 - Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
+      "summary": "Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "date_added": "2026-09-08",
+      "due_date": "2026-09-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75650",
+      "source": "CISA KEV",
+      "published": "2026-09-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-81963",
+      "title": "CVE-2026-81963 - Microsoft Windows Link Following Vulnerability",
+      "summary": "Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "date_added": "2026-09-08",
+      "due_date": "2026-09-22",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81963",
+      "source": "CISA KEV",
+      "published": "2026-09-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-86218",
+      "title": "CVE-2026-86218 - N-able N-central Static Code Injection Vulnerability",
+      "summary": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
+      "vendor": "N-able",
+      "product": "N-central",
+      "date_added": "2026-09-08",
+      "due_date": "2026-09-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218",
+      "source": "CISA KEV",
+      "published": "2026-09-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-85880",
+      "title": "CVE-2026-85880 - Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
+      "summary": "Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
+      "vendor": "Microsoft",
+      "product": "Windows",
+      "date_added": "2026-09-08",
+      "due_date": "2026-09-22",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85880",
+      "source": "CISA KEV",
+      "published": "2026-09-08T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-85046",
       "title": "CVE-2026-85046 - Google Chromium V8 Type Confusion Vulnerability",
@@ -1272,62 +1328,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-15409",
       "source": "CISA KEV",
       "published": "2026-07-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-15410",
-      "title": "CVE-2026-15410 - SonicWall SMA1000 Appliances Code Injection Vulnerability",
-      "summary": "SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands.",
-      "vendor": "SonicWall",
-      "product": "SMA1000 Appliances",
-      "date_added": "2026-07-14",
-      "due_date": "2026-07-17",
-      "ransomware": "Known",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-15410",
-      "source": "CISA KEV",
-      "published": "2026-07-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2008-4128",
-      "title": "CVE-2008-4128 - Cisco IOS Cross-Site Request Forgery Vulnerability",
-      "summary": "Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain \"show privilege\" command to the /level/15/exec/- URI, and (2) a certain \"alias exec\" command to the /level/15/exec/-/configure/http URI.",
-      "vendor": "Cisco",
-      "product": "IOS",
-      "date_added": "2026-07-13",
-      "due_date": "2026-07-16",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2008-4128",
-      "source": "CISA KEV",
-      "published": "2026-07-13T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-56291",
-      "title": "CVE-2026-56291 - Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "summary": "Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE.",
-      "vendor": "Balbooa",
-      "product": "Forms",
-      "date_added": "2026-07-10",
-      "due_date": "2026-07-13",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-56291",
-      "source": "CISA KEV",
-      "published": "2026-07-10T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-48939",
-      "title": "CVE-2026-48939 - iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability",
-      "summary": "iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution.",
-      "vendor": "iCagenda",
-      "product": "iCagenda",
-      "date_added": "2026-07-10",
-      "due_date": "2026-07-13",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48939",
-      "source": "CISA KEV",
-      "published": "2026-07-10T00:00:00Z",
       "actors": []
     }
   ]
