@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T20:44:47Z",
+  "generated_at": "2026-09-08T23:00:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,54 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited",
+      "summary": "The new record total for Patch Tuesday is 973 vulnerabilities.",
+      "url": "https://therecord.media/microsoft-patch-tuesday-september-2026",
+      "source": "The Record",
+      "published": "2026-09-08T22:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations…",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "source": "Krebs on Security",
+      "published": "2026-09-08T21:44:22Z",
+      "actors": []
+    },
+    {
+      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+      "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+      "source": "Dark Reading",
+      "published": "2026-09-08T21:26:02Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+      "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
+      "source": "Dark Reading",
+      "published": "2026-09-08T21:03:46Z",
+      "actors": []
+    },
+    {
+      "title": "Scammer behind $245 million crypto heist pleads guilty to RICO charges",
+      "summary": "Malone Lam was indicted on scamming charges in September 2024 after drawing law enforcement scrutiny for parlaying stolen crypto into lavish Hamptons vacations, cars and private jets.",
+      "url": "https://therecord.media/scammer-behind-245-million-crypto-heist-pleads-guilty-rico",
+      "source": "The Record",
+      "published": "2026-09-08T20:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
+      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+      "source": "Dark Reading",
+      "published": "2026-09-08T20:36:15Z",
       "actors": []
     },
     {
@@ -112,14 +160,6 @@
       "actors": []
     },
     {
-      "title": "‘White hat’ hackers take $47 million bounty after $320 million crypto theft",
-      "summary": "Public negotiations between hackers and the operators of the Liquid Network crypto platform ended with the attackers sending back most — but not all — of what they took.",
-      "url": "https://therecord.media/liquid-network-blockstream-crypto-theft-hackers-keep-reward",
-      "source": "The Record",
-      "published": "2026-09-08T17:00:00Z",
-      "actors": []
-    },
-    {
       "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
       "summary": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
@@ -181,14 +221,6 @@
       "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
       "source": "The Hacker News",
       "published": "2026-09-08T14:19:17Z",
-      "actors": []
-    },
-    {
-      "title": "Where the backlash against Flock Safety is having the biggest impact",
-      "summary": "Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs).",
-      "url": "https://therecord.media/flock-safety-backlash-places-with-biggest-impact",
-      "source": "The Record",
-      "published": "2026-09-08T14:03:00Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
       "source": "The Hacker News",
       "published": "2026-09-04T15:20:19Z",
-      "actors": []
-    },
-    {
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a…",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "source": "The Hacker News",
-      "published": "2026-09-04T14:51:13Z",
-      "actors": []
-    },
-    {
-      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-      "summary": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-      "source": "Dark Reading",
-      "published": "2026-09-04T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Insurers Search for Answers to Rein in Rogue AI",
-      "summary": "As incidents of unintended harm caused by rogue AI agents mount, CISOs and insurance firms are figuring out how to handle the fallout.",
-      "url": "https://www.darkreading.com/cyber-risk/insurers-search-answers-rogue-ai",
-      "source": "Dark Reading",
-      "published": "2026-09-04T12:15:03Z",
-      "actors": []
-    },
-    {
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form Builder that allows…",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "source": "The Hacker News",
-      "published": "2026-09-04T08:48:45Z",
       "actors": []
     }
   ],
