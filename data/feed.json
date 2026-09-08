@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:45:27Z",
+  "generated_at": "2026-09-08T05:21:04Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33316",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-08T02:00:03Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
       "source": "Dark Reading",
       "published": "2026-09-03T14:38:49Z",
-      "actors": []
-    },
-    {
-      "title": "'Breeze Comet' Tears Into Brazilian & Global Financial Systems",
-      "summary": "Brazil's most sophisticated threat group is making light work of the country's financial systems, putting money directly into its own pocket.",
-      "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-      "source": "Dark Reading",
-      "published": "2026-09-03T12:00:00Z",
       "actors": []
     }
   ],
