@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:21:04Z",
+  "generated_at": "2026-09-08T09:53:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day…",
+      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T09:13:47Z",
+      "actors": []
+    },
+    {
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of…",
+      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T08:43:51Z",
+      "actors": []
+    },
+    {
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default…",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "source": "BleepingComputer",
+      "published": "2026-09-08T07:35:50Z",
+      "actors": []
+    },
+    {
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K.…",
+      "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T07:00:43Z",
       "actors": []
     },
     {
@@ -344,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "source": "BleepingComputer",
-      "published": "2026-09-04T14:30:15Z",
-      "actors": []
-    },
-    {
       "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
       "summary": "Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.",
       "url": "https://therecord.media/russia-data-centers-ukraine-drone-threats",
@@ -461,30 +485,6 @@
       "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
       "source": "The Hacker News",
       "published": "2026-09-03T15:52:07Z",
-      "actors": []
-    },
-    {
-      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
-      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access…",
-      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T15:26:47Z",
-      "actors": []
-    },
-    {
-      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the…",
-      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
-      "source": "The Hacker News",
-      "published": "2026-09-03T14:39:05Z",
-      "actors": []
-    },
-    {
-      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
-      "summary": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
-      "source": "Dark Reading",
-      "published": "2026-09-03T14:38:49Z",
       "actors": []
     }
   ],
