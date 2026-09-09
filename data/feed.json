@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:11:50Z",
+  "generated_at": "2026-09-09T06:00:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,30 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026. The vulnerability in…",
+      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-09-09T04:27:51Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33322",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-09T02:00:02Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+      "summary": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+      "source": "BleepingComputer",
+      "published": "2026-09-09T01:16:27Z",
       "actors": []
     },
     {
@@ -256,14 +280,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
-      "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
-      "source": "BleepingComputer",
-      "published": "2026-09-08T11:57:51Z",
-      "actors": []
-    },
-    {
       "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
       "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif…",
       "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
       "source": "Dark Reading",
       "published": "2026-09-04T15:57:31Z",
-      "actors": []
-    },
-    {
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email…",
-      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "source": "The Hacker News",
-      "published": "2026-09-04T15:57:15Z",
-      "actors": []
-    },
-    {
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4…",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "source": "The Hacker News",
-      "published": "2026-09-04T15:20:19Z",
       "actors": []
     }
   ],
