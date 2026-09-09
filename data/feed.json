@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T21:09:51Z",
+  "generated_at": "2026-09-09T23:15:15Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-09T21:40:44Z",
+      "actors": []
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "source": "BleepingComputer",
+      "published": "2026-09-09T21:30:36Z",
+      "actors": []
+    },
+    {
+      "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
+      "summary": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Andersen says.",
+      "url": "https://therecord.media/cisa-hiring-nick-andersen-warning",
+      "source": "The Record",
+      "published": "2026-09-09T21:25:00Z",
+      "actors": []
+    },
+    {
+      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+      "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+      "url": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+      "source": "Dark Reading",
+      "published": "2026-09-09T21:19:55Z",
       "actors": []
     },
     {
@@ -101,14 +133,6 @@
       "url": "https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups",
       "source": "The Record",
       "published": "2026-09-09T16:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "FBI puts its cyber strategy on paper",
-      "summary": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Leatherman says.",
-      "url": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
-      "source": "The Record",
-      "published": "2026-09-09T15:37:00Z",
       "actors": []
     },
     {
@@ -352,22 +376,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "source": "BleepingComputer",
-      "published": "2026-09-08T18:18:05Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "source": "BleepingComputer",
-      "published": "2026-09-08T17:57:03Z",
-      "actors": []
-    },
-    {
       "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
       "summary": "Two separate attacks demonstrate how threat actors are finding new ways to compromise organizations by using the popular social engineering tactic.",
       "url": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
       "source": "The Hacker News",
       "published": "2026-09-07T18:12:09Z",
-      "actors": []
-    },
-    {
-      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity,…",
-      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-      "source": "The Hacker News",
-      "published": "2026-09-07T15:51:56Z",
       "actors": []
     }
   ],
