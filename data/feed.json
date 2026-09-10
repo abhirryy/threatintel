@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:58:34Z",
+  "generated_at": "2026-09-10T23:04:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "New Android malware encrypts files, steals data, and harasses victims",
+      "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
+      "source": "BleepingComputer",
+      "published": "2026-09-10T21:40:43Z",
+      "actors": []
+    },
+    {
+      "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
+      "summary": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.",
+      "url": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
+      "source": "The Record",
+      "published": "2026-09-10T21:15:00Z",
       "actors": []
     },
     {
@@ -256,14 +272,6 @@
       "actors": []
     },
     {
-      "title": "Multiple crypto companies warn customers of phishing emails after alleged provider breach",
-      "summary": "Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.",
-      "url": "https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders",
-      "source": "The Record",
-      "published": "2026-09-10T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
@@ -285,14 +293,6 @@
       "url": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
       "source": "Dark Reading",
       "published": "2026-09-09T21:19:55Z",
-      "actors": []
-    },
-    {
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "source": "BleepingComputer",
-      "published": "2026-09-09T21:02:14Z",
       "actors": []
     },
     {
