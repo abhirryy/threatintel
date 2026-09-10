@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:58:22Z",
+  "generated_at": "2026-09-10T18:18:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,30 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+      "source": "BleepingComputer",
+      "published": "2026-09-10T15:55:56Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-10T15:43:58Z",
+      "actors": []
+    },
+    {
+      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
+      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
+      "source": "Dark Reading",
+      "published": "2026-09-10T15:29:12Z",
       "actors": []
     },
     {
@@ -161,7 +185,7 @@
     },
     {
       "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
-      "summary": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents.",
+      "summary": "Starting Friday, European organizations will have just 24 hours to notify the EU government any time they discover serious product security incidents.",
       "url": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
       "source": "Dark Reading",
       "published": "2026-09-10T07:00:00Z",
@@ -201,7 +225,7 @@
     },
     {
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
-      "summary": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed.",
+      "summary": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
       "url": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
       "source": "Dark Reading",
       "published": "2026-09-09T21:19:55Z",
@@ -328,14 +352,6 @@
       "actors": []
     },
     {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "summary": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "source": "BleepingComputer",
-      "published": "2026-09-09T10:11:29Z",
-      "actors": []
-    },
-    {
       "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
       "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at an…",
       "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
@@ -349,14 +365,6 @@
       "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
       "source": "The Hacker News",
       "published": "2026-09-09T09:11:03Z",
-      "actors": []
-    },
-    {
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "summary": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "source": "BleepingComputer",
-      "published": "2026-09-09T08:44:22Z",
       "actors": []
     },
     {
@@ -425,7 +433,7 @@
     },
     {
       "title": "Patch Tuesday Sets Another Record With 974 CVEs",
-      "summary": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft.",
+      "summary": "Attackers are actively exploiting two of the vulnerabilities, and another 58 are more likely to be exploited, according to Microsoft.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
       "source": "Dark Reading",
       "published": "2026-09-08T21:26:02Z",
@@ -441,7 +449,7 @@
     },
     {
       "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
-      "summary": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
+      "summary": "Researchers and OpenAI disagree on whether an earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
       "source": "Dark Reading",
       "published": "2026-09-08T20:36:15Z",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
       "source": "The Hacker News",
       "published": "2026-09-08T14:54:30Z",
-      "actors": []
-    },
-    {
-      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-      "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's connected Gmail account and…",
-      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-      "source": "The Hacker News",
-      "published": "2026-09-08T14:19:17Z",
       "actors": []
     }
   ],
@@ -1156,7 +1156,7 @@
       "product": "Secure Firewall Management Center (FMC)",
       "date_added": "2026-07-29",
       "due_date": "2026-08-01",
-      "ransomware": "Unknown",
+      "ransomware": "Known",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20316",
       "source": "CISA KEV",
       "published": "2026-07-29T00:00:00Z",
