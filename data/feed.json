@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T23:04:16Z",
+  "generated_at": "2026-09-11T01:00:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 115,
     "threat_actors": 0,
     "attack_surface": 60
   },
@@ -24,19 +24,19 @@
       "actors": []
     },
     {
+      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
+      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+      "source": "Dark Reading",
+      "published": "2026-09-11T01:00:00Z",
+      "actors": []
+    },
+    {
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "source": "BleepingComputer",
       "published": "2026-09-10T21:40:43Z",
-      "actors": []
-    },
-    {
-      "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
-      "summary": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.",
-      "url": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
-      "source": "The Record",
-      "published": "2026-09-10T21:15:00Z",
       "actors": []
     },
     {
@@ -69,22 +69,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
       "source": "BleepingComputer",
       "published": "2026-09-10T19:07:33Z",
-      "actors": []
-    },
-    {
-      "title": "IDScan confirms breach after hackers offer 153 million driver’s license scans for sale",
-      "summary": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.",
-      "url": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
-      "source": "The Record",
-      "published": "2026-09-10T18:55:00Z",
-      "actors": []
-    },
-    {
-      "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
-      "summary": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.",
-      "url": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
-      "source": "The Record",
-      "published": "2026-09-10T18:25:00Z",
       "actors": []
     },
     {
@@ -152,27 +136,11 @@
       "actors": []
     },
     {
-      "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
-      "summary": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to track and withdraw their earnings.",
-      "url": "https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted",
-      "source": "The Record",
-      "published": "2026-09-10T13:31:00Z",
-      "actors": []
-    },
-    {
       "title": "Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)",
       "summary": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]",
       "url": "https://isc.sans.edu/diary/rss/33326",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-10T12:58:10Z",
-      "actors": []
-    },
-    {
-      "title": "UK appoints new commander of National Cyber Force",
-      "summary": "The individual has not yet been avowed — the formal process in Britain by which an intelligence or security figure’s identity is publicly acknowledged — as routine security considerations are still being worked through.",
-      "url": "https://therecord.media/uk-appoints-new-commander-of-national-cyber-force",
-      "source": "The Record",
-      "published": "2026-09-10T12:44:00Z",
       "actors": []
     },
     {
@@ -485,6 +453,38 @@
       "url": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
       "source": "Dark Reading",
       "published": "2026-09-08T17:25:37Z",
+      "actors": []
+    },
+    {
+      "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+      "summary": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026. Cybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim Spider. \"The adversary demonstrates deep operational…",
+      "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T16:20:23Z",
+      "actors": []
+    },
+    {
+      "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+      "summary": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The network is still paused, so holders cannot…",
+      "url": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T14:54:30Z",
+      "actors": []
+    },
+    {
+      "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+      "summary": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from the user's connected Gmail account and…",
+      "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T14:19:17Z",
+      "actors": []
+    },
+    {
+      "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+      "summary": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting campaign within six hours. Google Threat Intelligence Group (GTIG)…",
+      "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+      "source": "The Hacker News",
+      "published": "2026-09-08T13:48:16Z",
       "actors": []
     }
   ],
