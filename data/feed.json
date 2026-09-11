@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:15:48Z",
+  "generated_at": "2026-09-11T22:39:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T20:19:09Z",
+      "actors": []
+    },
     {
       "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
       "summary": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
@@ -319,14 +327,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
       "source": "Dark Reading",
       "published": "2026-09-10T15:29:12Z",
-      "actors": []
-    },
-    {
-      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
-      "summary": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T14:55:33Z",
       "actors": []
     },
     {
