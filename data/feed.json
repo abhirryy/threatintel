@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:51:42Z",
+  "generated_at": "2026-09-11T20:15:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,19 +8,35 @@
   },
   "osint_news": [
     {
-      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
-      "summary": "",
-      "url": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-      "source": "Dark Reading",
-      "published": "2026-11-12T16:00:00Z",
+      "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
+      "summary": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
+      "url": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
+      "source": "The Record",
+      "published": "2026-09-11T20:00:00Z",
       "actors": []
     },
     {
-      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
-      "summary": "",
-      "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+      "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
       "source": "Dark Reading",
-      "published": "2026-10-08T15:00:00Z",
+      "published": "2026-09-11T19:21:08Z",
+      "actors": []
+    },
+    {
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T19:00:29Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+      "source": "Dark Reading",
+      "published": "2026-09-11T18:44:03Z",
       "actors": []
     },
     {
@@ -29,6 +45,14 @@
       "url": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
       "source": "The Record",
       "published": "2026-09-11T18:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "Why AI Is So Good at Scamming Humans",
+      "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
+      "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
+      "source": "Dark Reading",
+      "published": "2026-09-11T18:14:06Z",
       "actors": []
     },
     {
@@ -266,14 +290,6 @@
       "actors": []
     },
     {
-      "title": "IDScan confirms breach after hackers offer 153 million driver’s license scans for sale",
-      "summary": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.",
-      "url": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
-      "source": "The Record",
-      "published": "2026-09-10T18:55:00Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it…",
       "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
@@ -319,14 +335,6 @@
       "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
       "source": "The Hacker News",
       "published": "2026-09-10T14:36:47Z",
-      "actors": []
-    },
-    {
-      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-      "summary": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T14:11:34Z",
       "actors": []
     },
     {
@@ -480,14 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-09-09T10:43:04Z",
       "actors": []
-    },
-    {
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "summary": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been described as occurring at an…",
-      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T09:32:26Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -504,6 +504,62 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-84869",
+      "title": "CVE-2026-84869 - ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.",
+      "vendor": "ConnectWise",
+      "product": "ScreenConnect",
+      "date_added": "2026-09-11",
+      "due_date": "2026-09-14",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869",
+      "source": "CISA KEV",
+      "published": "2026-09-11T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-42016",
+      "title": "CVE-2026-42016 - JFrog Artifactory Incorrect Authorization Vulnerability",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "date_added": "2026-09-11",
+      "due_date": "2026-09-25",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42016",
+      "source": "CISA KEV",
+      "published": "2026-09-11T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-42018",
+      "title": "CVE-2026-42018 - JFrog Artifactory Improper Authentication Vulnerability",
+      "summary": "JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.",
+      "vendor": "JFrog",
+      "product": "Artifactory",
+      "date_added": "2026-09-11",
+      "due_date": "2026-09-25",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-42018",
+      "source": "CISA KEV",
+      "published": "2026-09-11T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-85706",
+      "title": "CVE-2026-85706 - GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
+      "summary": "GitLab Community Edition and Enterprise Edition contains a path traversal vulnerability that allows an unauthenticated user to read arbitrary files due to an improper path confinement and missing authentication enforcement in the repository commits API.",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "date_added": "2026-09-11",
+      "due_date": "2026-09-14",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85706",
+      "source": "CISA KEV",
+      "published": "2026-09-11T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-86060",
       "title": "CVE-2026-86060 - MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
@@ -1286,62 +1342,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-63030",
       "source": "CISA KEV",
       "published": "2026-07-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-0770",
-      "title": "CVE-2026-0770 - Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability",
-      "summary": "Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations.",
-      "vendor": "Langflow",
-      "product": "Langflow",
-      "date_added": "2026-07-21",
-      "due_date": "2026-07-24",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0770",
-      "source": "CISA KEV",
-      "published": "2026-07-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2021-27137",
-      "title": "CVE-2021-27137 - DD-WRT Stack-Based Buffer Overflow Vulnerability",
-      "summary": "DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability.",
-      "vendor": "DD-WRT",
-      "product": "DD-WRT",
-      "date_added": "2026-07-21",
-      "due_date": "2026-07-24",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-27137",
-      "source": "CISA KEV",
-      "published": "2026-07-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-58644",
-      "title": "CVE-2026-58644 - Microsoft SharePoint Deserialization of Untrusted Data Vulnerability",
-      "summary": "Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.",
-      "vendor": "Microsoft",
-      "product": "SharePoint",
-      "date_added": "2026-07-16",
-      "due_date": "2026-07-19",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58644",
-      "source": "CISA KEV",
-      "published": "2026-07-16T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-25089",
-      "title": "CVE-2026-25089 - Fortinet FortiSandbox OS Command Injection Vulnerability",
-      "summary": "Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests.",
-      "vendor": "Fortinet",
-      "product": "FortiSandbox",
-      "date_added": "2026-07-16",
-      "due_date": "2026-07-19",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-25089",
-      "source": "CISA KEV",
-      "published": "2026-07-16T00:00:00Z",
       "actors": []
     }
   ]
