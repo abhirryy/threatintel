@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:29:42Z",
+  "generated_at": "2026-09-11T17:51:42Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,86 @@
       "url": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft sees some new wrinkles in invoice-scam emails",
+      "summary": "Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.",
+      "url": "https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers",
+      "source": "The Record",
+      "published": "2026-09-11T18:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T17:26:50Z",
+      "actors": []
+    },
+    {
+      "title": "AI Governance Can't Wait",
+      "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+      "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+      "source": "Dark Reading",
+      "published": "2026-09-11T17:10:56Z",
+      "actors": []
+    },
+    {
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow…",
+      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T16:30:18Z",
+      "actors": []
+    },
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T16:29:44Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning…",
+      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T16:15:29Z",
+      "actors": []
+    },
+    {
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+      "source": "Dark Reading",
+      "published": "2026-09-11T15:48:27Z",
+      "actors": []
+    },
+    {
+      "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
+      "summary": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a single gateway of their own.",
+      "url": "https://isc.sans.edu/diary/rss/33332",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-11T14:40:32Z",
+      "actors": []
+    },
+    {
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups…",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T14:29:47Z",
+      "actors": []
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative…",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T14:10:20Z",
       "actors": []
     },
     {
@@ -194,14 +274,6 @@
       "actors": []
     },
     {
-      "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
-      "summary": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.",
-      "url": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
-      "source": "The Record",
-      "published": "2026-09-10T18:25:00Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it…",
       "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
@@ -258,14 +330,6 @@
       "actors": []
     },
     {
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "summary": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others were blocked. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)",
       "summary": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]",
       "url": "https://isc.sans.edu/diary/rss/33326",
@@ -295,14 +359,6 @@
       "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
       "source": "The Hacker News",
       "published": "2026-09-10T11:33:43Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "summary": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T11:14:28Z",
       "actors": []
     },
     {
@@ -431,62 +487,6 @@
       "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
       "source": "The Hacker News",
       "published": "2026-09-09T09:32:26Z",
-      "actors": []
-    },
-    {
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "summary": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds bug in V8, Chrome's JavaScript and…",
-      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T09:11:03Z",
-      "actors": []
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "summary": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user. cPanel published the advisory on September…",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T08:19:32Z",
-      "actors": []
-    },
-    {
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "summary": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a…",
-      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T07:36:49Z",
-      "actors": []
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "summary": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month.…",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T06:47:27Z",
-      "actors": []
-    },
-    {
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "summary": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application The vulnerability, tracked as CVE-2026-44756 (CVSS score: 10.0), has…",
-      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T06:25:45Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-      "summary": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in Developer Tools. Of…",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T04:41:29Z",
-      "actors": []
-    },
-    {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by September 11, 2026. The vulnerability in…",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T04:27:51Z",
       "actors": []
     }
   ],
@@ -1016,7 +1016,7 @@
       "product": "VMware vCenter",
       "date_added": "2026-08-18",
       "due_date": "2026-08-21",
-      "ransomware": "Unknown",
+      "ransomware": "Known",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59310",
       "source": "CISA KEV",
       "published": "2026-08-18T00:00:00Z",
