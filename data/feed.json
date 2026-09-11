@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T05:51:11Z",
+  "generated_at": "2026-09-11T10:15:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 0,
+    "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
@@ -22,6 +22,64 @@
       "source": "Dark Reading",
       "published": "2026-10-08T15:00:00Z",
       "actors": []
+    },
+    {
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "summary": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T09:39:37Z",
+      "actors": []
+    },
+    {
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "summary": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T07:55:15Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before…",
+      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T07:31:05Z",
+      "actors": []
+    },
+    {
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday. The attack started with a crafted link and ended with the…",
+      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T07:14:09Z",
+      "actors": []
+    },
+    {
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "source": "BleepingComputer",
+      "published": "2026-09-11T06:48:37Z",
+      "actors": []
+    },
+    {
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available…",
+      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T06:46:18Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface…",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T06:19:59Z",
+      "actors": [
+        "Qilin"
+      ]
     },
     {
       "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
@@ -280,30 +338,6 @@
       "actors": []
     },
     {
-      "title": "Trezor warns users of email provider breach, phishing attacks",
-      "summary": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T06:56:33Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-      "summary": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-09T21:40:44Z",
-      "actors": []
-    },
-    {
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "source": "BleepingComputer",
-      "published": "2026-09-09T21:30:36Z",
-      "actors": []
-    },
-    {
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
       "summary": "An analysis of Project Glasswing findings shows only a fraction of the bugs it has discovered have reached disclosure, and an even smaller number have been fixed.",
       "url": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
@@ -454,41 +488,21 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-09-09T02:00:02Z",
       "actors": []
-    },
-    {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations…",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "source": "Krebs on Security",
-      "published": "2026-09-08T21:44:22Z",
-      "actors": []
-    },
-    {
-      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
-      "summary": "Attackers are actively exploiting two of the vulnerabilities, and another 58 are more likely to be exploited, according to Microsoft.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
-      "source": "Dark Reading",
-      "published": "2026-09-08T21:26:02Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-      "summary": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-      "source": "Dark Reading",
-      "published": "2026-09-08T21:03:46Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
-      "summary": "Researchers and OpenAI disagree on whether an earlier incident involving DseWiki, which the company did not disclose, was a “hack.\"",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-      "source": "Dark Reading",
-      "published": "2026-09-08T20:36:15Z",
-      "actors": []
     }
   ],
-  "threat_actors": [],
+  "threat_actors": [
+    {
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface…",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-09-11T06:19:59Z",
+      "actors": [
+        "Qilin"
+      ],
+      "kind": "news"
+    }
+  ],
   "attack_surface": [
     {
       "cve": "CVE-2026-86060",
