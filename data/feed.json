@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:55:35Z",
+  "generated_at": "2026-09-12T16:05:00Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "source": "BleepingComputer",
+      "published": "2026-09-12T14:14:32Z",
+      "actors": []
+    },
     {
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
       "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running…",
@@ -327,14 +335,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
       "source": "BleepingComputer",
       "published": "2026-09-10T15:55:56Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T15:43:58Z",
       "actors": []
     },
     {
