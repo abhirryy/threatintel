@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:16:19Z",
+  "generated_at": "2026-09-12T12:55:35Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running…",
+      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+      "source": "The Hacker News",
+      "published": "2026-09-12T10:24:44Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed…",
+      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+      "source": "The Hacker News",
+      "published": "2026-09-12T09:07:56Z",
+      "actors": []
+    },
     {
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
       "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
       "source": "The Hacker News",
       "published": "2026-09-09T11:57:36Z",
-      "actors": []
-    },
-    {
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files cannot write outside its…",
-      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T11:17:07Z",
-      "actors": []
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "summary": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs it on their own computer or server, and…",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T10:43:04Z",
       "actors": []
     }
   ],
