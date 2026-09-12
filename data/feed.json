@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T16:05:00Z",
+  "generated_at": "2026-09-12T18:19:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as…",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-09-12T15:54:45Z",
+      "actors": []
+    },
     {
       "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
       "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
       "source": "The Hacker News",
       "published": "2026-09-09T14:23:55Z",
-      "actors": []
-    },
-    {
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act. As…",
-      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T11:57:36Z",
       "actors": []
     }
   ],
