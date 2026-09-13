@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T19:42:34Z",
+  "generated_at": "2026-09-13T21:44:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI",
+      "summary": "The largest electronic spy agency in the world is reorganizing. And fast.",
+      "url": "https://therecord.media/nsa-reorganization-five-mission-centers",
+      "source": "The Record",
+      "published": "2026-09-13T21:36:00Z",
+      "actors": []
+    },
     {
       "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
       "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
@@ -303,14 +311,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "source": "BleepingComputer",
       "published": "2026-09-10T21:40:43Z",
-      "actors": []
-    },
-    {
-      "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
-      "summary": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.",
-      "url": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
-      "source": "The Record",
-      "published": "2026-09-10T21:15:00Z",
       "actors": []
     },
     {
