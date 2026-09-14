@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T01:40:50Z",
+  "generated_at": "2026-09-14T07:07:53Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T07:06:27Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33334",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-14T02:00:03Z",
+      "actors": []
+    },
     {
       "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI",
       "summary": "The largest electronic spy agency in the world is reorganizing. And fast.",
@@ -338,14 +354,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T19:07:33Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it…",
       "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
       "source": "The Hacker News",
       "published": "2026-09-09T16:34:05Z",
-      "actors": []
-    },
-    {
-      "title": "Identity-Based AI Attack Threatens Security of Enterprise Data",
-      "summary": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point.",
-      "url": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
-      "source": "Dark Reading",
-      "published": "2026-09-09T14:39:44Z",
       "actors": []
     }
   ],
