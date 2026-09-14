@@ -1,12 +1,62 @@
 {
-  "generated_at": "2026-09-14T19:16:20Z",
+  "generated_at": "2026-09-14T22:34:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 1,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "source": "Dark Reading",
+      "published": "2026-09-14T21:37:28Z",
+      "actors": [
+        "Sandworm"
+      ]
+    },
+    {
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T20:52:18Z",
+      "actors": []
+    },
+    {
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T20:36:02Z",
+      "actors": []
+    },
+    {
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "source": "Dark Reading",
+      "published": "2026-09-14T20:19:22Z",
+      "actors": []
+    },
+    {
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T19:51:04Z",
+      "actors": []
+    },
+    {
+      "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
+      "summary": "Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people.",
+      "url": "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
+      "source": "The Record",
+      "published": "2026-09-14T19:40:00Z",
+      "actors": []
+    },
     {
       "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
       "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
@@ -36,12 +86,28 @@
       "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the…",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
       "source": "The Hacker News",
-      "published": "2026-09-14T16:58:42Z",
+      "published": "2026-09-14T18:02:13Z",
+      "actors": []
+    },
+    {
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had…",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "source": "The Hacker News",
+      "published": "2026-09-14T18:01:49Z",
+      "actors": []
+    },
+    {
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file…",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "source": "The Hacker News",
+      "published": "2026-09-14T17:58:16Z",
       "actors": []
     },
     {
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate…",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a…",
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
       "source": "The Hacker News",
       "published": "2026-09-14T16:56:30Z",
@@ -240,27 +306,11 @@
       "actors": []
     },
     {
-      "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
-      "summary": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.",
-      "url": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
-      "source": "The Record",
-      "published": "2026-09-11T20:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
       "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
       "source": "Dark Reading",
       "published": "2026-09-11T19:21:08Z",
-      "actors": []
-    },
-    {
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "source": "BleepingComputer",
-      "published": "2026-09-11T19:00:29Z",
       "actors": []
     },
     {
@@ -288,14 +338,6 @@
       "actors": []
     },
     {
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-09-11T17:26:50Z",
-      "actors": []
-    },
-    {
       "title": "AI Governance Can't Wait",
       "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
       "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
@@ -309,14 +351,6 @@
       "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
       "source": "The Hacker News",
       "published": "2026-09-11T16:30:18Z",
-      "actors": []
-    },
-    {
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-09-11T16:29:44Z",
       "actors": []
     },
     {
@@ -456,41 +490,20 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-09-10T12:58:10Z",
       "actors": []
-    },
-    {
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described. One flaw affects Check Point's Security…",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "source": "The Hacker News",
-      "published": "2026-09-10T11:45:05Z",
-      "actors": []
-    },
-    {
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNoise, the activity…",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-09-10T11:41:53Z",
-      "actors": []
-    },
-    {
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. A work profile is a separate space that Android typically reserves for employer apps, and what's…",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "source": "The Hacker News",
-      "published": "2026-09-10T11:33:43Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by September 12, 2026. The vulnerabilities…",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "source": "The Hacker News",
-      "published": "2026-09-10T10:36:46Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "source": "Dark Reading",
+      "published": "2026-09-14T21:37:28Z",
+      "actors": [
+        "Sandworm"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
       "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface…",
@@ -504,6 +517,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-76461",
+      "title": "CVE-2026-76461 - Cisco Secure Email Gateway SQL Injection Vulnerability",
+      "summary": "Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "date_added": "2026-09-14",
+      "due_date": "2026-09-17",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76461",
+      "source": "CISA KEV",
+      "published": "2026-09-14T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-84869",
       "title": "CVE-2026-84869 - ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
@@ -1326,20 +1353,6 @@
       "due_date": "2026-08-04",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-60137",
-      "source": "CISA KEV",
-      "published": "2026-07-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-63030",
-      "title": "CVE-2026-63030 - WordPress Core Interpretation Conflict Vulnerability",
-      "summary": "WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137.",
-      "vendor": "WordPress",
-      "product": "Core",
-      "date_added": "2026-07-21",
-      "due_date": "2026-07-24",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-63030",
       "source": "CISA KEV",
       "published": "2026-07-21T00:00:00Z",
       "actors": []
