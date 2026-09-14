@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:07:53Z",
+  "generated_at": "2026-09-14T14:01:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,62 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T12:15:23Z",
+      "actors": []
+    },
+    {
+      "title": "Revolut handed customer data to fraudsters using government email account",
+      "summary": "British fintech Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.",
+      "url": "https://therecord.media/revolut-scam-crypto-impersonation",
+      "source": "The Record",
+      "published": "2026-09-14T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of…",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "source": "The Hacker News",
+      "published": "2026-09-14T11:58:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T09:50:25Z",
+      "actors": []
+    },
+    {
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T08:48:24Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: September updates break audio on some Windows PCs",
+      "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+      "source": "BleepingComputer",
+      "published": "2026-09-14T08:08:16Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the…",
+      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "source": "The Hacker News",
+      "published": "2026-09-14T07:24:39Z",
+      "actors": []
+    },
     {
       "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
@@ -128,6 +184,14 @@
       "actors": []
     },
     {
+      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
+      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
+      "url": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+      "source": "Dark Reading",
+      "published": "2026-09-11T18:27:28Z",
+      "actors": []
+    },
+    {
       "title": "Why AI Is So Good at Scamming Humans",
       "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
       "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
@@ -224,14 +288,6 @@
       "actors": []
     },
     {
-      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-      "summary": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.",
-      "url": "https://therecord.media/conti-ransomware-ukraine-hacker",
-      "source": "The Record",
-      "published": "2026-09-11T12:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
       "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it sits behind strong…",
       "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
@@ -280,14 +336,6 @@
       "actors": []
     },
     {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "summary": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "source": "BleepingComputer",
-      "published": "2026-09-11T06:48:37Z",
-      "actors": []
-    },
-    {
       "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
       "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available…",
       "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
@@ -322,35 +370,11 @@
       "actors": []
     },
     {
-      "title": "New Android malware encrypts files, steals data, and harasses victims",
-      "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T21:40:43Z",
-      "actors": []
-    },
-    {
       "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
       "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
       "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
       "source": "Dark Reading",
       "published": "2026-09-10T20:36:03Z",
-      "actors": []
-    },
-    {
-      "title": "September Windows Server updates break Remote Desktop Services",
-      "summary": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T20:34:37Z",
-      "actors": []
-    },
-    {
-      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
-      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
-      "source": "BleepingComputer",
-      "published": "2026-09-10T19:15:07Z",
       "actors": []
     },
     {
@@ -463,30 +487,6 @@
       "url": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
       "source": "Dark Reading",
       "published": "2026-09-09T19:47:50Z",
-      "actors": []
-    },
-    {
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to…",
-      "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T18:26:05Z",
-      "actors": []
-    },
-    {
-      "title": "Scans for Proxmox Servers, (Wed, Sep 9th)",
-      "summary": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now.",
-      "url": "https://isc.sans.edu/diary/rss/33324",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-09T17:46:24Z",
-      "actors": []
-    },
-    {
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored…",
-      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "source": "The Hacker News",
-      "published": "2026-09-09T16:34:05Z",
       "actors": []
     }
   ],
