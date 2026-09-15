@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:42:23Z",
+  "generated_at": "2026-09-15T10:28:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,54 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T09:50:25Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T08:40:20Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T07:31:09Z",
+      "actors": []
+    },
+    {
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts…",
+      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "source": "The Hacker News",
+      "published": "2026-09-15T06:52:16Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of insufficient validation in…",
+      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-09-15T06:11:11Z",
+      "actors": []
+    },
+    {
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the activity targeted…",
+      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "source": "The Hacker News",
+      "published": "2026-09-15T05:31:05Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -258,14 +306,6 @@
       "actors": []
     },
     {
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-09-13T14:26:32Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam…",
       "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
@@ -282,14 +322,6 @@
       "actors": []
     },
     {
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "source": "BleepingComputer",
-      "published": "2026-09-12T14:14:32Z",
-      "actors": []
-    },
-    {
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
       "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running…",
       "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
@@ -303,14 +335,6 @@
       "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
       "source": "The Hacker News",
       "published": "2026-09-12T09:07:56Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "source": "BleepingComputer",
-      "published": "2026-09-11T20:19:09Z",
       "actors": []
     },
     {
@@ -465,30 +489,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
       "source": "Dark Reading",
       "published": "2026-09-10T20:36:03Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it…",
-      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
-      "source": "The Hacker News",
-      "published": "2026-09-10T17:47:38Z",
-      "actors": []
-    },
-    {
-      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
-      "summary": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-      "source": "Dark Reading",
-      "published": "2026-09-10T15:29:12Z",
-      "actors": []
-    },
-    {
-      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user…",
-      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-      "source": "The Hacker News",
-      "published": "2026-09-10T14:36:47Z",
       "actors": []
     }
   ],
