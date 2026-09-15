@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:28:44Z",
+  "generated_at": "2026-09-15T15:13:56Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,86 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T14:45:10Z",
+      "actors": []
+    },
+    {
+      "title": "Electric and gas utility CenterPoint Energy warns of data breach after dark web post",
+      "summary": "Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web.",
+      "url": "https://therecord.media/centerpoint-energy-data-breach",
+      "source": "The Record",
+      "published": "2026-09-15T14:22:00Z",
+      "actors": []
+    },
+    {
+      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T13:45:54Z",
+      "actors": []
+    },
+    {
+      "title": "China spy chief points at US AI models in cyber threat warning",
+      "summary": "China's spy chief identified Anthropic’s Claude Mythos and OpenAI’s GPT-5.5-Cyber as signs of what he called a “disruptive upgrade” in cyber capabilities, increasing the speed and potential weaponization of vulnerability discovery and malware development.",
+      "url": "https://therecord.media/china-spy-chief-warns-of-us-ai-models",
+      "source": "The Record",
+      "published": "2026-09-15T12:54:00Z",
+      "actors": []
+    },
+    {
+      "title": "Manhattan DA takes down 12 AI deepfake porn sites",
+      "summary": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies of real people to create illegal pornography.",
+      "url": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
+      "source": "The Record",
+      "published": "2026-09-15T12:42:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T12:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security…",
+      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-09-15T11:52:28Z",
+      "actors": []
+    },
+    {
+      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as…",
+      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+      "source": "The Hacker News",
+      "published": "2026-09-15T11:26:36Z",
+      "actors": []
+    },
+    {
+      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Services (AWS) and…",
+      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+      "source": "The Hacker News",
+      "published": "2026-09-15T11:12:32Z",
+      "actors": []
+    },
     {
       "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
       "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
@@ -194,14 +274,6 @@
       "actors": []
     },
     {
-      "title": "Hundreds of fake government websites target users in Central Asia",
-      "summary": "The sites are designed to collect victims’ contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices.",
-      "url": "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam",
-      "source": "The Record",
-      "published": "2026-09-14T16:02:00Z",
-      "actors": []
-    },
-    {
       "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
       "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates…",
       "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
@@ -234,43 +306,11 @@
       "actors": []
     },
     {
-      "title": "Revolut handed customer data to fraudsters using government email account",
-      "summary": "British fintech company Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.",
-      "url": "https://therecord.media/revolut-scam-crypto-impersonation",
-      "source": "The Record",
-      "published": "2026-09-14T12:00:00Z",
-      "actors": []
-    },
-    {
       "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
       "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of…",
       "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
       "source": "The Hacker News",
       "published": "2026-09-14T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "summary": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T09:50:25Z",
-      "actors": []
-    },
-    {
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T08:48:24Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T08:08:16Z",
       "actors": []
     },
     {
@@ -282,27 +322,11 @@
       "actors": []
     },
     {
-      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T07:06:27Z",
-      "actors": []
-    },
-    {
       "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33334",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-14T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI",
-      "summary": "The largest electronic spy agency in the world is reorganizing. And fast.",
-      "url": "https://therecord.media/nsa-reorganization-five-mission-centers",
-      "source": "The Record",
-      "published": "2026-09-13T21:36:00Z",
       "actors": []
     },
     {
@@ -466,30 +490,6 @@
       "actors": [
         "Qilin"
       ]
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33330",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-11T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "summary": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately.",
-      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "source": "Dark Reading",
-      "published": "2026-09-11T01:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
-      "summary": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters.",
-      "url": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
-      "source": "Dark Reading",
-      "published": "2026-09-10T20:36:03Z",
-      "actors": []
     }
   ],
   "threat_actors": [
