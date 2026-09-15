@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:03:37Z",
+  "generated_at": "2026-09-15T22:10:04Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T21:37:35Z",
+      "actors": []
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T20:34:15Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
+      "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
+      "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
+      "source": "Dark Reading",
+      "published": "2026-09-15T20:16:00Z",
+      "actors": []
+    },
+    {
+      "title": "Norway announces investigations into telecom Telenor’s work with Myanmar junta",
+      "summary": "Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.",
+      "url": "https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime",
+      "source": "The Record",
+      "published": "2026-09-15T20:01:00Z",
+      "actors": []
+    },
+    {
+      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "summary": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment.…",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
+      "source": "Dark Reading",
+      "published": "2026-09-15T19:27:19Z",
+      "actors": []
+    },
     {
       "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
       "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian…",
@@ -109,14 +149,6 @@
       "url": "https://therecord.media/china-spy-chief-warns-of-us-ai-models",
       "source": "The Record",
       "published": "2026-09-15T12:54:00Z",
-      "actors": []
-    },
-    {
-      "title": "Manhattan DA takes down 12 AI deepfake porn sites",
-      "summary": "Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and bodies of real people to create illegal pornography.",
-      "url": "https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites",
-      "source": "The Record",
-      "published": "2026-09-15T12:42:00Z",
       "actors": []
     },
     {
@@ -314,14 +346,6 @@
       "actors": []
     },
     {
-      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
-      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T16:15:58Z",
-      "actors": []
-    },
-    {
       "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
       "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates…",
       "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
@@ -335,14 +359,6 @@
       "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
       "source": "The Hacker News",
       "published": "2026-09-14T14:40:34Z",
-      "actors": []
-    },
-    {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T14:01:11Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33332",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-11T14:40:32Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups…",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "source": "The Hacker News",
-      "published": "2026-09-11T14:29:47Z",
-      "actors": []
-    },
-    {
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative…",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "source": "The Hacker News",
-      "published": "2026-09-11T14:10:20Z",
       "actors": []
     }
   ],
