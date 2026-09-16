@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:29:48Z",
+  "generated_at": "2026-09-16T23:46:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "source": "Dark Reading",
+      "published": "2026-09-16T21:26:55Z",
+      "actors": []
+    },
     {
       "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
       "summary": "“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.",
@@ -479,14 +487,6 @@
       "url": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
       "source": "Dark Reading",
       "published": "2026-09-14T16:41:10Z",
-      "actors": []
-    },
-    {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates…",
-      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T16:00:04Z",
       "actors": []
     }
   ],
