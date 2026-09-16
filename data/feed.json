@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:51:12Z",
+  "generated_at": "2026-09-16T14:28:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,110 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Flock camera use by internal affairs unit puts DC police at odds with officers’ union",
+      "summary": "Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union.",
+      "url": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers",
+      "source": "The Record",
+      "published": "2026-09-16T13:41:00Z",
+      "actors": []
+    },
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was…",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "source": "The Hacker News",
+      "published": "2026-09-16T13:37:07Z",
+      "actors": []
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop…",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "source": "The Hacker News",
+      "published": "2026-09-16T13:14:05Z",
+      "actors": []
+    },
+    {
+      "title": "EU chief wants joint response to cyberattacks, sabotage",
+      "summary": "Delivering her annual State of the Union address in Strasbourg, Ursula von der Leyen said threats were “mounting on our soil,” pointing to recent incidents in Denmark, Lithuania and Poland and an attempted drone attack in Leipzig.",
+      "url": "https://therecord.media/eu-chief-wants-joint-response-to-cyberattacks",
+      "source": "The Record",
+      "published": "2026-09-16T13:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "Ukraine moves to crack down on scam call centers after corruption scandal",
+      "summary": "Ukraine’s parliament has approved tougher criminal penalties for involvement in fraudulent call centers and the theft of personal data, following a corruption scandal in which prosecutors were accused of taking bribes to protect scam operations.",
+      "url": "https://therecord.media/ukraine-call-center-scam-crackdown",
+      "source": "The Record",
+      "published": "2026-09-16T12:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T12:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T12:11:19Z",
+      "actors": []
+    },
+    {
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity…",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "source": "The Hacker News",
+      "published": "2026-09-16T11:58:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\"…",
+      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "source": "The Hacker News",
+      "published": "2026-09-16T11:15:58Z",
+      "actors": []
+    },
+    {
+      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from…",
+      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+      "source": "The Hacker News",
+      "published": "2026-09-16T11:15:48Z",
+      "actors": []
+    },
+    {
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T11:14:28Z",
+      "actors": []
+    },
+    {
+      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects…",
+      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+      "source": "The Hacker News",
+      "published": "2026-09-16T11:08:54Z",
+      "actors": []
+    },
     {
       "title": "Windows Server 2022 reaches end of mainstream support next month",
       "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
@@ -152,14 +256,6 @@
       "actors": []
     },
     {
-      "title": "Zelensky appoints former police chief to lead Ukraine’s cyber coordination center",
-      "summary": "Ihor Klymenko, who has experience in law enforcement and as interior minister, will run Ukraine's National Cybersecurity Coordination Center.",
-      "url": "https://therecord.media/ukraine-cyber-coordination-center-ihor-klymenko",
-      "source": "The Record",
-      "published": "2026-09-15T15:09:23Z",
-      "actors": []
-    },
-    {
       "title": "BambooToken malware controls Windows and Linux systems via MQTT",
       "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
@@ -176,27 +272,11 @@
       "actors": []
     },
     {
-      "title": "Electric and gas utility CenterPoint Energy warns of data breach after dark web post",
-      "summary": "Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web.",
-      "url": "https://therecord.media/centerpoint-energy-data-breach",
-      "source": "The Record",
-      "published": "2026-09-15T14:22:00Z",
-      "actors": []
-    },
-    {
       "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
       "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
       "source": "BleepingComputer",
       "published": "2026-09-15T13:45:54Z",
-      "actors": []
-    },
-    {
-      "title": "China spy chief points at US AI models in cyber threat warning",
-      "summary": "China's spy chief identified Anthropic’s Claude Mythos and OpenAI’s GPT-5.5-Cyber as signs of what he called a “disruptive upgrade” in cyber capabilities, increasing the speed and potential weaponization of vulnerability discovery and malware development.",
-      "url": "https://therecord.media/china-spy-chief-warns-of-us-ai-models",
-      "source": "The Record",
-      "published": "2026-09-15T12:54:00Z",
       "actors": []
     },
     {
@@ -248,14 +328,6 @@
       "actors": []
     },
     {
-      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-      "summary": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-      "source": "BleepingComputer",
-      "published": "2026-09-15T07:31:09Z",
-      "actors": []
-    },
-    {
       "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
       "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts…",
       "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
@@ -298,35 +370,11 @@
       ]
     },
     {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T20:52:18Z",
-      "actors": []
-    },
-    {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T20:36:02Z",
-      "actors": []
-    },
-    {
       "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
       "summary": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
       "source": "Dark Reading",
       "published": "2026-09-14T20:19:22Z",
-      "actors": []
-    },
-    {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "source": "BleepingComputer",
-      "published": "2026-09-14T19:51:04Z",
       "actors": []
     },
     {
@@ -440,54 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-09-12T10:24:44Z",
       "actors": []
-    },
-    {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed…",
-      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "source": "The Hacker News",
-      "published": "2026-09-12T09:07:56Z",
-      "actors": []
-    },
-    {
-      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
-      "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-      "source": "Dark Reading",
-      "published": "2026-09-11T19:21:08Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-      "source": "Dark Reading",
-      "published": "2026-09-11T18:44:03Z",
-      "actors": []
-    },
-    {
-      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
-      "url": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-      "source": "Dark Reading",
-      "published": "2026-09-11T18:27:28Z",
-      "actors": []
-    },
-    {
-      "title": "Why AI Is So Good at Scamming Humans",
-      "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
-      "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
-      "source": "Dark Reading",
-      "published": "2026-09-11T18:14:06Z",
-      "actors": []
-    },
-    {
-      "title": "AI Governance Can't Wait",
-      "summary": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
-      "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
-      "source": "Dark Reading",
-      "published": "2026-09-11T17:10:56Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -516,6 +516,20 @@
   ],
   "attack_surface": [
     {
+      "cve": "CVE-2026-58704",
+      "title": "CVE-2026-58704 - Google Pixel Improper Authorization Vulnerability",
+      "summary": "Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.",
+      "vendor": "Google",
+      "product": "Pixel",
+      "date_added": "2026-09-16",
+      "due_date": "2026-09-19",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-58704",
+      "source": "CISA KEV",
+      "published": "2026-09-16T00:00:00Z",
+      "actors": []
+    },
+    {
       "cve": "CVE-2026-76461",
       "title": "CVE-2026-76461 - Cisco Secure Email Gateway SQL Injection Vulnerability",
       "summary": "Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.",
@@ -532,7 +546,7 @@
     {
       "cve": "CVE-2026-84869",
       "title": "CVE-2026-84869 - ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
-      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.",
+      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without authorization or host confirmation.",
       "vendor": "ConnectWise",
       "product": "ScreenConnect",
       "date_added": "2026-09-11",
@@ -546,7 +560,7 @@
     {
       "cve": "CVE-2026-42016",
       "title": "CVE-2026-42016 - JFrog Artifactory Incorrect Authorization Vulnerability",
-      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
+      "summary": "JFrog Artifactory contains an incorrect authorization vulnerability that leads to a privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.",
       "vendor": "JFrog",
       "product": "Artifactory",
       "date_added": "2026-09-11",
@@ -588,7 +602,7 @@
     {
       "cve": "CVE-2026-86060",
       "title": "CVE-2026-86060 - MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
-      "summary": "MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.",
+      "summary": "MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacker to change the trusted RouterOS policy mask, leading to privilege escalation.",
       "vendor": "MikroTik",
       "product": "RouterOS",
       "date_added": "2026-09-10",
@@ -602,7 +616,7 @@
     {
       "cve": "CVE-2026-67277",
       "title": "CVE-2026-67277 - MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
-      "summary": "MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
+      "summary": "MikroTik RouterOS contains a missing authentication for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
       "vendor": "MikroTik",
       "product": "RouterOS",
       "date_added": "2026-09-10",
@@ -1339,20 +1353,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-50522",
       "source": "CISA KEV",
       "published": "2026-07-22T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-60137",
-      "title": "CVE-2026-60137 - WordPress Core SQL Injection Vulnerability",
-      "summary": "WordPress Core contains a SQL injection vulnerability when a plugin or theme passes untrusted input to the parameter. This vulnerability can be chained with CVE-2026-63030 to allow an unauthenticated attacker to gain remote code execution on default WordPress installations.",
-      "vendor": "WordPress",
-      "product": "Core",
-      "date_added": "2026-07-21",
-      "due_date": "2026-08-04",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-60137",
-      "source": "CISA KEV",
-      "published": "2026-07-21T00:00:00Z",
       "actors": []
     }
   ]
