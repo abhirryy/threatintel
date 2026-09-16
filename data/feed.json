@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-09-16T18:22:24Z",
+  "generated_at": "2026-09-16T21:29:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 105,
+    "osint_news": 120,
     "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
+      "summary": "“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.",
+      "url": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
+      "source": "The Record",
+      "published": "2026-09-16T21:07:00Z",
+      "actors": []
+    },
+    {
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T20:39:29Z",
+      "actors": []
+    },
+    {
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "summary": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T20:24:55Z",
+      "actors": []
+    },
+    {
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T18:50:53Z",
+      "actors": []
+    },
+    {
+      "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
+      "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
+      "url": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
+      "source": "The Record",
+      "published": "2026-09-16T18:46:00Z",
+      "actors": []
+    },
+    {
+      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
+      "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:",
+      "url": "https://isc.sans.edu/diary/rss/33344",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-16T18:44:04Z",
+      "actors": []
+    },
+    {
+      "title": "House passes bill to equip local law enforcement with scam-fighting tools",
+      "summary": "The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a federal investigation but local law enforcement is unequipped to properly investigate them.",
+      "url": "https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams",
+      "source": "The Record",
+      "published": "2026-09-16T18:28:00Z",
+      "actors": []
+    },
     {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines…",
@@ -21,6 +77,14 @@
       "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
       "source": "Dark Reading",
       "published": "2026-09-16T18:00:54Z",
+      "actors": []
+    },
+    {
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T17:26:41Z",
       "actors": []
     },
     {
@@ -72,11 +136,11 @@
       "actors": []
     },
     {
-      "title": "Flock camera use by internal affairs unit puts DC police at odds with officers’ union",
-      "summary": "Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union.",
-      "url": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers",
-      "source": "The Record",
-      "published": "2026-09-16T13:41:00Z",
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T14:00:10Z",
       "actors": []
     },
     {
@@ -96,19 +160,19 @@
       "actors": []
     },
     {
-      "title": "EU chief wants joint response to cyberattacks, sabotage",
-      "summary": "Delivering her annual State of the Union address in Strasbourg, Ursula von der Leyen said threats were “mounting on our soil,” pointing to recent incidents in Denmark, Lithuania and Poland and an attempted drone attack in Leipzig.",
-      "url": "https://therecord.media/eu-chief-wants-joint-response-to-cyberattacks",
-      "source": "The Record",
-      "published": "2026-09-16T13:14:00Z",
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T12:16:32Z",
       "actors": []
     },
     {
-      "title": "Ukraine moves to crack down on scam call centers after corruption scandal",
-      "summary": "Ukraine’s parliament has approved tougher criminal penalties for involvement in fraudulent call centers and the theft of personal data, following a corruption scandal in which prosecutors were accused of taking bribes to protect scam operations.",
-      "url": "https://therecord.media/ukraine-call-center-scam-crackdown",
-      "source": "The Record",
-      "published": "2026-09-16T12:45:00Z",
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T12:11:19Z",
       "actors": []
     },
     {
@@ -136,11 +200,35 @@
       "actors": []
     },
     {
+      "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+      "summary": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T11:14:28Z",
+      "actors": []
+    },
+    {
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
       "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects…",
       "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
       "source": "The Hacker News",
       "published": "2026-09-16T11:08:54Z",
+      "actors": []
+    },
+    {
+      "title": "Windows Server 2022 reaches end of mainstream support next month",
+      "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T09:10:20Z",
+      "actors": []
+    },
+    {
+      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "source": "BleepingComputer",
+      "published": "2026-09-16T07:00:19Z",
       "actors": []
     },
     {
@@ -176,6 +264,22 @@
       "actors": []
     },
     {
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T21:37:35Z",
+      "actors": []
+    },
+    {
+      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T20:34:15Z",
+      "actors": []
+    },
+    {
       "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
       "summary": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
       "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
@@ -184,8 +288,8 @@
       "actors": []
     },
     {
-      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
-      "summary": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI security, cyber resilience, and alignment.…",
+      "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
+      "summary": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
       "source": "Dark Reading",
       "published": "2026-09-15T19:27:19Z",
@@ -205,6 +309,14 @@
       "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
       "source": "Dark Reading",
       "published": "2026-09-15T16:45:37Z",
+      "actors": []
+    },
+    {
+      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+      "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T16:40:14Z",
       "actors": []
     },
     {
@@ -229,6 +341,22 @@
       "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
       "source": "The Hacker News",
       "published": "2026-09-15T15:23:19Z",
+      "actors": []
+    },
+    {
+      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+      "summary": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+      "source": "BleepingComputer",
+      "published": "2026-09-15T14:45:10Z",
       "actors": []
     },
     {
@@ -360,134 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-09-14T16:00:04Z",
       "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems,…",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T14:40:34Z",
-      "actors": []
-    },
-    {
-      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of…",
-      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the…",
-      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T07:24:39Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33334",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-14T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam…",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-13T10:11:48Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as…",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-09-12T15:54:45Z",
-      "actors": []
-    },
-    {
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running…",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "source": "The Hacker News",
-      "published": "2026-09-12T10:24:44Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed…",
-      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "source": "The Hacker News",
-      "published": "2026-09-12T09:07:56Z",
-      "actors": []
-    },
-    {
-      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
-      "summary": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
-      "source": "Dark Reading",
-      "published": "2026-09-11T19:21:08Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
-      "summary": "A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols.",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
-      "source": "Dark Reading",
-      "published": "2026-09-11T18:44:03Z",
-      "actors": []
-    },
-    {
-      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-      "summary": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
-      "url": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-      "source": "Dark Reading",
-      "published": "2026-09-11T18:27:28Z",
-      "actors": []
-    },
-    {
-      "title": "Why AI Is So Good at Scamming Humans",
-      "summary": "Fred Heiding of Menlo Park Intelligence talks with the Dark Reading News Desk about his research on frontier models, and their ability to influence human behavior and create emotional dependency.",
-      "url": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
-      "source": "Dark Reading",
-      "published": "2026-09-11T18:14:06Z",
-      "actors": []
-    },
-    {
-      "title": "AI Governance Can't Wait",
-      "summary": "Adversaries can manipulate AI's defensive reasoning to silently compromise target networks.",
-      "url": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
-      "source": "Dark Reading",
-      "published": "2026-09-11T17:10:56Z",
-      "actors": []
-    },
-    {
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow…",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "source": "The Hacker News",
-      "published": "2026-09-11T16:30:18Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning…",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-09-11T16:15:29Z",
-      "actors": []
-    },
-    {
-      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-      "summary": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-      "source": "Dark Reading",
-      "published": "2026-09-11T15:48:27Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -528,6 +528,20 @@
       "due_date": "2026-09-19",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76460",
+      "source": "CISA KEV",
+      "published": "2026-09-16T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-87886",
+      "title": "CVE-2026-87886 - Acronis Backup Incorrect Default Permissions Vulnerability",
+      "summary": "Acronis Backup plugin for cPanel & WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.",
+      "vendor": "Acronis",
+      "product": "Backup",
+      "date_added": "2026-09-16",
+      "due_date": "2026-09-19",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87886",
       "source": "CISA KEV",
       "published": "2026-09-16T00:00:00Z",
       "actors": []
@@ -1328,20 +1342,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16812",
       "source": "CISA KEV",
       "published": "2026-07-27T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-16232",
-      "title": "CVE-2026-16232 - Check Point SmartConsole Improper Authentication Vulnerability",
-      "summary": "Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges.",
-      "vendor": "Check Point",
-      "product": "SmartConsole",
-      "date_added": "2026-07-22",
-      "due_date": "2026-07-25",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-16232",
-      "source": "CISA KEV",
-      "published": "2026-07-22T00:00:00Z",
       "actors": []
     }
   ]
