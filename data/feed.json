@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:48:22Z",
+  "generated_at": "2026-09-17T06:46:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33346",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-17T02:00:03Z",
+      "actors": []
+    },
     {
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
       "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
       "source": "The Hacker News",
       "published": "2026-09-14T16:56:30Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "summary": "Dario Amodei says it's time to slow the pace of frontier AI improvements so that security and risk prevention efforts can catch up. What does this mean for enterprises?",
-      "url": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "source": "Dark Reading",
-      "published": "2026-09-14T16:41:10Z",
       "actors": []
     }
   ],
