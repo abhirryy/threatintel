@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:17:45Z",
+  "generated_at": "2026-09-17T22:54:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,30 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "source": "BleepingComputer",
+      "published": "2026-09-17T21:50:26Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "source": "Dark Reading",
+      "published": "2026-09-17T21:23:50Z",
+      "actors": []
+    },
+    {
+      "title": "European Commission set to push social media restrictions, safety requirements into law",
+      "summary": "The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation.",
+      "url": "https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law",
+      "source": "The Record",
+      "published": "2026-09-17T20:36:00Z",
       "actors": []
     },
     {
@@ -224,14 +248,6 @@
       "actors": []
     },
     {
-      "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
-      "summary": "“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.",
-      "url": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
-      "source": "The Record",
-      "published": "2026-09-16T21:07:00Z",
-      "actors": []
-    },
-    {
       "title": "Windows 11 KB5124008 update breaks domain trust for some users",
       "summary": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
@@ -341,14 +357,6 @@
       "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
       "source": "The Hacker News",
       "published": "2026-09-16T13:14:05Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "source": "BleepingComputer",
-      "published": "2026-09-16T12:16:32Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
       "source": "The Hacker News",
       "published": "2026-09-15T11:52:28Z",
-      "actors": []
-    },
-    {
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as…",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "source": "The Hacker News",
-      "published": "2026-09-15T11:26:36Z",
       "actors": []
     }
   ],
