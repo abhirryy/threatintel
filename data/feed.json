@@ -1,18 +1,106 @@
 {
-  "generated_at": "2026-09-17T12:13:26Z",
+  "generated_at": "2026-09-17T17:05:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
+    "osint_news": 110,
     "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "China’s FamousSparrow hackers target Latin America with new backdoor",
+      "summary": "Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”",
+      "url": "https://therecord.media/china-hackers-latin-america-espionage",
+      "source": "The Record",
+      "published": "2026-09-17T16:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "source": "BleepingComputer",
+      "published": "2026-09-17T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
+      "summary": "An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament.",
+      "url": "https://therecord.media/russia-election-hackers-breach",
+      "source": "The Record",
+      "published": "2026-09-17T13:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Congress eyes new support for Cyber Command after recent suicide deaths",
+      "summary": "Congressional sources say they view the deaths of U.S. Cyber Command personnel as an inflection point, especially as the Pentagon’s appetite for cyber capabilities grows following successful contributions to high-profile missions against Iran and Venezuela.",
+      "url": "https://therecord.media/congress-eyes-support-for-cyber-command-suicide-deaths",
+      "source": "The Record",
+      "published": "2026-09-17T13:32:00Z",
+      "actors": []
+    },
+    {
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "source": "BleepingComputer",
+      "published": "2026-09-17T13:09:09Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the…",
+      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Israeli contractor BlackCore trained Angolan officials in online influence operations",
+      "summary": "An Israeli influence-for-hire company trained Angolan government officials to run online influence operations, including by creating fake social media personas and media outlets, researchers found.",
+      "url": "https://therecord.media/angola-israel-influence-operations-blackcore",
+      "source": "The Record",
+      "published": "2026-09-17T12:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on…",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T11:50:00Z",
+      "actors": []
+    },
     {
       "title": "US takes down NightmareStresser DDoS-for-hire platform",
       "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
       "source": "BleepingComputer",
       "published": "2026-09-17T11:33:35Z",
+      "actors": []
+    },
+    {
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production.…",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T10:50:53Z",
+      "actors": []
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\" ESET security researchers Alexandre Côté…",
+      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T10:05:45Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to improve transparency. \"As AI systems grow more advanced and more…",
+      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T09:53:38Z",
       "actors": []
     },
     {
@@ -32,6 +120,22 @@
       "actors": []
     },
     {
+      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credentials can crash the server process,…",
+      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T08:00:29Z",
+      "actors": []
+    },
+    {
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier,…",
+      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T07:30:01Z",
+      "actors": []
+    },
+    {
       "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
       "summary": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
@@ -40,11 +144,19 @@
       "actors": []
     },
     {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33346",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-17T02:00:03Z",
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability is due to…",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T06:39:40Z",
+      "actors": []
+    },
+    {
+      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the site are now…",
+      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
+      "source": "The Hacker News",
+      "published": "2026-09-17T05:13:46Z",
       "actors": []
     },
     {
@@ -96,30 +208,6 @@
       "actors": []
     },
     {
-      "title": "Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’",
-      "summary": "U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems,\" after an apparent cyberattack, the U.S. Coast Guard said.",
-      "url": "https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi",
-      "source": "The Record",
-      "published": "2026-09-16T18:46:00Z",
-      "actors": []
-    },
-    {
-      "title": "Scans Targeting Hospitality Applications, (Wed, Sep 16th)",
-      "summary": "Earlier today, I noted an odd request showing up in our \"First Seen\" report:",
-      "url": "https://isc.sans.edu/diary/rss/33344",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-16T18:44:04Z",
-      "actors": []
-    },
-    {
-      "title": "House passes bill to equip local law enforcement with scam-fighting tools",
-      "summary": "The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a federal investigation but local law enforcement is unequipped to properly investigate them.",
-      "url": "https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams",
-      "source": "The Record",
-      "published": "2026-09-16T18:28:00Z",
-      "actors": []
-    },
-    {
       "title": "Data Broker Radaris Loses Domains in Privacy Fight",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines…",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -160,14 +248,6 @@
       "actors": []
     },
     {
-      "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
-      "summary": "A website used around the world for reporting meteors faces weeks of downtime as the organization moves away from systems that were hacked recently.",
-      "url": "https://therecord.media/international-meteor-organization-cyberattack",
-      "source": "The Record",
-      "published": "2026-09-16T15:47:00Z",
-      "actors": []
-    },
-    {
       "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
       "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at…",
       "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
@@ -181,14 +261,6 @@
       "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
       "source": "The Hacker News",
       "published": "2026-09-16T14:36:44Z",
-      "actors": []
-    },
-    {
-      "title": "Three Ukrainians to face charges for alleged hack of 610,000 Roblox accounts",
-      "summary": "Three Ukrainians are set to stand trial for allegedly stealing access to more than 610,000 Roblox accounts and selling them to buyers in Russia, authorities said.",
-      "url": "https://therecord.media/ukraine-roblox-hacker-arrested",
-      "source": "The Record",
-      "published": "2026-09-16T14:30:00Z",
       "actors": []
     },
     {
@@ -272,22 +344,6 @@
       "actors": []
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "source": "BleepingComputer",
-      "published": "2026-09-16T09:10:20Z",
-      "actors": []
-    },
-    {
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "summary": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-09-16T07:00:19Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
       "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\"…",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
@@ -301,14 +357,6 @@
       "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
       "source": "The Hacker News",
       "published": "2026-09-16T05:18:06Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33342",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-16T02:00:02Z",
       "actors": []
     },
     {
@@ -357,14 +405,6 @@
       "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
       "source": "The Hacker News",
       "published": "2026-09-15T16:29:51Z",
-      "actors": []
-    },
-    {
-      "title": "MacOS 27 - First Boot, (Tue, Sep 15th)",
-      "summary": "I have not done this type of diary in a while: What traffic will you see from a system on boot, before a user logs in? I just took a quick look at macOS 27 \"Golden Gate\" to see what traffic you should expect. Here are some of the highlights:",
-      "url": "https://isc.sans.edu/diary/rss/33340",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-15T15:23:45Z",
       "actors": []
     },
     {
@@ -424,14 +464,6 @@
       "actors": []
     },
     {
-      "title": "ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33338",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-15T02:25:12Z",
-      "actors": []
-    },
-    {
       "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
       "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -450,43 +482,11 @@
       "actors": []
     },
     {
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "summary": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is not as significant as other vendors&#;x26;#;39; \"post-AI\" patch releases.",
-      "url": "https://isc.sans.edu/diary/rss/33336",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-14T18:33:44Z",
-      "actors": []
-    },
-    {
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the…",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
       "source": "The Hacker News",
       "published": "2026-09-14T18:02:13Z",
-      "actors": []
-    },
-    {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had…",
-      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T18:01:49Z",
-      "actors": []
-    },
-    {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file…",
-      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T17:58:16Z",
-      "actors": []
-    },
-    {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a…",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-14T16:56:30Z",
       "actors": []
     }
   ],
