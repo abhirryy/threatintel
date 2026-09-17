@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:46:48Z",
+  "generated_at": "2026-09-17T01:48:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "source": "BleepingComputer",
+      "published": "2026-09-17T00:35:48Z",
+      "actors": []
+    },
     {
       "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
       "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
@@ -357,14 +365,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
       "source": "BleepingComputer",
       "published": "2026-09-15T15:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "source": "BleepingComputer",
-      "published": "2026-09-15T14:45:10Z",
       "actors": []
     },
     {
