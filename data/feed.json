@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T17:51:30Z",
+  "generated_at": "2026-09-18T20:11:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,30 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "source": "Dark Reading",
+      "published": "2026-09-18T19:26:47Z",
+      "actors": []
+    },
+    {
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "source": "Dark Reading",
+      "published": "2026-09-18T19:23:48Z",
+      "actors": []
+    },
+    {
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "source": "Dark Reading",
+      "published": "2026-09-18T18:15:20Z",
       "actors": []
     },
     {
@@ -176,6 +200,14 @@
       "actors": []
     },
     {
+      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
+      "summary": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain companies.",
+      "url": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+      "source": "The Record",
+      "published": "2026-09-18T04:00:00Z",
+      "actors": []
+    },
+    {
       "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33350",
@@ -285,14 +317,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
       "source": "BleepingComputer",
       "published": "2026-09-17T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
-      "summary": "An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament.",
-      "url": "https://therecord.media/russia-election-hackers-breach",
-      "source": "The Record",
-      "published": "2026-09-17T13:45:00Z",
       "actors": []
     },
     {
@@ -462,30 +486,6 @@
       "source": "The Hacker News",
       "published": "2026-09-16T14:36:44Z",
       "actors": []
-    },
-    {
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was…",
-      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "source": "The Hacker News",
-      "published": "2026-09-16T13:37:07Z",
-      "actors": []
-    },
-    {
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop…",
-      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "source": "The Hacker News",
-      "published": "2026-09-16T13:14:05Z",
-      "actors": []
-    },
-    {
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity…",
-      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "source": "The Hacker News",
-      "published": "2026-09-16T11:58:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -526,6 +526,20 @@
       "due_date": "2026-09-21",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53266",
+      "source": "CISA KEV",
+      "published": "2026-09-18T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2025-39682",
+      "title": "CVE-2025-39682 - Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+      "summary": "Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg() record-type handling, potentially causing subsequent TLS records to be processed using incorrect zero-copy…",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "date_added": "2026-09-18",
+      "due_date": "2026-09-21",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-39682",
       "source": "CISA KEV",
       "published": "2026-09-18T00:00:00Z",
       "actors": []
@@ -1326,20 +1340,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18577",
       "source": "CISA KEV",
       "published": "2026-08-03T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-20316",
-      "title": "CVE-2026-20316 - Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability",
-      "summary": "Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems.",
-      "vendor": "Cisco",
-      "product": "Secure Firewall Management Center (FMC)",
-      "date_added": "2026-07-29",
-      "due_date": "2026-08-01",
-      "ransomware": "Known",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20316",
-      "source": "CISA KEV",
-      "published": "2026-07-29T00:00:00Z",
       "actors": []
     }
   ]
