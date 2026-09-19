@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T13:18:28Z",
+  "generated_at": "2026-09-19T16:34:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 1,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
@@ -16,11 +16,46 @@
       "actors": []
     },
     {
-      "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "source": "BleepingComputer",
-      "published": "2026-09-19T11:38:20Z",
+      "published": "2026-09-19T14:56:31Z",
+      "actors": []
+    },
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "source": "BleepingComputer",
+      "published": "2026-09-19T14:05:15Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "source": "BleepingComputer",
+      "published": "2026-09-19T13:48:32Z",
+      "actors": [
+        "Cl0p",
+        "Clop"
+      ]
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on…",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "source": "The Hacker News",
+      "published": "2026-09-19T13:28:48Z",
+      "actors": []
+    },
+    {
+      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
+      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why…",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "source": "The Hacker News",
+      "published": "2026-09-19T13:28:41Z",
       "actors": []
     },
     {
@@ -28,7 +63,15 @@
       "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a…",
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "source": "The Hacker News",
-      "published": "2026-09-19T10:01:10Z",
+      "published": "2026-09-19T13:28:35Z",
+      "actors": []
+    },
+    {
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+      "source": "BleepingComputer",
+      "published": "2026-09-19T11:38:20Z",
       "actors": []
     },
     {
@@ -384,43 +427,11 @@
       "actors": []
     },
     {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "source": "BleepingComputer",
-      "published": "2026-09-17T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "source": "BleepingComputer",
-      "published": "2026-09-17T13:09:09Z",
-      "actors": []
-    },
-    {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the…",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "source": "The Hacker News",
       "published": "2026-09-17T12:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on…",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T11:50:00Z",
-      "actors": []
-    },
-    {
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-17T11:33:35Z",
       "actors": []
     },
     {
@@ -478,17 +489,21 @@
       "source": "The Hacker News",
       "published": "2026-09-17T05:13:46Z",
       "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 17th, 2026 https://isc.sans.edu/podcastdetail/10098, (Thu, Sep 17th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33346",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-17T02:00:03Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "source": "BleepingComputer",
+      "published": "2026-09-19T13:48:32Z",
+      "actors": [
+        "Cl0p",
+        "Clop"
+      ],
+      "kind": "news"
+    },
     {
       "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
       "summary": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022.",
