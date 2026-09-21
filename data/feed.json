@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T16:35:32Z",
+  "generated_at": "2026-09-21T20:34:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
@@ -13,6 +13,80 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "source": "BleepingComputer",
+      "published": "2026-09-21T20:12:17Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "source": "Dark Reading",
+      "published": "2026-09-21T20:07:56Z",
+      "actors": [
+        "Clop"
+      ]
+    },
+    {
+      "title": "EU data regulator fines Google more than $460 million for location data violations",
+      "summary": "Ireland’s Data Protection Commission will fine Google more than €403 million ($462 million) over the tech giant’s processing of location data, concluding an inquiry into the company that began in early 2020.",
+      "url": "https://therecord.media/google-europe-location-data-fine",
+      "source": "The Record",
+      "published": "2026-09-21T19:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
+      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "source": "Dark Reading",
+      "published": "2026-09-21T19:11:26Z",
+      "actors": []
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "source": "BleepingComputer",
+      "published": "2026-09-21T18:23:11Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+      "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+      "source": "BleepingComputer",
+      "published": "2026-09-21T17:54:49Z",
+      "actors": []
+    },
+    {
+      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
+      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program…",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "source": "The Hacker News",
+      "published": "2026-09-21T17:31:01Z",
+      "actors": []
+    },
+    {
+      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
+      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets of the campaign are…",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "source": "The Hacker News",
+      "published": "2026-09-21T17:19:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
+      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply…",
+      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
+      "source": "The Hacker News",
+      "published": "2026-09-21T16:57:31Z",
       "actors": []
     },
     {
@@ -103,14 +177,6 @@
       "url": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
       "source": "The Record",
       "published": "2026-09-21T12:55:00Z",
-      "actors": []
-    },
-    {
-      "title": "Google says Gemini breached three companies during security test",
-      "summary": "Google’s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May — the latest in a string of similar incidents.",
-      "url": "https://therecord.media/gemini-google-cyber-breach",
-      "source": "The Record",
-      "published": "2026-09-21T12:30:00Z",
       "actors": []
     },
     {
@@ -341,30 +407,6 @@
       "actors": []
     },
     {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "source": "BleepingComputer",
-      "published": "2026-09-18T15:19:06Z",
-      "actors": []
-    },
-    {
-      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
-      "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can help identify and remove unnecessary…",
-      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
-      "source": "BleepingComputer",
-      "published": "2026-09-18T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "source": "BleepingComputer",
-      "published": "2026-09-18T13:58:40Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
       "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry…",
       "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
@@ -451,49 +493,20 @@
       "source": "The Hacker News",
       "published": "2026-09-17T18:08:28Z",
       "actors": []
-    },
-    {
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "summary": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them. This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new tricks. Others just reuse what was already lying around. Both work…",
-      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T17:32:22Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "summary": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15. The escape runs with the rights of the host account that runs the virtual machine. The…",
-      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T15:37:56Z",
-      "actors": []
-    },
-    {
-      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
-      "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â;€;“; it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic system and appeared to impersonate an…",
-      "url": "https://isc.sans.edu/diary/rss/33348",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-17T15:06:44Z",
-      "actors": []
-    },
-    {
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "summary": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information discovery, data and…",
-      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T14:03:13Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the…",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T12:30:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "summary": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "source": "Dark Reading",
+      "published": "2026-09-21T20:07:56Z",
+      "actors": [
+        "Clop"
+      ],
+      "kind": "news"
+    },
     {
       "title": "ShinyHunters cybercrime gang takes over Cl0p ransomware site, demands extortion payment",
       "summary": "The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.",
@@ -530,6 +543,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-7273",
+      "title": "CVE-2026-7273 - Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability",
+      "summary": "Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.",
+      "vendor": "Zyxel",
+      "product": "GS1900 Series Switches",
+      "date_added": "2026-09-21",
+      "due_date": "2026-09-24",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-7273",
+      "source": "CISA KEV",
+      "published": "2026-09-21T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2025-39964",
       "title": "CVE-2025-39964 - Linux Kernel Race Condition Vulnerability",
@@ -1354,20 +1381,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9198",
       "source": "CISA KEV",
       "published": "2026-08-04T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-18577",
-      "title": "CVE-2026-18577 - N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-      "summary": "N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.",
-      "vendor": "N-able",
-      "product": "N-central",
-      "date_added": "2026-08-03",
-      "due_date": "2026-08-06",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-18577",
-      "source": "CISA KEV",
-      "published": "2026-08-03T00:00:00Z",
       "actors": []
     }
   ]
