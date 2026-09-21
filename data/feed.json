@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-20T22:03:02Z",
+  "generated_at": "2026-09-21T00:11:39Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
+    "osint_news": 120,
     "threat_actors": 2,
     "attack_surface": 60
   },
@@ -128,6 +128,14 @@
       "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
       "source": "The Hacker News",
       "published": "2026-09-19T06:24:10Z",
+      "actors": []
+    },
+    {
+      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+      "summary": "In June 2026 the IETF published RFC 10008[ 1 ], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it's the first new standard HTTP verb since \"PATCH\" in 2010!",
+      "url": "https://isc.sans.edu/diary/rss/33352",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-19T04:51:46Z",
       "actors": []
     },
     {
@@ -331,6 +339,14 @@
       "actors": []
     },
     {
+      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33350",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-18T02:00:02Z",
+      "actors": []
+    },
+    {
       "title": "New RatHat Android malware uses AI to automate device control",
       "summary": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
@@ -392,6 +408,14 @@
       "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
       "source": "The Hacker News",
       "published": "2026-09-17T15:37:56Z",
+      "actors": []
+    },
+    {
+      "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
+      "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â;€;“; it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic system and appeared to impersonate an…",
+      "url": "https://isc.sans.edu/diary/rss/33348",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-17T15:06:44Z",
       "actors": []
     },
     {
@@ -464,30 +488,6 @@
       "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
       "source": "The Hacker News",
       "published": "2026-09-17T05:13:46Z",
-      "actors": []
-    },
-    {
-      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-      "summary": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-      "source": "Dark Reading",
-      "published": "2026-09-16T21:26:55Z",
-      "actors": []
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines…",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "source": "Krebs on Security",
-      "published": "2026-09-16T18:14:22Z",
-      "actors": []
-    },
-    {
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "summary": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns.",
-      "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-      "source": "Dark Reading",
-      "published": "2026-09-16T18:00:54Z",
       "actors": []
     }
   ],
