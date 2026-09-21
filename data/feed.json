@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:00:08Z",
+  "generated_at": "2026-09-21T10:36:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "TerminalFix: PNG Steganography, (Mon, Sep 21st)",
+      "summary": "Microsoft Security Research published an interesting blog post \" TerminalFix campaign deploys a reverse tunnel through multistage intrusion \" about a malware campaign. The aspect that I want to take a closer look at, is the fact that the threat actors used PNG files with steganography. I reached out to the researchers…",
+      "url": "https://isc.sans.edu/diary/rss/33318",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-21T10:33:53Z",
+      "actors": []
+    },
+    {
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and…",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "source": "The Hacker News",
+      "published": "2026-09-21T08:39:38Z",
+      "actors": []
+    },
+    {
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company…",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "source": "The Hacker News",
+      "published": "2026-09-21T06:06:44Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 21st, 2026 https://isc.sans.edu/podcastdetail/10102, (Mon, Sep 21st)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33354",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-21T05:15:12Z",
       "actors": []
     },
     {
@@ -456,38 +488,6 @@
       "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
       "source": "The Hacker News",
       "published": "2026-09-17T09:53:38Z",
-      "actors": []
-    },
-    {
-      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credentials can crash the server process,…",
-      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T08:00:29Z",
-      "actors": []
-    },
-    {
-      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier,…",
-      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T07:30:01Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability is due to…",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T06:39:40Z",
-      "actors": []
-    },
-    {
-      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the sites are now…",
-      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T05:13:46Z",
       "actors": []
     }
   ],
