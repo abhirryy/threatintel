@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:34:32Z",
+  "generated_at": "2026-09-21T23:34:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
+      "url": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "source": "Dark Reading",
+      "published": "2026-09-21T21:39:59Z",
+      "actors": []
+    },
+    {
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "summary": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "source": "BleepingComputer",
+      "published": "2026-09-21T21:18:49Z",
       "actors": []
     },
     {
@@ -391,14 +407,6 @@
       "actors": []
     },
     {
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "source": "BleepingComputer",
-      "published": "2026-09-18T16:00:38Z",
-      "actors": []
-    },
-    {
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE,…",
       "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
@@ -484,14 +492,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
       "source": "Dark Reading",
       "published": "2026-09-17T19:15:38Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix…",
-      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "source": "The Hacker News",
-      "published": "2026-09-17T18:08:28Z",
       "actors": []
     }
   ],
