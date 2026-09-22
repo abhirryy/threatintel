@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-22T06:57:04Z",
+  "generated_at": "2026-09-22T12:30:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
@@ -16,6 +16,70 @@
       "actors": []
     },
     {
+      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+      "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
+      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+      "source": "Dark Reading",
+      "published": "2026-09-22T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident…",
+      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it…",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T11:38:40Z",
+      "actors": []
+    },
+    {
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint…",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T11:17:41Z",
+      "actors": []
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-09-22T09:55:11Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit…",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T09:38:18Z",
+      "actors": []
+    },
+    {
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "source": "BleepingComputer",
+      "published": "2026-09-22T08:53:09Z",
+      "actors": []
+    },
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute…",
+      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T07:52:03Z",
+      "actors": []
+    },
+    {
       "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
       "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a…",
       "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
@@ -25,7 +89,7 @@
     },
     {
       "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version…",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version…",
       "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
       "source": "The Hacker News",
       "published": "2026-09-22T06:03:14Z",
@@ -45,6 +109,14 @@
       "url": "https://isc.sans.edu/diary/rss/33356",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-22T03:50:10Z",
+      "actors": []
+    },
+    {
+      "title": "Russia's internet shutdowns disrupt warnings about incoming drone attacks",
+      "summary": "Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks.",
+      "url": "https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks",
+      "source": "The Record",
+      "published": "2026-09-21T23:00:00Z",
       "actors": []
     },
     {
@@ -220,14 +292,6 @@
       "actors": []
     },
     {
-      "title": "LinkedIn wins court order blocking mass scraping of user data",
-      "summary": "The agreement between LinkedIn, ProAPIs and joint business operator Netswift also requires the firms to stop selling and transferring the data, no longer access LinkedIn through fake accounts and delete the data that was scraped, according to a senior LinkedIn executive.",
-      "url": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
-      "source": "The Record",
-      "published": "2026-09-21T12:55:00Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft: September updates break File History backup feature",
       "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
@@ -308,17 +372,6 @@
       "actors": []
     },
     {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "source": "BleepingComputer",
-      "published": "2026-09-19T13:48:32Z",
-      "actors": [
-        "Cl0p",
-        "Clop"
-      ]
-    },
-    {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on…",
       "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
@@ -332,14 +385,6 @@
       "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
       "source": "The Hacker News",
       "published": "2026-09-19T13:28:41Z",
-      "actors": []
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "source": "BleepingComputer",
-      "published": "2026-09-19T11:38:20Z",
       "actors": []
     },
     {
@@ -445,54 +490,6 @@
       "source": "The Hacker News",
       "published": "2026-09-18T15:24:16Z",
       "actors": []
-    },
-    {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry…",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-09-18T12:47:04Z",
-      "actors": []
-    },
-    {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry…",
-      "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "source": "The Hacker News",
-      "published": "2026-09-18T11:01:16Z",
-      "actors": []
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in…",
-      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "source": "The Hacker News",
-      "published": "2026-09-18T11:01:01Z",
-      "actors": []
-    },
-    {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "summary": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's…",
-      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "source": "The Hacker News",
-      "published": "2026-09-18T10:40:06Z",
-      "actors": []
-    },
-    {
-      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
-      "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confidence based on…",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "source": "The Hacker News",
-      "published": "2026-09-18T09:18:03Z",
-      "actors": []
-    },
-    {
-      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
-      "summary": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "source": "Dark Reading",
-      "published": "2026-09-18T07:00:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -515,18 +512,6 @@
       "published": "2026-09-21T14:00:00Z",
       "actors": [
         "Cl0p"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "source": "BleepingComputer",
-      "published": "2026-09-19T13:48:32Z",
-      "actors": [
-        "Cl0p",
-        "Clop"
       ],
       "kind": "news"
     },
