@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:13:41Z",
+  "generated_at": "2026-09-22T22:59:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,46 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Rogue external MFA providers can steal passwords during logins",
+      "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "source": "BleepingComputer",
+      "published": "2026-09-22T21:45:45Z",
+      "actors": []
+    },
+    {
+      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+      "summary": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "source": "BleepingComputer",
+      "published": "2026-09-22T21:40:37Z",
+      "actors": []
+    },
+    {
+      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
+      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
+      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
+      "source": "Dark Reading",
+      "published": "2026-09-22T21:12:37Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+      "source": "BleepingComputer",
+      "published": "2026-09-22T20:35:24Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
+      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
+      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
+      "source": "Dark Reading",
+      "published": "2026-09-22T20:02:02Z",
       "actors": []
     },
     {
@@ -354,14 +394,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft to retire Microsoft 365 Companion apps in December",
-      "summary": "Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
-      "source": "BleepingComputer",
-      "published": "2026-09-21T17:54:49Z",
-      "actors": []
-    },
-    {
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
       "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program…",
       "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
@@ -386,27 +418,11 @@
       "actors": []
     },
     {
-      "title": "Google fined €403 million over location data privacy violations",
-      "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "source": "BleepingComputer",
-      "published": "2026-09-21T15:41:22Z",
-      "actors": []
-    },
-    {
       "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
       "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
       "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
       "source": "Dark Reading",
       "published": "2026-09-21T14:47:19Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft fixes broken Excel copy and paste for all Office users",
-      "summary": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "source": "BleepingComputer",
-      "published": "2026-09-21T14:42:37Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "source": "The Hacker News",
       "published": "2026-09-19T13:28:48Z",
-      "actors": []
-    },
-    {
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why…",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "source": "The Hacker News",
-      "published": "2026-09-19T13:28:41Z",
-      "actors": []
-    },
-    {
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue…",
-      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "source": "The Hacker News",
-      "published": "2026-09-19T09:31:17Z",
       "actors": []
     }
   ],
