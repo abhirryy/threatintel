@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:50:10Z",
+  "generated_at": "2026-09-22T06:57:04Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a…",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T06:33:57Z",
+      "actors": []
+    },
+    {
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version…",
+      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T06:03:14Z",
+      "actors": []
+    },
+    {
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a…",
+      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "source": "The Hacker News",
+      "published": "2026-09-22T05:31:59Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33356",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-22T03:50:10Z",
       "actors": []
     },
     {
@@ -460,38 +492,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
       "source": "Dark Reading",
       "published": "2026-09-18T07:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "summary": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted smishing (SMS/text phishing) and…",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-18T06:17:25Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33350",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-18T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "summary": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "source": "Dark Reading",
-      "published": "2026-09-17T21:23:50Z",
-      "actors": []
-    },
-    {
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "summary": "Amid the US and China's fight for eco-colonial influence in Latin America, a stealthy backdoor has taken flight.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "source": "Dark Reading",
-      "published": "2026-09-17T19:15:38Z",
       "actors": []
     }
   ],
