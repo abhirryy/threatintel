@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:52:32Z",
+  "generated_at": "2026-09-23T22:37:35Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,46 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "New RemControl Android banking malware targets users in Europe and Canada",
+      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T21:25:13Z",
+      "actors": []
+    },
+    {
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "summary": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+      "url": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "source": "Dark Reading",
+      "published": "2026-09-23T21:03:01Z",
+      "actors": []
+    },
+    {
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "source": "Dark Reading",
+      "published": "2026-09-23T20:53:38Z",
+      "actors": []
+    },
+    {
+      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
+      "summary": "In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Apple’s age checks,” the press release said.",
+      "url": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
+      "source": "The Record",
+      "published": "2026-09-23T20:07:00Z",
+      "actors": []
+    },
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T19:53:54Z",
       "actors": []
     },
     {
@@ -141,14 +181,6 @@
       "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
       "source": "The Record",
       "published": "2026-09-23T12:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "Burnham announces plan for new UK center to fight disinformation",
-      "summary": "The United Kingdom will create a new national center \"to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly.",
-      "url": "https://therecord.media/uk-disinformation-russia-center",
-      "source": "The Record",
-      "published": "2026-09-23T12:30:00Z",
       "actors": []
     },
     {
@@ -360,14 +392,6 @@
       "actors": []
     },
     {
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T17:17:41Z",
-      "actors": []
-    },
-    {
       "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
       "summary": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure.",
       "url": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
@@ -389,14 +413,6 @@
       "url": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
       "source": "The Hacker News",
       "published": "2026-09-22T16:41:12Z",
-      "actors": []
-    },
-    {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T16:32:47Z",
       "actors": []
     },
     {
@@ -469,22 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
       "source": "Dark Reading",
       "published": "2026-09-22T10:22:37Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit…",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T09:38:18Z",
-      "actors": []
-    },
-    {
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute…",
-      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T07:52:03Z",
       "actors": []
     }
   ],
