@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T16:46:09Z",
+  "generated_at": "2026-09-23T19:52:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
+      "summary": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment.",
+      "url": "https://therecord.media/trump-harris-election-meddling-russia",
+      "source": "The Record",
+      "published": "2026-09-23T19:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T18:31:22Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and…",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T18:06:30Z",
+      "actors": []
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button labeled \"Email work…",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T16:53:10Z",
       "actors": []
     },
     {
@@ -280,14 +312,6 @@
       "actors": []
     },
     {
-      "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
-      "summary": "The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal private-sector privacy law, the regulator said in a press release.",
-      "url": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
-      "source": "The Record",
-      "published": "2026-09-22T19:52:00Z",
-      "actors": []
-    },
-    {
       "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
       "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
@@ -384,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T15:00:00Z",
-      "actors": []
-    },
-    {
       "title": "LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)",
       "summary": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â€“ it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic system and appeared to impersonate an…",
       "url": "https://isc.sans.edu/diary/rss/33348",
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
       "source": "The Hacker News",
       "published": "2026-09-22T07:52:03Z",
-      "actors": []
-    },
-    {
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a…",
-      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T06:33:57Z",
-      "actors": []
-    },
-    {
-      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version…",
-      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T06:03:14Z",
       "actors": []
     }
   ],
