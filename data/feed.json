@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:59:10Z",
+  "generated_at": "2026-09-23T16:46:09Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -16,6 +16,30 @@
       "actors": []
     },
     {
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T16:20:54Z",
+      "actors": []
+    },
+    {
+      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33360",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-23T16:14:37Z",
+      "actors": []
+    },
+    {
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection…",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T16:06:41Z",
+      "actors": []
+    },
+    {
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
       "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
       "url": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
@@ -24,11 +48,123 @@
       "actors": []
     },
     {
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "summary": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.",
+      "url": "https://therecord.media/ransomware-ryuk-sentenced-doj",
+      "source": "The Record",
+      "published": "2026-09-23T15:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+      "summary": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content.",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+      "source": "Dark Reading",
+      "published": "2026-09-23T14:47:09Z",
+      "actors": []
+    },
+    {
+      "title": "InfraTrust report warns network management systems under attack",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T14:35:26Z",
+      "actors": []
+    },
+    {
+      "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
+      "summary": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.",
+      "url": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+      "source": "The Record",
+      "published": "2026-09-23T14:22:00Z",
+      "actors": []
+    },
+    {
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to…",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T14:17:58Z",
+      "actors": []
+    },
+    {
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege…",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the…",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T13:52:46Z",
+      "actors": []
+    },
+    {
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "summary": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.",
+      "url": "https://therecord.media/latvia-hacker-arrest-cyberattack",
+      "source": "The Record",
+      "published": "2026-09-23T12:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Burnham announces plan for new UK center to fight disinformation",
+      "summary": "The United Kingdom will create a new national center \"to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly.",
+      "url": "https://therecord.media/uk-disinformation-russia-center",
+      "source": "The Record",
+      "published": "2026-09-23T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T12:29:53Z",
+      "actors": []
+    },
+    {
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong…",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T12:16:00Z",
+      "actors": []
+    },
+    {
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "summary": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened. Someone with a security background then…",
+      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T11:47:19Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "summary": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best scores of any model to date on our…",
+      "url": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T11:47:13Z",
+      "actors": []
+    },
+    {
       "title": "Microsoft: September Windows updates break Always On VPN connections",
       "summary": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
       "source": "BleepingComputer",
       "published": "2026-09-23T11:18:13Z",
+      "actors": []
+    },
+    {
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "summary": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6, but Ubuntu has not shipped the patch for…",
+      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "source": "The Hacker News",
+      "published": "2026-09-23T11:12:18Z",
       "actors": []
     },
     {
@@ -88,14 +224,6 @@
       "actors": []
     },
     {
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "summary": "Introduction",
-      "url": "https://isc.sans.edu/diary/rss/33360",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-23T00:55:11Z",
-      "actors": []
-    },
-    {
       "title": "Rogue external MFA providers can steal passwords during logins",
       "summary": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
@@ -121,7 +249,7 @@
     },
     {
       "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-      "summary": "Cybersecurity and brand reputation are inextricably linked, and organizations that establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact will significantly outperform those treating security as merely an operational IT concern.",
+      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating security as an…",
       "url": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
       "source": "Dark Reading",
       "published": "2026-09-22T20:55:53Z",
@@ -141,6 +269,14 @@
       "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
       "source": "Dark Reading",
       "published": "2026-09-22T20:02:02Z",
+      "actors": []
+    },
+    {
+      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
+      "source": "Dark Reading",
+      "published": "2026-09-22T19:59:24Z",
       "actors": []
     },
     {
@@ -200,14 +336,6 @@
       "actors": []
     },
     {
-      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
-      "summary": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
-      "source": "Dark Reading",
-      "published": "2026-09-22T17:32:49Z",
-      "actors": []
-    },
-    {
       "title": "Reducing shadow IT visibility gaps with Wazuh",
       "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
@@ -256,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
-      "summary": "Available on Telegram for a $1,500 initiation fee and a recurring monthly $500 subscription, EvilTokens provided cybercriminals with artificial intelligence tools enabling them to compromise accounts, analyze breached inboxes and find the best methods for monetizing their access through fraud.",
-      "url": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
-      "source": "The Record",
-      "published": "2026-09-22T15:51:00Z",
-      "actors": []
-    },
-    {
       "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
       "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
       "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
@@ -277,38 +397,6 @@
       "url": "https://isc.sans.edu/diary/rss/33348",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-22T13:10:20Z",
-      "actors": []
-    },
-    {
-      "title": "AI is set to help cyber attackers much more than defenders, says UK official",
-      "summary": "Dave Chismon, the NCSC’s chief technology officer for architecture, said in a blog post that the imbalance in AI means cyberattacks would likely grow as automated defenses struggle to keep pace.",
-      "url": "https://therecord.media/ai-set-to-help-attackers-more-than-defenders",
-      "source": "The Record",
-      "published": "2026-09-22T13:05:00Z",
-      "actors": []
-    },
-    {
-      "title": "Russia's internet shutdowns disrupt warnings about incoming drone attacks",
-      "summary": "Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks.",
-      "url": "https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks",
-      "source": "The Record",
-      "published": "2026-09-22T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T12:57:07Z",
-      "actors": []
-    },
-    {
-      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T12:48:06Z",
       "actors": []
     },
     {
@@ -360,11 +448,11 @@
       "actors": []
     },
     {
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T09:55:11Z",
+      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
+      "summary": "Threat actors stole the contents of 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
+      "source": "Dark Reading",
+      "published": "2026-09-22T10:22:37Z",
       "actors": []
     },
     {
@@ -373,14 +461,6 @@
       "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
       "source": "The Hacker News",
       "published": "2026-09-22T09:38:18Z",
-      "actors": []
-    },
-    {
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T08:53:09Z",
       "actors": []
     },
     {
@@ -405,88 +485,6 @@
       "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
       "source": "The Hacker News",
       "published": "2026-09-22T06:03:14Z",
-      "actors": []
-    },
-    {
-      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a…",
-      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T05:31:59Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33356",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-22T03:50:10Z",
-      "actors": []
-    },
-    {
-      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
-      "summary": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
-      "url": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
-      "source": "Dark Reading",
-      "published": "2026-09-21T21:39:59Z",
-      "actors": []
-    },
-    {
-      "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
-      "summary": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
-      "source": "Dark Reading",
-      "published": "2026-09-21T20:07:56Z",
-      "actors": [
-        "Cl0p"
-      ]
-    },
-    {
-      "title": "EU data regulator fines Google more than $460 million for location data violations",
-      "summary": "Ireland’s Data Protection Commission will fine Google more than €403 million ($462 million) over the tech giant’s processing of location data, concluding an inquiry into the company that began in early 2020.",
-      "url": "https://therecord.media/google-europe-location-data-fine",
-      "source": "The Record",
-      "published": "2026-09-21T19:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
-      "summary": "Victims have been identified in Africa, including in Kenya and Uganda.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-      "source": "Dark Reading",
-      "published": "2026-09-21T19:11:26Z",
-      "actors": []
-    },
-    {
-      "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-      "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program…",
-      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "source": "The Hacker News",
-      "published": "2026-09-21T17:31:01Z",
-      "actors": []
-    },
-    {
-      "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-      "summary": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new joint cybersecurity advisory. The primary targets of the campaign are…",
-      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "source": "The Hacker News",
-      "published": "2026-09-21T17:19:00Z",
-      "actors": []
-    },
-    {
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply…",
-      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "source": "The Hacker News",
-      "published": "2026-09-21T16:57:31Z",
-      "actors": []
-    },
-    {
-      "title": "Rogue Behavior: OpenAI Reveals More Model Misalignment Incidents",
-      "summary": "The AI giant disclosed six examples of concerning model activity and published a new framework for investigating and disclosing such incidents.",
-      "url": "https://www.darkreading.com/cyber-risk/rogue-behavior-openai-more-model-misalignment-incidents",
-      "source": "Dark Reading",
-      "published": "2026-09-21T14:47:19Z",
       "actors": []
     }
   ],
