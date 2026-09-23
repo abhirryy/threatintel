@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:59:51Z",
+  "generated_at": "2026-09-23T01:25:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33360",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-23T00:55:11Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "source": "The Hacker News",
       "published": "2026-09-19T18:36:53Z",
-      "actors": []
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on…",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "source": "The Hacker News",
-      "published": "2026-09-19T13:28:48Z",
       "actors": []
     }
   ],
