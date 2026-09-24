@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-24T19:27:49Z",
+  "generated_at": "2026-09-24T22:40:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
@@ -13,6 +13,56 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
+      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "source": "Dark Reading",
+      "published": "2026-09-24T21:04:03Z",
+      "actors": []
+    },
+    {
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T20:53:35Z",
+      "actors": []
+    },
+    {
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "source": "Dark Reading",
+      "published": "2026-09-24T20:32:50Z",
+      "actors": []
+    },
+    {
+      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
+      "summary": "Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia.",
+      "url": "https://therecord.media/russia-forensics-technology-doj",
+      "source": "The Record",
+      "published": "2026-09-24T20:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.",
+      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "source": "The Record",
+      "published": "2026-09-24T20:15:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ]
+    },
+    {
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T20:10:48Z",
       "actors": []
     },
     {
@@ -125,14 +175,6 @@
       "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
       "source": "Dark Reading",
       "published": "2026-09-24T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "summary": "An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said.",
-      "url": "https://therecord.media/openai-australia-health-breach",
-      "source": "The Record",
-      "published": "2026-09-24T12:30:00Z",
       "actors": []
     },
     {
@@ -272,14 +314,6 @@
       "actors": []
     },
     {
-      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
-      "summary": "In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Apple’s age checks,” the press release said.",
-      "url": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
-      "source": "The Record",
-      "published": "2026-09-23T20:07:00Z",
-      "actors": []
-    },
-    {
       "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
       "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
@@ -368,27 +402,11 @@
       "actors": []
     },
     {
-      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege…",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "source": "BleepingComputer",
-      "published": "2026-09-23T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
       "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the…",
       "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
       "source": "The Hacker News",
       "published": "2026-09-23T13:52:46Z",
-      "actors": []
-    },
-    {
-      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-      "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "source": "BleepingComputer",
-      "published": "2026-09-23T12:29:53Z",
       "actors": []
     },
     {
@@ -470,25 +488,20 @@
       "source": "Dark Reading",
       "published": "2026-09-22T21:12:37Z",
       "actors": []
-    },
-    {
-      "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
-      "summary": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform those treating security as an…",
-      "url": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
-      "source": "Dark Reading",
-      "published": "2026-09-22T20:55:53Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
-      "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
-      "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
-      "source": "Dark Reading",
-      "published": "2026-09-22T20:02:02Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
+      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.",
+      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
+      "source": "The Record",
+      "published": "2026-09-24T20:15:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ],
+      "kind": "news"
+    },
     {
       "title": "ShinyHunters Hacked Cl0p. Now What About Cl0p's Victims?",
       "summary": "ShinyHunters defaced Cl0p's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts.",
