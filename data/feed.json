@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:48:32Z",
+  "generated_at": "2026-09-24T10:32:39Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,54 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
+      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T09:38:53Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes bug that broke Windows File History backup feature",
+      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-09-24T08:14:47Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The…",
+      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+      "source": "The Hacker News",
+      "published": "2026-09-24T07:07:25Z",
+      "actors": []
+    },
+    {
+      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487…",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "source": "The Hacker News",
+      "published": "2026-09-24T06:32:03Z",
+      "actors": []
+    },
+    {
+      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
+      "summary": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:",
+      "url": "https://isc.sans.edu/diary/rss/33366",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-24T06:25:06Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "source": "The Hacker News",
+      "published": "2026-09-24T05:36:18Z",
       "actors": []
     },
     {
@@ -336,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T20:35:24Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft Disrupts EvilTokens Device Code Phishing Service",
       "summary": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts.",
       "url": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
@@ -357,14 +397,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
       "source": "Dark Reading",
       "published": "2026-09-22T19:59:24Z",
-      "actors": []
-    },
-    {
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "summary": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T19:13:29Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
       "source": "The Hacker News",
       "published": "2026-09-22T12:29:00Z",
-      "actors": []
-    },
-    {
-      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
-      "summary": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
-      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
-      "source": "Dark Reading",
-      "published": "2026-09-22T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
-      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident…",
-      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T11:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
-      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it…",
-      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T11:38:40Z",
-      "actors": []
-    },
-    {
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint…",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "source": "The Hacker News",
-      "published": "2026-09-22T11:17:41Z",
       "actors": []
     }
   ],
