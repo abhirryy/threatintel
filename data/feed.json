@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T22:37:35Z",
+  "generated_at": "2026-09-24T00:52:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-23T22:46:01Z",
       "actors": []
     },
     {
@@ -365,14 +373,6 @@
       "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
       "source": "The Hacker News",
       "published": "2026-09-22T18:29:39Z",
-      "actors": []
-    },
-    {
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "summary": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "source": "BleepingComputer",
-      "published": "2026-09-22T18:04:39Z",
       "actors": []
     },
     {
