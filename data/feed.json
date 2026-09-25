@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:52:57Z",
+  "generated_at": "2026-09-25T05:43:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33370",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-25T03:45:12Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33362",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-23T02:40:13Z",
-      "actors": []
-    },
-    {
-      "title": "Relays Are Masking Chinese Access to Frontier AI Models in the US",
-      "summary": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them.",
-      "url": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
-      "source": "Dark Reading",
-      "published": "2026-09-22T21:12:37Z",
       "actors": []
     }
   ],
