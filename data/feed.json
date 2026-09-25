@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T19:30:50Z",
+  "generated_at": "2026-09-25T22:44:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,48 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "source": "Krebs on Security",
+      "published": "2026-09-25T21:44:40Z",
+      "actors": []
+    },
+    {
+      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-25T21:41:07Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-25T20:57:55Z",
+      "actors": [
+        "Clop"
+      ]
+    },
+    {
+      "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
+      "summary": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems for customers.”",
+      "url": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+      "source": "The Record",
+      "published": "2026-09-25T20:19:00Z",
+      "actors": []
+    },
+    {
+      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
+      "summary": "Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’ compliance with data security practices.",
+      "url": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+      "source": "The Record",
+      "published": "2026-09-25T19:35:00Z",
       "actors": []
     },
     {
@@ -240,24 +282,6 @@
       "actors": []
     },
     {
-      "title": "Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges",
-      "summary": "Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia.",
-      "url": "https://therecord.media/russia-forensics-technology-doj",
-      "source": "The Record",
-      "published": "2026-09-24T20:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
-      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.",
-      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
-      "source": "The Record",
-      "published": "2026-09-24T20:15:00Z",
-      "actors": [
-        "Salt Typhoon"
-      ]
-    },
-    {
       "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
       "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
@@ -338,27 +362,11 @@
       "actors": []
     },
     {
-      "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-      "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-24T13:27:57Z",
-      "actors": []
-    },
-    {
       "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
       "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
       "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
       "source": "Dark Reading",
       "published": "2026-09-24T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-      "summary": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "published": "2026-09-24T12:16:32Z",
       "actors": []
     },
     {
@@ -480,25 +488,17 @@
       "source": "The Hacker News",
       "published": "2026-09-23T16:06:41Z",
       "actors": []
-    },
-    {
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "summary": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026.",
-      "url": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "source": "Dark Reading",
-      "published": "2026-09-23T16:01:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
     {
-      "title": "Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks",
-      "summary": "U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw Chinese hackers breach nearly all of the major telecommunications giants in the U.S.",
-      "url": "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
-      "source": "The Record",
-      "published": "2026-09-24T20:15:00Z",
+      "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+      "summary": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-25T20:57:55Z",
       "actors": [
-        "Salt Typhoon"
+        "Clop"
       ],
       "kind": "news"
     },
@@ -539,6 +539,20 @@
       "due_date": "2026-09-28",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65660",
+      "source": "CISA KEV",
+      "published": "2026-09-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-87902",
+      "title": "CVE-2026-87902 - WordPress Core Remote File Inclusion Vulnerability",
+      "summary": "WordPress Core contains a remote file inclusion vulnerability which could allow an unauthenticated attacker to make page-template resolution include a chosen readable local `.php` file outside the active theme directories, leading to remote code execution.",
+      "vendor": "WordPress",
+      "product": "Core",
+      "date_added": "2026-09-25",
+      "due_date": "2026-09-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87902",
       "source": "CISA KEV",
       "published": "2026-09-25T00:00:00Z",
       "actors": []
@@ -1339,20 +1353,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65400",
       "source": "CISA KEV",
       "published": "2026-08-18T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2025-62593",
-      "title": "CVE-2025-62593 - Ray-Project Ray Code Injection Vulnerability",
-      "summary": "Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.",
-      "vendor": "Ray-Project",
-      "product": "Ray",
-      "date_added": "2026-08-17",
-      "due_date": "2026-08-20",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-62593",
-      "source": "CISA KEV",
-      "published": "2026-08-17T00:00:00Z",
       "actors": []
     }
   ]
