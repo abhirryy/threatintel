@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:14:57Z",
+  "generated_at": "2026-09-26T14:59:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,38 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "source": "BleepingComputer",
+      "published": "2026-09-26T14:19:46Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-09-26T12:28:41Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated…",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "source": "The Hacker News",
+      "published": "2026-09-26T11:46:40Z",
+      "actors": []
+    },
+    {
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "summary": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents, including a widely discussed intrusion at…",
+      "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "source": "The Hacker News",
+      "published": "2026-09-26T10:30:00Z",
       "actors": []
     },
     {
@@ -330,14 +362,6 @@
       "actors": []
     },
     {
-      "title": "Exposed GitLab project email addresses let attackers push code",
-      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "source": "BleepingComputer",
-      "published": "2026-09-24T17:47:44Z",
-      "actors": []
-    },
-    {
       "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
       "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's…",
       "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
@@ -367,14 +391,6 @@
       "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
       "source": "Dark Reading",
       "published": "2026-09-24T14:02:43Z",
-      "actors": []
-    },
-    {
-      "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-      "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "source": "BleepingComputer",
-      "published": "2026-09-24T14:02:12Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
       "source": "Dark Reading",
       "published": "2026-09-23T21:03:01Z",
-      "actors": []
-    },
-    {
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "summary": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
-      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "source": "Dark Reading",
-      "published": "2026-09-23T20:53:38Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and…",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "source": "The Hacker News",
-      "published": "2026-09-23T18:06:30Z",
       "actors": []
     }
   ],
