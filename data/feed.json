@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T14:59:59Z",
+  "generated_at": "2026-09-26T18:30:00Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,22 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "source": "BleepingComputer",
+      "published": "2026-09-26T16:26:58Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "source": "BleepingComputer",
+      "published": "2026-09-26T15:50:38Z",
       "actors": []
     },
     {
@@ -322,27 +338,11 @@
       "actors": []
     },
     {
-      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "source": "BleepingComputer",
-      "published": "2026-09-24T20:53:35Z",
-      "actors": []
-    },
-    {
       "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
       "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
       "source": "Dark Reading",
       "published": "2026-09-24T20:32:50Z",
-      "actors": []
-    },
-    {
-      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "source": "BleepingComputer",
-      "published": "2026-09-24T20:10:48Z",
       "actors": []
     },
     {
