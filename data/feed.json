@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T07:43:35Z",
+  "generated_at": "2026-09-27T13:19:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
+      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken…",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "source": "The Hacker News",
+      "published": "2026-09-27T07:47:57Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33364",
       "source": "SANS Internet Storm Center",
       "published": "2026-09-24T03:50:11Z",
-      "actors": []
-    },
-    {
-      "title": "SASE Converges Network & Security Into One Cloud Solution",
-      "summary": "Enterprise computing is moving to the edge. Keeping it secure requires tactics far beyond putting up firewalls. (Second in a three-part series.)",
-      "url": "https://www.darkreading.com/cloud-security/sase-converges-network-security-one-cloud",
-      "source": "Dark Reading",
-      "published": "2026-09-23T22:29:10Z",
       "actors": []
     }
   ],
