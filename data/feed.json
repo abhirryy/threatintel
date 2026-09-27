@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:19:41Z",
+  "generated_at": "2026-09-27T17:50:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -16,8 +16,40 @@
       "actors": []
     },
     {
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "source": "BleepingComputer",
+      "published": "2026-09-27T16:02:37Z",
+      "actors": []
+    },
+    {
+      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
+      "summary": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs.",
+      "url": "https://isc.sans.edu/diary/rss/33372",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-27T15:04:49Z",
+      "actors": []
+    },
+    {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "source": "BleepingComputer",
+      "published": "2026-09-27T14:13:31Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "source": "BleepingComputer",
+      "published": "2026-09-27T13:38:40Z",
+      "actors": []
+    },
+    {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken…",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the…",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
       "source": "The Hacker News",
       "published": "2026-09-27T07:47:57Z",
@@ -258,27 +290,11 @@
       "actors": []
     },
     {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "source": "BleepingComputer",
-      "published": "2026-09-25T12:40:59Z",
-      "actors": []
-    },
-    {
       "title": "Doubts grow over claims OpenAI agent hacked Australian Medicare portal",
       "summary": "Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an unauthenticated endpoint.",
       "url": "https://therecord.media/openai-australia-breach-cyber",
       "source": "The Record",
       "published": "2026-09-25T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "source": "BleepingComputer",
-      "published": "2026-09-25T11:35:14Z",
       "actors": []
     },
     {
@@ -295,14 +311,6 @@
       "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
       "source": "The Hacker News",
       "published": "2026-09-25T10:35:55Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-09-25T10:30:38Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
       "source": "The Hacker News",
       "published": "2026-09-24T05:36:18Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33364",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-24T03:50:11Z",
       "actors": []
     }
   ],
