@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T20:32:37Z",
+  "generated_at": "2026-09-27T23:22:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -168,6 +168,14 @@
       "actors": [
         "Clop"
       ]
+    },
+    {
+      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "summary": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+      "url": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+      "source": "Dark Reading",
+      "published": "2026-09-25T20:28:10Z",
+      "actors": []
     },
     {
       "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
@@ -480,14 +488,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-09-24T06:25:06Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make…",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T05:36:18Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -515,6 +515,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-88772",
+      "title": "CVE-2026-88772 - Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "date_added": "2026-09-27",
+      "due_date": "2026-09-30",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
+      "source": "CISA KEV",
+      "published": "2026-09-27T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-88771",
+      "title": "CVE-2026-88771 - Citrix NetScaler Improper Input Validation Vulnerability",
+      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
+      "vendor": "Citrix",
+      "product": "NetScaler",
+      "date_added": "2026-09-27",
+      "due_date": "2026-09-30",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
+      "source": "CISA KEV",
+      "published": "2026-09-27T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-67279",
       "title": "CVE-2026-67279 - Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability",
@@ -1323,34 +1351,6 @@
       "due_date": "2026-08-21",
       "ransomware": "Known",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59310",
-      "source": "CISA KEV",
-      "published": "2026-08-18T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-55040",
-      "title": "CVE-2026-55040 - Microsoft SharePoint Weak Authentication Vulnerability",
-      "summary": "Microsoft SharePoint contains a weak authentication vulnerability which allows an unauthorized attacker to bypass a security feature over a network.",
-      "vendor": "Microsoft",
-      "product": "SharePoint",
-      "date_added": "2026-08-18",
-      "due_date": "2026-08-21",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-55040",
-      "source": "CISA KEV",
-      "published": "2026-08-18T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-65400",
-      "title": "CVE-2026-65400 - Apple macOS Improper Authentication Vulnerability",
-      "summary": "Apple macOS contains an improper authentication vulnerability that could allow an attacker on the network to authenticate to Screen Sharing without valid credentials.",
-      "vendor": "Apple",
-      "product": "macOS",
-      "date_added": "2026-08-18",
-      "due_date": "2026-08-21",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-65400",
       "source": "CISA KEV",
       "published": "2026-08-18T00:00:00Z",
       "actors": []
