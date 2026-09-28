@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-28T16:05:52Z",
+  "generated_at": "2026-09-28T21:56:51Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 115,
+    "osint_news": 120,
     "threat_actors": 1,
     "attack_surface": 60
   },
@@ -13,6 +13,134 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+      "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
+      "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "source": "Dark Reading",
+      "published": "2026-09-28T21:13:04Z",
+      "actors": []
+    },
+    {
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "source": "BleepingComputer",
+      "published": "2026-09-28T20:56:47Z",
+      "actors": []
+    },
+    {
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-09-28T20:31:16Z",
+      "actors": []
+    },
+    {
+      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+      "summary": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.",
+      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "source": "Dark Reading",
+      "published": "2026-09-28T20:23:58Z",
+      "actors": []
+    },
+    {
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "summary": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "source": "BleepingComputer",
+      "published": "2026-09-28T19:49:10Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
+      "summary": "A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site.",
+      "url": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
+      "source": "The Record",
+      "published": "2026-09-28T19:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code…",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-09-28T19:18:01Z",
+      "actors": []
+    },
+    {
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "source": "BleepingComputer",
+      "published": "2026-09-28T18:50:59Z",
+      "actors": []
+    },
+    {
+      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
+      "summary": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+      "source": "Dark Reading",
+      "published": "2026-09-28T18:44:22Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental…",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "source": "The Hacker News",
+      "published": "2026-09-28T18:35:42Z",
+      "actors": []
+    },
+    {
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework…",
+      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "source": "The Hacker News",
+      "published": "2026-09-28T18:20:38Z",
+      "actors": []
+    },
+    {
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "summary": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited the flaw to obtain high-level internal credentials and then, on September 24, used them to send…",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "source": "The Hacker News",
+      "published": "2026-09-28T17:42:18Z",
+      "actors": []
+    },
+    {
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "summary": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a malware-as-a-service model, in which each customer runs a separate copy.…",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "source": "The Hacker News",
+      "published": "2026-09-28T17:38:33Z",
+      "actors": []
+    },
+    {
+      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
+      "summary": "A New Mexico jury found Facebook violated the law nearly 44 million times by lying to consumers about its data privacy practices.",
+      "url": "https://therecord.media/facebook-new-mexico-privacy",
+      "source": "The Record",
+      "published": "2026-09-28T17:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
+      "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
+      "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+      "source": "Dark Reading",
+      "published": "2026-09-28T16:51:25Z",
+      "actors": []
+    },
+    {
+      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
+      "summary": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities.",
+      "url": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
+      "source": "The Record",
+      "published": "2026-09-28T16:19:00Z",
       "actors": []
     },
     {
@@ -53,6 +181,22 @@
       "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
       "source": "BleepingComputer",
       "published": "2026-09-28T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattack on Polish medical software provider exposes patient data",
+      "summary": "Hackers stole personal data from a Polish healthcare software provider in the latest cyberattack to hit the country’s medical sector in recent months.",
+      "url": "https://therecord.media/poland-cyberattack-medical-medyc",
+      "source": "The Record",
+      "published": "2026-09-28T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Former US soldier gets nearly six-year sentence for hacking, extorting telecoms",
+      "summary": "A former soldier in the U.S. Army was sentenced to more than five years in federal prison after pleading guilty to hacking into several telecommunications companies and leaking sensitive records.",
+      "url": "https://therecord.media/hacker-telecom-army-sentenced",
+      "source": "The Record",
+      "published": "2026-09-28T12:45:00Z",
       "actors": []
     },
     {
@@ -192,30 +336,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-      "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-      "source": "BleepingComputer",
-      "published": "2026-09-26T15:50:38Z",
-      "actors": []
-    },
-    {
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "source": "BleepingComputer",
-      "published": "2026-09-26T14:19:46Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-      "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-      "source": "BleepingComputer",
-      "published": "2026-09-26T12:28:41Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
       "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated…",
       "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
@@ -261,14 +381,6 @@
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "source": "Krebs on Security",
       "published": "2026-09-25T21:44:40Z",
-      "actors": []
-    },
-    {
-      "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
-      "summary": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-25T21:41:07Z",
       "actors": []
     },
     {
@@ -373,118 +485,6 @@
       "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
       "source": "The Hacker News",
       "published": "2026-09-25T04:46:34Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33370",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-25T03:45:12Z",
-      "actors": []
-    },
-    {
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "summary": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels.",
-      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "source": "Dark Reading",
-      "published": "2026-09-24T21:04:03Z",
-      "actors": []
-    },
-    {
-      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
-      "summary": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-      "source": "Dark Reading",
-      "published": "2026-09-24T20:32:50Z",
-      "actors": []
-    },
-    {
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone. OnePlus told him the same flaws…",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T18:10:18Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake…",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T17:52:43Z",
-      "actors": []
-    },
-    {
-      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's…",
-      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T15:27:32Z",
-      "actors": []
-    },
-    {
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "summary": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "source": "Dark Reading",
-      "published": "2026-09-24T14:44:12Z",
-      "actors": []
-    },
-    {
-      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. \"When a visitor interacts with the page, the lure copies a Windows…",
-      "url": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T14:29:06Z",
-      "actors": []
-    },
-    {
-      "title": "How to Build a SASE Framework for Modern Cybersecurity",
-      "summary": "Securing edge computing requires organizations to fundamentally rethink security governance. This step-by-step guide to building a SASE framework provides the path forward. (Third in a three-part series.)",
-      "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "source": "Dark Reading",
-      "published": "2026-09-24T14:02:43Z",
-      "actors": []
-    },
-    {
-      "title": "Ghost Service Accounts Enable M365 Data Theft in Chile",
-      "summary": "Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ghost-service-accounts-m365-data-theft-chile",
-      "source": "Dark Reading",
-      "published": "2026-09-24T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Prompt-Injection Bug Hits $4B Agentic AI App 'Manus'",
-      "summary": "AI apps that interpret external data (read: most AI apps) need exceptionally rigorous security filters, or attackers can take advantage.",
-      "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
-      "source": "Dark Reading",
-      "published": "2026-09-24T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a…",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T12:05:27Z",
-      "actors": []
-    },
-    {
-      "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-      "summary": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secrets at approximately twice the rate of human-written ones. Most of…",
-      "url": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T11:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-      "summary": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain infrastructure and a state-sponsored user base, and…",
-      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "source": "The Hacker News",
-      "published": "2026-09-24T09:14:21Z",
       "actors": []
     }
   ],
