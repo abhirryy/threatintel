@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:49:41Z",
+  "generated_at": "2026-09-28T07:47:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,30 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "summary": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "source": "BleepingComputer",
+      "published": "2026-09-28T07:30:15Z",
+      "actors": []
+    },
+    {
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "source": "BleepingComputer",
+      "published": "2026-09-28T06:24:19Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33374",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-28T02:00:02Z",
       "actors": []
     },
     {
@@ -234,14 +258,6 @@
       "actors": []
     },
     {
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "source": "BleepingComputer",
-      "published": "2026-09-25T16:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
       "summary": "The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses.",
       "url": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
@@ -255,14 +271,6 @@
       "url": "https://therecord.media/wales-cyberattack-police-breach",
       "source": "The Record",
       "published": "2026-09-25T15:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "source": "BleepingComputer",
-      "published": "2026-09-25T14:54:33Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
       "source": "The Hacker News",
       "published": "2026-09-24T06:32:03Z",
-      "actors": []
-    },
-    {
-      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
-      "summary": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:",
-      "url": "https://isc.sans.edu/diary/rss/33366",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-24T06:25:06Z",
       "actors": []
     }
   ],
