@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:29:33Z",
+  "generated_at": "2026-09-29T23:09:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,70 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "source": "Dark Reading",
+      "published": "2026-09-29T21:31:29Z",
+      "actors": []
+    },
+    {
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T21:30:08Z",
+      "actors": []
+    },
+    {
+      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
+      "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
+      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "source": "Dark Reading",
+      "published": "2026-09-29T21:08:42Z",
+      "actors": []
+    },
+    {
+      "title": "US Air Force members given over 6 years in prison for cyber theft of more than $2 million",
+      "summary": "According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June.",
+      "url": "https://therecord.media/us-air-force-members-given-6-year-sentence-cyber",
+      "source": "The Record",
+      "published": "2026-09-29T21:01:00Z",
+      "actors": []
+    },
+    {
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T20:59:39Z",
+      "actors": []
+    },
+    {
+      "title": "Controversial spyware firm Paragon to go public by end of year",
+      "summary": "The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.",
+      "url": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
+      "source": "The Record",
+      "published": "2026-09-29T20:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
+      "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T20:09:55Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
+      "summary": "The artificial intelligence giant acknowledged it botched its response to the incidents and should have done more to promptly notify and work with the Australian government in the days after it discovered the breaches.",
+      "url": "https://therecord.media/openai-apologizes-australia-medicare-breach",
+      "source": "The Record",
+      "published": "2026-09-29T19:48:00Z",
+      "actors": []
+    },
     {
       "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
       "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
@@ -266,27 +330,11 @@
       "actors": []
     },
     {
-      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
-      "summary": "A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site.",
-      "url": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
-      "source": "The Record",
-      "published": "2026-09-28T19:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
       "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code…",
       "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
       "source": "The Hacker News",
       "published": "2026-09-28T19:18:01Z",
-      "actors": []
-    },
-    {
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "source": "BleepingComputer",
-      "published": "2026-09-28T18:50:59Z",
       "actors": []
     },
     {
@@ -330,35 +378,11 @@
       "actors": []
     },
     {
-      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
-      "summary": "A New Mexico jury found Facebook violated the law nearly 44 million times by lying to consumers about its data privacy practices.",
-      "url": "https://therecord.media/facebook-new-mexico-privacy",
-      "source": "The Record",
-      "published": "2026-09-28T17:15:00Z",
-      "actors": []
-    },
-    {
       "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
       "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
       "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
       "source": "Dark Reading",
       "published": "2026-09-28T16:51:25Z",
-      "actors": []
-    },
-    {
-      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
-      "summary": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities.",
-      "url": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
-      "source": "The Record",
-      "published": "2026-09-28T16:19:00Z",
-      "actors": []
-    },
-    {
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "summary": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "source": "BleepingComputer",
-      "published": "2026-09-28T15:49:27Z",
       "actors": []
     },
     {
@@ -383,14 +407,6 @@
       "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
       "source": "The Hacker News",
       "published": "2026-09-28T14:00:53Z",
-      "actors": []
-    },
-    {
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "summary": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "source": "BleepingComputer",
-      "published": "2026-09-28T14:00:10Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
       "source": "The Hacker News",
       "published": "2026-09-26T10:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE…",
-      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "source": "The Hacker News",
-      "published": "2026-09-26T09:55:22Z",
-      "actors": []
-    },
-    {
-      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS…",
-      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "source": "The Hacker News",
-      "published": "2026-09-26T08:49:53Z",
       "actors": []
     }
   ],
