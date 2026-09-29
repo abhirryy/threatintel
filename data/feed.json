@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:31:56Z",
+  "generated_at": "2026-09-29T14:18:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,70 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
+      "summary": "Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-waf.php file will be created in the site&#;x26;#;39;s root directory [1].",
+      "url": "https://isc.sans.edu/diary/rss/33382",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-29T13:29:33Z",
+      "actors": []
+    },
+    {
+      "title": "Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims",
+      "summary": "According to Dodo Pizza, the potentially compromised information included customers’ names, addresses, email addresses, phone numbers, dates of birth and order details.",
+      "url": "https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach",
+      "source": "The Record",
+      "published": "2026-09-29T12:34:00Z",
+      "actors": []
+    },
+    {
+      "title": "Arizona Supreme Court says hackers stole residents’ personal data",
+      "summary": "A spokesperson for the court system told Recorded Future News that the incident did not involve ransomware and the hackers have not issued ransom demands for the stolen data as of Monday.",
+      "url": "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
+      "source": "The Record",
+      "published": "2026-09-29T12:27:00Z",
+      "actors": []
+    },
+    {
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T11:41:53Z",
+      "actors": []
+    },
+    {
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T09:04:06Z",
+      "actors": []
+    },
+    {
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an…",
+      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "source": "The Hacker News",
+      "published": "2026-09-29T08:35:10Z",
+      "actors": []
+    },
+    {
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-09-29T07:33:12Z",
       "actors": []
     },
     {
@@ -224,22 +288,6 @@
       "actors": []
     },
     {
-      "title": "Cyberattack on Polish medical software provider exposes patient data",
-      "summary": "Hackers stole personal data from a Polish healthcare software provider in the latest cyberattack to hit the country’s medical sector in recent months.",
-      "url": "https://therecord.media/poland-cyberattack-medical-medyc",
-      "source": "The Record",
-      "published": "2026-09-28T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Former US soldier gets nearly six-year sentence for hacking, extorting telecoms",
-      "summary": "A former soldier in the U.S. Army was sentenced to more than five years in federal prison after pleading guilty to hacking into several telecommunications companies and leaking sensitive records.",
-      "url": "https://therecord.media/hacker-telecom-army-sentenced",
-      "source": "The Record",
-      "published": "2026-09-28T12:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
       "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are confident…",
       "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
@@ -328,22 +376,6 @@
       "actors": []
     },
     {
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "source": "BleepingComputer",
-      "published": "2026-09-27T14:13:31Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "source": "BleepingComputer",
-      "published": "2026-09-27T13:38:40Z",
-      "actors": []
-    },
-    {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the…",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -352,27 +384,11 @@
       "actors": []
     },
     {
-      "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-      "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-09-26T19:03:34Z",
-      "actors": []
-    },
-    {
       "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
       "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting…",
       "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
       "source": "The Hacker News",
       "published": "2026-09-26T18:22:52Z",
-      "actors": []
-    },
-    {
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "summary": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "source": "BleepingComputer",
-      "published": "2026-09-26T16:26:58Z",
       "actors": []
     },
     {
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
       "source": "The Hacker News",
       "published": "2026-09-25T13:18:06Z",
-      "actors": []
-    },
-    {
-      "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
-      "summary": "Introduction",
-      "url": "https://isc.sans.edu/diary/rss/33368",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-25T12:45:19Z",
-      "actors": []
-    },
-    {
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation…",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "source": "The Hacker News",
-      "published": "2026-09-25T11:30:00Z",
       "actors": []
     }
   ],
