@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T21:56:51Z",
+  "generated_at": "2026-09-29T01:42:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,14 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "source": "Dark Reading",
       "published": "2026-12-03T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
+      "summary": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&#;x26;#;39;s update for the current \"27\" branch does…",
+      "url": "https://isc.sans.edu/diary/rss/33376",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-09-28T22:35:35Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
       "source": "The Hacker News",
       "published": "2026-09-25T04:49:22Z",
-      "actors": []
-    },
-    {
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score:…",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-09-25T04:46:34Z",
       "actors": []
     }
   ],
