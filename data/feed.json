@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:13:42Z",
+  "generated_at": "2026-09-30T20:05:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,78 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-09-30T19:49:15Z",
+      "actors": []
+    },
+    {
+      "title": "After reports on suicide deaths, Pentagon puts Cyber Command on notice",
+      "summary": "An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths.",
+      "url": "https://therecord.media/cyber-command-suicide-deaths-pentagon-memo",
+      "source": "The Record",
+      "published": "2026-09-30T19:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
+      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
+      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
+      "source": "The Record",
+      "published": "2026-09-30T19:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
+      "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
+      "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
+      "source": "Dark Reading",
+      "published": "2026-09-30T18:56:56Z",
+      "actors": []
+    },
+    {
+      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+      "source": "BleepingComputer",
+      "published": "2026-09-30T18:08:34Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw…",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "source": "The Hacker News",
+      "published": "2026-09-30T16:46:29Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under…",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "source": "The Hacker News",
+      "published": "2026-09-30T16:32:59Z",
+      "actors": []
+    },
+    {
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "source": "BleepingComputer",
+      "published": "2026-09-30T15:49:29Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user.…",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "source": "The Hacker News",
+      "published": "2026-09-30T15:24:54Z",
+      "actors": []
+    },
     {
       "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
       "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
@@ -16,6 +88,14 @@
       "actors": [
         "Star Blizzard"
       ]
+    },
+    {
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted…",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "source": "The Hacker News",
+      "published": "2026-09-30T15:00:15Z",
+      "actors": []
     },
     {
       "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
@@ -188,27 +268,11 @@
       "actors": []
     },
     {
-      "title": "Controversial spyware firm Paragon to go public by end of year",
-      "summary": "The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.",
-      "url": "https://therecord.media/controversial-spyware-firm-paragon-to-go-public",
-      "source": "The Record",
-      "published": "2026-09-29T20:35:00Z",
-      "actors": []
-    },
-    {
       "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
       "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
       "source": "BleepingComputer",
       "published": "2026-09-29T20:09:55Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI apologizes for agents breaching Australian government websites without authorization",
-      "summary": "The artificial intelligence giant acknowledged it botched its response to the incidents and should have done more to promptly notify and work with the Australian government in the days after it discovered the breaches.",
-      "url": "https://therecord.media/openai-apologizes-australia-medicare-breach",
-      "source": "The Record",
-      "published": "2026-09-29T19:48:00Z",
       "actors": []
     },
     {
@@ -262,27 +326,11 @@
       ]
     },
     {
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T17:10:11Z",
-      "actors": []
-    },
-    {
       "title": "Cloudflare Announces Public Certificate Authority for the Post-Quantum Web",
       "summary": "Automated certificates for everyone, built for today, and hardened for the era of quantum computing.",
       "url": "https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web",
       "source": "Dark Reading",
       "published": "2026-09-29T17:02:16Z",
-      "actors": []
-    },
-    {
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T15:39:19Z",
       "actors": []
     },
     {
@@ -307,14 +355,6 @@
       "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
       "source": "The Hacker News",
       "published": "2026-09-29T14:13:20Z",
-      "actors": []
-    },
-    {
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T14:01:11Z",
       "actors": []
     },
     {
@@ -391,7 +431,7 @@
     },
     {
       "title": "One Packet Can Crash OT Servers in Industrial Sectors",
-      "summary": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments.",
+      "summary": "A high-severity vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments, and orgs should patch right away.",
       "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
       "source": "Dark Reading",
       "published": "2026-09-28T21:13:04Z",
@@ -452,46 +492,6 @@
       "source": "The Hacker News",
       "published": "2026-09-28T17:38:33Z",
       "actors": []
-    },
-    {
-      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
-      "summary": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings.",
-      "url": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
-      "source": "Dark Reading",
-      "published": "2026-09-28T16:51:25Z",
-      "actors": []
-    },
-    {
-      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
-      "summary": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.",
-      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "source": "Dark Reading",
-      "published": "2026-09-28T15:33:21Z",
-      "actors": []
-    },
-    {
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly…",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "source": "Krebs on Security",
-      "published": "2026-09-28T15:08:57Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-      "summary": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old bugs, exposed systems, phishing kits, and…",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "source": "The Hacker News",
-      "published": "2026-09-28T14:00:53Z",
-      "actors": []
-    },
-    {
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are confident…",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "source": "The Hacker News",
-      "published": "2026-09-28T11:58:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -541,6 +541,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-76504",
+      "title": "CVE-2026-76504 - Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
+      "summary": "Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.",
+      "vendor": "Cisco",
+      "product": "Catalyst SD-WAN Manager",
+      "date_added": "2026-09-30",
+      "due_date": "2026-10-03",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76504",
+      "source": "CISA KEV",
+      "published": "2026-09-30T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-86950",
       "title": "CVE-2026-86950 - Apple Multiple Products Out-of-Bounds Write Vulnerability",
@@ -1365,20 +1379,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-64849",
       "source": "CISA KEV",
       "published": "2026-08-19T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-33824",
-      "title": "CVE-2026-33824 - Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability",
-      "summary": "Microsoft Internet Key Exchange (IKE) Service Extensions contains a double free vulnerability that could enable remote code execution.",
-      "vendor": "Microsoft",
-      "product": "Internet Key Exchange (IKE) Service Extensions",
-      "date_added": "2026-08-18",
-      "due_date": "2026-08-21",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33824",
-      "source": "CISA KEV",
-      "published": "2026-08-18T00:00:00Z",
       "actors": []
     }
   ]
