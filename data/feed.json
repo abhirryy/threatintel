@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:22:25Z",
+  "generated_at": "2026-10-01T16:35:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,102 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Police disrupt KillSec ransomware, arrest suspected teenage leader",
+      "summary": "European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect.",
+      "url": "https://therecord.media/killsec-ransomware-raas-arrests-europe",
+      "source": "The Record",
+      "published": "2026-10-01T15:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+      "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri…",
+      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+      "source": "The Hacker News",
+      "published": "2026-10-01T14:37:35Z",
+      "actors": []
+    },
+    {
+      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+      "source": "BleepingComputer",
+      "published": "2026-10-01T14:25:14Z",
+      "actors": []
+    },
+    {
+      "title": "The Day-One Hole in Zero Trust Architecture",
+      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+      "source": "BleepingComputer",
+      "published": "2026-10-01T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Kiteworks patches max severity code injection vulnerability",
+      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+      "source": "BleepingComputer",
+      "published": "2026-10-01T13:51:08Z",
+      "actors": []
+    },
+    {
+      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
+      "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
+      "source": "Dark Reading",
+      "published": "2026-10-01T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cyberattack on major Polish invoicing platform exposes customer data",
+      "summary": "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.",
+      "url": "https://therecord.media/poland-cyberattack-invoice-software",
+      "source": "The Record",
+      "published": "2026-10-01T12:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+      "summary": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze…",
+      "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+      "source": "The Hacker News",
+      "published": "2026-10-01T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft enables Windows settings backup by default for orgs",
+      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+      "source": "BleepingComputer",
+      "published": "2026-10-01T11:14:28Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with…",
+      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+      "source": "The Hacker News",
+      "published": "2026-10-01T10:42:36Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could…",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+      "source": "The Hacker News",
+      "published": "2026-10-01T10:33:16Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers stole Pentagon personnel records of over 3 million people",
+      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "source": "BleepingComputer",
+      "published": "2026-10-01T09:44:28Z",
+      "actors": []
+    },
     {
       "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
       "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge…",
@@ -130,14 +226,6 @@
       "actors": []
     },
     {
-      "title": "Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation",
-      "summary": "Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.",
-      "url": "https://therecord.media/google-vulnerabilities-cyberattacks-ai",
-      "source": "The Record",
-      "published": "2026-09-30T19:00:00Z",
-      "actors": []
-    },
-    {
       "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
       "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
       "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
@@ -217,14 +305,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "source": "BleepingComputer",
       "published": "2026-09-30T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Mobile malware warning from Ukrainian researchers includes iPhone exploit kit",
-      "summary": "'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.",
-      "url": "https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android",
-      "source": "The Record",
-      "published": "2026-09-30T14:00:00Z",
       "actors": []
     },
     {
@@ -316,14 +396,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft is rolling out Linux container support to WSL",
-      "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T00:40:57Z",
-      "actors": []
-    },
-    {
       "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
       "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
@@ -332,43 +404,11 @@
       "actors": []
     },
     {
-      "title": "Signal adds encypted local backup support to iOS, desktop apps",
-      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T21:30:08Z",
-      "actors": []
-    },
-    {
       "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
       "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
       "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
       "source": "Dark Reading",
       "published": "2026-09-29T21:08:42Z",
-      "actors": []
-    },
-    {
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T20:59:39Z",
-      "actors": []
-    },
-    {
-      "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-      "summary": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T20:09:55Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-      "summary": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "source": "BleepingComputer",
-      "published": "2026-09-29T18:37:12Z",
       "actors": []
     },
     {
@@ -451,46 +491,6 @@
       "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
       "source": "The Hacker News",
       "published": "2026-09-29T08:35:10Z",
-      "actors": []
-    },
-    {
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token…",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "source": "The Hacker News",
-      "published": "2026-09-29T06:08:25Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer…",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "source": "The Hacker News",
-      "published": "2026-09-29T05:12:32Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a…",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "source": "The Hacker News",
-      "published": "2026-09-29T04:45:20Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33378",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-29T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
-      "summary": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&#;x26;#;39;s update for the current \"27\" branch does…",
-      "url": "https://isc.sans.edu/diary/rss/33376",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-28T22:35:35Z",
       "actors": []
     }
   ],
