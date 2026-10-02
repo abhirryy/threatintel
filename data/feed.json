@@ -1,12 +1,124 @@
 {
-  "generated_at": "2026-10-02T13:23:46Z",
+  "generated_at": "2026-10-02T18:35:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-02T18:33:01Z",
+      "actors": []
+    },
+    {
+      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The…",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-10-02T17:33:31Z",
+      "actors": []
+    },
+    {
+      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously…",
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "source": "The Hacker News",
+      "published": "2026-10-02T17:33:16Z",
+      "actors": []
+    },
+    {
+      "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+      "summary": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems. The vulnerabilities are listed below - CVE-2026-63688 (CVSS score: 10.0) - A missing authentication for critical function…",
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "source": "The Hacker News",
+      "published": "2026-10-02T17:02:12Z",
+      "actors": []
+    },
+    {
+      "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
+      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+      "source": "Dark Reading",
+      "published": "2026-10-02T16:56:30Z",
+      "actors": []
+    },
+    {
+      "title": "SWIFT Banking & Government Middleware Enables RCE",
+      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+      "source": "Dark Reading",
+      "published": "2026-10-02T16:27:54Z",
+      "actors": []
+    },
+    {
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "source": "BleepingComputer",
+      "published": "2026-10-02T16:20:05Z",
+      "actors": []
+    },
+    {
+      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
+      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+      "source": "Dark Reading",
+      "published": "2026-10-02T16:01:22Z",
+      "actors": []
+    },
+    {
+      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
+      "url": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "source": "Dark Reading",
+      "published": "2026-10-02T15:51:33Z",
+      "actors": []
+    },
+    {
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "source": "BleepingComputer",
+      "published": "2026-10-02T15:20:53Z",
+      "actors": []
+    },
+    {
+      "title": "Mississippi mayor says ransomware incident led city to shut down systems",
+      "summary": "Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating.",
+      "url": "https://therecord.media/vicksburg-mississippi-government-ransomware-attack",
+      "source": "The Record",
+      "published": "2026-10-02T14:06:00Z",
+      "actors": []
+    },
+    {
+      "title": "'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries",
+      "summary": "The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team.",
+      "url": "https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks",
+      "source": "The Record",
+      "published": "2026-10-02T14:05:00Z",
+      "actors": []
+    },
+    {
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "source": "BleepingComputer",
+      "published": "2026-10-02T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Vulnerability Backlogs Are an Ownership Problem",
+      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+      "source": "Dark Reading",
+      "published": "2026-10-02T14:00:00Z",
+      "actors": []
+    },
     {
       "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
       "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
@@ -144,14 +256,6 @@
       "actors": []
     },
     {
-      "title": "Police disrupt KillSec ransomware, arrest suspected teenage leader",
-      "summary": "European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect.",
-      "url": "https://therecord.media/killsec-ransomware-raas-arrests-europe",
-      "source": "The Record",
-      "published": "2026-10-01T15:55:00Z",
-      "actors": []
-    },
-    {
       "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
       "summary": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri…",
       "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
@@ -189,14 +293,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
       "source": "Dark Reading",
       "published": "2026-10-01T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Cyberattack on major Polish invoicing platform exposes customer data",
-      "summary": "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.",
-      "url": "https://therecord.media/poland-cyberattack-invoice-software",
-      "source": "The Record",
-      "published": "2026-10-01T12:30:00Z",
       "actors": []
     },
     {
@@ -320,37 +416,11 @@
       "actors": []
     },
     {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T20:34:01Z",
-      "actors": [
-        "Star Blizzard"
-      ]
-    },
-    {
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T19:49:15Z",
-      "actors": []
-    },
-    {
       "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
       "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
       "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
       "source": "Dark Reading",
       "published": "2026-09-30T18:56:56Z",
-      "actors": []
-    },
-    {
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T18:08:34Z",
       "actors": []
     },
     {
@@ -367,14 +437,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
       "source": "The Hacker News",
       "published": "2026-09-30T16:32:59Z",
-      "actors": []
-    },
-    {
-      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T15:49:29Z",
       "actors": []
     },
     {
@@ -426,84 +488,9 @@
       "source": "The Hacker News",
       "published": "2026-09-30T10:45:00Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted…",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T08:24:35Z",
-      "actors": []
-    },
-    {
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such…",
-      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T08:09:28Z",
-      "actors": []
-    },
-    {
-      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-      "summary": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
-      "source": "Dark Reading",
-      "published": "2026-09-30T07:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram…",
-      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T05:30:30Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33384",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-09-30T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-      "summary": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "source": "Dark Reading",
-      "published": "2026-09-29T21:31:29Z",
-      "actors": []
-    },
-    {
-      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-      "summary": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
-      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-      "source": "Dark Reading",
-      "published": "2026-09-29T21:08:42Z",
-      "actors": []
-    },
-    {
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a…",
-      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "source": "The Hacker News",
-      "published": "2026-09-29T17:47:01Z",
-      "actors": []
     }
   ],
   "threat_actors": [
-    {
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T20:34:01Z",
-      "actors": [
-        "Star Blizzard"
-      ],
-      "kind": "news"
-    },
     {
       "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
       "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
@@ -528,6 +515,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-102490",
+      "title": "CVE-2026-102490 - Zammad GmbH Zammad Improper Privilege Management Vulnerability",
+      "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "date_added": "2026-10-02",
+      "due_date": "2026-10-05",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490",
+      "source": "CISA KEV",
+      "published": "2026-10-02T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-102489",
+      "title": "CVE-2026-102489 - Zammad GmbH Zammad Session Fixation Vulnerability",
+      "summary": "Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.",
+      "vendor": "Zammad GmbH",
+      "product": "Zammad",
+      "date_added": "2026-10-02",
+      "due_date": "2026-10-05",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102489",
+      "source": "CISA KEV",
+      "published": "2026-10-02T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-104286",
       "title": "CVE-2026-104286 - Fortinet FortiMail Path Traversal Vulnerability",
@@ -1338,34 +1353,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-73570",
       "source": "CISA KEV",
       "published": "2026-08-21T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-72530",
-      "title": "CVE-2026-72530 - TrueConf Server Code Injection Vulnerability",
-      "summary": "TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.",
-      "vendor": "TrueConf",
-      "product": "Server",
-      "date_added": "2026-08-20",
-      "due_date": "2026-09-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72530",
-      "source": "CISA KEV",
-      "published": "2026-08-20T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-72529",
-      "title": "CVE-2026-72529 - TrueConf Server Missing Authentication for Critical Function Vulnerability",
-      "summary": "TrueConf Server contains a missing authentication for critical function vulnerability which could allow a remote unauthorized attacker with network access via port 4307/TCP to execute an arbitrary script.",
-      "vendor": "TrueConf",
-      "product": "Server",
-      "date_added": "2026-08-20",
-      "due_date": "2026-08-23",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-72529",
-      "source": "CISA KEV",
-      "published": "2026-08-20T00:00:00Z",
       "actors": []
     }
   ]
