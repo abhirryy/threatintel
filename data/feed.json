@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:20:02Z",
+  "generated_at": "2026-10-02T00:56:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+      "summary": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-01T22:42:49Z",
+      "actors": []
+    },
+    {
+      "title": "Alleged KillSec Ransomware Mastermind a 16-Year-Old",
+      "summary": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "source": "Dark Reading",
+      "published": "2026-10-01T21:37:50Z",
+      "actors": []
+    },
     {
       "title": "Autonomous AI agents tried to hack US, Canadian government websites",
       "summary": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
@@ -340,14 +356,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft to block Entra ID script injection attacks starting October",
-      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-      "source": "BleepingComputer",
-      "published": "2026-09-30T13:37:15Z",
-      "actors": []
-    },
-    {
       "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
       "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most…",
       "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
@@ -483,14 +491,6 @@
       "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
       "source": "The Hacker News",
       "published": "2026-09-29T14:13:20Z",
-      "actors": []
-    },
-    {
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir…",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "source": "The Hacker News",
-      "published": "2026-09-29T13:45:10Z",
       "actors": []
     }
   ],
