@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:35:16Z",
+  "generated_at": "2026-10-02T22:32:33Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
+      "summary": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.",
+      "url": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+      "source": "The Record",
+      "published": "2026-10-02T20:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "source": "Dark Reading",
+      "published": "2026-10-02T20:18:37Z",
+      "actors": []
+    },
+    {
+      "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
+      "summary": "Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader bill.",
+      "url": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+      "source": "The Record",
+      "published": "2026-10-02T19:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Frontline Education breach exposes school district employee data",
+      "summary": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "source": "BleepingComputer",
+      "published": "2026-10-02T19:01:40Z",
+      "actors": []
+    },
     {
       "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
       "summary": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
@@ -224,22 +256,6 @@
       "actors": []
     },
     {
-      "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
-      "summary": "The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI’s software.",
-      "url": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
-      "source": "The Record",
-      "published": "2026-10-01T19:25:00Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers find Chinese hacking campaigns targeting AI firms, Asian governments",
-      "summary": "Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western experts.",
-      "url": "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
-      "source": "The Record",
-      "published": "2026-10-01T18:16:00Z",
-      "actors": []
-    },
-    {
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on September 30, when police also took…",
       "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
@@ -341,14 +357,6 @@
       "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
       "source": "The Hacker News",
       "published": "2026-10-01T07:49:36Z",
-      "actors": []
-    },
-    {
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T07:33:57Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
       "source": "The Hacker News",
       "published": "2026-09-30T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-access tool…",
-      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T10:45:00Z",
       "actors": []
     }
   ],
