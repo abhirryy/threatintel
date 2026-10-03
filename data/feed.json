@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:07:31Z",
+  "generated_at": "2026-10-03T16:15:19Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
+      "summary": "YARA-X&#;x26;#;39;s 1.21.0 release brings 5 improvements and 4 bugfixes.",
+      "url": "https://isc.sans.edu/diary/rss/33392",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-03T14:40:21Z",
+      "actors": []
+    },
+    {
+      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
+      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General…",
+      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+      "source": "The Hacker News",
+      "published": "2026-10-03T14:38:46Z",
+      "actors": []
+    },
+    {
+      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
+      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit…",
+      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-03T14:36:33Z",
+      "actors": []
+    },
+    {
+      "title": "Danish university DTU breach exposes data of up to 200,000 people",
+      "summary": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
+      "source": "BleepingComputer",
+      "published": "2026-10-03T14:35:20Z",
+      "actors": []
+    },
     {
       "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
       "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the…",
@@ -352,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T09:44:28Z",
-      "actors": []
-    },
-    {
       "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
       "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge…",
       "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
@@ -461,32 +485,6 @@
       "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
       "source": "The Hacker News",
       "published": "2026-09-30T15:24:54Z",
-      "actors": []
-    },
-    {
-      "title": "Russia's Star Blizzard Ditches ClickFix to Widen Phishing Net",
-      "summary": "The APT actor is using a new tactic, dubbed \"RedFlick,\" against Ukrainian-linked targets such as NGOs, think tanks, and journalists to deploy its CosmicPulse backdoor.",
-      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "source": "Dark Reading",
-      "published": "2026-09-30T15:02:25Z",
-      "actors": [
-        "Star Blizzard"
-      ]
-    },
-    {
-      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted…",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T15:00:15Z",
-      "actors": []
-    },
-    {
-      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most…",
-      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T11:58:00Z",
       "actors": []
     }
   ],
