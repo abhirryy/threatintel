@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:50:18Z",
+  "generated_at": "2026-10-03T12:07:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the…",
+      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "source": "The Hacker News",
+      "published": "2026-10-03T11:00:00Z",
+      "actors": []
+    },
     {
       "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
       "summary": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
       "source": "The Hacker News",
       "published": "2026-09-30T11:58:00Z",
-      "actors": []
-    },
-    {
-      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features…",
-      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T11:30:00Z",
       "actors": []
     }
   ],
