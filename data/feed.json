@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:15:19Z",
+  "generated_at": "2026-10-03T19:17:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+      "source": "BleepingComputer",
+      "published": "2026-10-03T19:09:38Z",
+      "actors": []
+    },
     {
       "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
       "summary": "YARA-X&#;x26;#;39;s 1.21.0 release brings 5 improvements and 4 bugfixes.",
@@ -357,14 +365,6 @@
       "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
       "source": "The Hacker News",
       "published": "2026-10-01T11:45:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft enables Windows settings backup by default for orgs",
-      "summary": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T11:14:28Z",
       "actors": []
     },
     {
