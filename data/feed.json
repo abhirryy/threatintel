@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T20:07:45Z",
+  "generated_at": "2026-10-04T23:07:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-04T21:58:01Z",
+      "actors": []
+    },
     {
       "title": "Anthropic asks Claude users to share voice data for AI model training",
       "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
@@ -365,14 +373,6 @@
       "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
       "source": "The Hacker News",
       "published": "2026-10-01T14:37:35Z",
-      "actors": []
-    },
-    {
-      "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-      "summary": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T14:25:14Z",
       "actors": []
     },
     {
