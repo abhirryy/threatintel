@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T06:23:27Z",
+  "generated_at": "2026-10-04T12:42:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "source": "BleepingComputer",
+      "published": "2026-10-04T10:53:21Z",
+      "actors": []
+    },
+    {
+      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
+      "summary": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.",
+      "url": "https://isc.sans.edu/diary/rss/33394",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-04T07:58:51Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
+      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September…",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+      "source": "The Hacker News",
+      "published": "2026-10-04T07:22:05Z",
+      "actors": []
+    },
+    {
+      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
+      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as…",
+      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-10-04T07:20:32Z",
+      "actors": []
+    },
     {
       "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
       "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
@@ -344,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "The Day-One Hole in Zero Trust Architecture",
-      "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
       "summary": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
@@ -461,30 +485,6 @@
       "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
       "source": "Dark Reading",
       "published": "2026-09-30T18:56:56Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw…",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T16:46:29Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under…",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T16:32:59Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user.…",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "source": "The Hacker News",
-      "published": "2026-09-30T15:24:54Z",
       "actors": []
     }
   ],
