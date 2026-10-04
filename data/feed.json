@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:12:46Z",
+  "generated_at": "2026-10-04T00:41:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+      "source": "BleepingComputer",
+      "published": "2026-10-03T23:12:34Z",
+      "actors": []
+    },
     {
       "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
       "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
@@ -341,14 +349,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "source": "BleepingComputer",
       "published": "2026-10-01T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Kiteworks patches max severity code injection vulnerability",
-      "summary": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T13:51:08Z",
       "actors": []
     },
     {
