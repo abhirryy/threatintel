@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:58:37Z",
+  "generated_at": "2026-10-05T08:50:27Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Google halts open-source bug bounty program amid AI spam surge",
+      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "source": "BleepingComputer",
+      "published": "2026-10-05T08:27:46Z",
+      "actors": []
+    },
+    {
+      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in…",
+      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "source": "The Hacker News",
+      "published": "2026-10-05T06:40:19Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33398",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-05T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
       "summary": "For an experiment, I created a script [ 1 ] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM [ 2 ] to be correlated with all the data.",
@@ -352,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "summary": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "source": "BleepingComputer",
-      "published": "2026-10-01T19:32:47Z",
-      "actors": []
-    },
-    {
       "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
       "summary": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid. The 16-year-old was one of 3 people arrested on September 30, when police also took…",
       "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
@@ -469,22 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33386",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-01T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure",
-      "summary": "In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure",
-      "source": "Dark Reading",
-      "published": "2026-09-30T21:25:47Z",
-      "actors": []
-    },
-    {
-      "title": "Trump, Tech Giants Strike Voluntary AI Safety Accord",
-      "summary": "The new White House Accord on so-called \"Super Intelligence\" calls on companies to implement greater controls and oversight over AI safety.",
-      "url": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
-      "source": "Dark Reading",
-      "published": "2026-09-30T20:51:15Z",
       "actors": []
     }
   ],
