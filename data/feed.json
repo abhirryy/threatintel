@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T23:07:28Z",
+  "generated_at": "2026-10-05T01:58:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
+      "summary": "For an experiment, I created a script [ 1 ] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM [ 2 ] to be correlated with all the data.",
+      "url": "https://isc.sans.edu/diary/rss/33396",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-05T00:15:00Z",
+      "actors": []
+    },
     {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord",
       "source": "Dark Reading",
       "published": "2026-09-30T20:51:15Z",
-      "actors": []
-    },
-    {
-      "title": "As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half",
-      "summary": "New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.",
-      "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
-      "source": "Dark Reading",
-      "published": "2026-09-30T18:56:56Z",
       "actors": []
     }
   ],
