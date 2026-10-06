@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T10:17:17Z",
+  "generated_at": "2026-10-06T16:51:15Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,107 @@
   },
   "osint_news": [
     {
+      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T16:33:54Z",
+      "actors": []
+    },
+    {
+      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
+      "summary": "Aguirre was added to the FBI’s “Top 10 Most Wanted Fugitives” list in March, becoming the first cybercriminal added to the list.",
+      "url": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
+      "source": "The Record",
+      "published": "2026-10-06T15:53:00Z",
+      "actors": []
+    },
+    {
+      "title": "South Korean officials believe AI agents were used to hack several banks",
+      "summary": "The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks’ systems.",
+      "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
+      "source": "The Record",
+      "published": "2026-10-06T15:29:22Z",
+      "actors": []
+    },
+    {
+      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T15:16:44Z",
+      "actors": []
+    },
+    {
+      "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
+      "summary": "Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable.",
+      "url": "https://therecord.media/osaka-university-cancels-classes-ransomware",
+      "source": "The Record",
+      "published": "2026-10-06T14:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "How to secure RMM software: 8 controls MSPs should test",
+      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
+      "summary": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer.",
+      "url": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
+      "source": "The Record",
+      "published": "2026-10-06T13:17:00Z",
+      "actors": []
+    },
+    {
       "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
       "summary": "It seems that a trend started&#xe2;&#x80;&#xa6; I continue my journey discovering more RMM (\"Remote Management & Monitoring\") tools abused by threat actors! A few days ago, I wrote a diary[ 1 ] about ScreenConnect used in the wild. Today, I found another one.",
       "url": "https://isc.sans.edu/diary/rss/33400",
       "source": "SANS Internet Storm Center",
-      "published": "2026-10-06T09:34:56Z",
+      "published": "2026-10-06T13:16:02Z",
+      "actors": []
+    },
+    {
+      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has…",
+      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+      "source": "The Hacker News",
+      "published": "2026-10-06T11:57:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33402",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-06T11:45:11Z",
+      "actors": []
+    },
+    {
+      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T11:31:48Z",
+      "actors": []
+    },
+    {
+      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to our wikis, some…",
+      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-06T11:26:25Z",
+      "actors": []
+    },
+    {
+      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our…",
+      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+      "source": "The Hacker News",
+      "published": "2026-10-06T11:02:30Z",
       "actors": []
     },
     {
@@ -72,19 +168,19 @@
       "actors": []
     },
     {
+      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
+      "summary": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.",
+      "url": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
+      "source": "The Record",
+      "published": "2026-10-06T04:00:00Z",
+      "actors": []
+    },
+    {
       "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
       "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
       "source": "BleepingComputer",
       "published": "2026-10-05T22:46:33Z",
-      "actors": []
-    },
-    {
-      "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
-      "summary": "Beyond the potential misuses of its services, Wikimedia said activity by AI agents can be a drain on web platforms that are already operating with limited resources.",
-      "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
-      "source": "The Record",
-      "published": "2026-10-05T21:26:00Z",
       "actors": []
     },
     {
@@ -104,35 +200,11 @@
       "actors": []
     },
     {
-      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
-      "summary": "Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data.",
-      "url": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
-      "source": "The Record",
-      "published": "2026-10-05T19:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
-      "summary": "Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that also caused alarm among cybersecurity experts.",
-      "url": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
-      "source": "The Record",
-      "published": "2026-10-05T17:22:00Z",
-      "actors": []
-    },
-    {
       "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
       "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
       "source": "BleepingComputer",
       "published": "2026-10-05T17:19:53Z",
-      "actors": []
-    },
-    {
-      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
-      "summary": "Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website.",
-      "url": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
-      "source": "The Record",
-      "published": "2026-10-05T17:00:00Z",
       "actors": []
     },
     {
@@ -149,14 +221,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
       "source": "Dark Reading",
       "published": "2026-10-05T15:52:59Z",
-      "actors": []
-    },
-    {
-      "title": "University of Illinois Chicago affected by ransomware attack on medical school",
-      "summary": "A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.",
-      "url": "https://therecord.media/ransomware-university-illinois-chicago",
-      "source": "The Record",
-      "published": "2026-10-05T15:30:00Z",
       "actors": []
     },
     {
@@ -248,22 +312,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
-      "summary": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T09:37:56Z",
-      "actors": []
-    },
-    {
-      "title": "Google halts open-source bug bounty program amid AI spam surge",
-      "summary": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T08:27:46Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
       "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) that can lead to a…",
       "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
@@ -293,22 +341,6 @@
       "url": "https://isc.sans.edu/diary/rss/33396",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-05T00:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-04T21:58:01Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic asks Claude users to share voice data for AI model training",
-      "summary": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-      "source": "BleepingComputer",
-      "published": "2026-10-04T10:53:21Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
       "source": "The Hacker News",
       "published": "2026-10-02T12:23:15Z",
-      "actors": []
-    },
-    {
-      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
-      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides. Then a board member…",
-      "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
-      "source": "The Hacker News",
-      "published": "2026-10-02T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
-      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech…",
-      "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "source": "The Hacker News",
-      "published": "2026-10-02T08:01:30Z",
-      "actors": []
-    },
-    {
-      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows…",
-      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-10-02T05:49:50Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33390",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-02T02:00:02Z",
       "actors": []
     }
   ],
