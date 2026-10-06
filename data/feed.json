@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:51:15Z",
+  "generated_at": "2026-10-06T21:23:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,78 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T21:00:27Z",
+      "actors": []
+    },
+    {
+      "title": "ClickFix Attacks Evolve to Better Hide Malicious Payloads",
+      "summary": "Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "source": "Dark Reading",
+      "published": "2026-10-06T20:32:58Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T19:21:53Z",
+      "actors": []
+    },
+    {
+      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization,…",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "source": "The Hacker News",
+      "published": "2026-10-06T18:38:55Z",
+      "actors": []
+    },
+    {
+      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors are known to name their malicious software after a legitimate operating system component or a process…",
+      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "source": "The Hacker News",
+      "published": "2026-10-06T18:24:25Z",
+      "actors": []
+    },
+    {
+      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
+      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
+      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "source": "Dark Reading",
+      "published": "2026-10-06T17:56:29Z",
+      "actors": []
+    },
+    {
+      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "source": "BleepingComputer",
+      "published": "2026-10-06T17:34:59Z",
+      "actors": []
+    },
+    {
+      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
+      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "source": "Dark Reading",
+      "published": "2026-10-06T17:15:24Z",
+      "actors": []
+    },
+    {
+      "title": "'BigDiskBuster' Leaves Microsoft Defender Running While Blocking Updates",
+      "summary": "Not quite an EDR-killer, but the proof-of-concept cyber technique creates a silent virus detection gap while service runs normally, no exploit required.",
+      "url": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "source": "Dark Reading",
+      "published": "2026-10-06T16:59:24Z",
+      "actors": []
+    },
     {
       "title": "ASOS confirms data breach after “HACKED” in-app notifications",
       "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
@@ -256,22 +328,6 @@
       "actors": []
     },
     {
-      "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-      "summary": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T13:33:42Z",
-      "actors": []
-    },
-    {
-      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
-      "summary": "The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T13:01:45Z",
-      "actors": []
-    },
-    {
       "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
       "summary": "AI-powered attacks are fast, relentless, and automated. How security teams can keep up is top of mind, according to the latest Dark Reading reader poll.",
       "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
@@ -301,14 +357,6 @@
       "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
       "source": "The Hacker News",
       "published": "2026-10-05T10:38:50Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI will show visual ads in ChatGPT while you generate images",
-      "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T10:28:45Z",
       "actors": []
     },
     {
@@ -437,54 +485,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
       "source": "Dark Reading",
       "published": "2026-10-02T16:56:30Z",
-      "actors": []
-    },
-    {
-      "title": "SWIFT Banking & Government Middleware Enables RCE",
-      "summary": "Patch middleware vulnerabilities now to avoid hardware-based MFA exploits in ultra-sensitive environments.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
-      "source": "Dark Reading",
-      "published": "2026-10-02T16:27:54Z",
-      "actors": []
-    },
-    {
-      "title": "Is Your Organization Ready for 2027's AI Accountability Era?",
-      "summary": "Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
-      "source": "Dark Reading",
-      "published": "2026-10-02T16:01:22Z",
-      "actors": []
-    },
-    {
-      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
-      "summary": "\"Rogue AI\" terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.",
-      "url": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
-      "source": "Dark Reading",
-      "published": "2026-10-02T15:51:33Z",
-      "actors": []
-    },
-    {
-      "title": "Vulnerability Backlogs Are an Ownership Problem",
-      "summary": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-      "source": "Dark Reading",
-      "published": "2026-10-02T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
-      "summary": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not.",
-      "url": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-      "source": "Dark Reading",
-      "published": "2026-10-02T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the…",
-      "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-      "source": "The Hacker News",
-      "published": "2026-10-02T12:23:15Z",
       "actors": []
     }
   ],
