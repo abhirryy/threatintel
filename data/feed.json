@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:01:20Z",
+  "generated_at": "2026-10-07T19:54:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,118 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
+      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
+      "source": "Dark Reading",
+      "published": "2026-10-07T19:34:08Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+      "summary": "Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a…",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T18:48:17Z",
+      "actors": []
+    },
+    {
+      "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
+      "summary": "Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation.",
+      "url": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
+      "source": "The Record",
+      "published": "2026-10-07T18:35:00Z",
+      "actors": []
+    },
+    {
+      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
+      "summary": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffic and criminal violations.",
+      "url": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
+      "source": "The Record",
+      "published": "2026-10-07T18:31:00Z",
+      "actors": []
+    },
+    {
+      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
+      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor…",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T17:43:20Z",
+      "actors": []
+    },
+    {
+      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
+      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rates it 10.0 on the…",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T16:17:44Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Outlook to block MSIX attachments starting November",
+      "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T15:44:22Z",
+      "actors": []
+    },
+    {
+      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cache runs as a standalone server that LLM…",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T15:34:53Z",
+      "actors": []
+    },
+    {
+      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
+      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed…",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T15:33:51Z",
+      "actors": []
+    },
+    {
+      "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+      "summary": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T15:04:08Z",
+      "actors": []
+    },
+    {
+      "title": "Oklahoma judge’s Flock ruling shows the power of Supreme Court’s digital evidence decision",
+      "summary": "How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case.",
+      "url": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
+      "source": "The Record",
+      "published": "2026-10-07T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
+      "summary": "On October 5th, Atlassian published patches&#;x26;#;xc2;&#;x26;#;xa0;for multiple products to fix an \"Arbitrary File Access\" vulnerability &#;x26;#;x5b; CVE-2026-21589 &#;x26;#;x5d;. An attacker can read arbitrary files in the web application&#;x26;#;39;s directory, potentially exposing sensitive information such as…",
+      "url": "https://isc.sans.edu/diary/rss/33406",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-07T14:59:33Z",
+      "actors": []
+    },
+    {
+      "title": "Cyber experts call on CISA to create mandatory federal OT rules",
+      "summary": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.",
+      "url": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
+      "source": "The Record",
+      "published": "2026-10-07T14:03:00Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T14:01:11Z",
+      "actors": []
+    },
     {
       "title": "Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach",
       "summary": "The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.",
@@ -21,22 +133,6 @@
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "source": "Krebs on Security",
       "published": "2026-10-07T13:48:45Z",
-      "actors": []
-    },
-    {
-      "title": "Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker",
-      "summary": "A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.",
-      "url": "https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie",
-      "source": "The Record",
-      "published": "2026-10-07T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "FBI, Secret Service add to warnings of FortiBleed credential stealing campaign",
-      "summary": "Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says.",
-      "url": "https://therecord.media/fortibleed-warning-fbi-secret-service",
-      "source": "The Record",
-      "published": "2026-10-07T12:50:00Z",
       "actors": []
     },
     {
@@ -145,7 +241,7 @@
     },
     {
       "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
       "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
       "source": "Dark Reading",
       "published": "2026-10-06T20:30:27Z",
@@ -213,22 +309,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
       "source": "BleepingComputer",
       "published": "2026-10-06T16:33:54Z",
-      "actors": []
-    },
-    {
-      "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
-      "summary": "Aguirre was added to the FBI’s “Top 10 Most Wanted Fugitives” list in March, becoming the first cybercriminal added to the list.",
-      "url": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
-      "source": "The Record",
-      "published": "2026-10-06T15:53:00Z",
-      "actors": []
-    },
-    {
-      "title": "South Korean officials believe AI agents were used to hack several banks",
-      "summary": "The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks’ systems.",
-      "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
-      "source": "The Record",
-      "published": "2026-10-06T15:29:22Z",
       "actors": []
     },
     {
@@ -312,14 +392,6 @@
       "actors": []
     },
     {
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T08:19:24Z",
-      "actors": []
-    },
-    {
       "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
       "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian…",
       "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
@@ -352,27 +424,11 @@
       "actors": []
     },
     {
-      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-      "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T22:46:33Z",
-      "actors": []
-    },
-    {
       "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
       "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
       "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
       "source": "Dark Reading",
       "published": "2026-10-05T21:25:08Z",
-      "actors": []
-    },
-    {
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T20:20:05Z",
       "actors": []
     },
     {
@@ -429,62 +485,6 @@
       "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
       "source": "The Hacker News",
       "published": "2026-10-05T10:38:50Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-      "summary": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck. The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use of a weak pseudo-random number generator (PRNG) that can lead to a…",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T08:09:23Z",
-      "actors": []
-    },
-    {
-      "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix…",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T06:40:19Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33398",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-05T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "TTY Logs and the Data it Captures, (Sun, Oct 4th)",
-      "summary": "For an experiment, I created a script [ 1 ] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM [ 2 ] to be correlated with all the data.",
-      "url": "https://isc.sans.edu/diary/rss/33396",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-05T00:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "User Agent Strings Curiosities, (Sun, Oct 4th)",
-      "summary": "Sometimes I have to smile, or my interest is triggered, when I review new User Agent Strings in the honeypot logs.",
-      "url": "https://isc.sans.edu/diary/rss/33394",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-04T07:58:51Z",
-      "actors": []
-    },
-    {
-      "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-      "summary": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have been brought into custody on September…",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-      "source": "The Hacker News",
-      "published": "2026-10-04T07:22:05Z",
-      "actors": []
-    },
-    {
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as…",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-10-04T07:20:32Z",
       "actors": []
     }
   ],
