@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T06:50:03Z",
+  "generated_at": "2026-10-07T14:01:20Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,118 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach",
+      "summary": "The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.",
+      "url": "https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach",
+      "source": "The Record",
+      "published": "2026-10-07T13:49:00Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as…",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "source": "Krebs on Security",
+      "published": "2026-10-07T13:48:45Z",
+      "actors": []
+    },
+    {
+      "title": "Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker",
+      "summary": "A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.",
+      "url": "https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie",
+      "source": "The Record",
+      "published": "2026-10-07T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "FBI, Secret Service add to warnings of FortiBleed credential stealing campaign",
+      "summary": "Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says.",
+      "url": "https://therecord.media/fortibleed-warning-fbi-secret-service",
+      "source": "The Record",
+      "published": "2026-10-07T12:50:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T12:49:01Z",
+      "actors": []
+    },
+    {
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of…",
+      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T11:57:05Z",
+      "actors": []
+    },
+    {
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The campaign exploits…",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T11:56:56Z",
+      "actors": []
+    },
+    {
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data…",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T11:49:26Z",
+      "actors": []
+    },
+    {
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It’s also worth pressure testing, and…",
+      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T11:42:24Z",
+      "actors": []
+    },
+    {
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T11:37:07Z",
+      "actors": []
+    },
+    {
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T10:35:15Z",
+      "actors": []
+    },
+    {
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T10:27:52Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software…",
+      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T08:07:38Z",
+      "actors": []
+    },
+    {
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer). The activity, which was observed by the agency in September 2026, has…",
+      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "source": "The Hacker News",
+      "published": "2026-10-07T06:57:54Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -128,27 +240,11 @@
       "actors": []
     },
     {
-      "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
-      "summary": "Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable.",
-      "url": "https://therecord.media/osaka-university-cancels-classes-ransomware",
-      "source": "The Record",
-      "published": "2026-10-06T14:52:00Z",
-      "actors": []
-    },
-    {
       "title": "How to secure RMM software: 8 controls MSPs should test",
       "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
       "source": "BleepingComputer",
       "published": "2026-10-06T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware",
-      "summary": "CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer.",
-      "url": "https://therecord.media/clickfix-campaign-ukraine-lunex-stealer",
-      "source": "The Record",
-      "published": "2026-10-06T13:17:00Z",
       "actors": []
     },
     {
@@ -256,14 +352,6 @@
       "actors": []
     },
     {
-      "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
-      "summary": "Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.",
-      "url": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
-      "source": "The Record",
-      "published": "2026-10-06T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
       "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
@@ -288,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T17:19:53Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
       "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange…",
       "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
@@ -309,30 +389,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
       "source": "Dark Reading",
       "published": "2026-10-05T15:52:59Z",
-      "actors": []
-    },
-    {
-      "title": "Denmark population registry data breach affects 8.8 million people",
-      "summary": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T15:21:10Z",
-      "actors": []
-    },
-    {
-      "title": "New Dell System Update flaw lets hackers gain root privileges",
-      "summary": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T14:53:06Z",
-      "actors": []
-    },
-    {
-      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-      "summary": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-05T14:22:12Z",
       "actors": []
     },
     {
@@ -429,62 +485,6 @@
       "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
       "source": "The Hacker News",
       "published": "2026-10-04T07:20:32Z",
-      "actors": []
-    },
-    {
-      "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
-      "summary": "YARA-X&#;x26;#;39;s 1.21.0 release brings 5 improvements and 4 bugfixes.",
-      "url": "https://isc.sans.edu/diary/rss/33392",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-03T14:40:21Z",
-      "actors": []
-    },
-    {
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General…",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "source": "The Hacker News",
-      "published": "2026-10-03T14:38:46Z",
-      "actors": []
-    },
-    {
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit…",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-03T14:36:33Z",
-      "actors": []
-    },
-    {
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the…",
-      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "source": "The Hacker News",
-      "published": "2026-10-03T11:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
-      "summary": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-      "source": "Dark Reading",
-      "published": "2026-10-02T20:18:37Z",
-      "actors": []
-    },
-    {
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The…",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-10-02T17:33:31Z",
-      "actors": []
-    },
-    {
-      "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-      "summary": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor. The activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pakistan, Thailand, and Myanmar, involves the deployment of a previously…",
-      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "source": "The Hacker News",
-      "published": "2026-10-02T17:33:16Z",
       "actors": []
     }
   ],
