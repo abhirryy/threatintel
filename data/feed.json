@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T21:23:38Z",
+  "generated_at": "2026-10-07T00:53:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
       "source": "Dark Reading",
       "published": "2026-10-06T20:32:58Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
+      "summary": "A study of 2.5 million devices across 50 healthcare organization suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
+      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
+      "source": "Dark Reading",
+      "published": "2026-10-06T20:30:27Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
       "source": "The Hacker News",
       "published": "2026-10-02T17:02:12Z",
-      "actors": []
-    },
-    {
-      "title": "Kiteworks & Citrix Incidents Show Challenges of Zero-Day Response",
-      "summary": "One company told customers to power down its data-protection platform during a nine-hour window, while the other remained mum on reported attacks prior to releasing a patch for its product.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
-      "source": "Dark Reading",
-      "published": "2026-10-02T16:56:30Z",
       "actors": []
     }
   ],
