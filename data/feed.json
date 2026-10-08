@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:52:57Z",
+  "generated_at": "2026-10-08T12:42:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,94 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+      "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T12:08:16Z",
+      "actors": []
+    },
+    {
+      "title": "Writing the Next Chapter",
+      "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
+      "source": "Dark Reading",
+      "published": "2026-10-08T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Major Yandex data center in Russia hit by Ukrainian drone strike",
+      "summary": "A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly falling to around 70 percent of normal levels.",
+      "url": "https://therecord.media/yandex-russia-drone-ukraine",
+      "source": "The Record",
+      "published": "2026-10-08T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ASOS links data breach to social engineering attack, credential theft",
+      "summary": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T11:42:46Z",
+      "actors": []
+    },
+    {
+      "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+      "summary": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phishing page itself. ANY.RUN has identified Wazza, a new phishkit…",
+      "url": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T10:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Owner of Empire cybercrime market gets 40 years in prison",
+      "summary": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T10:29:19Z",
+      "actors": []
+    },
+    {
+      "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+      "summary": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys. \"The extensions masquerade as wallet portals, desktop utilities, and browser tools, but their code intercepts recovery phrases and private…",
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T09:46:32Z",
+      "actors": []
+    },
+    {
+      "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+      "summary": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFNIUM. The reward is for information leading to his identification or…",
+      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T07:42:04Z",
+      "actors": []
+    },
+    {
+      "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zohar Pinhasi (aka Zack Silver and Zack…",
+      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T07:41:44Z",
+      "actors": []
+    },
+    {
+      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
+      "summary": "​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T06:32:16Z",
+      "actors": []
+    },
+    {
+      "title": "Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm",
+      "summary": "The npm package known as \"tensorlake,\" a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.5.144 \"contains obfuscated malware that harvests credentials, exfiltrates…",
+      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T05:46:20Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -168,14 +256,6 @@
       "actors": []
     },
     {
-      "title": "Cyber experts call on CISA to create mandatory federal OT rules",
-      "summary": "The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.",
-      "url": "https://therecord.media/cyber-experts-call-on-cisa-require-ot-security",
-      "source": "The Record",
-      "published": "2026-10-07T14:03:00Z",
-      "actors": []
-    },
-    {
       "title": "Ransomware has a new target. Is your backup ready?",
       "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
@@ -304,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-      "summary": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T19:21:53Z",
-      "actors": []
-    },
-    {
       "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
       "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization,…",
       "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
@@ -336,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T17:34:59Z",
-      "actors": []
-    },
-    {
       "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
       "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
@@ -357,22 +421,6 @@
       "url": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
       "source": "Dark Reading",
       "published": "2026-10-06T16:59:24Z",
-      "actors": []
-    },
-    {
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T16:33:54Z",
-      "actors": []
-    },
-    {
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T15:16:44Z",
       "actors": []
     },
     {
@@ -437,54 +485,6 @@
       "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
       "source": "The Hacker News",
       "published": "2026-10-06T06:56:57Z",
-      "actors": []
-    },
-    {
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in…",
-      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T06:00:30Z",
-      "actors": []
-    },
-    {
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised…",
-      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T05:22:55Z",
-      "actors": []
-    },
-    {
-      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
-      "summary": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
-      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
-      "source": "Dark Reading",
-      "published": "2026-10-05T21:25:08Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange…",
-      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T16:21:52Z",
-      "actors": []
-    },
-    {
-      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
-      "summary": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
-      "source": "Dark Reading",
-      "published": "2026-10-05T15:52:59Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long…",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T14:20:43Z",
       "actors": []
     }
   ],
