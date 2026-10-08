@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:42:41Z",
+  "generated_at": "2026-10-08T19:01:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,134 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
+      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been sanctioned by the U.S.…",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T18:32:21Z",
+      "actors": []
+    },
+    {
+      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
+      "summary": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "source": "Dark Reading",
+      "published": "2026-10-08T18:01:50Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+      "summary": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a problem on both sides of the fence. The rest of the week isn't much more…",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T17:58:02Z",
+      "actors": []
+    },
+    {
+      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T17:10:55Z",
+      "actors": []
+    },
+    {
+      "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
+      "summary": "The owner of a ransomware recovery firm was hit with wire fraud charges for allegedly making secret ransom payments while overcharging the victims of attacks.",
+      "url": "https://therecord.media/ransomware-recovery-charges-doj",
+      "source": "The Record",
+      "published": "2026-10-08T17:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ASOS: Hackers tricked way into employee account before sending rogue push notification",
+      "summary": "The company said its investigation, carried out with external experts, found the attackers had accessed “some personal information, including names and contact details, and certain non-personal account related information.”",
+      "url": "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
+      "source": "The Record",
+      "published": "2026-10-08T16:57:00Z",
+      "actors": []
+    },
+    {
+      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
+      "summary": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&#;x26;#;xc2;&#;x26;#;xa0;of the most popular AI coding assistants and&#;x26;#;xc2;&#;x26;#;xa0;agents including Claude Code, Codex, Gemini CLI, Cursor,…",
+      "url": "https://isc.sans.edu/diary/rss/33410",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-08T16:52:53Z",
+      "actors": []
+    },
+    {
+      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information.…",
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T15:45:56Z",
+      "actors": []
+    },
+    {
+      "title": "Crypto thief who splurged on gold grills sentenced in London",
+      "summary": "A 25-year-old man who helped steal nearly $260,000 in cryptocurrency through a SIM-swapping fraud scheme was sentenced to two and a half years in prison at a London court.",
+      "url": "https://therecord.media/cryptocurrency-sim-swap-london",
+      "source": "The Record",
+      "published": "2026-10-08T15:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the…",
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T15:26:56Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+      "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T15:26:33Z",
+      "actors": []
+    },
+    {
+      "title": "Leaked chats show Russian extortion gang sending ‘agents’ into US law firms",
+      "summary": "In leaked chats, members track dozens of victims, haggle over multimillion-dollar payments and direct operatives based in the United States whom they call “agents.”",
+      "url": "https://therecord.media/leaked-chats-show-russian-extortion-gang-sending-agents-to-law-firms",
+      "source": "The Record",
+      "published": "2026-10-08T14:46:00Z",
+      "actors": []
+    },
+    {
+      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+      "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and…",
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "source": "The Hacker News",
+      "published": "2026-10-08T14:12:34Z",
+      "actors": []
+    },
+    {
+      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth…",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers target two South Korean megachurches, potentially exposing congregant data",
+      "summary": "Two of South Korea's largest Protestant churches are investigating cyberattacks that may have exposed sensitive information about hundreds of thousands of members, including personal details, financial records and internal documents.",
+      "url": "https://therecord.media/south-korea-hackers-megachurches",
+      "source": "The Record",
+      "published": "2026-10-08T13:55:56Z",
+      "actors": []
+    },
+    {
+      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-10-08T13:18:36Z",
+      "actors": []
+    },
     {
       "title": "Microsoft Teams to get support for third-party deepfake detection tools",
       "summary": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
@@ -20,14 +148,6 @@
       "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
       "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
       "source": "Dark Reading",
-      "published": "2026-10-08T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Major Yandex data center in Russia hit by Ukrainian drone strike",
-      "summary": "A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly falling to around 70 percent of normal levels.",
-      "url": "https://therecord.media/yandex-russia-drone-ukraine",
-      "source": "The Record",
       "published": "2026-10-08T12:00:00Z",
       "actors": []
     },
@@ -152,14 +272,6 @@
       "actors": []
     },
     {
-      "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
-      "summary": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
-      "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
-      "source": "The Record",
-      "published": "2026-10-07T19:50:00Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
       "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
@@ -173,22 +285,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
       "source": "The Hacker News",
       "published": "2026-10-07T18:48:17Z",
-      "actors": []
-    },
-    {
-      "title": "$11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers",
-      "summary": "Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation.",
-      "url": "https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters",
-      "source": "The Record",
-      "published": "2026-10-07T18:35:00Z",
-      "actors": []
-    },
-    {
-      "title": "Arizona courts say hackers stole info on more than 1.3 million people",
-      "summary": "The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to traffic and criminal violations.",
-      "url": "https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million",
-      "source": "The Record",
-      "published": "2026-10-07T18:31:00Z",
       "actors": []
     },
     {
@@ -237,14 +333,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
       "source": "BleepingComputer",
       "published": "2026-10-07T15:04:08Z",
-      "actors": []
-    },
-    {
-      "title": "Oklahoma judge’s Flock ruling shows the power of Supreme Court’s digital evidence decision",
-      "summary": "How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case.",
-      "url": "https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision",
-      "source": "The Record",
-      "published": "2026-10-07T15:00:00Z",
       "actors": []
     },
     {
@@ -312,30 +400,6 @@
       "actors": []
     },
     {
-      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-      "source": "BleepingComputer",
-      "published": "2026-10-07T11:37:07Z",
-      "actors": []
-    },
-    {
-      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-      "source": "BleepingComputer",
-      "published": "2026-10-07T10:35:15Z",
-      "actors": []
-    },
-    {
-      "title": "Advantest confirms personal information stolen in ransomware attack",
-      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "source": "BleepingComputer",
-      "published": "2026-10-07T10:27:52Z",
-      "actors": []
-    },
-    {
       "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
       "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software…",
       "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
@@ -357,14 +421,6 @@
       "url": "https://isc.sans.edu/diary/rss/33404",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-07T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-      "summary": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T21:00:27Z",
       "actors": []
     },
     {
@@ -430,62 +486,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-10-06T13:16:02Z",
       "actors": []
-    },
-    {
-      "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-      "summary": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has…",
-      "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T11:57:00Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33402",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-06T11:45:11Z",
-      "actors": []
-    },
-    {
-      "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
-      "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to our wikis, some…",
-      "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T11:26:25Z",
-      "actors": []
-    },
-    {
-      "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
-      "summary": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our…",
-      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T11:02:30Z",
-      "actors": []
-    },
-    {
-      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
-      "summary": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply…",
-      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T09:21:47Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian…",
-      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T06:58:56Z",
-      "actors": []
-    },
-    {
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To date, our review has…",
-      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T06:56:57Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -502,6 +502,76 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2015-5477",
+      "title": "CVE-2015-5477 -  ISC BIND Data Processing Errors Vulnerability",
+      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
+      "vendor": "ISC",
+      "product": "BIND",
+      "date_added": "2026-10-08",
+      "due_date": "2026-10-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477",
+      "source": "CISA KEV",
+      "published": "2026-10-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2016-3081",
+      "title": "CVE-2016-3081 - Apache Struts Command Injection Vulnerability",
+      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
+      "vendor": "Apache",
+      "product": "Struts",
+      "date_added": "2026-10-08",
+      "due_date": "2026-10-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081",
+      "source": "CISA KEV",
+      "published": "2026-10-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2023-22894",
+      "title": "CVE-2023-22894 - Strapi Cleartext Storage of Sensitive Information Vulnerability",
+      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or…",
+      "vendor": "Strapi",
+      "product": "Strapi",
+      "date_added": "2026-10-08",
+      "due_date": "2026-10-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
+      "source": "CISA KEV",
+      "published": "2026-10-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2021-3199",
+      "title": "CVE-2021-3199 - ONLYOFFICE Docs Server Path Traversal Vulnerability",
+      "summary": "ONLYOFFICE Docs contains a path traversal vulnerability that can occur when JWT is used, via a /.. sequence in an image upload parameter and could allow for remote code execution.",
+      "vendor": "ONLYOFFICE",
+      "product": "Docs",
+      "date_added": "2026-10-08",
+      "due_date": "2026-10-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3199",
+      "source": "CISA KEV",
+      "published": "2026-10-08T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2015-3306",
+      "title": "CVE-2015-3306 - ProFTPD Improper Access Control Vulnerability",
+      "summary": "ProFTPD contains an improper access control vulnerability that could allow remote attackers to read and write to arbitrary files via the site cpfr and site cpto commands.",
+      "vendor": "ProFTPD",
+      "product": "ProFTPD",
+      "date_added": "2026-10-08",
+      "due_date": "2026-10-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3306",
+      "source": "CISA KEV",
+      "published": "2026-10-08T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-88779",
       "title": "CVE-2026-88779 - Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
@@ -1270,76 +1340,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5287",
       "source": "CISA KEV",
       "published": "2026-08-26T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2022-0995",
-      "title": "CVE-2022-0995 - Linux Kernel Out-of-Bounds Write Vulnerability",
-      "summary": "Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.",
-      "vendor": "Linux",
-      "product": "Kernel",
-      "date_added": "2026-08-26",
-      "due_date": "2026-09-09",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2022-0995",
-      "source": "CISA KEV",
-      "published": "2026-08-26T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-8452",
-      "title": "CVE-2026-8452 - Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
-      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability which could lead to denial of service.",
-      "vendor": "Citrix",
-      "product": "NetScaler ADC and NetScaler Gateway",
-      "date_added": "2026-08-26",
-      "due_date": "2026-08-29",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-8452",
-      "source": "CISA KEV",
-      "published": "2026-08-26T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2019-1068",
-      "title": "CVE-2019-1068 - Microsoft SQL Server Remote Code Execution Vulnerability",
-      "summary": "Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.",
-      "vendor": "Microsoft",
-      "product": "SQL Server",
-      "date_added": "2026-08-26",
-      "due_date": "2026-08-29",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2019-1068",
-      "source": "CISA KEV",
-      "published": "2026-08-26T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-60004",
-      "title": "CVE-2026-60004 - Gitea Code Injection Vulnerability",
-      "summary": "Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.",
-      "vendor": "Gitea",
-      "product": "Gitea",
-      "date_added": "2026-08-25",
-      "due_date": "2026-08-28",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-60004",
-      "source": "CISA KEV",
-      "published": "2026-08-25T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-21962",
-      "title": "CVE-2026-21962 - Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability",
-      "summary": "Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Oracle Weblogic Server…",
-      "vendor": "Oracle",
-      "product": "HTTP Server and Oracle Weblogic Server Proxy Plug-in",
-      "date_added": "2026-08-24",
-      "due_date": "2026-08-27",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21962",
-      "source": "CISA KEV",
-      "published": "2026-08-24T00:00:00Z",
       "actors": []
     }
   ]
