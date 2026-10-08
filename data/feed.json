@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:54:45Z",
+  "generated_at": "2026-10-08T00:01:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,62 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T23:04:37Z",
+      "actors": []
+    },
+    {
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "summary": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "source": "Dark Reading",
+      "published": "2026-10-07T21:42:55Z",
+      "actors": []
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T21:28:54Z",
+      "actors": []
+    },
+    {
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+      "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "source": "Dark Reading",
+      "published": "2026-10-07T21:25:13Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "source": "Dark Reading",
+      "published": "2026-10-07T20:51:25Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "source": "BleepingComputer",
+      "published": "2026-10-07T20:50:13Z",
+      "actors": []
+    },
+    {
+      "title": "US posts $10 million reward for accused Chinese ‘Hafnium’ hacker",
+      "summary": "U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.",
+      "url": "https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward",
+      "source": "The Record",
+      "published": "2026-10-07T19:50:00Z",
+      "actors": []
+    },
     {
       "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
       "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
@@ -117,14 +173,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
       "source": "BleepingComputer",
       "published": "2026-10-07T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach",
-      "summary": "The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.",
-      "url": "https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach",
-      "source": "The Record",
-      "published": "2026-10-07T13:49:00Z",
       "actors": []
     },
     {
@@ -320,14 +368,6 @@
       "actors": []
     },
     {
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "summary": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
       "summary": "It seems that a trend started&#xe2;&#x80;&#xa6; I continue my journey discovering more RMM (\"Remote Management & Monitoring\") tools abused by threat actors! A few days ago, I wrote a diary[ 1 ] about ScreenConnect used in the wild. Today, I found another one.",
       "url": "https://isc.sans.edu/diary/rss/33400",
@@ -352,14 +392,6 @@
       "actors": []
     },
     {
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "summary": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T11:31:48Z",
-      "actors": []
-    },
-    {
       "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
       "summary": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. \"The unauthorized bot activities included edits to our wikis, some…",
       "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
@@ -373,14 +405,6 @@
       "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
       "source": "The Hacker News",
       "published": "2026-10-06T11:02:30Z",
-      "actors": []
-    },
-    {
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-10-06T09:25:50Z",
       "actors": []
     },
     {
@@ -461,30 +485,6 @@
       "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
       "source": "Dark Reading",
       "published": "2026-10-05T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-      "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, and Prevent. The journey starts with detection, because organizations…",
-      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T11:55:00Z",
-      "actors": []
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-      "summary": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling. \"Cling is notable not because it introduces a new propagation technique, but because it repurposes ordinary STUN behavior into…",
-      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T11:46:25Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-      "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files,…",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "source": "The Hacker News",
-      "published": "2026-10-05T10:38:50Z",
       "actors": []
     }
   ],
