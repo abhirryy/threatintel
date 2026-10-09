@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:06:59Z",
+  "generated_at": "2026-10-09T10:28:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -13,6 +13,70 @@
       "url": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
       "source": "The Record",
       "published": "2026-10-10T00:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
+      "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
+      "source": "BleepingComputer",
+      "published": "2026-10-09T10:12:24Z",
+      "actors": []
+    },
+    {
+      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which disclosed the flaw on October 8, says an attacker who recovers the key…",
+      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+      "source": "The Hacker News",
+      "published": "2026-10-09T09:03:24Z",
+      "actors": []
+    },
+    {
+      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
+      "summary": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
+      "source": "BleepingComputer",
+      "published": "2026-10-09T08:27:42Z",
+      "actors": []
+    },
+    {
+      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+      "summary": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendors. One of the three Pixel exploits earned Ikotas Labs $300,000, the…",
+      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+      "source": "The Hacker News",
+      "published": "2026-10-09T08:26:17Z",
+      "actors": []
+    },
+    {
+      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution or…",
+      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-10-09T08:11:33Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33412",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-09T07:52:03Z",
+      "actors": []
+    },
+    {
+      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in…",
+      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
+      "source": "The Hacker News",
+      "published": "2026-10-09T06:39:29Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
+      "summary": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
+      "source": "BleepingComputer",
+      "published": "2026-10-09T05:41:04Z",
       "actors": []
     },
     {
@@ -280,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "source": "BleepingComputer",
-      "published": "2026-10-07T21:28:54Z",
-      "actors": []
-    },
-    {
       "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
       "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
       "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
@@ -301,14 +357,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
       "source": "Dark Reading",
       "published": "2026-10-07T20:51:25Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers hijack Google domains after breaching ccTLD registries",
-      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "source": "BleepingComputer",
-      "published": "2026-10-07T20:50:13Z",
       "actors": []
     },
     {
@@ -341,14 +389,6 @@
       "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
       "source": "The Hacker News",
       "published": "2026-10-07T16:17:44Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Outlook to block MSIX attachments starting November",
-      "summary": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-07T15:44:22Z",
       "actors": []
     },
     {
@@ -445,46 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
       "source": "Dark Reading",
       "published": "2026-10-06T20:32:58Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Healthcare Systems Aren't Quantum-Ready",
-      "summary": "A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.",
-      "url": "https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready",
-      "source": "Dark Reading",
-      "published": "2026-10-06T20:30:27Z",
-      "actors": []
-    },
-    {
-      "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-      "summary": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and Manus. The products, which claim to offer campaign optimization,…",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T18:38:55Z",
-      "actors": []
-    },
-    {
-      "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-      "summary": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection. Threat actors are known to name their malicious software after a legitimate operating system component or a process…",
-      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-      "source": "The Hacker News",
-      "published": "2026-10-06T18:24:25Z",
-      "actors": []
-    },
-    {
-      "title": "Google's PageBreak AI Agent Finds 500 Flaws in Its Web Apps",
-      "summary": "The situation illustrates a trend toward using AI and deterministic validation to identify flaws and exploitability, and provide a risk assessment.",
-      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
-      "source": "Dark Reading",
-      "published": "2026-10-06T17:56:29Z",
-      "actors": []
-    },
-    {
-      "title": "IANS' Kakolowski: How AI Is Reshaping CISO Budgets & Security Teams",
-      "summary": "In this video interview, Nick Kakolowski, senior director for CISO research at IANS, talks AI: budgets, ROI, and changes inside security teams.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
-      "source": "Dark Reading",
-      "published": "2026-10-06T17:15:24Z",
       "actors": []
     }
   ],
