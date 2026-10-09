@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:43:17Z",
+  "generated_at": "2026-10-09T03:06:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Co-creator of Empire Market dark web marketplace given 40-year sentence",
+      "summary": "Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia.",
+      "url": "https://therecord.media/co-creator-empire-dark-net-market-sentenced",
+      "source": "The Record",
+      "published": "2026-10-10T00:55:00Z",
+      "actors": []
+    },
     {
       "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
       "summary": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
@@ -125,14 +133,6 @@
       "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
       "source": "The Hacker News",
       "published": "2026-10-08T15:45:56Z",
-      "actors": []
-    },
-    {
-      "title": "Crypto thief who splurged on gold grills sentenced in London",
-      "summary": "A 25-year-old man who helped steal nearly $260,000 in cryptocurrency through a SIM-swapping fraud scheme was sentenced to two and a half years in prison at a London court.",
-      "url": "https://therecord.media/cryptocurrency-sim-swap-london",
-      "source": "The Record",
-      "published": "2026-10-08T15:45:00Z",
       "actors": []
     },
     {
