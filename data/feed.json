@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-10-09T17:09:21Z",
+  "generated_at": "2026-10-09T21:40:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
+      "summary": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
+      "source": "Dark Reading",
+      "published": "2026-10-09T20:58:32Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "summary": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-09T20:31:37Z",
+      "actors": []
+    },
+    {
+      "title": "AI Scramble Drives Cybersecurity M&A Boom",
+      "summary": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "source": "Dark Reading",
+      "published": "2026-10-09T19:26:26Z",
+      "actors": []
+    },
+    {
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a…",
+      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "source": "The Hacker News",
+      "published": "2026-10-09T19:14:28Z",
+      "actors": []
+    },
+    {
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "summary": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
+      "url": "https://therecord.media/japan-germany-ransomware-arrest",
+      "source": "The Record",
+      "published": "2026-10-09T18:45:00Z",
+      "actors": [
+        "Qilin"
+      ]
+    },
+    {
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named…",
+      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "source": "The Hacker News",
+      "published": "2026-10-09T17:45:26Z",
+      "actors": []
+    },
+    {
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
+      "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "source": "Dark Reading",
+      "published": "2026-10-09T17:21:00Z",
+      "actors": []
+    },
+    {
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "summary": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "source": "BleepingComputer",
+      "published": "2026-10-09T17:17:23Z",
+      "actors": []
+    },
     {
       "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
       "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
@@ -24,8 +90,8 @@
       "actors": []
     },
     {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training Too",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family becomes the entry point for attacks.",
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
       "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
       "source": "Dark Reading",
       "published": "2026-10-09T16:25:05Z",
@@ -79,14 +145,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
       "source": "BleepingComputer",
       "published": "2026-10-09T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT",
-      "summary": "A Latin American propaganda operation run by Russians and a cluster of Iranian fake journalist identities each had help from now-closed ChatGPT accounts, OpenAI's safety team said.",
-      "url": "https://therecord.media/openai-disrupts-russian-iranian-operations-chatgpt",
-      "source": "The Record",
-      "published": "2026-10-09T13:50:00Z",
       "actors": []
     },
     {
@@ -234,8 +292,8 @@
       "actors": []
     },
     {
-      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
-      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
+      "summary": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
       "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
       "source": "Dark Reading",
       "published": "2026-10-08T20:39:44Z",
@@ -338,22 +396,6 @@
       "actors": []
     },
     {
-      "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-      "summary": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth grants to gain access to corporate data. This article covers why OAuth…",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-      "summary": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T13:18:36Z",
-      "actors": []
-    },
-    {
       "title": "Writing the Next Chapter",
       "summary": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
       "url": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
@@ -448,49 +490,20 @@
       "source": "The Hacker News",
       "published": "2026-10-07T18:48:17Z",
       "actors": []
-    },
-    {
-      "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-      "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor…",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "source": "The Hacker News",
-      "published": "2026-10-07T17:43:20Z",
-      "actors": []
-    },
-    {
-      "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-      "summary": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appliance and reach internal functions. SonicWall rates it 10.0 on the…",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "source": "The Hacker News",
-      "published": "2026-10-07T16:17:44Z",
-      "actors": []
-    },
-    {
-      "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-      "summary": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available. The flaw is in LMCache's multiprocess mode, where the cache runs as a standalone server that LLM…",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-10-07T15:34:53Z",
-      "actors": []
-    },
-    {
-      "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-      "summary": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand the scale of the botnet. The financially motivated campaign, dubbed…",
-      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-07T15:33:51Z",
-      "actors": []
-    },
-    {
-      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-      "summary": "On October 5th, Atlassian published patches&#;x26;#;xc2;&#;x26;#;xa0;for multiple products to fix an \"Arbitrary File Access\" vulnerability &#;x26;#;x5b; CVE-2026-21589 &#;x26;#;x5d;. An attacker can read arbitrary files in the web application&#;x26;#;39;s directory, potentially exposing sensitive information such as…",
-      "url": "https://isc.sans.edu/diary/rss/33406",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-07T14:59:33Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "summary": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.",
+      "url": "https://therecord.media/japan-germany-ransomware-arrest",
+      "source": "The Record",
+      "published": "2026-10-09T18:45:00Z",
+      "actors": [
+        "Qilin"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Germany arrests alleged core Qilin ransomware member after extradition",
       "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
