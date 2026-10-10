@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:51:32Z",
+  "generated_at": "2026-10-10T18:07:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "source": "BleepingComputer",
+      "published": "2026-10-10T15:07:54Z",
+      "actors": []
+    },
+    {
+      "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+      "summary": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-10T14:16:17Z",
+      "actors": []
+    },
     {
       "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
       "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
@@ -40,7 +56,7 @@
       "actors": []
     },
     {
-      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "source": "Krebs on Security",
@@ -348,14 +364,6 @@
       "actors": []
     },
     {
-      "title": "Low-cost Android phones ship with residential proxy malware",
-      "summary": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residential proxies. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T19:20:33Z",
-      "actors": []
-    },
-    {
       "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
       "summary": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
@@ -385,14 +393,6 @@
       "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
       "source": "The Hacker News",
       "published": "2026-10-08T17:58:02Z",
-      "actors": []
-    },
-    {
-      "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
-      "summary": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T17:10:55Z",
       "actors": []
     },
     {
