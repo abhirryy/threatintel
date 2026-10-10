@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:17:15Z",
+  "generated_at": "2026-10-10T13:51:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
+      "summary": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+      "source": "BleepingComputer",
+      "published": "2026-10-10T12:30:39Z",
+      "actors": []
+    },
+    {
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what…",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "source": "The Hacker News",
+      "published": "2026-10-10T11:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model…",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "source": "The Hacker News",
+      "published": "2026-10-10T09:18:45Z",
+      "actors": []
+    },
+    {
+      "title": "Why TLP should not replace your internal information classification, (Sat, Oct 10th)",
+      "summary": "The Traffic Light Protocol (TLP)[ 1 ], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far).",
+      "url": "https://isc.sans.edu/diary/rss/33414",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-10T09:11:34Z",
+      "actors": []
+    },
     {
       "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
@@ -388,14 +420,6 @@
       "actors": []
     },
     {
-      "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-      "summary": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-      "source": "BleepingComputer",
-      "published": "2026-10-08T15:26:33Z",
-      "actors": []
-    },
-    {
       "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
       "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and…",
       "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
@@ -465,30 +489,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
       "source": "Dark Reading",
       "published": "2026-10-07T21:42:55Z",
-      "actors": []
-    },
-    {
-      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
-      "summary": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
-      "url": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
-      "source": "Dark Reading",
-      "published": "2026-10-07T21:25:13Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-      "summary": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-      "source": "Dark Reading",
-      "published": "2026-10-07T20:51:25Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
-      "summary": "Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
-      "source": "Dark Reading",
-      "published": "2026-10-07T19:34:08Z",
       "actors": []
     }
   ],
