@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-10-12T16:48:19Z",
+  "generated_at": "2026-10-12T23:17:07Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
+      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
+      "source": "Dark Reading",
+      "published": "2026-10-12T21:42:42Z",
+      "actors": []
+    },
+    {
+      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T20:13:52Z",
+      "actors": []
+    },
+    {
+      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
+      "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
+      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "source": "Dark Reading",
+      "published": "2026-10-12T20:00:53Z",
+      "actors": []
+    },
+    {
+      "title": "Yandex confirms service outage as users lose access to cloud files",
+      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T19:23:01Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-10-12T18:51:59Z",
+      "actors": []
+    },
+    {
+      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
+      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "source": "Dark Reading",
+      "published": "2026-10-12T18:27:25Z",
+      "actors": []
+    },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
       "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
@@ -274,14 +322,6 @@
       "actors": []
     },
     {
-      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-      "summary": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T17:02:29Z",
-      "actors": []
-    },
-    {
       "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
       "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
       "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
@@ -303,24 +343,6 @@
       "url": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
       "source": "The Record",
       "published": "2026-10-09T16:06:00Z",
-      "actors": []
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T15:38:56Z",
-      "actors": [
-        "Qilin"
-      ]
-    },
-    {
-      "title": "How to keep AI agents within their permissions",
-      "summary": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T14:01:11Z",
       "actors": []
     },
     {
@@ -466,30 +488,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-10-08T16:52:53Z",
       "actors": []
-    },
-    {
-      "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-      "summary": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said. The Tokyo-based center, which takes incident reports, based its October 8, 2026 alert on those reports and other information.…",
-      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-      "source": "The Hacker News",
-      "published": "2026-10-08T15:45:56Z",
-      "actors": []
-    },
-    {
-      "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-      "summary": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN. According to TrendAI, the malware has been put to use in attacks targeting Ukrainian government personnel. The cybersecurity company is tracking the…",
-      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-      "source": "The Hacker News",
-      "published": "2026-10-08T15:26:56Z",
-      "actors": []
-    },
-    {
-      "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-      "summary": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and…",
-      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-      "source": "The Hacker News",
-      "published": "2026-10-08T14:12:34Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -499,17 +497,6 @@
       "url": "https://therecord.media/japan-germany-ransomware-arrest",
       "source": "The Record",
       "published": "2026-10-09T18:45:00Z",
-      "actors": [
-        "Qilin"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-      "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-      "source": "BleepingComputer",
-      "published": "2026-10-09T15:38:56Z",
       "actors": [
         "Qilin"
       ],
