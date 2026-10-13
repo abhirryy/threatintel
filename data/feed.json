@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:17:07Z",
+  "generated_at": "2026-10-13T03:38:59Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33418",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-13T02:00:02Z",
+      "actors": []
+    },
     {
       "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
       "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
       "source": "The Hacker News",
       "published": "2026-10-08T17:58:02Z",
-      "actors": []
-    },
-    {
-      "title": "Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)",
-      "summary": "We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8&#;x26;#;xc2;&#;x26;#;xa0;of the most popular AI coding assistants and&#;x26;#;xc2;&#;x26;#;xa0;agents including Claude Code, Codex, Gemini CLI, Cursor,…",
-      "url": "https://isc.sans.edu/diary/rss/33410",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-08T16:52:53Z",
       "actors": []
     }
   ],
