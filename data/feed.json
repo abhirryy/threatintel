@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T22:55:12Z",
+  "generated_at": "2026-10-14T01:40:06Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "source": "Krebs on Security",
+      "published": "2026-10-13T23:24:53Z",
+      "actors": []
+    },
     {
       "title": "OpenAI engineer arrested for allegedly planting spy device in office",
       "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
       "source": "Dark Reading",
       "published": "2026-10-09T17:21:00Z",
-      "actors": []
-    },
-    {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "summary": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-      "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "source": "Dark Reading",
-      "published": "2026-10-09T16:25:05Z",
       "actors": []
     }
   ],
