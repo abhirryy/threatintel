@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:30:55Z",
+  "generated_at": "2026-10-14T20:55:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,67 @@
   },
   "osint_news": [
     {
+      "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
+      "summary": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.",
+      "url": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
+      "source": "The Record",
+      "published": "2026-10-14T20:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
+      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
+      "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+      "source": "Dark Reading",
+      "published": "2026-10-14T20:09:42Z",
+      "actors": []
+    },
+    {
+      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "source": "BleepingComputer",
+      "published": "2026-10-14T19:41:43Z",
+      "actors": []
+    },
+    {
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as…",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "source": "The Hacker News",
+      "published": "2026-10-14T18:38:56Z",
+      "actors": []
+    },
+    {
+      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+      "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-10-14T17:46:50Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
+      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web…",
+      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "source": "The Hacker News",
+      "published": "2026-10-14T17:38:31Z",
+      "actors": []
+    },
+    {
       "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
       "summary": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
       "source": "BleepingComputer",
       "published": "2026-10-14T17:29:14Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
+      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. \"Since January…",
+      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "source": "The Hacker News",
+      "published": "2026-10-14T17:09:15Z",
       "actors": []
     },
     {
@@ -101,14 +157,6 @@
       "url": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
       "source": "The Record",
       "published": "2026-10-14T12:35:00Z",
-      "actors": []
-    },
-    {
-      "title": "Congressional probe faults Match Group for failing to rein in dating app scams",
-      "summary": "The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group.",
-      "url": "https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams",
-      "source": "The Record",
-      "published": "2026-10-14T12:32:00Z",
       "actors": []
     },
     {
@@ -328,27 +376,11 @@
       "actors": []
     },
     {
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T18:19:44Z",
-      "actors": []
-    },
-    {
       "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
       "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an…",
       "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
       "source": "The Hacker News",
       "published": "2026-10-13T18:03:18Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T17:49:38Z",
       "actors": []
     },
     {
@@ -454,42 +486,66 @@
       "source": "Dark Reading",
       "published": "2026-10-12T21:42:42Z",
       "actors": []
-    },
-    {
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "summary": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.",
-      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "source": "Dark Reading",
-      "published": "2026-10-12T20:00:53Z",
-      "actors": []
-    },
-    {
-      "title": "No Identity, No Recovery: Cyber Resilience Starts With IAM",
-      "summary": "The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "source": "Dark Reading",
-      "published": "2026-10-12T18:27:25Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination.…",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "source": "The Hacker News",
-      "published": "2026-10-12T15:16:26Z",
-      "actors": []
-    },
-    {
-      "title": "Passing the Baton: Dark Reading Names New Editor-in-Chief",
-      "summary": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.",
-      "url": "https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief",
-      "source": "Dark Reading",
-      "published": "2026-10-12T12:30:58Z",
-      "actors": []
     }
   ],
   "threat_actors": [],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-105134",
+      "title": "CVE-2026-105134 - Ahsay AhsayCBS Command Injection Vulnerability",
+      "summary": "Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "date_added": "2026-10-14",
+      "due_date": "2026-10-17",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134",
+      "source": "CISA KEV",
+      "published": "2026-10-14T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-76519",
+      "title": "CVE-2026-76519 - Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
+      "summary": "Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
+      "vendor": "Cisco",
+      "product": "Secure Email Gateway",
+      "date_added": "2026-10-14",
+      "due_date": "2026-10-17",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519",
+      "source": "CISA KEV",
+      "published": "2026-10-14T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-105133",
+      "title": "CVE-2026-105133 - Ahsay AhsayCBS Improper Authentication Vulnerability",
+      "summary": "Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.",
+      "vendor": "Ahsay",
+      "product": "AhsayCBS",
+      "date_added": "2026-10-14",
+      "due_date": "2026-10-17",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133",
+      "source": "CISA KEV",
+      "published": "2026-10-14T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-0322",
+      "title": "CVE-2026-0322 - Palo Alto Networks PAN-OS Code Injection Vulnerability",
+      "summary": "Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
+      "vendor": "Palo Alto Networks",
+      "product": "PAN-OS",
+      "date_added": "2026-10-14",
+      "due_date": "2026-10-17",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
+      "source": "CISA KEV",
+      "published": "2026-10-14T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-104935",
       "title": "CVE-2026-104935 - Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
@@ -1272,62 +1328,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81578",
       "source": "CISA KEV",
       "published": "2026-08-31T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2023-49105",
-      "title": "CVE-2023-49105 - ownCloud Improper Authentication Vulnerability",
-      "summary": "ownCloud contains an improper authentication vulnerability that allows an attacker to access, modify, or delete any file without authentication if the username of a victim is known, and the victim has no signing-key configured.",
-      "vendor": "ownCloud",
-      "product": "ownCloud",
-      "date_added": "2026-08-27",
-      "due_date": "2026-08-30",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-49105",
-      "source": "CISA KEV",
-      "published": "2026-08-27T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-53362",
-      "title": "CVE-2026-53362 - Linux Kernel Unspecified Vulnerability",
-      "summary": "Linux Kernel contains an unspecified vulnerability that can allow for privilege escalation via IPv6 networking subsystem. This vulnerability can impact multiple products, including but not limited to Suse, Red Hat, and other products using Linux.",
-      "vendor": "Linux",
-      "product": "Kernel",
-      "date_added": "2026-08-27",
-      "due_date": "2026-08-30",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-53362",
-      "source": "CISA KEV",
-      "published": "2026-08-27T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-66384",
-      "title": "CVE-2026-66384 - JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
-      "summary": "JFrog Artifactory contains an improper limitation of a pathname to a restricted directory vulnerability. This can allow an authenticated user to write data outside the intended Docker cache path under specific remote-repository conditions.",
-      "vendor": "JFrog",
-      "product": "Artifactory",
-      "date_added": "2026-08-27",
-      "due_date": "2026-09-10",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-66384",
-      "source": "CISA KEV",
-      "published": "2026-08-27T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2021-23758",
-      "title": "CVE-2021-23758 - Ajax.NET Professional Deserialization of Untrusted Data Vulnerability",
-      "summary": "Ajax.NET Professional (AjaxPro) contains a deserialization of untrusted data vulnerability that could allow for remote code execution via arbitrary .NET classes. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.",
-      "vendor": "Ajax.NET Professional",
-      "product": "Ajax.NET Professional",
-      "date_added": "2026-08-26",
-      "due_date": "2026-09-09",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-23758",
-      "source": "CISA KEV",
-      "published": "2026-08-26T00:00:00Z",
       "actors": []
     }
   ]
