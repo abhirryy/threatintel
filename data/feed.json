@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:55:57Z",
+  "generated_at": "2026-10-14T23:46:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-14T22:56:47Z",
+      "actors": []
+    },
+    {
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "source": "Dark Reading",
+      "published": "2026-10-14T21:20:13Z",
+      "actors": []
+    },
+    {
+      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
+      "summary": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.",
+      "url": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
+      "source": "The Record",
+      "published": "2026-10-14T21:10:00Z",
+      "actors": []
+    },
+    {
+      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
+      "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+      "source": "Dark Reading",
+      "published": "2026-10-14T20:57:16Z",
+      "actors": []
+    },
     {
       "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
       "summary": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.",
@@ -149,14 +181,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
       "source": "BleepingComputer",
       "published": "2026-10-14T12:58:07Z",
-      "actors": []
-    },
-    {
-      "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
-      "summary": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.",
-      "url": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
-      "source": "The Record",
-      "published": "2026-10-14T12:35:00Z",
       "actors": []
     },
     {
@@ -360,14 +384,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T19:04:38Z",
-      "actors": []
-    },
-    {
       "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
       "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are…",
       "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
@@ -469,22 +485,6 @@
       "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
       "source": "The Hacker News",
       "published": "2026-10-13T06:00:11Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33418",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-13T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "summary": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "source": "Dark Reading",
-      "published": "2026-10-12T21:42:42Z",
       "actors": []
     }
   ],
