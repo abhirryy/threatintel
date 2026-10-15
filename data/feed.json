@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:19:56Z",
+  "generated_at": "2026-10-15T20:25:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T20:25:04Z",
+      "actors": []
+    },
+    {
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T19:48:43Z",
+      "actors": []
+    },
+    {
+      "title": "Zero-click spyware infecting devices through online ads, researchers say",
+      "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
+      "url": "https://therecord.media/spyware-citizen-lab-advertising",
+      "source": "The Record",
+      "published": "2026-10-15T19:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
+      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old…",
+      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T18:49:33Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T18:20:59Z",
+      "actors": []
+    },
     {
       "title": "Fake Arch Linux packages push malware with root privileges",
       "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
@@ -177,7 +217,7 @@
     },
     {
       "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-      "summary": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
       "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
       "source": "Dark Reading",
       "published": "2026-10-15T07:00:00Z",
@@ -245,14 +285,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
       "source": "Dark Reading",
       "published": "2026-10-14T20:57:16Z",
-      "actors": []
-    },
-    {
-      "title": "Brooklyn DA’s office disrupts crypto scam targeting Russian community",
-      "summary": "Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.",
-      "url": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
-      "source": "The Record",
-      "published": "2026-10-14T20:33:00Z",
       "actors": []
     },
     {
@@ -344,27 +376,11 @@
       "actors": []
     },
     {
-      "title": "Global takedown hits network behind 1 billion phishing messages",
-      "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T13:12:52Z",
-      "actors": []
-    },
-    {
       "title": "Russian Influence Operation Widely Targets Latin America",
       "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "source": "Dark Reading",
       "published": "2026-10-14T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T12:58:07Z",
       "actors": []
     },
     {
@@ -389,14 +405,6 @@
       "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
       "source": "The Hacker News",
       "published": "2026-10-14T11:50:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T11:41:20Z",
       "actors": []
     },
     {
@@ -478,18 +486,24 @@
       "source": "The Hacker News",
       "published": "2026-10-14T01:59:25Z",
       "actors": []
-    },
-    {
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
-      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "source": "Krebs on Security",
-      "published": "2026-10-13T23:24:53Z",
-      "actors": []
     }
   ],
   "threat_actors": [],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-21589",
+      "title": "CVE-2026-21589 - Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
+      "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated…",
+      "vendor": "Atlassian",
+      "product": "Multiple Products",
+      "date_added": "2026-10-15",
+      "due_date": "2026-10-18",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
+      "source": "CISA KEV",
+      "published": "2026-10-15T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-105134",
       "title": "CVE-2026-105134 - Ahsay AhsayCBS Command Injection Vulnerability",
@@ -1312,20 +1326,6 @@
       "due_date": "2026-09-14",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82078",
-      "source": "CISA KEV",
-      "published": "2026-08-31T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-81578",
-      "title": "CVE-2026-81578 - PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
-      "summary": "PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.",
-      "vendor": "PaperCut",
-      "product": "NG/MF",
-      "date_added": "2026-08-31",
-      "due_date": "2026-09-14",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81578",
       "source": "CISA KEV",
       "published": "2026-08-31T00:00:00Z",
       "actors": []
