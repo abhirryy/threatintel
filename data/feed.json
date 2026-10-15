@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:25:17Z",
+  "generated_at": "2026-10-15T23:11:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,59 @@
   },
   "osint_news": [
     {
+      "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
+      "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]",
+      "url": "https://isc.sans.edu/diary/rss/33426",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-15T23:03:42Z",
+      "actors": []
+    },
+    {
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "source": "Dark Reading",
+      "published": "2026-10-15T22:10:08Z",
+      "actors": []
+    },
+    {
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
+      "url": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "source": "Dark Reading",
+      "published": "2026-10-15T21:55:07Z",
+      "actors": []
+    },
+    {
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
+      "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "source": "The Record",
+      "published": "2026-10-15T20:46:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
+      "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "source": "Dark Reading",
+      "published": "2026-10-15T20:43:20Z",
+      "actors": []
+    },
+    {
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
       "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
       "source": "BleepingComputer",
       "published": "2026-10-15T20:25:04Z",
+      "actors": []
+    },
+    {
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux…",
+      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T20:24:36Z",
       "actors": []
     },
     {
@@ -240,14 +288,6 @@
       "actors": []
     },
     {
-      "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
-      "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]",
-      "url": "https://isc.sans.edu/diary/rss/33426",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-15T01:10:57Z",
-      "actors": []
-    },
-    {
       "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
       "summary": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the front line.",
       "url": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
@@ -269,14 +309,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
       "source": "Dark Reading",
       "published": "2026-10-14T21:20:13Z",
-      "actors": []
-    },
-    {
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-      "summary": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.",
-      "url": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "source": "The Record",
-      "published": "2026-10-14T21:10:00Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
       "source": "The Hacker News",
       "published": "2026-10-14T05:52:28Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-      "summary": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "source": "Dark Reading",
-      "published": "2026-10-14T05:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more…",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T04:34:43Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33424",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-14T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic,…",
-      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T01:59:25Z",
       "actors": []
     }
   ],
