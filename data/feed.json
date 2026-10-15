@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:35:05Z",
+  "generated_at": "2026-10-15T17:19:56Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,7 +8,95 @@
   },
   "osint_news": [
     {
-      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "title": "Fake Arch Linux packages push malware with root privileges",
+      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T17:12:31Z",
+      "actors": []
+    },
+    {
+      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in…",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T16:01:57Z",
+      "actors": []
+    },
+    {
+      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents,…",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T16:00:26Z",
+      "actors": []
+    },
+    {
+      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
+      "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+      "source": "Dark Reading",
+      "published": "2026-10-15T15:17:18Z",
+      "actors": []
+    },
+    {
+      "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
+      "summary": "A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.",
+      "url": "https://therecord.media/uk-legal-aid-cyberattack-data",
+      "source": "The Record",
+      "published": "2026-10-15T14:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that…",
+      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T14:11:36Z",
+      "actors": []
+    },
+    {
+      "title": "Is AI pentesting as good as a human pentester?",
+      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
+      "summary": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.",
+      "url": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
+      "source": "The Record",
+      "published": "2026-10-15T13:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T13:18:36Z",
+      "actors": []
+    },
+    {
+      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+      "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to…",
+      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T12:58:05Z",
+      "actors": []
+    },
+    {
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through…",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T12:28:13Z",
+      "actors": []
+    },
+    {
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
       "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist…",
       "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
       "source": "The Hacker News",
@@ -224,14 +312,6 @@
       "actors": []
     },
     {
-      "title": "Spyware manufacturer had access to data harvested by former Polish government, current PM says",
-      "summary": "Prime Minister Donald Tusk, who ordered the investigation, on Monday called the sprawling spyware operation spearheaded by the country’s previous ruling party “one of the biggest scandals in Polish history since the fall of communism.”",
-      "url": "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
-      "source": "The Record",
-      "published": "2026-10-14T16:50:00Z",
-      "actors": []
-    },
-    {
       "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
       "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker…",
       "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
@@ -264,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals",
-      "summary": "The tech giant worked with Japan’s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying YAM Store, CoGUI and Iron Man.",
-      "url": "https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms",
-      "source": "The Record",
-      "published": "2026-10-14T13:18:00Z",
-      "actors": []
-    },
-    {
       "title": "Global takedown hits network behind 1 billion phishing messages",
       "summary": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
@@ -280,7 +352,7 @@
       "actors": []
     },
     {
-      "title": "Russian Influence Operation Widely Targeting Latin America",
+      "title": "Russian Influence Operation Widely Targets Latin America",
       "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "source": "Dark Reading",
@@ -352,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T10:48:09Z",
-      "actors": []
-    },
-    {
       "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
       "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as…",
       "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
@@ -421,70 +485,6 @@
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
       "source": "Krebs on Security",
       "published": "2026-10-13T23:24:53Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T22:33:02Z",
-      "actors": []
-    },
-    {
-      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
-      "summary": "The scary surprises in the largest security update ever include security bypasses and unauthenticated RCEs.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "source": "Dark Reading",
-      "published": "2026-10-13T22:29:57Z",
-      "actors": []
-    },
-    {
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T21:33:26Z",
-      "actors": []
-    },
-    {
-      "title": "North Korea Phishes Ukrainians for War Intel",
-      "summary": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-      "source": "Dark Reading",
-      "published": "2026-10-13T21:24:45Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic Finds Ingredients for Future AI Worms",
-      "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
-      "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
-      "source": "Dark Reading",
-      "published": "2026-10-13T20:35:23Z",
-      "actors": []
-    },
-    {
-      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
-      "summary": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#;x26;#;39;s patch Tuesday, and one is already exploited.",
-      "url": "https://isc.sans.edu/diary/rss/33422",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-13T19:25:52Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are…",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T18:20:57Z",
-      "actors": []
-    },
-    {
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an…",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T18:03:18Z",
       "actors": []
     }
   ],
