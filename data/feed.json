@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:46:24Z",
+  "generated_at": "2026-10-15T01:54:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Panchan's Mining Island [Guest Diary], (Wed, Oct 14th)",
+      "summary": "[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program]",
+      "url": "https://isc.sans.edu/diary/rss/33426",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-15T01:10:57Z",
+      "actors": []
+    },
     {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
       "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
       "source": "The Hacker News",
       "published": "2026-10-13T08:43:37Z",
-      "actors": []
-    },
-    {
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being…",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T06:00:11Z",
       "actors": []
     }
   ],
