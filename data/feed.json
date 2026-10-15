@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T06:57:33Z",
+  "generated_at": "2026-10-15T12:35:05Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,11 +8,99 @@
   },
   "osint_news": [
     {
+      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist…",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T12:07:20Z",
+      "actors": []
+    },
+    {
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T11:55:38Z",
+      "actors": []
+    },
+    {
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which…",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T11:46:59Z",
+      "actors": []
+    },
+    {
       "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
       "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the…",
       "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
       "source": "The Hacker News",
-      "published": "2026-10-15T06:17:58Z",
+      "published": "2026-10-15T11:46:49Z",
+      "actors": []
+    },
+    {
+      "title": "Why AI Confidence Is Not Validation",
+      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in…",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T11:04:35Z",
+      "actors": []
+    },
+    {
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end,…",
+      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T10:42:16Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T09:10:20Z",
+      "actors": []
+    },
+    {
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract…",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T08:45:10Z",
+      "actors": []
+    },
+    {
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "source": "BleepingComputer",
+      "published": "2026-10-15T08:06:47Z",
+      "actors": []
+    },
+    {
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM.…",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T07:07:05Z",
+      "actors": []
+    },
+    {
+      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
+      "summary": "Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.",
+      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "source": "Dark Reading",
+      "published": "2026-10-15T07:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and…",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "source": "The Hacker News",
+      "published": "2026-10-15T06:43:08Z",
       "actors": []
     },
     {
@@ -29,6 +117,14 @@
       "url": "https://isc.sans.edu/diary/rss/33426",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-15T01:10:57Z",
+      "actors": []
+    },
+    {
+      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
+      "summary": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the front line.",
+      "url": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
+      "source": "The Record",
+      "published": "2026-10-14T23:00:00Z",
       "actors": []
     },
     {
@@ -181,14 +277,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
       "source": "BleepingComputer",
       "published": "2026-10-14T13:12:52Z",
-      "actors": []
-    },
-    {
-      "title": "Russian travel booking platform suspends reservations after cyberattack",
-      "summary": "Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.",
-      "url": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
-      "source": "The Record",
-      "published": "2026-10-14T13:05:00Z",
       "actors": []
     },
     {
@@ -368,35 +456,11 @@
       "actors": []
     },
     {
-      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T21:16:34Z",
-      "actors": []
-    },
-    {
       "title": "Anthropic Finds Ingredients for Future AI Worms",
       "summary": "Anthropic's latest study combined IoT and network tests to explore AI self-replication, which researchers said would be \"challenging\" to shut down.",
       "url": "https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms",
       "source": "Dark Reading",
       "published": "2026-10-13T20:35:23Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T19:56:09Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-      "source": "BleepingComputer",
-      "published": "2026-10-13T19:47:30Z",
       "actors": []
     },
     {
@@ -421,70 +485,6 @@
       "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
       "source": "The Hacker News",
       "published": "2026-10-13T18:03:18Z",
-      "actors": []
-    },
-    {
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending,…",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T17:33:11Z",
-      "actors": []
-    },
-    {
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services.…",
-      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T17:28:50Z",
-      "actors": []
-    },
-    {
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes validated and exempt…",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T16:18:18Z",
-      "actors": []
-    },
-    {
-      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine…",
-      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T13:12:32Z",
-      "actors": []
-    },
-    {
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised…",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T11:57:06Z",
-      "actors": []
-    },
-    {
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12. The chain was tested on two TV models, the…",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T11:09:10Z",
-      "actors": []
-    },
-    {
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtime, a program that runs models directly on the machine instead of sending data…",
-      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T10:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish…",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "source": "The Hacker News",
-      "published": "2026-10-13T08:48:41Z",
       "actors": []
     }
   ],
