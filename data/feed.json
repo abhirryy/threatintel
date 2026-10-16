@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:15:58Z",
+  "generated_at": "2026-10-16T15:23:52Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,86 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+      "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
+      "url": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+      "source": "The Record",
+      "published": "2026-10-16T14:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding…",
+      "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "source": "The Hacker News",
+      "published": "2026-10-16T14:03:04Z",
+      "actors": []
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "source": "Dark Reading",
+      "published": "2026-10-16T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "source": "BleepingComputer",
+      "published": "2026-10-16T13:50:59Z",
+      "actors": []
+    },
+    {
+      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+      "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
+      "url": "https://therecord.media/russia-datasuckers-hackers-arrested",
+      "source": "The Record",
+      "published": "2026-10-16T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Baltimore suburb confirms August data breach after ransomware claims",
+      "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
+      "url": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+      "source": "The Record",
+      "published": "2026-10-16T13:05:00Z",
+      "actors": []
+    },
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "source": "Dark Reading",
+      "published": "2026-10-16T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+      "summary": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
+      "url": "https://therecord.media/beyond-trust-cyberattack-china",
+      "source": "The Record",
+      "published": "2026-10-16T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "source": "BleepingComputer",
+      "published": "2026-10-16T12:01:29Z",
+      "actors": []
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published…",
+      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "source": "The Hacker News",
+      "published": "2026-10-16T11:30:00Z",
+      "actors": []
+    },
     {
       "title": "Microsoft: October Windows update may break Smart App Control",
       "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
@@ -136,14 +216,6 @@
       "actors": []
     },
     {
-      "title": "Zero-click spyware infecting devices through online ads, researchers say",
-      "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
-      "url": "https://therecord.media/spyware-citizen-lab-advertising",
-      "source": "The Record",
-      "published": "2026-10-15T19:00:00Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
       "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old…",
       "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
@@ -192,14 +264,6 @@
       "actors": []
     },
     {
-      "title": "UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978",
-      "summary": "A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.",
-      "url": "https://therecord.media/uk-legal-aid-cyberattack-data",
-      "source": "The Record",
-      "published": "2026-10-15T14:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
       "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that…",
       "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
@@ -213,14 +277,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "source": "BleepingComputer",
       "published": "2026-10-15T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
-      "summary": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.",
-      "url": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
-      "source": "The Record",
-      "published": "2026-10-15T13:55:00Z",
       "actors": []
     },
     {
@@ -352,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions",
-      "summary": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the front line.",
-      "url": "https://therecord.media/ukraine-says-starshield-working-again-after-disruption",
-      "source": "The Record",
-      "published": "2026-10-14T23:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
       "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
@@ -392,27 +440,11 @@
       "actors": []
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "summary": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T19:41:43Z",
-      "actors": []
-    },
-    {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as…",
       "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
       "source": "The Hacker News",
       "published": "2026-10-14T18:38:56Z",
-      "actors": []
-    },
-    {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T17:46:50Z",
       "actors": []
     },
     {
@@ -453,38 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
       "source": "Dark Reading",
       "published": "2026-10-14T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as…",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T12:30:42Z",
-      "actors": []
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build…",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T12:13:36Z",
-      "actors": []
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the…",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T11:50:00Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google…",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T11:19:02Z",
       "actors": []
     }
   ],
