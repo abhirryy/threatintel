@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T15:23:52Z",
+  "generated_at": "2026-10-16T18:54:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "source": "Dark Reading",
+      "published": "2026-10-16T18:37:50Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws,…",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "source": "The Hacker News",
+      "published": "2026-10-16T17:48:45Z",
+      "actors": []
+    },
+    {
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "source": "BleepingComputer",
+      "published": "2026-10-16T17:20:03Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor.…",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "source": "The Hacker News",
+      "published": "2026-10-16T16:43:39Z",
+      "actors": []
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and…",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-16T16:16:44Z",
+      "actors": []
+    },
     {
       "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
       "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
@@ -408,14 +448,6 @@
       "actors": []
     },
     {
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "summary": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-14T22:56:47Z",
-      "actors": []
-    },
-    {
       "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
       "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
@@ -454,42 +486,38 @@
       "source": "The Hacker News",
       "published": "2026-10-14T17:38:31Z",
       "actors": []
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "summary": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. \"Since January…",
-      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T17:09:15Z",
-      "actors": []
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker…",
-      "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T16:34:31Z",
-      "actors": []
-    },
-    {
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
-      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "source": "Krebs on Security",
-      "published": "2026-10-14T14:22:49Z",
-      "actors": []
-    },
-    {
-      "title": "Russian Influence Operation Widely Targets Latin America",
-      "summary": "The AI-enabled operation used spoofed emails, fake government documents, and the creation of a local organization to target schools in Peru and Ecuador, among other efforts.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america",
-      "source": "Dark Reading",
-      "published": "2026-10-14T13:00:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-102764",
+      "title": "CVE-2026-102764 - BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+      "summary": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+      "vendor": "BeyondTrust",
+      "product": "Remote Support",
+      "date_added": "2026-10-16",
+      "due_date": "2026-10-19",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764",
+      "source": "CISA KEV",
+      "published": "2026-10-16T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2025-61624",
+      "title": "CVE-2025-61624 - Fortinet Multiple Products Path Traversal Vulnerability",
+      "summary": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.",
+      "vendor": "Fortinet",
+      "product": "Multiple Products",
+      "date_added": "2026-10-16",
+      "due_date": "2026-10-19",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624",
+      "source": "CISA KEV",
+      "published": "2026-10-16T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-21589",
       "title": "CVE-2026-21589 - Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
@@ -1300,34 +1328,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-83548",
       "source": "CISA KEV",
       "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-83549",
-      "title": "CVE-2026-83549 - SonicWall SMA1000 Appliances OS Command Injection Vulnerability",
-      "summary": "SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution.",
-      "vendor": "SonicWall",
-      "product": "SMA1000 Appliances",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-83549",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-82078",
-      "title": "CVE-2026-82078 - PaperCut NG/MF Unsafe Reflection Vulnerability",
-      "summary": "PaperCut NG/MF contains an unsafe reflection vulnerability that allows an attacker to manipulate system configuration parameters and execute arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process. This vulnerability can be chained with CVE-2026-81578.",
-      "vendor": "PaperCut",
-      "product": "NG/MF",
-      "date_added": "2026-08-31",
-      "due_date": "2026-09-14",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82078",
-      "source": "CISA KEV",
-      "published": "2026-08-31T00:00:00Z",
       "actors": []
     }
   ]
