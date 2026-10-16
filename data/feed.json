@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:54:25Z",
+  "generated_at": "2026-10-16T21:55:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "source": "Dark Reading",
+      "published": "2026-10-16T20:34:37Z",
+      "actors": []
+    },
+    {
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-10-16T20:00:59Z",
+      "actors": []
+    },
+    {
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "source": "Dark Reading",
+      "published": "2026-10-16T19:49:30Z",
+      "actors": []
+    },
+    {
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+      "url": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "source": "Dark Reading",
+      "published": "2026-10-16T19:22:12Z",
+      "actors": []
+    },
+    {
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "source": "Dark Reading",
+      "published": "2026-10-16T19:13:59Z",
+      "actors": []
+    },
     {
       "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
       "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
@@ -24,7 +64,7 @@
       "actors": []
     },
     {
-      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "source": "BleepingComputer",
@@ -408,14 +448,6 @@
       "actors": []
     },
     {
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T08:06:47Z",
-      "actors": []
-    },
-    {
       "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
       "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM.…",
       "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
@@ -453,38 +485,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
       "source": "Dark Reading",
       "published": "2026-10-14T21:20:13Z",
-      "actors": []
-    },
-    {
-      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
-      "summary": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-      "source": "Dark Reading",
-      "published": "2026-10-14T20:57:16Z",
-      "actors": []
-    },
-    {
-      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-      "summary": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens.",
-      "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-      "source": "Dark Reading",
-      "published": "2026-10-14T20:09:42Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
-      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as…",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T18:38:56Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-      "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web…",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "source": "The Hacker News",
-      "published": "2026-10-14T17:38:31Z",
       "actors": []
     }
   ],
