@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:29:27Z",
+  "generated_at": "2026-10-17T08:45:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a…",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "source": "The Hacker News",
+      "published": "2026-10-17T06:16:46Z",
+      "actors": []
+    },
     {
       "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
       "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
@@ -477,14 +485,6 @@
       "url": "https://isc.sans.edu/diary/rss/33428",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-15T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-      "summary": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "source": "Dark Reading",
-      "published": "2026-10-14T21:20:13Z",
       "actors": []
     }
   ],
