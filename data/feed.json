@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:28:19Z",
+  "generated_at": "2026-10-17T15:52:54Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-10-17T15:18:51Z",
+      "actors": []
+    },
+    {
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "source": "BleepingComputer",
+      "published": "2026-10-17T14:32:48Z",
+      "actors": []
+    },
     {
       "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
       "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of…",
@@ -408,14 +424,6 @@
       "actors": []
     },
     {
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T11:55:38Z",
-      "actors": []
-    },
-    {
       "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
       "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which…",
       "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
@@ -445,14 +453,6 @@
       "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
       "source": "The Hacker News",
       "published": "2026-10-15T10:42:16Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
-      "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T09:10:20Z",
       "actors": []
     },
     {
