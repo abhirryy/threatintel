@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:18:35Z",
+  "generated_at": "2026-10-18T16:37:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "source": "BleepingComputer",
+      "published": "2026-10-18T14:23:16Z",
+      "actors": []
+    },
     {
       "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
       "summary": "Here is the YARA rule I used to detect \" Orphaned VBA Projects Inside DWG Files \".",
@@ -405,14 +413,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "source": "BleepingComputer",
       "published": "2026-10-15T14:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T13:18:36Z",
       "actors": []
     },
     {
