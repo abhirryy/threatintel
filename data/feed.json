@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:10:06Z",
+  "generated_at": "2026-10-18T13:18:35Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
+      "summary": "Here is the YARA rule I used to detect \" Orphaned VBA Projects Inside DWG Files \".",
+      "url": "https://isc.sans.edu/diary/rss/33434",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-18T12:59:30Z",
+      "actors": []
+    },
     {
       "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
       "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below -…",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
       "source": "The Hacker News",
       "published": "2026-10-15T07:07:05Z",
-      "actors": []
-    },
-    {
-      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-      "summary": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems.",
-      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "source": "Dark Reading",
-      "published": "2026-10-15T07:00:00Z",
       "actors": []
     }
   ],
