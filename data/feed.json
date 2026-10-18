@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T04:47:58Z",
+  "generated_at": "2026-10-18T09:10:06Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below -…",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "source": "The Hacker News",
+      "published": "2026-10-18T08:23:02Z",
+      "actors": []
+    },
     {
       "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
       "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
       "source": "Dark Reading",
       "published": "2026-10-15T07:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
-      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and…",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T06:43:08Z",
       "actors": []
     }
   ],
