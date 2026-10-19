@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:49:08Z",
+  "generated_at": "2026-10-19T23:09:41Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "source": "BleepingComputer",
+      "published": "2026-10-19T21:49:48Z",
+      "actors": []
+    },
+    {
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "source": "BleepingComputer",
+      "published": "2026-10-19T21:24:51Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+      "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+      "url": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "source": "Dark Reading",
+      "published": "2026-10-19T21:13:41Z",
+      "actors": []
+    },
+    {
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "source": "Dark Reading",
+      "published": "2026-10-19T19:55:01Z",
+      "actors": []
+    },
+    {
+      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
+      "summary": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.",
+      "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+      "source": "The Record",
+      "published": "2026-10-19T19:49:00Z",
+      "actors": []
+    },
     {
       "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
       "summary": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.",
@@ -21,6 +61,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "source": "BleepingComputer",
       "published": "2026-10-19T19:40:58Z",
+      "actors": []
+    },
+    {
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+      "summary": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
+      "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "source": "Dark Reading",
+      "published": "2026-10-19T19:19:33Z",
       "actors": []
     },
     {
@@ -157,14 +205,6 @@
       "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
       "source": "The Hacker News",
       "published": "2026-10-19T11:50:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-      "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
-      "url": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-      "source": "The Record",
-      "published": "2026-10-19T11:45:00Z",
       "actors": []
     },
     {
@@ -352,27 +392,11 @@
       "actors": []
     },
     {
-      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
-      "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-      "source": "BleepingComputer",
-      "published": "2026-10-16T13:50:59Z",
-      "actors": []
-    },
-    {
       "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
       "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
       "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
       "source": "Dark Reading",
       "published": "2026-10-16T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Burger King Japan data breach exposes 11 million customer records",
-      "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "source": "BleepingComputer",
-      "published": "2026-10-16T12:01:29Z",
       "actors": []
     },
     {
@@ -461,30 +485,6 @@
       "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
       "source": "The Hacker News",
       "published": "2026-10-15T20:24:36Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old…",
-      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T18:49:33Z",
-      "actors": []
-    },
-    {
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in…",
-      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T16:01:57Z",
-      "actors": []
-    },
-    {
-      "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-      "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents,…",
-      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T16:00:26Z",
       "actors": []
     }
   ],
