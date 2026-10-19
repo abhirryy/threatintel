@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:44:01Z",
+  "generated_at": "2026-10-19T14:01:58Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,94 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
+      "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
+      "source": "Dark Reading",
+      "published": "2026-10-19T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
+      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "source": "BleepingComputer",
+      "published": "2026-10-19T13:49:24Z",
+      "actors": []
+    },
+    {
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the…",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "published": "2026-10-19T13:48:56Z",
+      "actors": []
+    },
+    {
+      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
+      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the…",
+      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "source": "The Hacker News",
+      "published": "2026-10-19T13:05:45Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+      "source": "BleepingComputer",
+      "published": "2026-10-19T12:44:44Z",
+      "actors": []
+    },
+    {
+      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
+      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support…",
+      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
+      "source": "The Hacker News",
+      "published": "2026-10-19T11:50:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
+      "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
+      "url": "https://therecord.media/russia-cyberattack-firstvds-cloud",
+      "source": "The Record",
+      "published": "2026-10-19T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
+      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered…",
+      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "source": "The Hacker News",
+      "published": "2026-10-19T10:06:40Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "source": "BleepingComputer",
+      "published": "2026-10-19T08:58:41Z",
+      "actors": []
+    },
+    {
+      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet…",
+      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "source": "The Hacker News",
+      "published": "2026-10-19T06:29:44Z",
+      "actors": []
+    },
+    {
+      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses…",
+      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "source": "The Hacker News",
+      "published": "2026-10-19T06:07:08Z",
+      "actors": []
+    },
     {
       "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
       "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
@@ -312,14 +400,6 @@
       "actors": []
     },
     {
-      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-      "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
-      "url": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-      "source": "The Record",
-      "published": "2026-10-15T20:46:00Z",
-      "actors": []
-    },
-    {
       "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
       "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
       "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
@@ -360,22 +440,6 @@
       "actors": []
     },
     {
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T18:20:59Z",
-      "actors": []
-    },
-    {
-      "title": "Fake Arch Linux packages push malware with root privileges",
-      "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T17:12:31Z",
-      "actors": []
-    },
-    {
       "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
       "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in…",
       "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
@@ -408,14 +472,6 @@
       "actors": []
     },
     {
-      "title": "Is AI pentesting as good as a human pentester?",
-      "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "source": "BleepingComputer",
-      "published": "2026-10-15T14:01:11Z",
-      "actors": []
-    },
-    {
       "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
       "summary": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and each requires a specific configuration to…",
       "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
@@ -429,62 +485,6 @@
       "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
       "source": "The Hacker News",
       "published": "2026-10-15T12:28:13Z",
-      "actors": []
-    },
-    {
-      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
-      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist…",
-      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T12:07:20Z",
-      "actors": []
-    },
-    {
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which…",
-      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T11:46:59Z",
-      "actors": []
-    },
-    {
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the…",
-      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T11:46:49Z",
-      "actors": []
-    },
-    {
-      "title": "Why AI Confidence Is Not Validation",
-      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in…",
-      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T11:04:35Z",
-      "actors": []
-    },
-    {
-      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end,…",
-      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T10:42:16Z",
-      "actors": []
-    },
-    {
-      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract…",
-      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T08:45:10Z",
-      "actors": []
-    },
-    {
-      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
-      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM.…",
-      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-10-15T07:07:05Z",
       "actors": []
     }
   ],
