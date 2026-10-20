@@ -1,18 +1,74 @@
 {
-  "generated_at": "2026-10-20T17:21:38Z",
+  "generated_at": "2026-10-20T20:45:56Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 110,
-    "threat_actors": 3,
+    "osint_news": 120,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+      "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.",
+      "url": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+      "source": "The Record",
+      "published": "2026-10-20T20:27:00Z",
+      "actors": []
+    },
+    {
+      "title": "Zeabur shutting down after second security breach in two months",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "source": "BleepingComputer",
+      "published": "2026-10-20T19:33:02Z",
+      "actors": []
+    },
+    {
+      "title": "California warns all public school students of data stolen in contractor breach",
+      "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
+      "url": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+      "source": "The Record",
+      "published": "2026-10-20T19:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+      "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
+      "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "source": "Dark Reading",
+      "published": "2026-10-20T19:16:49Z",
+      "actors": []
+    },
+    {
+      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+      "summary": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.",
+      "url": "https://therecord.media/23andme-california-data-breach-settlement",
+      "source": "The Record",
+      "published": "2026-10-20T18:32:00Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "source": "BleepingComputer",
+      "published": "2026-10-20T18:11:03Z",
+      "actors": []
+    },
     {
       "title": "Nigerian national given 8-year sentence for tax business hacks",
       "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.",
       "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
       "source": "The Record",
       "published": "2026-10-20T17:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a…",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T17:09:53Z",
       "actors": []
     },
     {
@@ -66,27 +122,11 @@
       "actors": []
     },
     {
-      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
-      "summary": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malware for minutes at a time.",
-      "url": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
-      "source": "The Record",
-      "published": "2026-10-20T14:11:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than…",
       "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "source": "The Hacker News",
       "published": "2026-10-20T14:07:17Z",
-      "actors": []
-    },
-    {
-      "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
-      "summary": "A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems.",
-      "url": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
-      "source": "The Record",
-      "published": "2026-10-20T14:05:00Z",
       "actors": []
     },
     {
@@ -181,17 +221,6 @@
       "actors": []
     },
     {
-      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-      "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.",
-      "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
-      "source": "The Record",
-      "published": "2026-10-20T10:00:00Z",
-      "actors": [
-        "APT28",
-        "Fancy Bear"
-      ]
-    },
-    {
       "title": "Revolut outage disrupts online banking operations worldwide",
       "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
@@ -229,6 +258,14 @@
       "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
       "source": "The Hacker News",
       "published": "2026-10-20T04:05:58Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33436",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-20T02:00:03Z",
       "actors": []
     },
     {
@@ -336,27 +373,11 @@
       "actors": []
     },
     {
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "source": "BleepingComputer",
-      "published": "2026-10-19T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
       "summary": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.",
       "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
       "source": "Dark Reading",
       "published": "2026-10-19T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "source": "BleepingComputer",
-      "published": "2026-10-19T13:49:24Z",
       "actors": []
     },
     {
@@ -405,6 +426,14 @@
       "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
       "source": "The Hacker News",
       "published": "2026-10-19T06:07:08Z",
+      "actors": []
+    },
+    {
+      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
+      "summary": "Here is the YARA rule I used to detect \" Orphaned VBA Projects Inside DWG Files \".",
+      "url": "https://isc.sans.edu/diary/rss/33434",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-18T12:59:30Z",
       "actors": []
     },
     {
@@ -462,38 +491,6 @@
       "source": "Dark Reading",
       "published": "2026-10-16T19:13:59Z",
       "actors": []
-    },
-    {
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
-      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "source": "Dark Reading",
-      "published": "2026-10-16T18:37:50Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws,…",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T17:48:45Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-      "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor.…",
-      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T16:43:39Z",
-      "actors": []
-    },
-    {
-      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-      "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and…",
-      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T16:16:44Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -519,21 +516,93 @@
         "Fancy Bear"
       ],
       "kind": "news"
-    },
-    {
-      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-      "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.",
-      "url": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
-      "source": "The Record",
-      "published": "2026-10-20T10:00:00Z",
-      "actors": [
-        "APT28",
-        "Fancy Bear"
-      ],
-      "kind": "news"
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-106931",
+      "title": "CVE-2026-106931 - EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+      "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
+      "vendor": "EG Secure Solutions",
+      "product": "SiteGuard Server Edition",
+      "date_added": "2026-10-20",
+      "due_date": "2026-10-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931",
+      "source": "CISA KEV",
+      "published": "2026-10-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-96656",
+      "title": "CVE-2026-96656 - Plex Media Server External Control of File Name or Path Vulnerability",
+      "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96655.",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "date_added": "2026-10-20",
+      "due_date": "2026-10-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656",
+      "source": "CISA KEV",
+      "published": "2026-10-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-96655",
+      "title": "CVE-2026-96655 - Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96656.",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "date_added": "2026-10-20",
+      "due_date": "2026-11-03",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655",
+      "source": "CISA KEV",
+      "published": "2026-10-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-96654",
+      "title": "CVE-2026-96654 - Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
+      "summary": "Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96655, and CVE-2026-96656.",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "date_added": "2026-10-20",
+      "due_date": "2026-10-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96654",
+      "source": "CISA KEV",
+      "published": "2026-10-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-96652",
+      "title": "CVE-2026-96652 - Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+      "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's chosen destination. This vulnerability can be chained with CVE-2026-96654,…",
+      "vendor": "Plex",
+      "product": "Media Server",
+      "date_added": "2026-10-20",
+      "due_date": "2026-11-03",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96652",
+      "source": "CISA KEV",
+      "published": "2026-10-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-110936",
+      "title": "CVE-2026-110936 - Siemens Software Center Uncontrolled Search Path Element Vulnerability",
+      "summary": "Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.",
+      "vendor": "Siemens",
+      "product": "Software Center",
+      "date_added": "2026-10-20",
+      "due_date": "2026-11-03",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
+      "source": "CISA KEV",
+      "published": "2026-10-20T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-102764",
       "title": "CVE-2026-102764 - BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
@@ -1288,90 +1357,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046",
       "source": "CISA KEV",
       "published": "2026-09-04T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-59822",
-      "title": "CVE-2026-59822 - BerriAI LiteLLM Improper Authentication Vulnerability",
-      "summary": "BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.",
-      "vendor": "BerriAI",
-      "product": "LiteLLM",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-16",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-59822",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-48710",
-      "title": "CVE-2026-48710 - Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
-      "summary": "Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when the authentication depends on the reconstructed URL’s path. This vulnerability could be chaned with…",
-      "vendor": "Kludex",
-      "product": "Starlette",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-16",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48710",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-49869",
-      "title": "CVE-2026-49869 - Kestra OSS OS Command Injection Vulnerability",
-      "summary": "Kestra OSS contains an OS command injection vulnerability that could allow an unauthenticated remote attacker to create and execute arbitrary workflows without credentials.",
-      "vendor": "Kestra",
-      "product": "Kestra OSS",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-49869",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-82329",
-      "title": "CVE-2026-82329 - JFrog Artifactory Improper Authentication Vulnerability",
-      "summary": "JFrog Artifactory contains an improper authentication vulnerability that under default configuration can allow an unauthenticated attacker with network access to obtain administrative privileges.",
-      "vendor": "JFrog",
-      "product": "Artifactory",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-82329",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-9586",
-      "title": "CVE-2026-9586 - Sangoma Switchvox SQL Injection Vulnerability",
-      "summary": "Sangoma Switchvox contains a SQL injection vulnerability which allows an unauthenticated remote attacker to execute arbitrary SQL statements against the backend PostgreSQL database using a single crafted request, including database operations and remote code execution.",
-      "vendor": "Sangoma",
-      "product": "Switchvox",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-9586",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-83548",
-      "title": "CVE-2026-83548 - SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability",
-      "summary": "SonicWall SMA1000 Appliances contains a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to gain unauthorized access to sensitive functionality and perform unauthorized operations.",
-      "vendor": "SonicWall",
-      "product": "SMA1000 Appliances",
-      "date_added": "2026-09-02",
-      "due_date": "2026-09-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-83548",
-      "source": "CISA KEV",
-      "published": "2026-09-02T00:00:00Z",
       "actors": []
     }
   ]
