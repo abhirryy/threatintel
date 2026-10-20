@@ -1,12 +1,150 @@
 {
-  "generated_at": "2026-10-20T12:19:09Z",
+  "generated_at": "2026-10-20T17:21:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
-    "osint_news": 120,
-    "threat_actors": 1,
+    "osint_news": 110,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Nigerian national given 8-year sentence for tax business hacks",
+      "summary": "A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.",
+      "url": "https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks",
+      "source": "The Record",
+      "published": "2026-10-20T17:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an…",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T15:38:52Z",
+      "actors": []
+    },
+    {
+      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
+      "summary": "Artificial Intelligence is complicating security in the software development lifecycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
+      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+      "source": "Dark Reading",
+      "published": "2026-10-20T15:35:45Z",
+      "actors": []
+    },
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN…",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T15:32:27Z",
+      "actors": [
+        "Qilin"
+      ]
+    },
+    {
+      "title": "EU cyber law won’t force fixes for fridge controllers hit in French attack",
+      "summary": "The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define.",
+      "url": "https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack",
+      "source": "The Record",
+      "published": "2026-10-20T14:55:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree",
+      "summary": "A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+      "source": "Dark Reading",
+      "published": "2026-10-20T14:36:05Z",
+      "actors": []
+    },
+    {
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "source": "BleepingComputer",
+      "published": "2026-10-20T14:19:05Z",
+      "actors": []
+    },
+    {
+      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
+      "summary": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malware for minutes at a time.",
+      "url": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
+      "source": "The Record",
+      "published": "2026-10-20T14:11:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than…",
+      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T14:07:17Z",
+      "actors": []
+    },
+    {
+      "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
+      "summary": "A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems.",
+      "url": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
+      "source": "The Record",
+      "published": "2026-10-20T14:05:00Z",
+      "actors": []
+    },
+    {
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "source": "BleepingComputer",
+      "published": "2026-10-20T13:51:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+      "source": "BleepingComputer",
+      "published": "2026-10-20T13:18:36Z",
+      "actors": []
+    },
+    {
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election. The infection…",
+      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T12:59:44Z",
+      "actors": []
+    },
+    {
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "source": "BleepingComputer",
+      "published": "2026-10-20T12:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat in the pages'…",
+      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:41:06Z",
+      "actors": []
+    },
+    {
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building…",
+      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:33:04Z",
+      "actors": []
+    },
+    {
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go…",
+      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:32:59Z",
+      "actors": []
+    },
     {
       "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
       "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
@@ -16,19 +154,30 @@
       "actors": []
     },
     {
-      "title": "Windows Server 2025 gets support for quick machine recovery",
-      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "source": "BleepingComputer",
-      "published": "2026-10-20T11:21:42Z",
-      "actors": []
-    },
-    {
       "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
       "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
       "source": "BleepingComputer",
       "published": "2026-10-20T11:18:35Z",
+      "actors": []
+    },
+    {
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker…",
+      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:06:25Z",
+      "actors": [
+        "APT28",
+        "Fancy Bear"
+      ]
+    },
+    {
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup.…",
+      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T10:56:08Z",
       "actors": []
     },
     {
@@ -83,14 +232,6 @@
       "actors": []
     },
     {
-      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33436",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-20T02:00:03Z",
-      "actors": []
-    },
-    {
       "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
       "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
@@ -123,22 +264,6 @@
       "actors": []
     },
     {
-      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
-      "summary": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.",
-      "url": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
-      "source": "The Record",
-      "published": "2026-10-19T19:49:00Z",
-      "actors": []
-    },
-    {
-      "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
-      "summary": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.",
-      "url": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
-      "source": "The Record",
-      "published": "2026-10-19T19:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
@@ -163,14 +288,6 @@
       "actors": []
     },
     {
-      "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
-      "summary": "A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections.",
-      "url": "https://therecord.media/serbia-spyware-pegasus-elections",
-      "source": "The Record",
-      "published": "2026-10-19T18:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
       "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four…",
       "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
@@ -184,14 +301,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "source": "BleepingComputer",
       "published": "2026-10-19T17:27:15Z",
-      "actors": []
-    },
-    {
-      "title": "Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands",
-      "summary": "Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic.",
-      "url": "https://therecord.media/ahold-delhaize-cyberattack-grocery",
-      "source": "The Record",
-      "published": "2026-10-19T16:45:00Z",
       "actors": []
     },
     {
@@ -267,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "source": "BleepingComputer",
-      "published": "2026-10-19T12:44:44Z",
-      "actors": []
-    },
-    {
       "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
       "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support…",
       "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
@@ -291,14 +392,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-10-19T08:58:41Z",
-      "actors": []
-    },
-    {
       "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
       "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet…",
       "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
@@ -312,22 +405,6 @@
       "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
       "source": "The Hacker News",
       "published": "2026-10-19T06:07:08Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "source": "BleepingComputer",
-      "published": "2026-10-18T14:23:16Z",
-      "actors": []
-    },
-    {
-      "title": "Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)",
-      "summary": "Here is the YARA rule I used to detect \" Orphaned VBA Projects Inside DWG Files \".",
-      "url": "https://isc.sans.edu/diary/rss/33434",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-18T12:59:30Z",
       "actors": []
     },
     {
@@ -417,81 +494,32 @@
       "source": "The Hacker News",
       "published": "2026-10-16T16:16:44Z",
       "actors": []
-    },
-    {
-      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
-      "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding…",
-      "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T14:03:04Z",
-      "actors": []
-    },
-    {
-      "title": "When Your Ransomware Negotiator Works for the Other Side",
-      "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
-      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "source": "Dark Reading",
-      "published": "2026-10-16T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
-      "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
-      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-      "source": "Dark Reading",
-      "published": "2026-10-16T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
-      "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published…",
-      "url": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-      "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin…",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T06:55:55Z",
-      "actors": []
-    },
-    {
-      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-      "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After…",
-      "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T06:53:09Z",
-      "actors": []
-    },
-    {
-      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-      "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of…",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-16T04:59:36Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33432",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-16T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)",
-      "summary": "I believe the cybersecurity industry may be approaching AI security the wrong way.",
-      "url": "https://isc.sans.edu/diary/rss/33430",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-16T00:46:35Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN…",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T15:32:27Z",
+      "actors": [
+        "Qilin"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker…",
+      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "source": "The Hacker News",
+      "published": "2026-10-20T11:06:25Z",
+      "actors": [
+        "APT28",
+        "Fancy Bear"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
       "summary": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.",
