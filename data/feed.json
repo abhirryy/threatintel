@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T21:33:25Z",
+  "generated_at": "2026-10-22T00:10:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-21T22:16:26Z",
+      "actors": []
+    },
+    {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "source": "BleepingComputer",
+      "published": "2026-10-21T21:43:27Z",
+      "actors": []
+    },
+    {
+      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+      "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+      "source": "Dark Reading",
+      "published": "2026-10-21T21:15:39Z",
+      "actors": []
+    },
     {
       "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
       "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available.",
@@ -420,27 +444,11 @@
       "actors": []
     },
     {
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "source": "BleepingComputer",
-      "published": "2026-10-20T14:19:05Z",
-      "actors": []
-    },
-    {
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than…",
       "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "source": "The Hacker News",
       "published": "2026-10-20T14:07:17Z",
-      "actors": []
-    },
-    {
-      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "source": "BleepingComputer",
-      "published": "2026-10-20T13:51:00Z",
       "actors": []
     },
     {
@@ -485,14 +493,6 @@
         "APT28",
         "Fancy Bear"
       ]
-    },
-    {
-      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-      "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup.…",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T10:56:08Z",
-      "actors": []
     }
   ],
   "threat_actors": [
