@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-10-22T09:42:26Z",
+  "generated_at": "2026-10-22T14:41:52Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T14:02:12Z",
+      "actors": []
+    },
+    {
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown…",
+      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+      "source": "The Hacker News",
+      "published": "2026-10-22T13:38:22Z",
+      "actors": []
+    },
+    {
+      "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
+      "summary": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
+      "url": "https://therecord.media/africa-cybercrime-interpol-arrests",
+      "source": "The Record",
+      "published": "2026-10-22T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T13:09:12Z",
+      "actors": []
+    },
+    {
+      "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
+      "summary": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.",
+      "url": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
+      "source": "The Record",
+      "published": "2026-10-22T12:14:00Z",
+      "actors": []
+    },
+    {
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would…",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "source": "The Hacker News",
+      "published": "2026-10-22T11:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "source": "BleepingComputer",
+      "published": "2026-10-22T11:41:48Z",
+      "actors": []
+    },
+    {
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained…",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "source": "The Hacker News",
+      "published": "2026-10-22T11:15:42Z",
+      "actors": []
+    },
+    {
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the…",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "source": "The Hacker News",
+      "published": "2026-10-22T10:44:05Z",
+      "actors": []
+    },
     {
       "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
       "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the…",
@@ -186,14 +258,6 @@
       "actors": []
     },
     {
-      "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-      "summary": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post information earlier than planned.",
-      "url": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-      "source": "The Record",
-      "published": "2026-10-21T17:30:00Z",
-      "actors": []
-    },
-    {
       "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
       "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
@@ -240,16 +304,6 @@
       "source": "Krebs on Security",
       "published": "2026-10-21T15:26:07Z",
       "actors": []
-    },
-    {
-      "title": "Russian hackers teamed up to wipe data at Ukrainian grain firm",
-      "summary": "The Russian state-linked hacking group Sandworm collaborated with another threat actor to carry out a destructive cyberattack against a Ukrainian grain logistics company last year, researchers said Thursday.",
-      "url": "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
-      "source": "The Record",
-      "published": "2026-10-21T14:45:00Z",
-      "actors": [
-        "Sandworm"
-      ]
     },
     {
       "title": "PHP ships emergency patches for critical PHP2Shell flaws",
@@ -420,35 +474,11 @@
       "actors": []
     },
     {
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T00:46:42Z",
-      "actors": []
-    },
-    {
       "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
       "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
       "url": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
       "source": "Dark Reading",
       "published": "2026-10-20T21:45:47Z",
-      "actors": []
-    },
-    {
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "source": "BleepingComputer",
-      "published": "2026-10-20T20:56:43Z",
-      "actors": []
-    },
-    {
-      "title": "Zeabur shutting down after second security breach in two months",
-      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "source": "BleepingComputer",
-      "published": "2026-10-20T19:33:02Z",
       "actors": []
     },
     {
@@ -458,40 +488,6 @@
       "source": "Dark Reading",
       "published": "2026-10-20T19:16:49Z",
       "actors": []
-    },
-    {
-      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a…",
-      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T17:09:53Z",
-      "actors": []
-    },
-    {
-      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an…",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T15:38:52Z",
-      "actors": []
-    },
-    {
-      "title": "Close Identity Gaps in Software Development Before Unleashing AI",
-      "summary": "Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.",
-      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "source": "Dark Reading",
-      "published": "2026-10-20T15:35:45Z",
-      "actors": []
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN…",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T15:32:27Z",
-      "actors": [
-        "Qilin"
-      ]
     }
   ],
   "threat_actors": [
@@ -503,17 +499,6 @@
       "published": "2026-10-21T20:31:48Z",
       "actors": [
         "Lazarus"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Russian hackers teamed up to wipe data at Ukrainian grain firm",
-      "summary": "The Russian state-linked hacking group Sandworm collaborated with another threat actor to carry out a destructive cyberattack against a Ukrainian grain logistics company last year, researchers said Thursday.",
-      "url": "https://therecord.media/ukraine-hackers-russia-grain-sandworm",
-      "source": "The Record",
-      "published": "2026-10-21T14:45:00Z",
-      "actors": [
-        "Sandworm"
       ],
       "kind": "news"
     },
