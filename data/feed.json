@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:16:31Z",
+  "generated_at": "2026-10-23T22:21:36Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+      "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "source": "Dark Reading",
+      "published": "2026-10-23T20:57:56Z",
+      "actors": []
+    },
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T20:55:05Z",
+      "actors": []
+    },
+    {
+      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
+      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
+      "url": "https://isc.sans.edu/diary/rss/33452",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-23T20:04:47Z",
+      "actors": []
+    },
+    {
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "source": "Dark Reading",
+      "published": "2026-10-23T19:41:23Z",
+      "actors": []
+    },
     {
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
       "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
@@ -145,7 +177,7 @@
     },
     {
       "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+      "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
       "source": "Dark Reading",
       "published": "2026-10-23T11:38:28Z",
@@ -347,7 +379,7 @@
     },
     {
       "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-      "summary": "Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
+      "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
       "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
       "source": "Dark Reading",
       "published": "2026-10-22T14:21:22Z",
@@ -410,14 +442,6 @@
       "actors": []
     },
     {
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T08:27:11Z",
-      "actors": []
-    },
-    {
       "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
       "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on…",
       "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
@@ -464,30 +488,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-10-22T02:00:02Z",
       "actors": []
-    },
-    {
-      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-      "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
-      "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-      "source": "Dark Reading",
-      "published": "2026-10-21T21:15:39Z",
-      "actors": []
-    },
-    {
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
-      "summary": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available.",
-      "url": "https://isc.sans.edu/diary/rss/33440",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-21T21:02:43Z",
-      "actors": []
-    },
-    {
-      "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
-      "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
-      "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
-      "source": "Dark Reading",
-      "published": "2026-10-21T20:14:42Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -514,6 +514,20 @@
       "due_date": "2026-10-26",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625",
+      "source": "CISA KEV",
+      "published": "2026-10-23T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-110447",
+      "title": "CVE-2026-110447 - Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+      "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+      "vendor": "Collabora",
+      "product": "Collabora Online – Built-in CODE Server",
+      "date_added": "2026-10-23",
+      "due_date": "2026-10-26",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447",
       "source": "CISA KEV",
       "published": "2026-10-23T00:00:00Z",
       "actors": []
@@ -1326,20 +1340,6 @@
       "due_date": "2026-09-11",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218",
-      "source": "CISA KEV",
-      "published": "2026-09-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-85880",
-      "title": "CVE-2026-85880 - Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
-      "summary": "Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.",
-      "vendor": "Microsoft",
-      "product": "Windows",
-      "date_added": "2026-09-08",
-      "due_date": "2026-09-22",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85880",
       "source": "CISA KEV",
       "published": "2026-09-08T00:00:00Z",
       "actors": []
