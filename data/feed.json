@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:35:55Z",
+  "generated_at": "2026-10-23T05:19:43Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "State Bank of India Suffers a Customer PII Data Leak",
+      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "source": "Dark Reading",
+      "published": "2026-10-23T03:30:00Z",
+      "actors": []
+    },
     {
       "title": "Railway warns devs to rotate secrets after potential breach",
       "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
       "source": "The Hacker News",
       "published": "2026-10-21T10:30:27Z",
-      "actors": []
-    },
-    {
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that…",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T09:05:17Z",
       "actors": []
     }
   ],
