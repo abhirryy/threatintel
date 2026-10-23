@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-10-23T15:11:42Z",
+  "generated_at": "2026-10-23T19:16:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T18:54:41Z",
+      "actors": []
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked…",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "source": "The Hacker News",
+      "published": "2026-10-23T18:50:13Z",
+      "actors": []
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it,…",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "source": "The Hacker News",
+      "published": "2026-10-23T17:54:08Z",
+      "actors": []
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking…",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "source": "The Hacker News",
+      "published": "2026-10-23T17:50:47Z",
+      "actors": []
+    },
+    {
+      "title": "FCC bans two devices with surveillance chips linked to Huawei",
+      "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
+      "url": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
+      "source": "The Record",
+      "published": "2026-10-23T17:28:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+      "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+      "source": "Dark Reading",
+      "published": "2026-10-23T17:26:59Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T17:05:07Z",
+      "actors": []
+    },
+    {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T16:40:07Z",
+      "actors": []
+    },
+    {
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "source": "BleepingComputer",
+      "published": "2026-10-23T15:38:05Z",
+      "actors": []
+    },
     {
       "title": "You gave your AI agent access, but who is giving it orders?",
       "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that…",
@@ -80,7 +152,7 @@
       "actors": []
     },
     {
-      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
       "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an…",
       "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
       "source": "The Hacker News",
@@ -88,7 +160,7 @@
       "actors": []
     },
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a…",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "source": "The Hacker News",
@@ -135,6 +207,14 @@
       "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
       "source": "The Hacker News",
       "published": "2026-10-23T07:40:45Z",
+      "actors": []
+    },
+    {
+      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
+      "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
+      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+      "source": "The Record",
+      "published": "2026-10-23T04:00:00Z",
       "actors": []
     },
     {
@@ -218,14 +298,6 @@
       "actors": []
     },
     {
-      "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
-      "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
-      "url": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
-      "source": "The Record",
-      "published": "2026-10-22T18:46:00Z",
-      "actors": []
-    },
-    {
       "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
       "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates. eMudhra said it will replace affected customers'…",
       "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
@@ -255,14 +327,6 @@
       "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
       "source": "The Hacker News",
       "published": "2026-10-22T17:01:53Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents",
-      "summary": "A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the globe, Microsoft said.",
-      "url": "https://therecord.media/china-cyber-connectwise-ai",
-      "source": "The Record",
-      "published": "2026-10-22T16:30:00Z",
       "actors": []
     },
     {
@@ -402,22 +466,6 @@
       "actors": []
     },
     {
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T22:16:26Z",
-      "actors": []
-    },
-    {
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T21:43:27Z",
-      "actors": []
-    },
-    {
       "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
       "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
       "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
@@ -434,67 +482,17 @@
       "actors": []
     },
     {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T20:31:48Z",
-      "actors": [
-        "Lazarus"
-      ]
-    },
-    {
       "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
       "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
       "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
       "source": "Dark Reading",
       "published": "2026-10-21T20:14:42Z",
       "actors": []
-    },
-    {
-      "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
-      "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
-      "url": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-      "source": "Dark Reading",
-      "published": "2026-10-21T20:03:14Z",
-      "actors": []
-    },
-    {
-      "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-      "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
-      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "source": "Dark Reading",
-      "published": "2026-10-21T19:19:17Z",
-      "actors": []
-    },
-    {
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions…",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T18:57:34Z",
-      "actors": []
-    },
-    {
-      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T18:34:42Z",
-      "actors": []
-    },
-    {
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The…",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T18:01:57Z",
-      "actors": []
     }
   ],
   "threat_actors": [
     {
-      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a…",
       "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
       "source": "The Hacker News",
@@ -503,31 +501,23 @@
         "Sandworm"
       ],
       "kind": "news"
-    },
-    {
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "source": "BleepingComputer",
-      "published": "2026-10-21T20:31:48Z",
-      "actors": [
-        "Lazarus"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN…",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-10-20T15:32:27Z",
-      "actors": [
-        "Qilin"
-      ],
-      "kind": "news"
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-114625",
+      "title": "CVE-2026-114625 - Arista VeloCloud Orchestrator SQL Injection Vulnerability",
+      "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the…",
+      "vendor": "Arista",
+      "product": "VeloCloud Orchestrator",
+      "date_added": "2026-10-23",
+      "due_date": "2026-10-26",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625",
+      "source": "CISA KEV",
+      "published": "2026-10-23T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-106931",
       "title": "CVE-2026-106931 - EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
@@ -1352,20 +1342,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85880",
       "source": "CISA KEV",
       "published": "2026-09-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-85046",
-      "title": "CVE-2026-85046 - Google Chromium V8 Type Confusion Vulnerability",
-      "summary": "Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-      "vendor": "Google",
-      "product": "Chromium V8",
-      "date_added": "2026-09-04",
-      "due_date": "2026-09-18",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-85046",
-      "source": "CISA KEV",
-      "published": "2026-09-04T00:00:00Z",
       "actors": []
     }
   ]
