@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T22:01:26Z",
+  "generated_at": "2026-10-23T00:35:55Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -21,6 +21,14 @@
       "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
       "source": "The Record",
       "published": "2026-10-22T20:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "source": "Dark Reading",
+      "published": "2026-10-22T20:42:17Z",
       "actors": []
     },
     {
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
       "source": "The Hacker News",
       "published": "2026-10-21T09:05:17Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the developer behind UpdraftPlus, a popular WordPress backup plugin with over four…",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-21T09:01:12Z",
       "actors": []
     }
   ],
