@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:18:25Z",
+  "generated_at": "2026-10-24T09:38:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity…",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-10-24T06:25:57Z",
+      "actors": []
+    },
     {
       "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
       "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
       "source": "The Hacker News",
       "published": "2026-10-22T04:21:26Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33446",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-22T02:00:02Z",
       "actors": []
     }
   ],
