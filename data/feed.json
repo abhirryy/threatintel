@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:29:56Z",
+  "generated_at": "2026-10-25T16:45:00Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "source": "BleepingComputer",
+      "published": "2026-10-25T15:49:38Z",
+      "actors": []
+    },
     {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we…",
@@ -455,14 +463,6 @@
       "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
       "source": "The Hacker News",
       "published": "2026-10-22T13:38:22Z",
-      "actors": []
-    },
-    {
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T13:09:12Z",
       "actors": []
     },
     {
