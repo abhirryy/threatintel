@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:45:00Z",
+  "generated_at": "2026-10-25T19:19:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the…",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-10-25T17:44:09Z",
+      "actors": []
+    },
+    {
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the…",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "source": "The Hacker News",
+      "published": "2026-10-25T17:19:46Z",
+      "actors": []
+    },
     {
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
       "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
       "source": "The Hacker News",
       "published": "2026-10-22T11:15:42Z",
-      "actors": []
-    },
-    {
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the…",
-      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T10:44:05Z",
-      "actors": []
-    },
-    {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the…",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T08:28:48Z",
       "actors": []
     }
   ],
