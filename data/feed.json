@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:19:25Z",
+  "generated_at": "2026-10-25T21:55:29Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "summary": "YARA-X&#;x26;#;39;s 1.22.0 release brings 11 improvements and 9 bugfixes.",
+      "url": "https://isc.sans.edu/diary/rss/33454",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-25T19:57:53Z",
+      "actors": []
+    },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
       "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the…",
@@ -479,14 +487,6 @@
       "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
       "source": "The Hacker News",
       "published": "2026-10-22T13:38:22Z",
-      "actors": []
-    },
-    {
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained…",
-      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T11:15:42Z",
       "actors": []
     }
   ],
