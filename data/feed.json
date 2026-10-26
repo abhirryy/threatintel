@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T16:19:01Z",
+  "generated_at": "2026-10-26T21:05:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,86 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T20:46:49Z",
+      "actors": []
+    },
+    {
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T19:26:20Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users,…",
+      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T18:12:22Z",
+      "actors": []
+    },
+    {
+      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+      "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+      "source": "Dark Reading",
+      "published": "2026-10-26T18:01:40Z",
+      "actors": []
+    },
+    {
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension…",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T17:45:57Z",
+      "actors": []
+    },
+    {
+      "title": "Serbian autocrat loses election following widespread reports of digital repression",
+      "summary": "Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.",
+      "url": "https://therecord.media/serbia-election-spyware-vucic",
+      "source": "The Record",
+      "published": "2026-10-26T17:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
+      "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
+      "url": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
+      "source": "The Record",
+      "published": "2026-10-26T16:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds",
+      "summary": "44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.",
+      "url": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
+      "source": "The Record",
+      "published": "2026-10-26T16:37:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T16:27:57Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged…",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T15:52:40Z",
+      "actors": []
+    },
     {
       "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
       "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
@@ -296,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "FCC bans two devices with surveillance chips linked to Huawei",
-      "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
-      "url": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
-      "source": "The Record",
-      "published": "2026-10-23T17:28:00Z",
-      "actors": []
-    },
-    {
       "title": "AI Tools Are Generating Massive Attacks for Little Cost",
       "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
@@ -336,14 +408,6 @@
       "actors": []
     },
     {
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that…",
-      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "source": "BleepingComputer",
-      "published": "2026-10-23T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
       "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
       "url": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
@@ -373,30 +437,6 @@
       "url": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
       "source": "Dark Reading",
       "published": "2026-10-23T13:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "UK proposes 14-year prison terms for undersea cable sabotage",
-      "summary": "In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.",
-      "url": "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
-      "source": "The Record",
-      "published": "2026-10-23T13:26:00Z",
-      "actors": []
-    },
-    {
-      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
-      "summary": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.",
-      "url": "https://therecord.media/quest-diagnostics-network-intrusion",
-      "source": "The Record",
-      "published": "2026-10-23T12:52:00Z",
-      "actors": []
-    },
-    {
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "source": "BleepingComputer",
-      "published": "2026-10-23T12:48:00Z",
       "actors": []
     },
     {
@@ -447,46 +487,6 @@
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
       "source": "The Hacker News",
       "published": "2026-10-23T08:40:43Z",
-      "actors": []
-    },
-    {
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to…",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T08:35:45Z",
-      "actors": []
-    },
-    {
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and…",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T07:40:45Z",
-      "actors": []
-    },
-    {
-      "title": "State Bank of India Suffers a Customer PII Data Leak",
-      "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-      "source": "Dark Reading",
-      "published": "2026-10-23T03:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T21:25:31Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-      "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-      "source": "Dark Reading",
-      "published": "2026-10-22T20:42:17Z",
       "actors": []
     }
   ],
