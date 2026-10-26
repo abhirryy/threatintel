@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:53:53Z",
+  "generated_at": "2026-10-26T09:42:47Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
+      "summary": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]",
+      "url": "https://isc.sans.edu/diary/rss/33442",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-26T09:38:03Z",
+      "actors": []
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T09:19:57Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September…",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T08:35:51Z",
+      "actors": []
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud…",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T07:49:46Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran.…",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T06:03:48Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -32,8 +72,8 @@
       "actors": []
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
-      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the…",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
+      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a…",
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "source": "The Hacker News",
       "published": "2026-10-25T17:19:46Z",
@@ -65,7 +105,7 @@
     },
     {
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a…",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past…",
       "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
       "source": "The Hacker News",
       "published": "2026-10-24T11:09:29Z",
@@ -447,46 +487,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "source": "BleepingComputer",
       "published": "2026-10-22T17:18:22Z",
-      "actors": []
-    },
-    {
-      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other,…",
-      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T17:01:53Z",
-      "actors": []
-    },
-    {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and…",
-      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T16:12:31Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T15:49:32Z",
-      "actors": []
-    },
-    {
-      "title": "As AI Risks Grow, Insurers Split on Covering the Damage",
-      "summary": "Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.",
-      "url": "https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage",
-      "source": "Dark Reading",
-      "published": "2026-10-22T14:21:22Z",
-      "actors": []
-    },
-    {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T14:02:12Z",
       "actors": []
     }
   ],
