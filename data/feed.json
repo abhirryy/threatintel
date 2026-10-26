@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:42:47Z",
+  "generated_at": "2026-10-26T16:19:01Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,94 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T15:38:24Z",
+      "actors": []
+    },
+    {
+      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
+      "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.",
+      "url": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+      "source": "The Record",
+      "published": "2026-10-26T14:21:00Z",
+      "actors": []
+    },
+    {
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And…",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T14:06:13Z",
+      "actors": []
+    },
+    {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "10 Software Security Practices Built for the Next 250 Years",
+      "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+      "source": "Dark Reading",
+      "published": "2026-10-26T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T13:56:44Z",
+      "actors": []
+    },
+    {
+      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+      "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.",
+      "url": "https://therecord.media/litellm-hackers-ai-malware",
+      "source": "The Record",
+      "published": "2026-10-26T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the…",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T11:52:41Z",
+      "actors": []
+    },
+    {
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into…",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T11:23:56Z",
+      "actors": []
+    },
+    {
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T10:26:52Z",
+      "actors": []
+    },
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own…",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "source": "The Hacker News",
+      "published": "2026-10-26T09:54:02Z",
+      "actors": []
+    },
     {
       "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
       "summary": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]",
@@ -144,7 +232,7 @@
       "actors": []
     },
     {
-      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
       "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
       "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
       "source": "Dark Reading",
@@ -378,14 +466,6 @@
       "actors": []
     },
     {
-      "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
-      "summary": "The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.",
-      "url": "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
-      "source": "The Record",
-      "published": "2026-10-23T04:00:00Z",
-      "actors": []
-    },
-    {
       "title": "State Bank of India Suffers a Customer PII Data Leak",
       "summary": "Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
@@ -402,91 +482,11 @@
       "actors": []
     },
     {
-      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
-      "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
-      "url": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
-      "source": "The Record",
-      "published": "2026-10-22T20:52:00Z",
-      "actors": []
-    },
-    {
       "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
       "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
       "source": "Dark Reading",
       "published": "2026-10-22T20:42:17Z",
-      "actors": []
-    },
-    {
-      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
-      "url": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-      "source": "Dark Reading",
-      "published": "2026-10-22T20:33:10Z",
-      "actors": []
-    },
-    {
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T20:22:45Z",
-      "actors": []
-    },
-    {
-      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
-      "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
-      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-      "source": "Dark Reading",
-      "published": "2026-10-22T19:30:20Z",
-      "actors": []
-    },
-    {
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T19:12:51Z",
-      "actors": []
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would…",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T19:05:35Z",
-      "actors": []
-    },
-    {
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator…",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T19:05:17Z",
-      "actors": []
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates. eMudhra said it will replace affected customers'…",
-      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T18:12:43Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But…",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-      "source": "The Hacker News",
-      "published": "2026-10-22T17:45:44Z",
-      "actors": []
-    },
-    {
-      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-22T17:18:22Z",
       "actors": []
     }
   ],
