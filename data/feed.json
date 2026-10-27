@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T21:05:44Z",
+  "generated_at": "2026-10-27T00:23:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,54 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+      "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
+      "url": "https://isc.sans.edu/diary/rss/33458",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-26T23:34:37Z",
+      "actors": []
+    },
+    {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T22:20:36Z",
+      "actors": []
+    },
+    {
+      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+      "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "source": "Dark Reading",
+      "published": "2026-10-26T21:44:33Z",
+      "actors": []
+    },
+    {
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "source": "BleepingComputer",
+      "published": "2026-10-26T21:08:28Z",
+      "actors": []
+    },
+    {
+      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+      "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
+      "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
+      "source": "The Record",
+      "published": "2026-10-26T21:03:00Z",
+      "actors": []
+    },
+    {
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+      "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "source": "Dark Reading",
+      "published": "2026-10-26T20:59:26Z",
+      "actors": []
+    },
     {
       "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
       "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
@@ -133,14 +181,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
       "source": "BleepingComputer",
       "published": "2026-10-26T13:56:44Z",
-      "actors": []
-    },
-    {
-      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
-      "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.",
-      "url": "https://therecord.media/litellm-hackers-ai-malware",
-      "source": "The Record",
-      "published": "2026-10-26T12:00:00Z",
       "actors": []
     },
     {
@@ -392,22 +432,6 @@
       "actors": []
     },
     {
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "source": "BleepingComputer",
-      "published": "2026-10-23T16:40:07Z",
-      "actors": []
-    },
-    {
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "source": "BleepingComputer",
-      "published": "2026-10-23T15:38:05Z",
-      "actors": []
-    },
-    {
       "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
       "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
       "url": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
@@ -464,30 +488,6 @@
       "actors": [
         "Sandworm"
       ]
-    },
-    {
-      "title": "ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33448",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-23T10:25:11Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs…",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T09:36:00Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to…",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T08:40:43Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -504,6 +504,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-109618",
+      "title": "CVE-2026-109618 - PHP Memory Corruption Vulnerability",
+      "summary": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "date_added": "2026-10-26",
+      "due_date": "2026-10-29",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618",
+      "source": "CISA KEV",
+      "published": "2026-10-26T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-109619",
+      "title": "CVE-2026-109619 - PHP Stale Internal Request-State Vulnerability",
+      "summary": "PHP contains a stale internal request-state vulnerability that allows for unauthenticated remote code execution.",
+      "vendor": "PHP Group",
+      "product": "PHP",
+      "date_added": "2026-10-26",
+      "due_date": "2026-10-29",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-109619",
+      "source": "CISA KEV",
+      "published": "2026-10-26T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-114625",
       "title": "CVE-2026-114625 - Arista VeloCloud Orchestrator SQL Injection Vulnerability",
@@ -1312,34 +1340,6 @@
       "due_date": "2026-09-11",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75650",
-      "source": "CISA KEV",
-      "published": "2026-09-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-81963",
-      "title": "CVE-2026-81963 - Microsoft Windows Link Following Vulnerability",
-      "summary": "Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.",
-      "vendor": "Microsoft",
-      "product": "Windows",
-      "date_added": "2026-09-08",
-      "due_date": "2026-09-22",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-81963",
-      "source": "CISA KEV",
-      "published": "2026-09-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-86218",
-      "title": "CVE-2026-86218 - N-able N-central Static Code Injection Vulnerability",
-      "summary": "N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.",
-      "vendor": "N-able",
-      "product": "N-central",
-      "date_added": "2026-09-08",
-      "due_date": "2026-09-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86218",
       "source": "CISA KEV",
       "published": "2026-09-08T00:00:00Z",
       "actors": []
