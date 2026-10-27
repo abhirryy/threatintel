@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:03:30Z",
+  "generated_at": "2026-10-27T20:38:53Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,54 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
+      "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
+      "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
+      "source": "The Record",
+      "published": "2026-10-27T19:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the…",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T18:26:46Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T18:20:28Z",
+      "actors": []
+    },
+    {
+      "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+      "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "source": "Dark Reading",
+      "published": "2026-10-27T17:43:07Z",
+      "actors": []
+    },
+    {
+      "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
+      "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
+      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+      "source": "Dark Reading",
+      "published": "2026-10-27T16:47:20Z",
+      "actors": []
+    },
+    {
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T16:15:39Z",
+      "actors": []
+    },
     {
       "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
       "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
@@ -40,6 +88,22 @@
       "actors": []
     },
     {
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client…",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T13:59:48Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a…",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T13:59:09Z",
+      "actors": []
+    },
+    {
       "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
       "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
       "url": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
@@ -53,14 +117,6 @@
       "url": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
       "source": "The Record",
       "published": "2026-10-27T13:20:00Z",
-      "actors": []
-    },
-    {
-      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
-      "summary": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing.",
-      "url": "https://therecord.media/php-vulnerabilities-cisa-kev",
-      "source": "The Record",
-      "published": "2026-10-27T13:16:00Z",
       "actors": []
     },
     {
@@ -322,14 +378,6 @@
       "actors": []
     },
     {
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T10:26:52Z",
-      "actors": []
-    },
-    {
       "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
       "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own…",
       "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
@@ -343,14 +391,6 @@
       "url": "https://isc.sans.edu/diary/rss/33442",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-26T09:38:03Z",
-      "actors": []
-    },
-    {
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T09:19:57Z",
       "actors": []
     },
     {
@@ -448,46 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-10-24T09:04:24Z",
       "actors": []
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity…",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "source": "The Hacker News",
-      "published": "2026-10-24T06:25:57Z",
-      "actors": []
-    },
-    {
-      "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
-      "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
-      "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-      "source": "Dark Reading",
-      "published": "2026-10-23T20:57:56Z",
-      "actors": []
-    },
-    {
-      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
-      "summary": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability.",
-      "url": "https://isc.sans.edu/diary/rss/33452",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-23T20:04:47Z",
-      "actors": []
-    },
-    {
-      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
-      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
-      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "source": "Dark Reading",
-      "published": "2026-10-23T19:41:23Z",
-      "actors": []
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked…",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T18:50:13Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -515,6 +515,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-48356",
+      "title": "CVE-2026-48356 - Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "summary": "Adobe Commerce and Magento contain an unrestricted upload of file with dangerous type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim's account or session.",
+      "vendor": "Adobe",
+      "product": "Commerce and Magento",
+      "date_added": "2026-10-27",
+      "due_date": "2026-11-10",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-48356",
+      "source": "CISA KEV",
+      "published": "2026-10-27T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-111497",
+      "title": "CVE-2026-111497 - Google Brotli Unchecked Return Value Vulnerability",
+      "summary": "Google Brotli contains an unchecked return value vulnerability that allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.",
+      "vendor": "Google",
+      "product": "Brotli",
+      "date_added": "2026-10-27",
+      "due_date": "2026-11-10",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111497",
+      "source": "CISA KEV",
+      "published": "2026-10-27T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-109618",
       "title": "CVE-2026-109618 - PHP Memory Corruption Vulnerability",
@@ -1325,34 +1353,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87491",
       "source": "CISA KEV",
       "published": "2026-09-09T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-20079",
-      "title": "CVE-2026-20079 - Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-      "summary": "Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected…",
-      "vendor": "Cisco",
-      "product": "Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
-      "date_added": "2026-09-09",
-      "due_date": "2026-09-12",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20079",
-      "source": "CISA KEV",
-      "published": "2026-09-09T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-75650",
-      "title": "CVE-2026-75650 - Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
-      "summary": "Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.",
-      "vendor": "Adobe",
-      "product": "Commerce and Magento",
-      "date_added": "2026-09-08",
-      "due_date": "2026-09-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-75650",
-      "source": "CISA KEV",
-      "published": "2026-09-08T00:00:00Z",
       "actors": []
     }
   ]
