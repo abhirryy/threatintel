@@ -1,12 +1,102 @@
 {
-  "generated_at": "2026-10-27T10:45:08Z",
+  "generated_at": "2026-10-27T16:03:30Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 1,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+      "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
+      "url": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+      "source": "The Record",
+      "published": "2026-10-27T15:07:00Z",
+      "actors": []
+    },
+    {
+      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
+      "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
+      "url": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+      "source": "The Record",
+      "published": "2026-10-27T14:57:00Z",
+      "actors": []
+    },
+    {
+      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T14:09:46Z",
+      "actors": []
+    },
+    {
+      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain…",
+      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T14:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
+      "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
+      "url": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
+      "source": "The Record",
+      "published": "2026-10-27T13:36:00Z",
+      "actors": []
+    },
+    {
+      "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
+      "summary": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday.",
+      "url": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
+      "source": "The Record",
+      "published": "2026-10-27T13:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
+      "summary": "CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing.",
+      "url": "https://therecord.media/php-vulnerabilities-cisa-kev",
+      "source": "The Record",
+      "published": "2026-10-27T13:16:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+      "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246,…",
+      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T12:09:50Z",
+      "actors": []
+    },
+    {
+      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a…",
+      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T11:46:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also…",
+      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T11:32:46Z",
+      "actors": []
+    },
+    {
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the…",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T11:32:31Z",
+      "actors": [
+        "Lazarus"
+      ]
+    },
     {
       "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
       "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
@@ -81,7 +171,7 @@
     },
     {
       "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-      "summary": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+      "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
       "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
       "source": "Dark Reading",
       "published": "2026-10-27T00:26:50Z",
@@ -109,14 +199,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
       "source": "BleepingComputer",
       "published": "2026-10-26T21:08:28Z",
-      "actors": []
-    },
-    {
-      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
-      "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
-      "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
-      "source": "The Record",
-      "published": "2026-10-26T21:03:00Z",
       "actors": []
     },
     {
@@ -168,30 +250,6 @@
       "actors": []
     },
     {
-      "title": "Serbian autocrat loses election following widespread reports of digital repression",
-      "summary": "Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.",
-      "url": "https://therecord.media/serbia-election-spyware-vucic",
-      "source": "The Record",
-      "published": "2026-10-26T17:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
-      "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
-      "url": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
-      "source": "The Record",
-      "published": "2026-10-26T16:40:00Z",
-      "actors": []
-    },
-    {
-      "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds",
-      "summary": "44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.",
-      "url": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
-      "source": "The Record",
-      "published": "2026-10-26T16:37:00Z",
-      "actors": []
-    },
-    {
       "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
       "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
@@ -213,14 +271,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
       "source": "BleepingComputer",
       "published": "2026-10-26T15:38:24Z",
-      "actors": []
-    },
-    {
-      "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
-      "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.",
-      "url": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
-      "source": "The Record",
-      "published": "2026-10-26T14:21:00Z",
       "actors": []
     },
     {
@@ -360,27 +410,11 @@
       "actors": []
     },
     {
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "source": "BleepingComputer",
-      "published": "2026-10-25T15:49:38Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
       "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we…",
       "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
       "source": "The Hacker News",
       "published": "2026-10-25T06:54:29Z",
-      "actors": []
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "source": "BleepingComputer",
-      "published": "2026-10-24T14:17:32Z",
       "actors": []
     },
     {
@@ -454,41 +488,20 @@
       "source": "The Hacker News",
       "published": "2026-10-23T18:50:13Z",
       "actors": []
-    },
-    {
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it,…",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T17:54:08Z",
-      "actors": []
-    },
-    {
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking…",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "source": "The Hacker News",
-      "published": "2026-10-23T17:50:47Z",
-      "actors": []
-    },
-    {
-      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-      "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-      "source": "Dark Reading",
-      "published": "2026-10-23T17:26:59Z",
-      "actors": []
-    },
-    {
-      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-      "summary": "The region is demonstrating what happens when exploits accelerate but assurance does not.",
-      "url": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-      "source": "Dark Reading",
-      "published": "2026-10-23T14:00:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the…",
+      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "source": "The Hacker News",
+      "published": "2026-10-27T11:32:31Z",
+      "actors": [
+        "Lazarus"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
       "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a…",
