@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-10-28T17:20:18Z",
+  "generated_at": "2026-10-28T21:46:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+      "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+      "url": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+      "source": "The Record",
+      "published": "2026-10-28T20:50:00Z",
+      "actors": []
+    },
+    {
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T20:47:22Z",
+      "actors": []
+    },
+    {
+      "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+      "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
+      "url": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+      "source": "The Record",
+      "published": "2026-10-28T20:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "Discord to let search engines index public server messages",
+      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T18:44:16Z",
+      "actors": []
+    },
+    {
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and…",
+      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T18:08:33Z",
+      "actors": [
+        "Volt Typhoon"
+      ]
+    },
+    {
+      "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+      "summary": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
+      "url": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+      "source": "The Record",
+      "published": "2026-10-28T18:02:00Z",
+      "actors": []
+    },
+    {
+      "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
+      "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
+      "url": "https://therecord.media/north-korea-russia-sanctions",
+      "source": "The Record",
+      "published": "2026-10-28T17:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing…",
+      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T17:08:09Z",
+      "actors": []
+    },
     {
       "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
       "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
@@ -21,6 +87,14 @@
       "url": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
       "source": "The Record",
       "published": "2026-10-28T16:37:00Z",
+      "actors": []
+    },
+    {
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin…",
+      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T16:23:34Z",
       "actors": []
     },
     {
@@ -48,22 +122,6 @@
       "actors": [
         "Volt Typhoon"
       ]
-    },
-    {
-      "title": "UK to look at making software companies liable for cyber breaches",
-      "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security.",
-      "url": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
-      "source": "The Record",
-      "published": "2026-10-28T15:37:00Z",
-      "actors": []
-    },
-    {
-      "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
-      "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
-      "url": "https://therecord.media/belarus-russia-hackers-ukraine-war",
-      "source": "The Record",
-      "published": "2026-10-28T15:15:00Z",
-      "actors": []
     },
     {
       "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
@@ -99,7 +157,7 @@
     },
     {
       "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched…",
+      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of…",
       "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
       "source": "The Hacker News",
       "published": "2026-10-28T12:48:03Z",
@@ -111,14 +169,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
       "source": "BleepingComputer",
       "published": "2026-10-28T12:19:57Z",
-      "actors": []
-    },
-    {
-      "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
-      "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
-      "url": "https://therecord.media/fbi-seizure-csam-virtualine",
-      "source": "The Record",
-      "published": "2026-10-28T12:00:00Z",
       "actors": []
     },
     {
@@ -211,7 +261,7 @@
     },
     {
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-      "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+      "summary": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
       "url": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
       "source": "Dark Reading",
       "published": "2026-10-28T06:00:00Z",
@@ -284,14 +334,6 @@
       ]
     },
     {
-      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
-      "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
-      "url": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-      "source": "The Record",
-      "published": "2026-10-27T20:40:00Z",
-      "actors": []
-    },
-    {
       "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
       "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
       "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
@@ -329,22 +371,6 @@
       "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
       "source": "Dark Reading",
       "published": "2026-10-27T16:47:20Z",
-      "actors": []
-    },
-    {
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T16:15:39Z",
-      "actors": []
-    },
-    {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T14:09:46Z",
       "actors": []
     },
     {
@@ -468,33 +494,20 @@
       "source": "Dark Reading",
       "published": "2026-10-26T20:59:26Z",
       "actors": []
-    },
-    {
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users,…",
-      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T18:12:22Z",
-      "actors": []
-    },
-    {
-      "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
-      "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
-      "source": "Dark Reading",
-      "published": "2026-10-26T18:01:40Z",
-      "actors": []
-    },
-    {
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension…",
-      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T17:45:57Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains of compromised SOHO, IoT, and…",
+      "url": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T18:08:33Z",
+      "actors": [
+        "Volt Typhoon"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
       "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
@@ -530,6 +543,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-41709",
+      "title": "CVE-2026-41709 - Broadcom VMWare ESX Insufficient Logging Vulnerability",
+      "summary": "Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.",
+      "vendor": "Broadcom",
+      "product": "VMware ESX",
+      "date_added": "2026-10-28",
+      "due_date": "2026-11-11",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-41709",
+      "source": "CISA KEV",
+      "published": "2026-10-28T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-46300",
+      "title": "CVE-2026-46300 - Linux Kernel Missing Initialization of a Variable Vulnerability",
+      "summary": "Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing ESP input processing to decrypt shared fragments in place. This vulnerability can…",
+      "vendor": "Linux",
+      "product": "Kernel",
+      "date_added": "2026-10-28",
+      "due_date": "2026-10-31",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-46300",
+      "source": "CISA KEV",
+      "published": "2026-10-28T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-48356",
       "title": "CVE-2026-48356 - Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
@@ -1338,34 +1379,6 @@
       "due_date": "2026-09-12",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19490",
-      "source": "CISA KEV",
-      "published": "2026-09-09T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2025-25249",
-      "title": "CVE-2025-25249 - Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
-      "summary": "Fortinet FortiOS, FortiSwitchManager, and FortiSASE contain a heap-based buffer overflow vulnerability that allows an attacker to execute unauthorized code or commands via specially crafted packets.",
-      "vendor": "Fortinet",
-      "product": "Multiple Products",
-      "date_added": "2026-09-09",
-      "due_date": "2026-09-12",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-25249",
-      "source": "CISA KEV",
-      "published": "2026-09-09T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-87491",
-      "title": "CVE-2026-87491 - Google Chromium V8 Out of Bounds Write Vulnerability",
-      "summary": "Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.",
-      "vendor": "Google",
-      "product": "Chromium V8",
-      "date_added": "2026-09-09",
-      "due_date": "2026-09-23",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-87491",
       "source": "CISA KEV",
       "published": "2026-09-09T00:00:00Z",
       "actors": []
