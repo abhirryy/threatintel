@@ -1,12 +1,142 @@
 {
-  "generated_at": "2026-10-28T11:32:54Z",
+  "generated_at": "2026-10-28T17:20:18Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T16:45:47Z",
+      "actors": []
+    },
+    {
+      "title": "Moldova investigates possible foreign involvement in major government cyberattack",
+      "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.",
+      "url": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
+      "source": "The Record",
+      "published": "2026-10-28T16:37:00Z",
+      "actors": []
+    },
+    {
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33466",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-28T16:07:03Z",
+      "actors": []
+    },
+    {
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an…",
+      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T16:02:45Z",
+      "actors": []
+    },
+    {
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T16:00:00Z",
+      "actors": [
+        "Volt Typhoon"
+      ]
+    },
+    {
+      "title": "UK to look at making software companies liable for cyber breaches",
+      "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security.",
+      "url": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+      "source": "The Record",
+      "published": "2026-10-28T15:37:00Z",
+      "actors": []
+    },
+    {
+      "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
+      "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
+      "url": "https://therecord.media/belarus-russia-hackers-ukraine-war",
+      "source": "The Record",
+      "published": "2026-10-28T15:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T14:48:32Z",
+      "actors": []
+    },
+    {
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
+      "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+      "source": "Dark Reading",
+      "published": "2026-10-28T14:37:52Z",
+      "actors": []
+    },
+    {
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T13:50:59Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in the Oracle Application Object Library of Oracle E-Business Suite. It was patched…",
+      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T12:48:03Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T12:19:57Z",
+      "actors": []
+    },
+    {
+      "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
+      "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
+      "url": "https://therecord.media/fbi-seizure-csam-virtualine",
+      "source": "The Record",
+      "published": "2026-10-28T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is…",
+      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T11:50:00Z",
+      "actors": []
+    },
+    {
+      "title": "Wazuh and AI for Enhanced SOC Workflows",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has…",
+      "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "source": "The Hacker News",
+      "published": "2026-10-28T11:30:00Z",
+      "actors": []
+    },
     {
       "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
       "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection…",
@@ -170,14 +300,6 @@
       "actors": []
     },
     {
-      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
-      "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
-      "url": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-      "source": "The Record",
-      "published": "2026-10-27T19:30:00Z",
-      "actors": []
-    },
-    {
       "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
       "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the…",
       "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
@@ -218,35 +340,11 @@
       "actors": []
     },
     {
-      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
-      "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
-      "url": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-      "source": "The Record",
-      "published": "2026-10-27T15:07:00Z",
-      "actors": []
-    },
-    {
-      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
-      "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
-      "url": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
-      "source": "The Record",
-      "published": "2026-10-27T14:57:00Z",
-      "actors": []
-    },
-    {
       "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
       "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
       "source": "BleepingComputer",
       "published": "2026-10-27T14:09:46Z",
-      "actors": []
-    },
-    {
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain…",
-      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T14:01:11Z",
       "actors": []
     },
     {
@@ -263,14 +361,6 @@
       "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
       "source": "The Hacker News",
       "published": "2026-10-27T13:59:09Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
-      "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
-      "url": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
-      "source": "The Record",
-      "published": "2026-10-27T13:36:00Z",
       "actors": []
     },
     {
@@ -308,14 +398,6 @@
       ]
     },
     {
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T10:36:12Z",
-      "actors": []
-    },
-    {
       "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
       "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next…",
       "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
@@ -324,27 +406,11 @@
       "actors": []
     },
     {
-      "title": "Energy giant ENGIE discloses data breach affecting customers",
-      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T09:25:50Z",
-      "actors": []
-    },
-    {
       "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
       "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an…",
       "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
       "source": "The Hacker News",
       "published": "2026-10-27T08:22:43Z",
-      "actors": []
-    },
-    {
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T08:20:54Z",
       "actors": []
     },
     {
@@ -388,27 +454,11 @@
       "actors": []
     },
     {
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T22:20:36Z",
-      "actors": []
-    },
-    {
       "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
       "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
       "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
       "source": "Dark Reading",
       "published": "2026-10-26T21:44:33Z",
-      "actors": []
-    },
-    {
-      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T21:08:28Z",
       "actors": []
     },
     {
@@ -442,57 +492,20 @@
       "source": "The Hacker News",
       "published": "2026-10-26T17:45:57Z",
       "actors": []
-    },
-    {
-      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged…",
-      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T15:52:40Z",
-      "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And…",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T14:06:13Z",
-      "actors": []
-    },
-    {
-      "title": "10 Software Security Practices Built for the Next 250 Years",
-      "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-      "source": "Dark Reading",
-      "published": "2026-10-26T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the…",
-      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T11:52:41Z",
-      "actors": []
-    },
-    {
-      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into…",
-      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T11:23:56Z",
-      "actors": []
-    },
-    {
-      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own…",
-      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-      "source": "The Hacker News",
-      "published": "2026-10-26T09:54:02Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "source": "BleepingComputer",
+      "published": "2026-10-28T16:00:00Z",
+      "actors": [
+        "Volt Typhoon"
+      ],
+      "kind": "news"
+    },
     {
       "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
       "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
