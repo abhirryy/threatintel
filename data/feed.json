@@ -1,12 +1,78 @@
 {
-  "generated_at": "2026-10-27T20:38:53Z",
+  "generated_at": "2026-10-28T00:01:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T23:35:51Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+      "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T22:43:27Z",
+      "actors": []
+    },
+    {
+      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+      "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T22:07:34Z",
+      "actors": []
+    },
+    {
+      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
+      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
+      "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "source": "Dark Reading",
+      "published": "2026-10-27T21:15:03Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "source": "BleepingComputer",
+      "published": "2026-10-27T20:57:25Z",
+      "actors": []
+    },
+    {
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+      "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "source": "Dark Reading",
+      "published": "2026-10-27T20:42:40Z",
+      "actors": [
+        "Black Basta"
+      ]
+    },
+    {
+      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+      "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
+      "url": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
+      "source": "The Record",
+      "published": "2026-10-27T20:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
+      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
+      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "source": "Dark Reading",
+      "published": "2026-10-27T19:58:06Z",
+      "actors": []
+    },
     {
       "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
       "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
@@ -109,14 +175,6 @@
       "url": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
       "source": "The Record",
       "published": "2026-10-27T13:36:00Z",
-      "actors": []
-    },
-    {
-      "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
-      "summary": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday.",
-      "url": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
-      "source": "The Record",
-      "published": "2026-10-27T13:20:00Z",
       "actors": []
     },
     {
@@ -306,27 +364,11 @@
       "actors": []
     },
     {
-      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
-      "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T16:27:57Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
       "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged…",
       "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
       "source": "The Hacker News",
       "published": "2026-10-26T15:52:40Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-      "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T15:38:24Z",
       "actors": []
     },
     {
@@ -338,27 +380,11 @@
       "actors": []
     },
     {
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T14:00:10Z",
-      "actors": []
-    },
-    {
       "title": "10 Software Security Practices Built for the Next 250 Years",
       "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
       "source": "Dark Reading",
       "published": "2026-10-26T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-      "source": "BleepingComputer",
-      "published": "2026-10-26T13:56:44Z",
       "actors": []
     },
     {
@@ -464,33 +490,20 @@
       "source": "The Hacker News",
       "published": "2026-10-24T11:09:29Z",
       "actors": []
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness…",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "source": "The Hacker News",
-      "published": "2026-10-24T11:03:33Z",
-      "actors": []
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services…",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "source": "The Hacker News",
-      "published": "2026-10-24T10:36:33Z",
-      "actors": []
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a…",
-      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "source": "The Hacker News",
-      "published": "2026-10-24T09:04:24Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+      "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "source": "Dark Reading",
+      "published": "2026-10-27T20:42:40Z",
+      "actors": [
+        "Black Basta"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
       "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the…",
