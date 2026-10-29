@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T14:27:43Z",
+  "generated_at": "2026-10-29T19:47:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,78 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T19:23:41Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T18:38:26Z",
+      "actors": []
+    },
+    {
+      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
+      "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
+      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "source": "Dark Reading",
+      "published": "2026-10-29T18:15:59Z",
+      "actors": []
+    },
+    {
+      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
+      "summary": "\"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.",
+      "url": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
+      "source": "The Record",
+      "published": "2026-10-29T16:13:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T16:10:31Z",
+      "actors": []
+    },
+    {
+      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+      "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October 27 that its AI model wrote an exploit that uses the flaw to let a remote…",
+      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T15:57:05Z",
+      "actors": []
+    },
+    {
+      "title": "Threat Modeling With 4 Simple Questions on a White Board",
+      "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
+      "url": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
+      "source": "Dark Reading",
+      "published": "2026-10-29T15:44:04Z",
+      "actors": []
+    },
+    {
+      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+      "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6…",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T15:20:29Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-10-29T14:35:40Z",
+      "actors": []
+    },
     {
       "title": "3 Ways AI Agents Already Operate in Your Browser",
       "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users.…",
@@ -145,7 +217,7 @@
     },
     {
       "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
       "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
       "source": "Dark Reading",
       "published": "2026-10-29T08:00:00Z",
@@ -208,15 +280,7 @@
       "actors": []
     },
     {
-      "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
-      "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
-      "url": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
-      "source": "The Record",
-      "published": "2026-10-28T20:33:00Z",
-      "actors": []
-    },
-    {
-      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
       "source": "Dark Reading",
@@ -285,7 +349,7 @@
     },
     {
       "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But, in some cases, life-and-death uses are outpacing cyber security.",
+      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
       "source": "Dark Reading",
       "published": "2026-10-28T15:29:06Z",
@@ -332,14 +396,6 @@
       "actors": []
     },
     {
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T12:19:57Z",
-      "actors": []
-    },
-    {
       "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
       "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is…",
       "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
@@ -364,27 +420,11 @@
       "actors": []
     },
     {
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T10:46:23Z",
-      "actors": []
-    },
-    {
       "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
       "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of…",
       "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
       "source": "The Hacker News",
       "published": "2026-10-28T10:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T09:43:15Z",
       "actors": []
     },
     {
@@ -450,48 +490,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-10-28T02:30:11Z",
       "actors": []
-    },
-    {
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "source": "BleepingComputer",
-      "published": "2026-10-27T23:35:51Z",
-      "actors": []
-    },
-    {
-      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
-      "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
-      "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "source": "Dark Reading",
-      "published": "2026-10-27T21:15:03Z",
-      "actors": []
-    },
-    {
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "source": "Dark Reading",
-      "published": "2026-10-27T20:42:40Z",
-      "actors": [
-        "Black Basta"
-      ]
-    },
-    {
-      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-      "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
-      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-      "source": "Dark Reading",
-      "published": "2026-10-27T19:58:06Z",
-      "actors": []
-    },
-    {
-      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the…",
-      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T18:26:46Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -541,6 +539,34 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-97229",
+      "title": "CVE-2026-97229 - GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+      "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.",
+      "vendor": "GitLab",
+      "product": "Community Edition and Enterprise Edition",
+      "date_added": "2026-10-29",
+      "due_date": "2026-11-01",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
+      "source": "CISA KEV",
+      "published": "2026-10-29T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-76418",
+      "title": "CVE-2026-76418 - Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+      "summary": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.",
+      "vendor": "Cisco",
+      "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+      "date_added": "2026-10-29",
+      "due_date": "2026-11-01",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
+      "source": "CISA KEV",
+      "published": "2026-10-29T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-41709",
       "title": "CVE-2026-41709 - Broadcom VMWare ESX Insufficient Logging Vulnerability",
@@ -1351,34 +1377,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86060",
       "source": "CISA KEV",
       "published": "2026-09-10T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-67277",
-      "title": "CVE-2026-67277 - MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
-      "summary": "MikroTik RouterOS contains a missing authentication for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.",
-      "vendor": "MikroTik",
-      "product": "RouterOS",
-      "date_added": "2026-09-10",
-      "due_date": "2026-09-13",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-67277",
-      "source": "CISA KEV",
-      "published": "2026-09-10T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-19490",
-      "title": "CVE-2026-19490 - Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, or RDP Proxy), an unauthenticated remote threat actor may be able to bypass…",
-      "vendor": "Citrix",
-      "product": "NetScaler",
-      "date_added": "2026-09-09",
-      "due_date": "2026-09-12",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19490",
-      "source": "CISA KEV",
-      "published": "2026-09-09T00:00:00Z",
       "actors": []
     }
   ]
