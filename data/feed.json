@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:17:57Z",
+  "generated_at": "2026-10-29T07:14:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S.…",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T06:22:33Z",
+      "actors": []
+    },
+    {
+      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
+      "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapshot and take some more when you reached a critical step. But, if you need to revert to a previous…",
+      "url": "https://isc.sans.edu/diary/rss/33470",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-29T06:17:41Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company…",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "source": "The Hacker News",
+      "published": "2026-10-29T05:50:17Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Thursday, October 29th, 2026 https://isc.sans.edu/podcastdetail/10156, (Thu, Oct 29th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33468",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-29T03:10:12Z",
+      "actors": []
+    },
     {
       "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
       "summary": "Introduction",
@@ -461,38 +493,6 @@
       "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
       "source": "The Hacker News",
       "published": "2026-10-27T04:37:59Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33462",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-27T02:55:13Z",
-      "actors": []
-    },
-    {
-      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
-      "summary": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update.",
-      "url": "https://isc.sans.edu/diary/rss/33458",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-27T02:09:55Z",
-      "actors": []
-    },
-    {
-      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-      "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "source": "Dark Reading",
-      "published": "2026-10-27T00:26:50Z",
-      "actors": []
-    },
-    {
-      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-      "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-      "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-      "source": "Dark Reading",
-      "published": "2026-10-26T21:44:33Z",
       "actors": []
     }
   ],
