@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:46:31Z",
+  "generated_at": "2026-10-29T01:17:57Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "summary": "Introduction",
+      "url": "https://isc.sans.edu/diary/rss/33466",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-29T00:42:15Z",
+      "actors": []
+    },
     {
       "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
       "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
@@ -29,6 +37,14 @@
       "url": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
       "source": "The Record",
       "published": "2026-10-28T20:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "source": "Dark Reading",
+      "published": "2026-10-28T19:39:00Z",
       "actors": []
     },
     {
@@ -95,14 +111,6 @@
       "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
       "source": "The Hacker News",
       "published": "2026-10-28T16:23:34Z",
-      "actors": []
-    },
-    {
-      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
-      "summary": "Introduction",
-      "url": "https://isc.sans.edu/diary/rss/33466",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-28T16:07:03Z",
       "actors": []
     },
     {
@@ -485,14 +493,6 @@
       "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
       "source": "Dark Reading",
       "published": "2026-10-26T21:44:33Z",
-      "actors": []
-    },
-    {
-      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
-      "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
-      "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
-      "source": "Dark Reading",
-      "published": "2026-10-26T20:59:26Z",
       "actors": []
     }
   ],
