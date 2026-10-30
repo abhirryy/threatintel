@@ -1,18 +1,154 @@
 {
-  "generated_at": "2026-10-30T09:52:14Z",
+  "generated_at": "2026-10-30T16:25:22Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+      "source": "BleepingComputer",
+      "published": "2026-10-30T15:58:20Z",
+      "actors": []
+    },
+    {
+      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+      "summary": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
+      "url": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+      "source": "The Record",
+      "published": "2026-10-30T15:54:00Z",
+      "actors": []
+    },
+    {
+      "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
+      "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+      "source": "Dark Reading",
+      "published": "2026-10-30T15:39:54Z",
+      "actors": []
+    },
+    {
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "source": "BleepingComputer",
+      "published": "2026-10-30T14:36:54Z",
+      "actors": []
+    },
+    {
+      "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
+      "summary": "Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest advisers.",
+      "url": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
+      "source": "The Record",
+      "published": "2026-10-30T14:24:00Z",
+      "actors": []
+    },
+    {
+      "title": "Undead Software Projects Continue to Raise Security Risks",
+      "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
+      "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+      "source": "Dark Reading",
+      "published": "2026-10-30T14:10:37Z",
+      "actors": []
+    },
+    {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend…",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "source": "BleepingComputer",
+      "published": "2026-10-30T14:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-30T13:00:32Z",
+      "actors": []
+    },
+    {
+      "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
+      "summary": "The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue.",
+      "url": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
+      "source": "The Record",
+      "published": "2026-10-30T12:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers target government Windows systems in Asia with new malware",
+      "summary": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers.",
+      "url": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
+      "source": "The Record",
+      "published": "2026-10-30T12:36:00Z",
+      "actors": []
+    },
+    {
+      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to…",
+      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T12:21:56Z",
+      "actors": []
+    },
+    {
+      "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change…",
+      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T11:58:53Z",
+      "actors": []
+    },
+    {
+      "title": "Polymarket confirms cyberattack on third-party provider after outages",
+      "summary": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.",
+      "url": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
+      "source": "The Record",
+      "published": "2026-10-30T11:33:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft finally fixes VPN issues caused by September updates",
+      "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-10-30T11:20:26Z",
+      "actors": []
+    },
+    {
+      "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+      "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was organized and led by members of former Syrian President Bashar al-Assad's inner…",
+      "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T10:40:45Z",
+      "actors": []
+    },
+    {
+      "title": "Drupal warns of critical Commerce Core flaw exploited in attacks",
+      "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-10-30T10:16:07Z",
+      "actors": []
+    },
     {
       "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
       "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
       "source": "BleepingComputer",
       "published": "2026-10-30T09:18:13Z",
+      "actors": []
+    },
+    {
+      "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+      "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update, version 2.1.313, was distributed under the…",
+      "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+      "source": "The Hacker News",
+      "published": "2026-10-30T08:55:47Z",
       "actors": []
     },
     {
@@ -53,14 +189,6 @@
       "url": "https://isc.sans.edu/diary/rss/33472",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-30T03:30:17Z",
-      "actors": []
-    },
-    {
-      "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
-      "summary": "Binance, the world's largest cryptocurrency exchange, confirmed Thursday that it had been hacked in a $6.3 billion cyber heist that blockchain investigators are blaming on North Korea.",
-      "url": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
-      "source": "The Record",
-      "published": "2026-10-30T00:00:00Z",
       "actors": []
     },
     {
@@ -120,19 +248,11 @@
       "actors": []
     },
     {
-      "title": "Limited reports of PHP bug exploitation emerge",
-      "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
-      "url": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-      "source": "The Record",
-      "published": "2026-10-29T20:01:25Z",
-      "actors": []
-    },
-    {
-      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
-      "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
-      "url": "https://therecord.media/general-motors-lawsuit-privacy",
-      "source": "The Record",
-      "published": "2026-10-29T19:45:00Z",
+      "title": "Why CTF Competitions May Be More Important Than Ever",
+      "summary": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
+      "source": "Dark Reading",
+      "published": "2026-10-29T19:56:44Z",
       "actors": []
     },
     {
@@ -168,14 +288,6 @@
       "actors": []
     },
     {
-      "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
-      "summary": "\"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.",
-      "url": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
-      "source": "The Record",
-      "published": "2026-10-29T16:13:00Z",
-      "actors": []
-    },
-    {
       "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
       "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
@@ -208,51 +320,11 @@
       "actors": []
     },
     {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T14:35:40Z",
-      "actors": []
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users.…",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T14:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T13:59:48Z",
-      "actors": []
-    },
-    {
-      "title": "FTC to probe major companies over personalized pricing and pay",
-      "summary": "The Federal Trade Commission ordered nine food delivery, airline and ride-sharing companies to turn over detailed information on how they harness personal data to set individual consumer prices and employee compensation.",
-      "url": "https://therecord.media/ftc-rideshare-airlines-data",
-      "source": "The Record",
-      "published": "2026-10-29T13:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
       "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro…",
       "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
       "source": "The Hacker News",
       "published": "2026-10-29T13:42:40Z",
-      "actors": []
-    },
-    {
-      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T12:00:07Z",
       "actors": []
     },
     {
@@ -285,14 +357,6 @@
       "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
       "source": "The Hacker News",
       "published": "2026-10-29T11:33:15Z",
-      "actors": []
-    },
-    {
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T11:10:13Z",
       "actors": []
     },
     {
@@ -384,14 +448,6 @@
       "actors": []
     },
     {
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "source": "BleepingComputer",
-      "published": "2026-10-28T20:47:22Z",
-      "actors": []
-    },
-    {
       "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
       "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
       "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
@@ -432,62 +488,6 @@
       "source": "The Hacker News",
       "published": "2026-10-28T16:02:45Z",
       "actors": []
-    },
-    {
-      "title": "AI Takes Root in Hospital Corridors, Raises Security Stakes",
-      "summary": "Artificial intelligence (AI) is everywhere in healthcare, from doctors’ intake forms to cancer screenings. But in some cases, life-and-death uses are outpacing cybersecurity.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-root-hospital-corridors-raised-security-stakes",
-      "source": "Dark Reading",
-      "published": "2026-10-28T15:29:06Z",
-      "actors": []
-    },
-    {
-      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
-      "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
-      "url": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
-      "source": "Dark Reading",
-      "published": "2026-10-28T14:37:52Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of…",
-      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T12:48:03Z",
-      "actors": []
-    },
-    {
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is…",
-      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T11:50:00Z",
-      "actors": []
-    },
-    {
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has…",
-      "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection…",
-      "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T11:15:51Z",
-      "actors": []
-    },
-    {
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of…",
-      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "source": "The Hacker News",
-      "published": "2026-10-28T10:30:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -510,17 +510,6 @@
       "published": "2026-10-27T20:42:40Z",
       "actors": [
         "Black Basta"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the…",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "source": "The Hacker News",
-      "published": "2026-10-27T11:32:31Z",
-      "actors": [
-        "Lazarus"
       ],
       "kind": "news"
     }
