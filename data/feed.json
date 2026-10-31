@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:18:17Z",
+  "generated_at": "2026-10-31T12:49:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens.…",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T12:01:56Z",
+      "actors": []
+    },
+    {
+      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
+      "summary": "Wireshark Release Candidate 5.0.0 was published : soon we can expect a new major version of Wireshark.",
+      "url": "https://isc.sans.edu/diary/rss/33476",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-31T10:52:53Z",
+      "actors": []
+    },
+    {
+      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
+      "summary": "YARA-X&#;x26;#;39;s 1.22.1 is a bugfix version, it brings 2 bugfixes.",
+      "url": "https://isc.sans.edu/diary/rss/33474",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-31T10:48:17Z",
+      "actors": []
+    },
+    {
+      "title": "YARA-X 1.22.0 Release, (Sun, Oct 25th)",
+      "summary": "YARA-X&#x26;#39&#x26;#x3b;s 1.22.0 release brings 11 improvements and 9 bugfixes.",
+      "url": "https://isc.sans.edu/diary/rss/33454",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-10-31T10:45:40Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing…",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "source": "The Hacker News",
+      "published": "2026-10-31T08:27:43Z",
+      "actors": []
+    },
     {
       "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
       "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it…",
@@ -445,46 +485,6 @@
       "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
       "source": "The Hacker News",
       "published": "2026-10-29T09:05:39Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October…",
-      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T08:24:22Z",
-      "actors": []
-    },
-    {
-      "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
-      "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else.",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
-      "source": "Dark Reading",
-      "published": "2026-10-29T08:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized by a China-nexus threat actor known as Warp Panda in attacks targeting the U.S.…",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T06:22:33Z",
-      "actors": []
-    },
-    {
-      "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
-      "summary": "Building your malware analysis lab is a key point before playing with malware. Today, thanks to virtualization, it&#;x26;#;39;s convenient to play with snapshots in your lab. Start a new investigation from a clean snapshot and take some more when you reached a critical step. But, if you need to revert to a previous…",
-      "url": "https://isc.sans.edu/diary/rss/33470",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-10-29T06:17:41Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-      "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company…",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T05:50:17Z",
       "actors": []
     }
   ],
