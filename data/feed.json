@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:44:17Z",
+  "generated_at": "2026-11-01T16:26:58Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+      "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-11-01T15:11:21Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+      "source": "BleepingComputer",
+      "published": "2026-11-01T13:53:11Z",
+      "actors": []
+    },
     {
       "title": "OneNote File Extraction, (Sun, Nov 1st)",
       "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).",
@@ -373,22 +389,6 @@
       "url": "https://isc.sans.edu/diary/rss/33472",
       "source": "SANS Internet Storm Center",
       "published": "2026-10-30T03:30:17Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T23:35:52Z",
-      "actors": []
-    },
-    {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "source": "BleepingComputer",
-      "published": "2026-10-29T22:45:23Z",
       "actors": []
     },
     {
