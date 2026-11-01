@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T02:38:46Z",
+  "generated_at": "2026-11-01T09:44:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OneNote File Extraction, (Sun, Nov 1st)",
+      "summary": "Recently, I had to extract embedded files from a set of OneNote files (extension .one).",
+      "url": "https://isc.sans.edu/diary/rss/33478",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-01T09:12:23Z",
+      "actors": []
+    },
+    {
+      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+      "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker would act as that client, with access to…",
+      "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+      "source": "The Hacker News",
+      "published": "2026-11-01T08:51:31Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+      "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about $2.7 million to 726 affected wallets.…",
+      "url": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+      "source": "The Hacker News",
+      "published": "2026-11-01T07:25:40Z",
+      "actors": []
+    },
+    {
+      "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS)…",
+      "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-01T07:03:00Z",
+      "actors": []
+    },
+    {
+      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+      "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the…",
+      "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+      "source": "The Hacker News",
+      "published": "2026-11-01T07:02:58Z",
+      "actors": []
+    },
     {
       "title": "Northflank security breach leads to abuse of customers' AI API keys",
       "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
@@ -445,46 +485,6 @@
       "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
       "source": "The Hacker News",
       "published": "2026-10-29T11:33:41Z",
-      "actors": []
-    },
-    {
-      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the…",
-      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T11:33:15Z",
-      "actors": []
-    },
-    {
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system.…",
-      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T10:44:46Z",
-      "actors": []
-    },
-    {
-      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The…",
-      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T10:26:33Z",
-      "actors": []
-    },
-    {
-      "title": "Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes",
-      "summary": "The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes",
-      "source": "Dark Reading",
-      "published": "2026-10-29T10:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI…",
-      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T09:05:39Z",
       "actors": []
     }
   ],
