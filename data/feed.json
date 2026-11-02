@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T23:55:58Z",
+  "generated_at": "2026-11-02T05:10:44Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33480",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-02T02:00:03Z",
+      "actors": []
+    },
     {
       "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
       "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
       "source": "The Hacker News",
       "published": "2026-10-29T11:39:18Z",
-      "actors": []
-    },
-    {
-      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security…",
-      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-      "source": "The Hacker News",
-      "published": "2026-10-29T11:33:41Z",
       "actors": []
     }
   ],
