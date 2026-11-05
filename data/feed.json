@@ -1,12 +1,126 @@
 {
-  "generated_at": "2026-11-05T13:33:36Z",
+  "generated_at": "2026-11-05T20:48:40Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T20:15:08Z",
+      "actors": []
+    },
+    {
+      "title": "US issues more sanctions against Prince Group scam center affiliates",
+      "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
+      "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+      "source": "The Record",
+      "published": "2026-11-05T20:11:00Z",
+      "actors": []
+    },
+    {
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "source": "Dark Reading",
+      "published": "2026-11-05T20:05:39Z",
+      "actors": [
+        "APT29"
+      ]
+    },
+    {
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T19:24:26Z",
+      "actors": []
+    },
+    {
+      "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+      "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
+      "url": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+      "source": "The Record",
+      "published": "2026-11-05T19:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T17:45:29Z",
+      "actors": []
+    },
+    {
+      "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+      "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
+      "url": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+      "source": "The Record",
+      "published": "2026-11-05T17:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+      "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+      "source": "Dark Reading",
+      "published": "2026-11-05T16:48:36Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T16:24:26Z",
+      "actors": []
+    },
+    {
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T16:12:46Z",
+      "actors": []
+    },
+    {
+      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+      "summary": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting. Still nothing new. I suspect this is for CVE-2023-20198.",
+      "url": "https://isc.sans.edu/diary/rss/33492",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-05T15:29:08Z",
+      "actors": []
+    },
+    {
+      "title": "Closing the Identity Gap at the Service Desk",
+      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social…",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T15:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems…",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "source": "The Hacker News",
+      "published": "2026-11-05T14:41:10Z",
+      "actors": []
+    },
+    {
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and…",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "source": "The Hacker News",
+      "published": "2026-11-05T12:25:00Z",
+      "actors": []
+    },
     {
       "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
       "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically…",
@@ -112,14 +226,6 @@
       "actors": []
     },
     {
-      "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-      "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains platforms for flight reservation, ticketing and check-in platforms.",
-      "url": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-      "source": "The Record",
-      "published": "2026-11-04T21:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
       "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -128,27 +234,11 @@
       "actors": []
     },
     {
-      "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-      "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
-      "url": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-      "source": "The Record",
-      "published": "2026-11-04T19:17:00Z",
-      "actors": []
-    },
-    {
       "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
       "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
       "source": "BleepingComputer",
       "published": "2026-11-04T19:05:19Z",
-      "actors": []
-    },
-    {
-      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-      "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
-      "url": "https://therecord.media/french-bank-confirms-cyber-heist",
-      "source": "The Record",
-      "published": "2026-11-04T18:58:00Z",
       "actors": []
     },
     {
@@ -250,22 +340,6 @@
       "actors": []
     },
     {
-      "title": "US charges two Canadians accused of hacking US universities",
-      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T13:13:20Z",
-      "actors": []
-    },
-    {
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T12:11:05Z",
-      "actors": []
-    },
-    {
       "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
       "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active…",
       "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
@@ -295,14 +369,6 @@
       "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
       "source": "The Hacker News",
       "published": "2026-11-04T11:24:31Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T09:39:54Z",
       "actors": []
     },
     {
@@ -354,14 +420,6 @@
       "actors": []
     },
     {
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T22:18:50Z",
-      "actors": []
-    },
-    {
       "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
       "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
       "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
@@ -375,22 +433,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
       "source": "Dark Reading",
       "published": "2026-11-03T21:57:12Z",
-      "actors": []
-    },
-    {
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T21:28:44Z",
-      "actors": []
-    },
-    {
-      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
-      "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "source": "BleepingComputer",
-      "published": "2026-11-03T20:05:50Z",
       "actors": []
     },
     {
@@ -448,49 +490,20 @@
       "source": "Dark Reading",
       "published": "2026-11-03T15:35:50Z",
       "actors": []
-    },
-    {
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a…",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T15:16:32Z",
-      "actors": []
-    },
-    {
-      "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-      "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
-      "url": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-      "source": "Dark Reading",
-      "published": "2026-11-03T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as…",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T11:23:53Z",
-      "actors": []
-    },
-    {
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of…",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T11:18:20Z",
-      "actors": []
-    },
-    {
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local…",
-      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T11:00:45Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "source": "Dark Reading",
+      "published": "2026-11-05T20:05:39Z",
+      "actors": [
+        "APT29"
+      ],
+      "kind": "news"
+    },
     {
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects…",
