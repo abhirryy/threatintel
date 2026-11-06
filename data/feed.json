@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T20:48:40Z",
+  "generated_at": "2026-11-06T01:10:23Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -8,7 +8,55 @@
   },
   "osint_news": [
     {
-      "title": "Truffle Security launches program to revoke 1.4 million live secrets",
+      "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+      "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T00:56:44Z",
+      "actors": []
+    },
+    {
+      "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+      "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
+      "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+      "source": "The Record",
+      "published": "2026-11-05T22:08:00Z",
+      "actors": []
+    },
+    {
+      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+      "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+      "source": "Dark Reading",
+      "published": "2026-11-05T21:35:05Z",
+      "actors": []
+    },
+    {
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "source": "BleepingComputer",
+      "published": "2026-11-05T21:30:30Z",
+      "actors": []
+    },
+    {
+      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "source": "Dark Reading",
+      "published": "2026-11-05T21:00:47Z",
+      "actors": []
+    },
+    {
+      "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+      "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
+      "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+      "source": "The Record",
+      "published": "2026-11-05T20:48:00Z",
+      "actors": []
+    },
+    {
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
       "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
       "source": "BleepingComputer",
@@ -71,6 +119,22 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
       "source": "Dark Reading",
       "published": "2026-11-05T16:48:36Z",
+      "actors": []
+    },
+    {
+      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released…",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-05T16:42:46Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from…",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "source": "The Hacker News",
+      "published": "2026-11-05T16:42:32Z",
       "actors": []
     },
     {
@@ -194,22 +258,6 @@
       "actors": []
     },
     {
-      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-      "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack.",
-      "url": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-      "source": "The Record",
-      "published": "2026-11-05T00:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
-      "summary": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations.",
-      "url": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
-      "source": "The Record",
-      "published": "2026-11-05T00:00:00Z",
-      "actors": []
-    },
-    {
       "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
       "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
       "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -295,22 +343,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "source": "BleepingComputer",
       "published": "2026-11-04T16:00:18Z",
-      "actors": []
-    },
-    {
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers.…",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T15:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-      "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T14:42:25Z",
       "actors": []
     },
     {
@@ -457,38 +489,6 @@
       "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
       "source": "The Hacker News",
       "published": "2026-11-03T16:55:58Z",
-      "actors": []
-    },
-    {
-      "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-      "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a pre-authentication authorization bypass vulnerability and a command injection…",
-      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T15:59:19Z",
-      "actors": []
-    },
-    {
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through…",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "source": "The Hacker News",
-      "published": "2026-11-03T15:41:53Z",
-      "actors": []
-    },
-    {
-      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-      "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk.",
-      "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-      "source": "Dark Reading",
-      "published": "2026-11-03T15:38:20Z",
-      "actors": []
-    },
-    {
-      "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
-      "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
-      "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-      "source": "Dark Reading",
-      "published": "2026-11-03T15:35:50Z",
       "actors": []
     }
   ],
