@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:46:32Z",
+  "generated_at": "2026-11-06T21:06:31Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,70 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T20:24:19Z",
+      "actors": []
+    },
+    {
+      "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+      "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
+      "url": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+      "source": "The Record",
+      "published": "2026-11-06T19:06:00Z",
+      "actors": []
+    },
+    {
+      "title": "Certificate authority DigiCert reports data breach involving business customer info",
+      "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
+      "url": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+      "source": "The Record",
+      "published": "2026-11-06T18:56:00Z",
+      "actors": []
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T18:46:52Z",
+      "actors": []
+    },
+    {
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+      "source": "Dark Reading",
+      "published": "2026-11-06T18:27:30Z",
+      "actors": []
+    },
+    {
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T17:04:23Z",
+      "actors": []
+    },
+    {
+      "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
+      "summary": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurrency to cover his debts.",
+      "url": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+      "source": "The Record",
+      "published": "2026-11-06T16:53:00Z",
+      "actors": []
+    },
+    {
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can…",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T16:08:38Z",
+      "actors": []
+    },
     {
       "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
       "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
@@ -16,11 +80,27 @@
       "actors": []
     },
     {
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH…",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T15:21:49Z",
+      "actors": []
+    },
+    {
       "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
       "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
       "source": "BleepingComputer",
       "published": "2026-11-06T15:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within…",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "source": "The Hacker News",
+      "published": "2026-11-06T14:58:32Z",
       "actors": []
     },
     {
@@ -144,14 +224,6 @@
       "actors": []
     },
     {
-      "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-      "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
-      "url": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-      "source": "The Record",
-      "published": "2026-11-05T22:08:00Z",
-      "actors": []
-    },
-    {
       "title": "US Government Email Systems Open to Abuse Thanks to Typos",
       "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
       "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
@@ -176,27 +248,11 @@
       "actors": []
     },
     {
-      "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-      "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
-      "url": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-      "source": "The Record",
-      "published": "2026-11-05T20:48:00Z",
-      "actors": []
-    },
-    {
       "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
       "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
       "source": "BleepingComputer",
       "published": "2026-11-05T20:15:08Z",
-      "actors": []
-    },
-    {
-      "title": "US issues more sanctions against Prince Group scam center affiliates",
-      "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
-      "url": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-      "source": "The Record",
-      "published": "2026-11-05T20:11:00Z",
       "actors": []
     },
     {
@@ -274,14 +330,6 @@
       "actors": []
     },
     {
-      "title": "Closing the Identity Gap at the Service Desk",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social…",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T15:00:10Z",
-      "actors": []
-    },
-    {
       "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
       "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems…",
       "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
@@ -319,14 +367,6 @@
       "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
       "source": "The Hacker News",
       "published": "2026-11-05T10:06:19Z",
-      "actors": []
-    },
-    {
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T09:18:29Z",
       "actors": []
     },
     {
@@ -378,14 +418,6 @@
       "actors": []
     },
     {
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "source": "BleepingComputer",
-      "published": "2026-11-04T21:31:18Z",
-      "actors": []
-    },
-    {
       "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
       "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed…",
       "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
@@ -403,7 +435,7 @@
     },
     {
       "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-      "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
+      "summary": "Android device manufacturer Videostrong allegedly ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
       "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
       "source": "Dark Reading",
       "published": "2026-11-04T16:24:08Z",
@@ -458,38 +490,6 @@
       "source": "The Hacker News",
       "published": "2026-11-04T11:46:27Z",
       "actors": []
-    },
-    {
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An…",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T11:34:20Z",
-      "actors": []
-    },
-    {
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign,…",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T11:24:31Z",
-      "actors": []
-    },
-    {
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation…",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T08:17:11Z",
-      "actors": []
-    },
-    {
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on…",
-      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T07:46:15Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -528,6 +528,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-19868",
+      "title": "CVE-2026-19868 - SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+      "summary": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).",
+      "vendor": "SonicWall",
+      "product": "SonicOS SSLVPN",
+      "date_added": "2026-11-06",
+      "due_date": "2026-11-20",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+      "source": "CISA KEV",
+      "published": "2026-11-06T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2024-27834",
       "title": "CVE-2024-27834 - Apple Multiple Products Improper Authentication Vulnerability",
@@ -1352,20 +1366,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76461",
       "source": "CISA KEV",
       "published": "2026-09-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-84869",
-      "title": "CVE-2026-84869 - ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
-      "summary": "ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to transfer and execute files through an active remote session without authorization or host confirmation.",
-      "vendor": "ConnectWise",
-      "product": "ScreenConnect",
-      "date_added": "2026-09-11",
-      "due_date": "2026-09-14",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-84869",
-      "source": "CISA KEV",
-      "published": "2026-09-11T00:00:00Z",
       "actors": []
     }
   ]
