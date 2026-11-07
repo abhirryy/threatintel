@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:48:10Z",
+  "generated_at": "2026-11-07T13:36:48Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings…",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "source": "The Hacker News",
+      "published": "2026-11-07T06:44:17Z",
+      "actors": []
+    },
     {
       "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
       "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
@@ -481,14 +489,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
       "source": "Dark Reading",
       "published": "2026-11-04T14:17:00Z",
-      "actors": []
-    },
-    {
-      "title": "The Classics Return: Vulnerable E-Mail Scripts, (Wed, Nov 4th)",
-      "summary": "One of the early web application vulnerabilities I remember was CVE-2000-0411 [CVE]. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other vulnerabilities allowed setting the…",
-      "url": "https://isc.sans.edu/diary/rss/33488",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-04T13:24:13Z",
       "actors": []
     }
   ],
