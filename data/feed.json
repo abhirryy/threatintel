@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-11-06T21:06:31Z",
+  "generated_at": "2026-11-07T00:53:17Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-07T00:00:55Z",
+      "actors": []
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "source": "BleepingComputer",
+      "published": "2026-11-06T22:27:25Z",
+      "actors": []
+    },
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "source": "Dark Reading",
+      "published": "2026-11-06T21:27:36Z",
+      "actors": []
+    },
     {
       "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
       "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
@@ -224,6 +248,14 @@
       "actors": []
     },
     {
+      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
+      "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
+      "source": "Dark Reading",
+      "published": "2026-11-05T22:13:23Z",
+      "actors": []
+    },
+    {
       "title": "US Government Email Systems Open to Abuse Thanks to Typos",
       "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
       "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
@@ -303,22 +335,6 @@
       "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
       "source": "The Hacker News",
       "published": "2026-11-05T16:42:32Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T16:24:26Z",
-      "actors": []
-    },
-    {
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T16:12:46Z",
       "actors": []
     },
     {
@@ -474,22 +490,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-11-04T13:24:13Z",
       "actors": []
-    },
-    {
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active…",
-      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T12:07:04Z",
-      "actors": []
-    },
-    {
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory…",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T11:46:27Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -512,17 +512,6 @@
       "published": "2026-11-04T14:27:52Z",
       "actors": [
         "APT29"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
-      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "source": "Dark Reading",
-      "published": "2026-10-27T20:42:40Z",
-      "actors": [
-        "Black Basta"
       ],
       "kind": "news"
     }
