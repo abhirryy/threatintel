@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:36:48Z",
+  "generated_at": "2026-11-07T18:17:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "source": "BleepingComputer",
+      "published": "2026-11-07T15:25:35Z",
+      "actors": []
+    },
+    {
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised…",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "source": "BleepingComputer",
+      "published": "2026-11-07T14:10:19Z",
+      "actors": []
+    },
     {
       "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
       "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings…",
@@ -304,22 +320,6 @@
       "actors": [
         "APT29"
       ]
-    },
-    {
-      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-      "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T19:24:26Z",
-      "actors": []
-    },
-    {
-      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-      "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T17:45:29Z",
-      "actors": []
     },
     {
       "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
