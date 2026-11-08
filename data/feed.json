@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:29:44Z",
+  "generated_at": "2026-11-08T19:01:45Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
+      "summary": "Our honeypots use \"Cowrie\" to collect SSH data. With the emergence of the \"sshole\" vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of SSH passwords. Longer passwords are…",
+      "url": "https://isc.sans.edu/diary/rss/33498",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-08T15:44:33Z",
+      "actors": []
+    },
+    {
+      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-08T15:43:08Z",
+      "actors": []
+    },
     {
       "title": "Hackers pull off $133 million French bank heist via service provider",
       "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
@@ -304,14 +320,6 @@
       "actors": []
     },
     {
-      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-      "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-      "source": "BleepingComputer",
-      "published": "2026-11-05T20:15:08Z",
-      "actors": []
-    },
-    {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
       "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
       "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
@@ -482,14 +490,6 @@
       "actors": [
         "APT29"
       ]
-    },
-    {
-      "title": "Incidents Move Too Fast for Pen & Paper",
-      "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-      "source": "Dark Reading",
-      "published": "2026-11-04T14:17:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
