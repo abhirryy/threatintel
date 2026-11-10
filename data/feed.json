@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T02:44:25Z",
+  "generated_at": "2026-11-10T10:29:24Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
@@ -7,6 +7,88 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T10:10:20Z",
+      "actors": []
+    },
+    {
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T10:04:32Z",
+      "actors": [
+        "Turla"
+      ]
+    },
+    {
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web…",
+      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:02:40Z",
+      "actors": []
+    },
+    {
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high…",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T09:08:20Z",
+      "actors": []
+    },
+    {
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T08:51:25Z",
+      "actors": []
+    },
+    {
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three working electronic…",
+      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T08:16:14Z",
+      "actors": []
+    },
+    {
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T07:49:58Z",
+      "actors": []
+    },
+    {
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free…",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T06:52:54Z",
+      "actors": []
+    },
+    {
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "summary": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. \"As a precautionary measure, we are temporarily taking our Hosted N-central…",
+      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T06:44:36Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below -…",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T06:31:42Z",
+      "actors": []
+    },
     {
       "title": "ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -232,14 +314,6 @@
       "actors": []
     },
     {
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "source": "BleepingComputer",
-      "published": "2026-11-09T12:16:13Z",
-      "actors": []
-    },
-    {
       "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
       "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now…",
       "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
@@ -309,30 +383,6 @@
       "url": "https://isc.sans.edu/diary/rss/33498",
       "source": "SANS Internet Storm Center",
       "published": "2026-11-08T15:44:33Z",
-      "actors": []
-    },
-    {
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "source": "BleepingComputer",
-      "published": "2026-11-08T15:43:08Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "source": "BleepingComputer",
-      "published": "2026-11-07T15:25:35Z",
-      "actors": []
-    },
-    {
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised…",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "source": "BleepingComputer",
-      "published": "2026-11-07T14:10:19Z",
       "actors": []
     },
     {
@@ -438,76 +488,26 @@
       "source": "The Hacker News",
       "published": "2026-11-06T05:58:54Z",
       "actors": []
-    },
-    {
-      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is…",
-      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T05:39:10Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33494",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-06T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Operação de influência russa tem como alvo generalizado a América Latina",
-      "summary": "A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina",
-      "source": "Dark Reading",
-      "published": "2026-11-05T22:13:23Z",
-      "actors": []
-    },
-    {
-      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-      "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-      "source": "Dark Reading",
-      "published": "2026-11-05T21:35:05Z",
-      "actors": []
-    },
-    {
-      "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-      "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-      "source": "Dark Reading",
-      "published": "2026-11-05T21:00:47Z",
-      "actors": []
-    },
-    {
-      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "source": "Dark Reading",
-      "published": "2026-11-05T20:05:39Z",
-      "actors": [
-        "APT29"
-      ]
     }
   ],
   "threat_actors": [
     {
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T10:04:32Z",
+      "actors": [
+        "Turla"
+      ],
+      "kind": "news"
+    },
+    {
       "title": "APT29's Watering Holes Target Thousands of Mobile Users",
       "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
       "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
       "source": "Dark Reading",
       "published": "2026-11-05T20:05:39Z",
-      "actors": [
-        "APT29"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects…",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "source": "The Hacker News",
-      "published": "2026-11-04T14:27:52Z",
       "actors": [
         "APT29"
       ],
