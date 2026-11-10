@@ -1,12 +1,142 @@
 {
-  "generated_at": "2026-11-10T10:29:24Z",
+  "generated_at": "2026-11-10T18:09:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 2,
+    "threat_actors": 4,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T16:17:16Z",
+      "actors": []
+    },
+    {
+      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
+      "summary": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
+      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
+      "source": "The Record",
+      "published": "2026-11-10T16:08:00Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication…",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T16:00:55Z",
+      "actors": []
+    },
+    {
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T15:59:19Z",
+      "actors": []
+    },
+    {
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that…",
+      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T15:58:44Z",
+      "actors": []
+    },
+    {
+      "title": "Cybercriminals are increasingly infecting regular people with spyware",
+      "summary": "Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.",
+      "url": "https://therecord.media/spyware-cyber-crime-iverify",
+      "source": "The Record",
+      "published": "2026-11-10T15:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10,…",
+      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T15:33:59Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware recovery is now a client retention metric",
+      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client…",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T15:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain",
+      "summary": "Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.",
+      "url": "https://therecord.media/michael-losapio-cisa-director-nomination",
+      "source": "The Record",
+      "published": "2026-11-10T14:31:00Z",
+      "actors": []
+    },
+    {
+      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "source": "Dark Reading",
+      "published": "2026-11-10T13:00:00Z",
+      "actors": [
+        "Turla"
+      ]
+    },
+    {
+      "title": "Russian hackers compromised government email servers to steal NATO, EU correspondence",
+      "summary": "Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan to secretly intercept messages exchanged with NATO and European Union officials, researchers said.",
+      "url": "https://therecord.media/russia-hackers-espionage-romania-kazakhstan",
+      "source": "The Record",
+      "published": "2026-11-10T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)",
+      "summary": "",
+      "url": "https://isc.sans.edu/diary/rss/33506",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-10T12:48:55Z",
+      "actors": []
+    },
+    {
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher…",
+      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T12:15:31Z",
+      "actors": []
+    },
+    {
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "source": "BleepingComputer",
+      "published": "2026-11-10T12:07:03Z",
+      "actors": []
+    },
+    {
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in.…",
+      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T11:38:13Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday…",
+      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:16:51Z",
+      "actors": []
+    },
     {
       "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
       "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
@@ -14,6 +144,16 @@
       "source": "BleepingComputer",
       "published": "2026-11-10T10:10:20Z",
       "actors": []
+    },
+    {
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News…",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:07:29Z",
+      "actors": [
+        "Turla"
+      ]
     },
     {
       "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
@@ -162,27 +302,11 @@
       "actors": []
     },
     {
-      "title": "France blames Iran for fridge cyberattacks, says some caused fires",
-      "summary": "In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water utilities.",
-      "url": "https://therecord.media/france-blames-iran-for-fridge-cyberattacks",
-      "source": "The Record",
-      "published": "2026-11-09T18:45:00Z",
-      "actors": []
-    },
-    {
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "source": "BleepingComputer",
       "published": "2026-11-09T18:32:42Z",
-      "actors": []
-    },
-    {
-      "title": "Vanderbilt cybersecurity incident impacting campus devices and systems",
-      "summary": "Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.",
-      "url": "https://therecord.media/vanderbilt-cyberattack-ransomware-alert",
-      "source": "The Record",
-      "published": "2026-11-09T18:30:00Z",
       "actors": []
     },
     {
@@ -242,14 +366,6 @@
       "actors": []
     },
     {
-      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "source": "BleepingComputer",
-      "published": "2026-11-09T16:04:57Z",
-      "actors": []
-    },
-    {
       "title": "NIST: Solo Shouldn't Mean Less Secure",
       "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
       "url": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
@@ -258,51 +374,11 @@
       "actors": []
     },
     {
-      "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
-      "summary": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.",
-      "url": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
-      "source": "The Record",
-      "published": "2026-11-09T15:24:00Z",
-      "actors": []
-    },
-    {
-      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-      "source": "BleepingComputer",
-      "published": "2026-11-09T15:05:15Z",
-      "actors": []
-    },
-    {
-      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-      "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-      "source": "BleepingComputer",
-      "published": "2026-11-09T14:34:03Z",
-      "actors": []
-    },
-    {
       "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
       "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs…",
       "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
       "source": "The Hacker News",
       "published": "2026-11-09T14:31:29Z",
-      "actors": []
-    },
-    {
-      "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
-      "summary": "Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed.",
-      "url": "https://therecord.media/cyberattack-germany-ai-mittwald",
-      "source": "The Record",
-      "published": "2026-11-09T14:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "source": "BleepingComputer",
-      "published": "2026-11-09T13:28:56Z",
       "actors": []
     },
     {
@@ -416,81 +492,31 @@
       "source": "The Hacker News",
       "published": "2026-11-06T16:08:38Z",
       "actors": []
-    },
-    {
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T15:21:49Z",
-      "actors": []
-    },
-    {
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within…",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T14:58:32Z",
-      "actors": []
-    },
-    {
-      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-      "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-      "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-      "source": "Dark Reading",
-      "published": "2026-11-06T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an…",
-      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T12:06:43Z",
-      "actors": []
-    },
-    {
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that…",
-      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T12:06:35Z",
-      "actors": []
-    },
-    {
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are…",
-      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T11:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-      "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-      "source": "Dark Reading",
-      "published": "2026-11-06T09:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we…",
-      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T08:04:49Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs.…",
-      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "source": "The Hacker News",
-      "published": "2026-11-06T05:58:54Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
+      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising fresh concerns for defenders.",
+      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
+      "source": "Dark Reading",
+      "published": "2026-11-10T13:00:00Z",
+      "actors": [
+        "Turla"
+      ],
+      "kind": "news"
+    },
+    {
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News…",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "source": "The Hacker News",
+      "published": "2026-11-10T10:07:29Z",
+      "actors": [
+        "Turla"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
       "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
