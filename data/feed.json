@@ -1,12 +1,124 @@
 {
-  "generated_at": "2026-11-11T10:17:07Z",
+  "generated_at": "2026-11-11T17:56:32Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 120,
-    "threat_actors": 4,
+    "threat_actors": 3,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Iran-backed network directed London attacks over FaceTime, US prosecutors say",
+      "summary": "An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.",
+      "url": "https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime",
+      "source": "The Record",
+      "published": "2026-11-11T16:57:00Z",
+      "actors": []
+    },
+    {
+      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+      "summary": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T16:24:18Z",
+      "actors": []
+    },
+    {
+      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+      "summary": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper input validation vulnerability that could…",
+      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T16:12:46Z",
+      "actors": []
+    },
+    {
+      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+      "summary": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. \"In several recently observed intrusions, Alibaba Cloud systems hosting…",
+      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T15:34:27Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T15:12:59Z",
+      "actors": []
+    },
+    {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T15:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+      "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow…",
+      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T14:01:00Z",
+      "actors": []
+    },
+    {
+      "title": "Poland shuts down government services platform ePUAP following cyberattack",
+      "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+      "url": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+      "source": "The Record",
+      "published": "2026-11-11T13:18:00Z",
+      "actors": []
+    },
+    {
+      "title": "Britain, France set out first guidelines for commercial hacking firms",
+      "summary": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
+      "url": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+      "source": "The Record",
+      "published": "2026-11-11T13:11:00Z",
+      "actors": []
+    },
+    {
+      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+      "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T12:32:27Z",
+      "actors": []
+    },
+    {
+      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+      "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing…",
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T12:19:40Z",
+      "actors": []
+    },
+    {
+      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+      "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default. This helped us think through how such…",
+      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T12:01:59Z",
+      "actors": []
+    },
+    {
+      "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+      "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the certificates it issues. The 8 intermediate CAs…",
+      "url": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+      "source": "The Hacker News",
+      "published": "2026-11-11T12:00:53Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "source": "BleepingComputer",
+      "published": "2026-11-11T11:18:36Z",
+      "actors": []
+    },
     {
       "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
       "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
@@ -232,14 +344,6 @@
       "actors": []
     },
     {
-      "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-      "summary": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
-      "url": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-      "source": "The Record",
-      "published": "2026-11-10T16:08:00Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
       "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass…",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
@@ -264,35 +368,11 @@
       "actors": []
     },
     {
-      "title": "Cybercriminals are increasingly infecting regular people with spyware",
-      "summary": "Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.",
-      "url": "https://therecord.media/spyware-cyber-crime-iverify",
-      "source": "The Record",
-      "published": "2026-11-10T15:45:00Z",
-      "actors": []
-    },
-    {
       "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
       "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10,…",
       "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
       "source": "The Hacker News",
       "published": "2026-11-10T15:33:59Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware recovery is now a client retention metric",
-      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client…",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "source": "BleepingComputer",
-      "published": "2026-11-10T15:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain",
-      "summary": "Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.",
-      "url": "https://therecord.media/michael-losapio-cisa-director-nomination",
-      "source": "The Record",
-      "published": "2026-11-10T14:31:00Z",
       "actors": []
     },
     {
@@ -322,14 +402,6 @@
       "actors": []
     },
     {
-      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "source": "BleepingComputer",
-      "published": "2026-11-10T12:07:03Z",
-      "actors": []
-    },
-    {
       "title": "Beyond the Alert: The Case for Rich Network Data",
       "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in.…",
       "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
@@ -346,29 +418,11 @@
       "actors": []
     },
     {
-      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-      "source": "BleepingComputer",
-      "published": "2026-11-10T10:10:20Z",
-      "actors": []
-    },
-    {
       "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
       "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News…",
       "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
       "source": "The Hacker News",
       "published": "2026-11-10T10:07:29Z",
-      "actors": [
-        "Turla"
-      ]
-    },
-    {
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "source": "BleepingComputer",
-      "published": "2026-11-10T10:04:32Z",
       "actors": [
         "Turla"
       ]
@@ -387,14 +441,6 @@
       "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
       "source": "The Hacker News",
       "published": "2026-11-10T09:08:20Z",
-      "actors": []
-    },
-    {
-      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-      "source": "BleepingComputer",
-      "published": "2026-11-10T08:51:25Z",
       "actors": []
     },
     {
@@ -444,54 +490,6 @@
       "source": "Dark Reading",
       "published": "2026-11-09T23:06:22Z",
       "actors": []
-    },
-    {
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "summary": "New questionnaire captures critical data and information that improves the agency’s ability to assess incidents, identify trends and prioritize response actions.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
-      "source": "Dark Reading",
-      "published": "2026-11-09T21:38:20Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
-      "summary": "Last month, Microsoft disclosed a vulnerability in Microsoft Paint, but messaging regarding a patch was unclear.",
-      "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
-      "source": "Dark Reading",
-      "published": "2026-11-09T21:12:24Z",
-      "actors": []
-    },
-    {
-      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-      "summary": "Inaugural edition by Informa Markets in India brings together leading researchers, security practitioners and industry decision makers for four days of cutting-edge research, technical exchange and strategic dialogue.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
-      "source": "Dark Reading",
-      "published": "2026-11-09T20:19:56Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
-      "summary": "Just saw a new (to me) URL in our honeypot data today:",
-      "url": "https://isc.sans.edu/diary/rss/33502",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-09T18:18:15Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "summary": "Attackers can exploit a flaw in Claude's document-processing tool by creating a temporary file that Anthropic's AI assistant can access and run on a user's machine.",
-      "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
-      "source": "Dark Reading",
-      "published": "2026-11-09T18:08:30Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "source": "The Hacker News",
-      "published": "2026-11-09T17:51:21Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -512,17 +510,6 @@
       "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
       "source": "The Hacker News",
       "published": "2026-11-10T10:07:29Z",
-      "actors": [
-        "Turla"
-      ],
-      "kind": "news"
-    },
-    {
-      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-      "source": "BleepingComputer",
-      "published": "2026-11-10T10:04:32Z",
       "actors": [
         "Turla"
       ],
