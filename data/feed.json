@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T12:52:57Z",
+  "generated_at": "2026-11-16T22:42:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,182 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+      "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+      "source": "Dark Reading",
+      "published": "2026-11-16T22:08:20Z",
+      "actors": []
+    },
+    {
+      "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
+      "summary": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a new lawsuit.",
+      "url": "https://therecord.media/california-sues-openai-hugging-face",
+      "source": "The Record",
+      "published": "2026-11-16T21:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T21:31:44Z",
+      "actors": []
+    },
+    {
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "summary": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments and launch cyberattacks against real-world organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T20:59:44Z",
+      "actors": []
+    },
+    {
+      "title": "Match fined $10 million for alleged Tinder privacy violations",
+      "summary": "Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request.",
+      "url": "https://therecord.media/ireland-tinder-privacy-fine",
+      "source": "The Record",
+      "published": "2026-11-16T20:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T19:57:13Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
+      "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+      "source": "Dark Reading",
+      "published": "2026-11-16T19:56:05Z",
+      "actors": []
+    },
+    {
+      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+      "summary": "Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it's there?",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
+      "source": "Dark Reading",
+      "published": "2026-11-16T19:10:03Z",
+      "actors": []
+    },
+    {
+      "title": "Italian regulator fines Meta $886 million for violating data privacy law",
+      "summary": "The crackdown on Meta’s Facebook platform involved the company’s alleged use of its “camera roll” suggestions option, launched in 2023, to browse Android users’ photo galleries to recommend posts they could enhance with personal photos and videos.",
+      "url": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
+      "source": "The Record",
+      "published": "2026-11-16T18:05:00Z",
+      "actors": []
+    },
+    {
+      "title": "King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit",
+      "summary": "A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations.",
+      "url": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
+      "source": "The Record",
+      "published": "2026-11-16T17:22:00Z",
+      "actors": []
+    },
+    {
+      "title": "Russia denies intercepting Romanian government emails",
+      "summary": "Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.",
+      "url": "https://therecord.media/romania-russia-cyberattack-espionage",
+      "source": "The Record",
+      "published": "2026-11-16T17:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T16:43:24Z",
+      "actors": []
+    },
+    {
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
+      "source": "Dark Reading",
+      "published": "2026-11-16T16:36:55Z",
+      "actors": []
+    },
+    {
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T15:44:21Z",
+      "actors": []
+    },
+    {
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T15:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat…",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and…",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T13:27:20Z",
+      "actors": []
+    },
+    {
+      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+      "summary": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote code execution without authentication…",
+      "url": "https://isc.sans.edu/diary/rss/33522",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-16T13:11:04Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T12:53:18Z",
+      "actors": []
+    },
+    {
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government…",
+      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T12:34:21Z",
+      "actors": []
+    },
+    {
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kaspersky said in an…",
+      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "source": "The Hacker News",
+      "published": "2026-11-16T12:33:18Z",
+      "actors": []
+    },
     {
       "title": "Australian retail giant Coles investigates cybersecurity incident",
       "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
@@ -120,14 +296,6 @@
       "actors": []
     },
     {
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "source": "BleepingComputer",
-      "published": "2026-11-14T15:15:49Z",
-      "actors": []
-    },
-    {
       "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as…",
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
@@ -136,59 +304,11 @@
       "actors": []
     },
     {
-      "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
-      "summary": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.",
-      "url": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-      "source": "The Record",
-      "published": "2026-11-13T21:32:00Z",
-      "actors": []
-    },
-    {
       "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-      "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
+      "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
       "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
       "source": "Dark Reading",
       "published": "2026-11-13T20:20:27Z",
-      "actors": []
-    },
-    {
-      "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
-      "summary": "Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.",
-      "url": "https://therecord.media/city-of-osaka-japan-email-data-breach",
-      "source": "The Record",
-      "published": "2026-11-13T19:43:00Z",
-      "actors": []
-    },
-    {
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T19:38:36Z",
-      "actors": []
-    },
-    {
-      "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
-      "summary": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.",
-      "url": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
-      "source": "The Record",
-      "published": "2026-11-13T18:35:00Z",
-      "actors": []
-    },
-    {
-      "title": "German military drone operations disrupted by cyberattack",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T17:31:56Z",
-      "actors": []
-    },
-    {
-      "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
-      "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
-      "url": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
-      "source": "The Record",
-      "published": "2026-11-13T17:26:00Z",
       "actors": []
     },
     {
@@ -200,35 +320,11 @@
       "actors": []
     },
     {
-      "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-      "summary": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.",
-      "url": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-      "source": "The Record",
-      "published": "2026-11-13T16:32:00Z",
-      "actors": []
-    },
-    {
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T16:21:43Z",
-      "actors": []
-    },
-    {
       "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
       "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's…",
       "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
       "source": "The Hacker News",
       "published": "2026-11-13T15:27:05Z",
-      "actors": []
-    },
-    {
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing…",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T15:01:11Z",
       "actors": []
     },
     {
@@ -253,14 +349,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
       "source": "Dark Reading",
       "published": "2026-11-13T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft says November security updates cause printing issues",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T12:27:40Z",
       "actors": []
     },
     {
@@ -293,22 +381,6 @@
       "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
       "source": "The Hacker News",
       "published": "2026-11-13T10:55:03Z",
-      "actors": []
-    },
-    {
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T10:44:22Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "source": "BleepingComputer",
-      "published": "2026-11-13T09:36:18Z",
       "actors": []
     },
     {
@@ -413,78 +485,6 @@
       "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
       "source": "The Hacker News",
       "published": "2026-11-12T15:15:40Z",
-      "actors": []
-    },
-    {
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the…",
-      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T13:08:28Z",
-      "actors": []
-    },
-    {
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same…",
-      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T12:09:14Z",
-      "actors": []
-    },
-    {
-      "title": "Siemens Desigo, Gridscale",
-      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-      "source": "CISA Advisories",
-      "published": "2026-11-12T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Siemens RUGGEDCOM APE1808",
-      "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks'…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-      "source": "CISA Advisories",
-      "published": "2026-11-12T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Siemens RUGGEDCOM APE1808",
-      "summary": "View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks'…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
-      "source": "CISA Advisories",
-      "published": "2026-11-12T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Siemens Building Automation and Energy Products",
-      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-      "source": "CISA Advisories",
-      "published": "2026-11-12T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Siemens Industrial Edge Management",
-      "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM software stack, the…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-      "source": "CISA Advisories",
-      "published": "2026-11-12T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
-      "summary": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0, which was released at the end of June. This vulnerability was not…",
-      "url": "https://isc.sans.edu/diary/rss/33514",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-12T11:56:24Z",
-      "actors": []
-    },
-    {
-      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-      "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and…",
-      "url": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T11:51:43Z",
       "actors": []
     }
   ],
