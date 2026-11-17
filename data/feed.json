@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T22:42:37Z",
+  "generated_at": "2026-11-17T04:48:16Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,38 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Uber says nearly 150,000 impacted by third-party breach",
+      "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+      "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+      "source": "The Record",
+      "published": "2026-11-18T01:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices.…",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T02:12:17Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33524",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-17T02:05:15Z",
+      "actors": []
+    },
+    {
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "source": "BleepingComputer",
+      "published": "2026-11-16T22:54:00Z",
+      "actors": []
+    },
     {
       "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
       "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
@@ -85,14 +117,6 @@
       "url": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
       "source": "The Record",
       "published": "2026-11-16T17:22:00Z",
-      "actors": []
-    },
-    {
-      "title": "Russia denies intercepting Romanian government emails",
-      "summary": "Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.",
-      "url": "https://therecord.media/romania-russia-cyberattack-espionage",
-      "source": "The Record",
-      "published": "2026-11-16T17:00:00Z",
       "actors": []
     },
     {
@@ -264,14 +288,6 @@
       "actors": []
     },
     {
-      "title": "TSMC employee data breach linked to cloud provider",
-      "summary": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
-      "source": "BleepingComputer",
-      "published": "2026-11-15T15:23:48Z",
-      "actors": []
-    },
-    {
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
       "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and…",
       "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
@@ -285,14 +301,6 @@
       "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
       "source": "The Hacker News",
       "published": "2026-11-15T08:22:04Z",
-      "actors": []
-    },
-    {
-      "title": "Cursor confirms security breach led to malicious Claude Code extension",
-      "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
-      "source": "BleepingComputer",
-      "published": "2026-11-14T17:27:25Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
       "source": "The Hacker News",
       "published": "2026-11-12T15:38:49Z",
-      "actors": []
-    },
-    {
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes…",
-      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T15:15:40Z",
       "actors": []
     }
   ],
