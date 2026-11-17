@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:48:16Z",
+  "generated_at": "2026-11-17T13:55:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -13,6 +13,110 @@
       "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
       "source": "The Record",
       "published": "2026-11-18T01:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+      "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+      "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+      "source": "Dark Reading",
+      "published": "2026-11-17T13:22:15Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked…",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T12:25:06Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks. Nik…",
+      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T12:14:36Z",
+      "actors": []
+    },
+    {
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The…",
+      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T11:20:18Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T11:19:51Z",
+      "actors": []
+    },
+    {
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control…",
+      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T11:07:31Z",
+      "actors": []
+    },
+    {
+      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
+      "summary": "I&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x99;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x9c;generic&#;x26;#;xe2;&#;x26;#;x80;&#;x26;#;x9d; phishing messages in detail from time to time, since some of them might prove not to be as…",
+      "url": "https://isc.sans.edu/diary/rss/33526",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-17T10:56:38Z",
+      "actors": []
+    },
+    {
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T09:44:22Z",
+      "actors": []
+    },
+    {
+      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+      "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T08:35:42Z",
+      "actors": []
+    },
+    {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "summary": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T07:25:44Z",
+      "actors": []
+    },
+    {
+      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+      "summary": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today. Visitors to sites run by at least 178 organizations, including CNN, the BBC and Zoom, received the code yesterday, according to…",
+      "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T07:12:13Z",
+      "actors": []
+    },
+    {
+      "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+      "summary": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later. The company said additional activity targeting on-premises environments continues to be…",
+      "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T06:29:27Z",
+      "actors": []
+    },
+    {
+      "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+      "summary": "N-able has released a new security update to address additional critical security flaws impacting N-central. Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that enhance the security of the Remote Monitoring and Management (RMM)…",
+      "url": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T05:00:34Z",
       "actors": []
     },
     {
@@ -216,35 +320,11 @@
       "actors": []
     },
     {
-      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
-      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T11:00:00Z",
-      "actors": []
-    },
-    {
       "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
       "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives commands over the TOR…",
       "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
       "source": "The Hacker News",
       "published": "2026-11-16T09:32:57Z",
-      "actors": []
-    },
-    {
-      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T09:30:04Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T08:26:52Z",
       "actors": []
     },
     {
@@ -269,14 +349,6 @@
       "url": "https://isc.sans.edu/diary/rss/33520",
       "source": "SANS Internet Storm Center",
       "published": "2026-11-16T02:00:05Z",
-      "actors": []
-    },
-    {
-      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-      "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-      "source": "BleepingComputer",
-      "published": "2026-11-15T18:29:53Z",
       "actors": []
     },
     {
@@ -309,6 +381,14 @@
       "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
       "source": "The Hacker News",
       "published": "2026-11-14T12:38:35Z",
+      "actors": []
+    },
+    {
+      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
+      "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
+      "source": "Dark Reading",
+      "published": "2026-11-13T22:27:00Z",
       "actors": []
     },
     {
@@ -405,86 +485,6 @@
       "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
       "source": "The Hacker News",
       "published": "2026-11-13T05:43:28Z",
-      "actors": []
-    },
-    {
-      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
-      "summary": "Introduction",
-      "url": "https://isc.sans.edu/diary/rss/33518",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-13T03:41:41Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33516",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-13T02:00:03Z",
-      "actors": []
-    },
-    {
-      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-      "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
-      "url": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-      "source": "Dark Reading",
-      "published": "2026-11-12T22:46:05Z",
-      "actors": []
-    },
-    {
-      "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-      "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-      "source": "Dark Reading",
-      "published": "2026-11-12T21:18:52Z",
-      "actors": []
-    },
-    {
-      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-      "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
-      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "source": "Dark Reading",
-      "published": "2026-11-12T20:09:41Z",
-      "actors": []
-    },
-    {
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account.…",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T18:07:15Z",
-      "actors": []
-    },
-    {
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get…",
-      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T18:02:51Z",
-      "actors": []
-    },
-    {
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a…",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T17:50:27Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw,…",
-      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T16:27:01Z",
-      "actors": []
-    },
-    {
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below -…",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "source": "The Hacker News",
-      "published": "2026-11-12T15:38:49Z",
       "actors": []
     }
   ],
