@@ -1,26 +1,154 @@
 {
-  "generated_at": "2026-11-17T13:55:10Z",
+  "generated_at": "2026-11-17T22:03:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
-    "threat_actors": 3,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
     {
-      "title": "Uber says nearly 150,000 impacted by third-party breach",
-      "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
-      "url": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
-      "source": "The Record",
-      "published": "2026-11-18T01:20:00Z",
+      "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+      "summary": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T21:27:17Z",
       "actors": []
     },
     {
-      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
-      "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
-      "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+      "title": "Website management platform Optimizely confirms hackers put malicious code into customer sites",
+      "summary": "Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.",
+      "url": "https://therecord.media/optimizely-malicious-code-customer-sites",
+      "source": "The Record",
+      "published": "2026-11-17T21:20:00Z",
+      "actors": []
+    },
+    {
+      "title": "'TheMailer' Phishing Kit Puts AI in the Driver's Seat",
+      "summary": "The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
       "source": "Dark Reading",
-      "published": "2026-11-17T13:22:15Z",
+      "published": "2026-11-17T20:58:13Z",
+      "actors": []
+    },
+    {
+      "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+      "summary": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T20:51:21Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+      "summary": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company. Widgets are small interactive blocks that bots send inside chat messages, and their JavaScript runs on the user's phone. The researchers ran their…",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T19:34:20Z",
+      "actors": []
+    },
+    {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "summary": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T19:24:07Z",
+      "actors": []
+    },
+    {
+      "title": "Kazakh ransomware hacking suspect extradited from Italy",
+      "summary": "The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the \"8 Digits Team\" connected with INC and Lynx.",
+      "url": "https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx",
+      "source": "The Record",
+      "published": "2026-11-17T19:09:00Z",
+      "actors": []
+    },
+    {
+      "title": "Chinese state group developing automated attack tool for cyber espionage, Google says",
+      "summary": "Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent offensive frameworks like Artex, CAIRN, CyberStrikeAI and PentAGI to execute multi-stage intrusions at…",
+      "url": "https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage",
+      "source": "The Record",
+      "published": "2026-11-17T18:50:00Z",
+      "actors": []
+    },
+    {
+      "title": "Cursor Traces Malicious Claude Code Extension to Third-Party Breach",
+      "summary": "A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.",
+      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "source": "Dark Reading",
+      "published": "2026-11-17T18:38:37Z",
+      "actors": []
+    },
+    {
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T18:21:24Z",
+      "actors": []
+    },
+    {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "summary": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T18:04:15Z",
+      "actors": []
+    },
+    {
+      "title": "California fines Hertz $1.5 million for breaking state data privacy law",
+      "summary": "Hertz agreed to the fine and said it would change its business practices, according to a court filing shared by the regulator, the California Privacy Protection Agency (CPPA).",
+      "url": "https://therecord.media/california-fines-hertz-state-data-privacy-law",
+      "source": "The Record",
+      "published": "2026-11-17T17:13:00Z",
+      "actors": []
+    },
+    {
+      "title": "NSA Net, agency’s classified internal network, faces unspecified disruptions",
+      "summary": "The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.",
+      "url": "https://therecord.media/nsa-net-disruptions",
+      "source": "The Record",
+      "published": "2026-11-17T16:21:00Z",
+      "actors": []
+    },
+    {
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T16:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (RCE) flaw affecting OpenJDK. The 11 vulnerabilities carry a maximum…",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T15:17:36Z",
+      "actors": []
+    },
+    {
+      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+      "summary": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram. \"Trigram is a large-scale campaign that impersonates about 50 brands in the blockchain and AI sectors, to trick developers into executing an…",
+      "url": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+      "source": "The Hacker News",
+      "published": "2026-11-17T15:17:28Z",
+      "actors": []
+    },
+    {
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "source": "BleepingComputer",
+      "published": "2026-11-17T15:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
+      "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
+      "url": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
+      "source": "Dark Reading",
+      "published": "2026-11-17T13:12:56Z",
       "actors": []
     },
     {
@@ -37,6 +165,102 @@
       "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
       "source": "The Hacker News",
       "published": "2026-11-17T12:14:36Z",
+      "actors": []
+    },
+    {
+      "title": "Dorsett Controls InfoScan",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Controls InfoScan are…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens Mendix Studio Pro",
+      "summary": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution, or system…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-115731 Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens meta-iot2050",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fixes and recommends…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens SIMATIC WinCC",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens RUGGEDCOM APE1808",
+      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens Industrial Automation Software Products",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens SIMATIC",
+      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific mitigations for products…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens Industrial Software Products",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens ROS#",
+      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Siemens Simcenter Femap",
+      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "source": "CISA Advisories",
+      "published": "2026-11-17T12:00:00Z",
       "actors": []
     },
     {
@@ -152,14 +376,6 @@
       "actors": []
     },
     {
-      "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
-      "summary": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a new lawsuit.",
-      "url": "https://therecord.media/california-sues-openai-hugging-face",
-      "source": "The Record",
-      "published": "2026-11-16T21:40:00Z",
-      "actors": []
-    },
-    {
       "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
       "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
@@ -176,23 +392,7 @@
       "actors": []
     },
     {
-      "title": "Match fined $10 million for alleged Tinder privacy violations",
-      "summary": "Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request.",
-      "url": "https://therecord.media/ireland-tinder-privacy-fine",
-      "source": "The Record",
-      "published": "2026-11-16T20:15:00Z",
-      "actors": []
-    },
-    {
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T19:57:13Z",
-      "actors": []
-    },
-    {
-      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "title": "Ransomware Attacks Increase Behind AI, but Payments Decline",
       "summary": "Large language models and other AI systems allow a growing number of ransomware groups to create convincing phishing emails and identify sensitive data quickly.",
       "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
       "source": "Dark Reading",
@@ -208,30 +408,6 @@
       "actors": []
     },
     {
-      "title": "Italian regulator fines Meta $886 million for violating data privacy law",
-      "summary": "The crackdown on Meta’s Facebook platform involved the company’s alleged use of its “camera roll” suggestions option, launched in 2023, to browse Android users’ photo galleries to recommend posts they could enhance with personal photos and videos.",
-      "url": "https://therecord.media/italian-regulator-fines-meta-886-million-privacy",
-      "source": "The Record",
-      "published": "2026-11-16T18:05:00Z",
-      "actors": []
-    },
-    {
-      "title": "King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit",
-      "summary": "A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations.",
-      "url": "https://therecord.media/uk-national-cyber-force-headquarters-opens",
-      "source": "The Record",
-      "published": "2026-11-16T17:22:00Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T16:43:24Z",
-      "actors": []
-    },
-    {
       "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
       "summary": "Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
@@ -240,19 +416,11 @@
       "actors": []
     },
     {
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T15:44:21Z",
-      "actors": []
-    },
-    {
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T15:01:11Z",
+      "title": "NIST Finalizes Post-Quantum Cryptography Guidance, GAO Offers a Reality Check",
+      "summary": "The emerging technology will soon break the \"lock and key\" encryption currently protecting sensitive data. A new GAO report shows agencies are behind on building their defenses.",
+      "url": "https://www.darkreading.com/cyber-risk/nist-finalizes-post-quantum-cryptography-guidance-gao-offers-a-reality-check",
+      "source": "Dark Reading",
+      "published": "2026-11-16T14:22:15Z",
       "actors": []
     },
     {
@@ -260,14 +428,6 @@
       "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat…",
       "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
       "source": "The Hacker News",
-      "published": "2026-11-16T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "summary": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-      "source": "BleepingComputer",
       "published": "2026-11-16T14:00:00Z",
       "actors": []
     },
@@ -288,14 +448,6 @@
       "actors": []
     },
     {
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T12:53:18Z",
-      "actors": []
-    },
-    {
       "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
       "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government…",
       "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
@@ -309,14 +461,6 @@
       "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
       "source": "The Hacker News",
       "published": "2026-11-16T12:33:18Z",
-      "actors": []
-    },
-    {
-      "title": "Australian retail giant Coles investigates cybersecurity incident",
-      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "source": "BleepingComputer",
-      "published": "2026-11-16T11:18:09Z",
       "actors": []
     },
     {
@@ -342,150 +486,6 @@
       "source": "The Hacker News",
       "published": "2026-11-16T06:53:34Z",
       "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33520",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-16T02:00:05Z",
-      "actors": []
-    },
-    {
-      "title": "YARA-X 1.23.0 Release, (Sun, Nov 15th)",
-      "summary": "YARA-X&#x26;#39&#x26;#x3b;s 1.23.0 release brings 4 improvements and 16 bugfixes.",
-      "url": "https://isc.sans.edu/diary/rss/33496",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-15T18:17:27Z",
-      "actors": []
-    },
-    {
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and…",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "source": "The Hacker News",
-      "published": "2026-11-15T11:27:31Z",
-      "actors": []
-    },
-    {
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was…",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "source": "The Hacker News",
-      "published": "2026-11-15T08:22:04Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as…",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
-      "source": "The Hacker News",
-      "published": "2026-11-14T12:38:35Z",
-      "actors": []
-    },
-    {
-      "title": "As Test Takers Turn to AI, Exam Security Plays Catch-Up",
-      "summary": "It's hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up",
-      "source": "Dark Reading",
-      "published": "2026-11-13T22:27:00Z",
-      "actors": []
-    },
-    {
-      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-      "summary": "The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.",
-      "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-      "source": "Dark Reading",
-      "published": "2026-11-13T20:20:27Z",
-      "actors": []
-    },
-    {
-      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460,…",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T16:53:08Z",
-      "actors": []
-    },
-    {
-      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's…",
-      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T15:27:05Z",
-      "actors": []
-    },
-    {
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a…",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T14:28:58Z",
-      "actors": []
-    },
-    {
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the…",
-      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T13:54:20Z",
-      "actors": []
-    },
-    {
-      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-      "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-      "source": "Dark Reading",
-      "published": "2026-11-13T13:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource…",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Advisories",
-      "published": "2026-11-13T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of…",
-      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T11:52:31Z",
-      "actors": []
-    },
-    {
-      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this…",
-      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T11:10:40Z",
-      "actors": []
-    },
-    {
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according…",
-      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T10:55:03Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T08:05:49Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-13T05:43:28Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -510,20 +510,23 @@
         "Turla"
       ],
       "kind": "news"
-    },
-    {
-      "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-      "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "source": "Dark Reading",
-      "published": "2026-11-05T20:05:39Z",
-      "actors": [
-        "APT29"
-      ],
-      "kind": "news"
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-115731",
+      "title": "CVE-2026-115731 - Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+      "summary": "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data type through a PUT…",
+      "vendor": "Perforce",
+      "product": "Puppet Enterprise",
+      "date_added": "2026-11-17",
+      "due_date": "2026-12-01",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+      "source": "CISA KEV",
+      "published": "2026-11-17T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-114713",
       "title": "CVE-2026-114713 - UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
@@ -1346,20 +1349,6 @@
       "due_date": "2026-09-27",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-5430",
-      "source": "CISA KEV",
-      "published": "2026-09-24T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-71362",
-      "title": "CVE-2026-71362 - Adobe Commerce and Magento Incorrect Authorization Vulnerability",
-      "summary": "Adobe Commerce and Magento contains an incorrect authorization vulnerability that could allow an attacker to leverage this vulnerability to gain elevated access to sensitive resources without any user interaction.",
-      "vendor": "Adobe",
-      "product": "Commerce and Magento",
-      "date_added": "2026-09-24",
-      "due_date": "2026-09-27",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-71362",
       "source": "CISA KEV",
       "published": "2026-09-24T00:00:00Z",
       "actors": []
