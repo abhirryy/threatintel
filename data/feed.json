@@ -1,12 +1,100 @@
 {
-  "generated_at": "2026-11-20T17:14:36Z",
+  "generated_at": "2026-11-20T23:09:39Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
-    "threat_actors": 2,
+    "threat_actors": 1,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+      "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
+      "url": "https://therecord.media/west-virginia-legislature-cyberattack",
+      "source": "The Record",
+      "published": "2026-11-20T21:34:36Z",
+      "actors": []
+    },
+    {
+      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
+      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
+      "source": "Dark Reading",
+      "published": "2026-11-20T21:03:27Z",
+      "actors": []
+    },
+    {
+      "title": "US companies’ use of Chinese open weight AI draws rebuke from House chairmen",
+      "summary": "An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.",
+      "url": "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "source": "The Record",
+      "published": "2026-11-20T20:25:00Z",
+      "actors": []
+    },
+    {
+      "title": "Container Store restores systems after cyberattack",
+      "summary": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
+      "url": "https://therecord.media/container-store-restores-systems-cyberattack",
+      "source": "The Record",
+      "published": "2026-11-20T19:32:00Z",
+      "actors": []
+    },
+    {
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "source": "BleepingComputer",
+      "published": "2026-11-20T18:51:43Z",
+      "actors": []
+    },
+    {
+      "title": "In Security, Words Matter as Much as Tools, Maybe More",
+      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "source": "Dark Reading",
+      "published": "2026-11-20T18:35:40Z",
+      "actors": []
+    },
+    {
+      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for…",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T17:57:20Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "source": "BleepingComputer",
+      "published": "2026-11-20T17:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
+      "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
+      "url": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
+      "source": "The Record",
+      "published": "2026-11-20T17:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+      "source": "Dark Reading",
+      "published": "2026-11-20T17:04:04Z",
+      "actors": []
+    },
+    {
+      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an…",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "source": "The Hacker News",
+      "published": "2026-11-20T16:58:16Z",
+      "actors": []
+    },
     {
       "title": "NSA resumes normal operations following internal network disruptions",
       "summary": "Certain facilities remain under “Code Orange” for non-essential employees, meaning delayed openings and some must check in with their supervisors.",
@@ -29,22 +117,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
       "source": "BleepingComputer",
       "published": "2026-11-20T15:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "Cyber Director Cairncross out as White House resets cyber leadership",
-      "summary": "Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.",
-      "url": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
-      "source": "The Record",
-      "published": "2026-11-20T14:30:00Z",
-      "actors": []
-    },
-    {
-      "title": "Dozens of credit unions hit by supplier breach that went unnoticed for six weeks",
-      "summary": "Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.",
-      "url": "https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach",
-      "source": "The Record",
-      "published": "2026-11-20T14:24:00Z",
       "actors": []
     },
     {
@@ -76,6 +148,14 @@
       "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level.…",
       "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
       "source": "The Hacker News",
+      "published": "2026-11-20T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of Hard-coded Credentials…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
       "published": "2026-11-20T12:00:00Z",
       "actors": []
     },
@@ -168,14 +248,6 @@
       "actors": []
     },
     {
-      "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
-      "summary": "Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.",
-      "url": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
-      "source": "The Record",
-      "published": "2026-11-19T21:19:00Z",
-      "actors": []
-    },
-    {
       "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
       "summary": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
@@ -184,7 +256,7 @@
       "actors": []
     },
     {
-      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "title": "Second Norwegian Energy Company Breached in 2 Days",
       "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
       "source": "Dark Reading",
@@ -192,7 +264,7 @@
       "actors": []
     },
     {
-      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "title": "Critical PHP Flaws Allow Code Execution, but Don't Panic 'PHP2Shell'-Style",
       "summary": "November's monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.",
       "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
       "source": "Dark Reading",
@@ -221,14 +293,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
       "source": "BleepingComputer",
       "published": "2026-11-19T18:20:01Z",
-      "actors": []
-    },
-    {
-      "title": "DOJ, DHS partner on new unit tackling scams and cybercrime",
-      "summary": "The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.",
-      "url": "https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime",
-      "source": "The Record",
-      "published": "2026-11-19T17:25:00Z",
       "actors": []
     },
     {
@@ -296,14 +360,6 @@
       "actors": []
     },
     {
-      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-      "summary": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-      "source": "BleepingComputer",
-      "published": "2026-11-19T13:08:08Z",
-      "actors": []
-    },
-    {
       "title": "Elecbrakes EB2, VM1, ELBC2000",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ELBC2000 are…",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -333,14 +389,6 @@
       "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
       "source": "The Hacker News",
       "published": "2026-11-19T11:52:23Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-      "summary": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-      "source": "BleepingComputer",
-      "published": "2026-11-19T11:46:00Z",
       "actors": []
     },
     {
@@ -438,54 +486,6 @@
       "source": "SANS Internet Storm Center",
       "published": "2026-11-18T19:54:50Z",
       "actors": []
-    },
-    {
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7…",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-11-18T18:31:17Z",
-      "actors": []
-    },
-    {
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds…",
-      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "source": "The Hacker News",
-      "published": "2026-11-18T18:15:39Z",
-      "actors": []
-    },
-    {
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC…",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "source": "The Hacker News",
-      "published": "2026-11-18T17:10:45Z",
-      "actors": []
-    },
-    {
-      "title": "Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem",
-      "summary": "Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
-      "source": "Dark Reading",
-      "published": "2026-11-18T16:54:52Z",
-      "actors": []
-    },
-    {
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The…",
-      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "source": "The Hacker News",
-      "published": "2026-11-18T14:11:28Z",
-      "actors": []
-    },
-    {
-      "title": "Major Brazilian Signature Apps Enable RCE & Fraud",
-      "summary": "Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it's often rife with RCE bugs.",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
-      "source": "Dark Reading",
-      "published": "2026-11-18T14:00:00Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -499,20 +499,65 @@
         "Qilin"
       ],
       "kind": "news"
-    },
-    {
-      "title": "AI Makes Reverse Engineering Mainstream Software & Malware Far Easier",
-      "summary": "Researchers unpacked, mapped, and recreated complex software and the Turla malware, raising opportunities and concerns for organizations and cybersecurity analysts.",
-      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-      "source": "Dark Reading",
-      "published": "2026-11-10T13:00:00Z",
-      "actors": [
-        "Turla"
-      ],
-      "kind": "news"
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-129448",
+      "title": "CVE-2026-129448 - Apache Roller Deserialization of Untrusted Data Vulnerability",
+      "summary": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension types before authentication. This CVE covers the same underlying vulnerability as CVE-2026-82384…",
+      "vendor": "Apache",
+      "product": "Roller",
+      "date_added": "2026-11-20",
+      "due_date": "2026-11-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
+      "source": "CISA KEV",
+      "published": "2026-11-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-123890",
+      "title": "CVE-2026-123890 - VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+      "summary": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass authentication and gain unauthorized access to the system.",
+      "vendor": "Broadcom",
+      "product": "VMware vCenter",
+      "date_added": "2026-11-20",
+      "due_date": "2026-11-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
+      "source": "CISA KEV",
+      "published": "2026-11-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2025-42884",
+      "title": "CVE-2025-42884 - SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
+      "summary": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected JNDI environment properties or a URL used during JNDI lookup operations.",
+      "vendor": "SAP",
+      "product": "NetWeaver",
+      "date_added": "2026-11-20",
+      "due_date": "2026-11-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
+      "source": "CISA KEV",
+      "published": "2026-11-20T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-76466",
+      "title": "CVE-2026-76466 - Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
+      "summary": "Cisco Expressway Series contains a use of hard-coded credentials vulnerability that allows an unauthenticated, remote attacker with persistent cookies and network access to execute commands as root on a clustered device via the database service.",
+      "vendor": "Cisco",
+      "product": "Expressway Series",
+      "date_added": "2026-11-20",
+      "due_date": "2026-11-23",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
+      "source": "CISA KEV",
+      "published": "2026-11-20T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2024-10441",
       "title": "CVE-2024-10441 - Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
@@ -1295,62 +1340,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104286",
       "source": "CISA KEV",
       "published": "2026-10-01T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-76504",
-      "title": "CVE-2026-76504 - Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability",
-      "summary": "Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.",
-      "vendor": "Cisco",
-      "product": "Catalyst SD-WAN Manager",
-      "date_added": "2026-09-30",
-      "due_date": "2026-10-03",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76504",
-      "source": "CISA KEV",
-      "published": "2026-09-30T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-86950",
-      "title": "CVE-2026-86950 - Apple Multiple Products Out-of-Bounds Write Vulnerability",
-      "summary": "Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.",
-      "vendor": "Apple",
-      "product": "Multiple Products",
-      "date_added": "2026-09-29",
-      "due_date": "2026-10-13",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-86950",
-      "source": "CISA KEV",
-      "published": "2026-09-29T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-88772",
-      "title": "CVE-2026-88772 - Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
-      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service",
-      "vendor": "Citrix",
-      "product": "NetScaler",
-      "date_added": "2026-09-27",
-      "due_date": "2026-09-30",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88772",
-      "source": "CISA KEV",
-      "published": "2026-09-27T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-88771",
-      "title": "CVE-2026-88771 - Citrix NetScaler Improper Input Validation Vulnerability",
-      "summary": "Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.",
-      "vendor": "Citrix",
-      "product": "NetScaler",
-      "date_added": "2026-09-27",
-      "due_date": "2026-09-30",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88771",
-      "source": "CISA KEV",
-      "published": "2026-09-27T00:00:00Z",
       "actors": []
     }
   ]
