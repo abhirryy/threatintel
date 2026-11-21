@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:39:44Z",
+  "generated_at": "2026-11-21T23:55:37Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+      "source": "BleepingComputer",
+      "published": "2026-11-21T22:59:58Z",
+      "actors": []
+    },
     {
       "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
       "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
@@ -357,14 +365,6 @@
       "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
       "source": "The Hacker News",
       "published": "2026-11-19T18:47:58Z",
-      "actors": []
-    },
-    {
-      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-      "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-      "source": "BleepingComputer",
-      "published": "2026-11-19T18:20:01Z",
       "actors": []
     },
     {
