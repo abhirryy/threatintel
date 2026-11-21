@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T23:09:39Z",
+  "generated_at": "2026-11-21T03:58:08Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,14 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption…",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "source": "Krebs on Security",
+      "published": "2026-11-21T00:36:39Z",
+      "actors": []
+    },
     {
       "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
       "summary": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.",
@@ -477,14 +485,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
       "source": "Dark Reading",
       "published": "2026-11-18T20:38:42Z",
-      "actors": []
-    },
-    {
-      "title": "Java4Shell, NGINX2Shell and more: Why we are not at \"Yellow\", (Wed, Nov 18th)",
-      "summary": "About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high enough to trigger an Infocon \"Yellow\"…",
-      "url": "https://isc.sans.edu/diary/rss/33532",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-18T19:54:50Z",
       "actors": []
     }
   ],
