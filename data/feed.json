@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T01:05:14Z",
+  "generated_at": "2026-11-23T08:57:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,30 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at…",
+      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+      "source": "The Hacker News",
+      "published": "2026-11-23T08:24:15Z",
+      "actors": []
+    },
+    {
+      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+      "source": "BleepingComputer",
+      "published": "2026-11-23T07:44:19Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33548",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-23T02:00:04Z",
+      "actors": []
+    },
     {
       "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
       "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
@@ -125,6 +149,14 @@
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
       "source": "The Hacker News",
       "published": "2026-11-21T08:49:13Z",
+      "actors": []
+    },
+    {
+      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
+      "summary": "Identity, runtime and development controls are converging as enterprises are tasked with keeping agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+      "source": "Dark Reading",
+      "published": "2026-11-21T01:31:23Z",
       "actors": []
     },
     {
@@ -328,14 +360,6 @@
       "actors": []
     },
     {
-      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
-      "summary": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
-      "source": "BleepingComputer",
-      "published": "2026-11-20T09:25:35Z",
-      "actors": []
-    },
-    {
       "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while…",
       "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
@@ -461,30 +485,6 @@
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
       "source": "CISA Advisories",
       "published": "2026-11-19T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Everything Is a Web Application, Including Your Firewall",
-      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web…",
-      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-      "source": "The Hacker News",
-      "published": "2026-11-19T11:52:23Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of…",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "source": "The Hacker News",
-      "published": "2026-11-19T09:31:26Z",
-      "actors": []
-    },
-    {
-      "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote…",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "source": "The Hacker News",
-      "published": "2026-11-19T08:42:11Z",
       "actors": []
     }
   ],
