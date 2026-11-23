@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T20:28:16Z",
+  "generated_at": "2026-11-23T01:05:14Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -248,6 +248,14 @@
       "actors": []
     },
     {
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "summary": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference.",
+      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "source": "Dark Reading",
+      "published": "2026-11-20T13:51:30Z",
+      "actors": []
+    },
+    {
       "title": "N-able says recent security breach led to major service outage",
       "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
       "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
       "source": "The Hacker News",
       "published": "2026-11-19T08:42:11Z",
-      "actors": []
-    },
-    {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against…",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "source": "The Hacker News",
-      "published": "2026-11-19T08:14:00Z",
       "actors": []
     }
   ],
