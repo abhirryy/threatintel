@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T21:10:15Z",
+  "generated_at": "2026-11-24T05:19:10Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -8,11 +8,43 @@
   },
   "osint_news": [
     {
+      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
+      "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing as of this writing.",
+      "url": "https://isc.sans.edu/diary/rss/33550",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-24T02:32:00Z",
+      "actors": []
+    },
+    {
+      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
+      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "url": "https://isc.sans.edu/diary/rss/33552",
+      "source": "SANS Internet Storm Center",
+      "published": "2026-11-24T02:00:04Z",
+      "actors": []
+    },
+    {
       "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
       "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.",
       "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
       "source": "The Record",
       "published": "2026-11-24T00:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
+      "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+      "source": "Dark Reading",
+      "published": "2026-11-23T22:02:46Z",
+      "actors": []
+    },
+    {
+      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
+      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
+      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "source": "Dark Reading",
+      "published": "2026-11-23T21:21:42Z",
       "actors": []
     },
     {
@@ -173,6 +205,14 @@
       "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
       "source": "BleepingComputer",
       "published": "2026-11-23T12:02:23Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-23T12:00:00Z",
       "actors": []
     },
     {
@@ -445,46 +485,6 @@
       "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
       "source": "The Hacker News",
       "published": "2026-11-20T09:38:15Z",
-      "actors": []
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while…",
-      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T07:11:39Z",
-      "actors": []
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles…",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T05:30:01Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33538",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-20T02:00:02Z",
-      "actors": []
-    },
-    {
-      "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
-      "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
-      "url": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
-      "source": "Dark Reading",
-      "published": "2026-11-19T22:40:03Z",
-      "actors": []
-    },
-    {
-      "title": "Second Norwegian Energy Company Breached in 2 Days",
-      "summary": "No specific link has been drawn between the two incidents, though they certainly sing the same notes.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-      "source": "Dark Reading",
-      "published": "2026-11-19T20:14:15Z",
       "actors": []
     }
   ],
