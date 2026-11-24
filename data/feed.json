@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T05:19:10Z",
+  "generated_at": "2026-11-24T16:00:30Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,158 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T15:10:10Z",
+      "actors": []
+    },
+    {
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T15:01:11Z",
+      "actors": []
+    },
+    {
+      "title": "CISA warns of exploited N-able bug as company restores email platform",
+      "summary": "The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.",
+      "url": "https://therecord.media/cisa-nable-cybersecurity-bug",
+      "source": "The Record",
+      "published": "2026-11-24T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T14:09:37Z",
+      "actors": []
+    },
+    {
+      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
+      "summary": "Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and persistence.",
+      "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
+      "source": "The Record",
+      "published": "2026-11-24T13:45:00Z",
+      "actors": []
+    },
+    {
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T13:34:23Z",
+      "actors": []
+    },
+    {
+      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It…",
+      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T13:28:26Z",
+      "actors": []
+    },
+    {
+      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to…",
+      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T13:28:21Z",
+      "actors": []
+    },
+    {
+      "title": "McDonald’s Japan discloses breach exposing customer purchase and location data",
+      "summary": "McDonald’s Japan disclosed a cybersecurity breach that exposed customers’ purchase histories and mobile device location data.",
+      "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
+      "source": "The Record",
+      "published": "2026-11-24T13:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked…",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:42:09Z",
+      "actors": []
+    },
+    {
+      "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+      "summary": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday. The same loading behavior bypassed Oracle VirtualBox's process hardening on…",
+      "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:02:00Z",
+      "actors": []
+    },
+    {
+      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations,…",
+      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T12:01:54Z",
+      "actors": []
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Danfoss AK-SM 8xxA Series",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+      "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak Energi. \"An unknown actor has been actively looking for access…",
+      "url": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T10:44:49Z",
+      "actors": []
+    },
+    {
+      "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+      "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's database. No login is needed. The company disclosed the SQL injection…",
+      "url": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T08:34:20Z",
+      "actors": []
+    },
+    {
+      "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+      "summary": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. \"It lets agents write dynamic eBPF controls to shield systems from exploits, giving defenders more time to test and roll out…",
+      "url": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T06:02:57Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS score: 9.3) - A…",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T06:02:45Z",
+      "actors": []
+    },
     {
       "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
       "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing as of this writing.",
@@ -24,9 +176,17 @@
       "actors": []
     },
     {
-      "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
-      "summary": "Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad.",
-      "url": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
+      "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
+      "summary": "Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.",
+      "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
+      "source": "The Record",
+      "published": "2026-11-24T00:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
+      "summary": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
+      "url": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
       "source": "The Record",
       "published": "2026-11-24T00:00:00Z",
       "actors": []
@@ -88,22 +248,6 @@
       "actors": []
     },
     {
-      "title": "Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents",
-      "summary": "Google’s Gemini Intelligence and Apple's Siri AI \"are changing this environment in a way that’s making it increasingly hostile to privacy,\" Signal said.",
-      "url": "https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems",
-      "source": "The Record",
-      "published": "2026-11-23T18:37:00Z",
-      "actors": []
-    },
-    {
-      "title": "FBI reportedly facing second data breach involving National Crime Information Center",
-      "summary": "The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.",
-      "url": "https://therecord.media/fbi-cyberattack-data-breach",
-      "source": "The Record",
-      "published": "2026-11-23T18:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
       "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
       "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
@@ -120,14 +264,6 @@
       "actors": []
     },
     {
-      "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
-      "summary": "“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.",
-      "url": "https://therecord.media/crowdstrike-zscaler",
-      "source": "The Record",
-      "published": "2026-11-23T17:14:00Z",
-      "actors": []
-    },
-    {
       "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
       "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
@@ -141,14 +277,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
       "source": "Dark Reading",
       "published": "2026-11-23T16:17:21Z",
-      "actors": []
-    },
-    {
-      "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
-      "summary": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.",
-      "url": "https://therecord.media/norway-microsoft-cyberattack-equinor",
-      "source": "The Record",
-      "published": "2026-11-23T15:45:00Z",
       "actors": []
     },
     {
@@ -280,22 +408,6 @@
       "actors": []
     },
     {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-11-22T15:43:04Z",
-      "actors": []
-    },
-    {
-      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-      "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-      "source": "BleepingComputer",
-      "published": "2026-11-22T15:15:25Z",
-      "actors": []
-    },
-    {
       "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
       "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored.…",
       "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
@@ -309,22 +421,6 @@
       "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
       "source": "The Hacker News",
       "published": "2026-11-22T05:03:41Z",
-      "actors": []
-    },
-    {
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "source": "BleepingComputer",
-      "published": "2026-11-21T22:59:58Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-      "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-      "source": "BleepingComputer",
-      "published": "2026-11-21T18:01:58Z",
       "actors": []
     },
     {
@@ -369,7 +465,7 @@
     },
     {
       "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned tasks. But vendors' approaches vary, so CISOs face a choice.",
+      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
       "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
       "source": "Dark Reading",
       "published": "2026-11-21T01:31:23Z",
@@ -389,102 +485,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
       "source": "Dark Reading",
       "published": "2026-11-20T21:03:27Z",
-      "actors": []
-    },
-    {
-      "title": "Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager",
-      "summary": "Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
-      "source": "Dark Reading",
-      "published": "2026-11-20T20:43:45Z",
-      "actors": []
-    },
-    {
-      "title": "In Security, Words Matter as Much as Tools, Maybe More",
-      "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-      "source": "Dark Reading",
-      "published": "2026-11-20T18:35:40Z",
-      "actors": []
-    },
-    {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs…",
-      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T17:57:20Z",
-      "actors": []
-    },
-    {
-      "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
-      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-      "source": "Dark Reading",
-      "published": "2026-11-20T17:04:04Z",
-      "actors": []
-    },
-    {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the threat in late October 2026 during an…",
-      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T16:58:16Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
-      "summary": "Microsoft uses its Ignite technical conference to announce new AI agent security tools and transparency standards to protect enterprise systems.",
-      "url": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
-      "source": "Dark Reading",
-      "published": "2026-11-20T13:51:30Z",
-      "actors": []
-    },
-    {
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as CVE-2026-99312, affects only hosts with…",
-      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T12:20:00Z",
-      "actors": []
-    },
-    {
-      "title": "The Path to AI Autonomy in the SOC",
-      "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60% expect to be comfortable at that level.…",
-      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of Hard-coded Credentials…",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Advisories",
-      "published": "2026-11-20T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "summary": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. \"Attackers now use automation and AI to find and exploit unsupported edge devices faster than ever,\"…",
-      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T10:38:22Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T10:32:50Z",
-      "actors": []
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in…",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "source": "The Hacker News",
-      "published": "2026-11-20T09:38:15Z",
       "actors": []
     }
   ],
