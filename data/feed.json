@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:00:30Z",
+  "generated_at": "2026-11-25T00:33:46Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,126 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Satellites Have a Ground-Level Cybersecurity Problem",
+      "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+      "url": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+      "source": "Dark Reading",
+      "published": "2026-11-24T22:05:34Z",
+      "actors": []
+    },
+    {
+      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+      "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
+      "url": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+      "source": "Dark Reading",
+      "published": "2026-11-24T21:48:06Z",
+      "actors": []
+    },
+    {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T21:37:30Z",
+      "actors": []
+    },
+    {
+      "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
+      "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+      "source": "Dark Reading",
+      "published": "2026-11-24T21:36:11Z",
+      "actors": []
+    },
+    {
+      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+      "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
+      "url": "https://therecord.media/mycolorado-app-down-data-breach",
+      "source": "The Record",
+      "published": "2026-11-24T20:52:00Z",
+      "actors": []
+    },
+    {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T20:21:20Z",
+      "actors": []
+    },
+    {
+      "title": "California privacy agency director Kemp to leave after two-year tenure",
+      "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
+      "url": "https://therecord.media/california-privacy-agency-kemp",
+      "source": "The Record",
+      "published": "2026-11-24T19:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T18:59:52Z",
+      "actors": []
+    },
+    {
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T17:49:05Z",
+      "actors": []
+    },
+    {
+      "title": "Lawmakers warn ID verification companies to bolster security after September hack",
+      "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
+      "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
+      "source": "The Record",
+      "published": "2026-11-24T17:49:00Z",
+      "actors": []
+    },
+    {
+      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2)…",
+      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+      "source": "The Hacker News",
+      "published": "2026-11-24T16:54:07Z",
+      "actors": []
+    },
+    {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T16:30:19Z",
+      "actors": []
+    },
+    {
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T16:22:44Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "source": "BleepingComputer",
+      "published": "2026-11-24T16:15:23Z",
+      "actors": []
+    },
+    {
+      "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
+      "summary": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
+      "url": "https://therecord.media/carnegie-endowment-data-breach",
+      "source": "The Record",
+      "published": "2026-11-24T16:00:00Z",
+      "actors": []
+    },
     {
       "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
       "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
@@ -40,14 +160,6 @@
       "actors": []
     },
     {
-      "title": "UK cyber agency seeing ‘marked rise’ in AI-driven attacks",
-      "summary": "Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and persistence.",
-      "url": "https://therecord.media/cyberattacks-uk-artificial-intelligence",
-      "source": "The Record",
-      "published": "2026-11-24T13:45:00Z",
-      "actors": []
-    },
-    {
       "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
       "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
@@ -69,14 +181,6 @@
       "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
       "source": "The Hacker News",
       "published": "2026-11-24T13:28:21Z",
-      "actors": []
-    },
-    {
-      "title": "McDonald’s Japan discloses breach exposing customer purchase and location data",
-      "summary": "McDonald’s Japan disclosed a cybersecurity breach that exposed customers’ purchase histories and mobile device location data.",
-      "url": "https://therecord.media/japan-mcdonalds-cyberattack-breach",
-      "source": "The Record",
-      "published": "2026-11-24T13:00:00Z",
       "actors": []
     },
     {
@@ -104,9 +208,9 @@
       "actors": []
     },
     {
-      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "source": "CISA Advisories",
       "published": "2026-11-24T12:00:00Z",
       "actors": []
@@ -115,6 +219,14 @@
       "title": "Danfoss AK-SM 8xxA Series",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based…",
       "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Advisories",
+      "published": "2026-11-24T12:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
       "source": "CISA Advisories",
       "published": "2026-11-24T12:00:00Z",
       "actors": []
@@ -173,22 +285,6 @@
       "url": "https://isc.sans.edu/diary/rss/33552",
       "source": "SANS Internet Storm Center",
       "published": "2026-11-24T02:00:04Z",
-      "actors": []
-    },
-    {
-      "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
-      "summary": "Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.",
-      "url": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
-      "source": "The Record",
-      "published": "2026-11-24T00:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
-      "summary": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
-      "url": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
-      "source": "The Record",
-      "published": "2026-11-24T00:00:00Z",
       "actors": []
     },
     {
@@ -264,14 +360,6 @@
       "actors": []
     },
     {
-      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-      "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T16:50:01Z",
-      "actors": []
-    },
-    {
       "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
       "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
@@ -285,22 +373,6 @@
       "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
       "source": "The Hacker News",
       "published": "2026-11-23T15:10:48Z",
-      "actors": []
-    },
-    {
-      "title": "AI Agents Are Creating a Shared Responsibility Gap",
-      "summary": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T15:00:10Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-      "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T13:28:45Z",
       "actors": []
     },
     {
@@ -328,14 +400,6 @@
       "actors": []
     },
     {
-      "title": "Call center operator gets 8 years for helping scam 30,000 Americans",
-      "summary": "A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T12:02:23Z",
-      "actors": []
-    },
-    {
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of…",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -349,14 +413,6 @@
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
       "source": "The Hacker News",
       "published": "2026-11-23T09:11:56Z",
-      "actors": []
-    },
-    {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "summary": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T09:11:15Z",
       "actors": []
     },
     {
@@ -376,27 +432,11 @@
       "actors": []
     },
     {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T07:44:19Z",
-      "actors": []
-    },
-    {
       "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
       "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
       "url": "https://isc.sans.edu/diary/rss/33548",
       "source": "SANS Internet Storm Center",
       "published": "2026-11-23T02:00:04Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "source": "BleepingComputer",
-      "published": "2026-11-22T18:45:37Z",
       "actors": []
     },
     {
@@ -446,46 +486,6 @@
       "source": "The Hacker News",
       "published": "2026-11-21T11:03:17Z",
       "actors": []
-    },
-    {
-      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted…",
-      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T08:49:20Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-      "source": "The Hacker News",
-      "published": "2026-11-21T08:49:13Z",
-      "actors": []
-    },
-    {
-      "title": "How Security Vendors Are Tackling Access-Control Challenges for AI Agents",
-      "summary": "Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors' approaches vary, so CISOs face a choice.",
-      "url": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
-      "source": "Dark Reading",
-      "published": "2026-11-21T01:31:23Z",
-      "actors": []
-    },
-    {
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption…",
-      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "source": "Krebs on Security",
-      "published": "2026-11-21T00:36:39Z",
-      "actors": []
-    },
-    {
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "summary": "During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
-      "source": "Dark Reading",
-      "published": "2026-11-20T21:03:27Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -502,6 +502,48 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-132224",
+      "title": "CVE-2026-132224 - Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
+      "summary": "Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being distributed through…",
+      "vendor": "Optimizely",
+      "product": "Web Experimentation",
+      "date_added": "2026-11-24",
+      "due_date": "2026-11-27",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132224",
+      "source": "CISA KEV",
+      "published": "2026-11-24T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-131914",
+      "title": "CVE-2026-131914 - Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability",
+      "summary": "Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported…",
+      "vendor": "Idunno",
+      "product": "AntiCsrf",
+      "date_added": "2026-11-24",
+      "due_date": "2026-11-27",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-131914",
+      "source": "CISA KEV",
+      "published": "2026-11-24T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-132165",
+      "title": "CVE-2026-132165 - Drupal Core Remote Code Execution Vulnerability",
+      "summary": "Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.",
+      "vendor": "Drupal",
+      "product": "Core",
+      "date_added": "2026-11-24",
+      "due_date": "2026-11-27",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-132165",
+      "source": "CISA KEV",
+      "published": "2026-11-24T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-133968",
       "title": "CVE-2026-133968 - Project MONAI MONAI Label Path Traversal Vulnerability",
@@ -1298,48 +1340,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3199",
       "source": "CISA KEV",
       "published": "2026-10-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2015-3306",
-      "title": "CVE-2015-3306 - ProFTPD Improper Access Control Vulnerability",
-      "summary": "ProFTPD contains an improper access control vulnerability that could allow remote attackers to read and write to arbitrary files via the site cpfr and site cpto commands.",
-      "vendor": "ProFTPD",
-      "product": "ProFTPD",
-      "date_added": "2026-10-08",
-      "due_date": "2026-10-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-3306",
-      "source": "CISA KEV",
-      "published": "2026-10-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-88779",
-      "title": "CVE-2026-88779 - Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability",
-      "summary": "Citrix NetScaler ADC (formerly Citrix ADC) and Citrix NetScaler Gateway (formerly Citrix Gateway) contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for a denial of service.",
-      "vendor": "Citrix",
-      "product": "NetScaler",
-      "date_added": "2026-10-04",
-      "due_date": "2026-10-07",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-88779",
-      "source": "CISA KEV",
-      "published": "2026-10-04T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-102490",
-      "title": "CVE-2026-102490 - Zammad GmbH Zammad Improper Privilege Management Vulnerability",
-      "summary": "Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.",
-      "vendor": "Zammad GmbH",
-      "product": "Zammad",
-      "date_added": "2026-10-02",
-      "due_date": "2026-10-05",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102490",
-      "source": "CISA KEV",
-      "published": "2026-10-02T00:00:00Z",
       "actors": []
     }
   ]
