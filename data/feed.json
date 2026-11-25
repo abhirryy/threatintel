@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T09:05:28Z",
+  "generated_at": "2026-11-25T19:11:25Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -8,11 +8,155 @@
   },
   "osint_news": [
     {
+      "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+      "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
+      "url": "https://therecord.media/ransomware-doj-indictment-recovery",
+      "source": "The Record",
+      "published": "2026-11-25T17:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+      "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause significant harms.",
+      "url": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+      "source": "The Record",
+      "published": "2026-11-25T17:07:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T16:13:40Z",
+      "actors": []
+    },
+    {
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+      "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+      "source": "Dark Reading",
+      "published": "2026-11-25T15:48:04Z",
+      "actors": []
+    },
+    {
+      "title": "It's a Bot World. We're Just Living in It",
+      "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+      "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+      "source": "Dark Reading",
+      "published": "2026-11-25T15:20:27Z",
+      "actors": []
+    },
+    {
+      "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+      "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client data within their own infrastructure. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T15:00:10Z",
+      "actors": []
+    },
+    {
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T15:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
       "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
       "source": "Dark Reading",
       "published": "2026-11-25T15:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+      "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+      "source": "Dark Reading",
+      "published": "2026-11-25T14:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+      "summary": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and revert to pen and paper.",
+      "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
+      "source": "The Record",
+      "published": "2026-11-25T13:30:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to…",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T12:48:54Z",
+      "actors": []
+    },
+    {
+      "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+      "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken some systems offline. The bureau collects suspicious activity…",
+      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T12:30:08Z",
+      "actors": []
+    },
+    {
+      "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
+      "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a…",
+      "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T11:51:48Z",
+      "actors": []
+    },
+    {
+      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8),…",
+      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T11:23:26Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
+      "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T11:16:32Z",
+      "actors": []
+    },
+    {
+      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
+      "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national, was arrested on October 9, 2026, for…",
+      "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T10:43:07Z",
+      "actors": []
+    },
+    {
+      "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
+      "summary": "The Treasury Department has taken some systems offline after a cybersecurity incident that “resulted in unauthorized access to a limited subset of its systems.”",
+      "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
+      "source": "The Record",
+      "published": "2026-11-25T10:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T10:10:20Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+      "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had every server on a…",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+      "source": "The Hacker News",
+      "published": "2026-11-25T09:06:59Z",
       "actors": []
     },
     {
@@ -49,7 +193,7 @@
     },
     {
       "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has independently detected and blocked the…",
+      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has proactively detected and blocked the…",
       "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
       "source": "The Hacker News",
       "published": "2026-11-25T06:21:12Z",
@@ -112,14 +256,6 @@
       "actors": []
     },
     {
-      "title": "California privacy agency director Kemp to leave after two-year tenure",
-      "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
-      "url": "https://therecord.media/california-privacy-agency-kemp",
-      "source": "The Record",
-      "published": "2026-11-24T19:30:00Z",
-      "actors": []
-    },
-    {
       "title": "Turnitin discloses cyberattack affecting customer-facing systems",
       "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
@@ -133,14 +269,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
       "source": "BleepingComputer",
       "published": "2026-11-24T17:49:05Z",
-      "actors": []
-    },
-    {
-      "title": "Lawmakers warn ID verification companies to bolster security after September hack",
-      "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
-      "url": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-      "source": "The Record",
-      "published": "2026-11-24T17:49:00Z",
       "actors": []
     },
     {
@@ -176,11 +304,11 @@
       "actors": []
     },
     {
-      "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
-      "summary": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
-      "url": "https://therecord.media/carnegie-endowment-data-breach",
-      "source": "The Record",
-      "published": "2026-11-24T16:00:00Z",
+      "title": "How Southeastern University Got a Handle on Its Data",
+      "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
+      "url": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
+      "source": "Dark Reading",
+      "published": "2026-11-24T15:46:46Z",
       "actors": []
     },
     {
@@ -189,38 +317,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
       "source": "BleepingComputer",
       "published": "2026-11-24T15:10:10Z",
-      "actors": []
-    },
-    {
-      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
-      "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T15:01:11Z",
-      "actors": []
-    },
-    {
-      "title": "CISA warns of exploited N-able bug as company restores email platform",
-      "summary": "The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.",
-      "url": "https://therecord.media/cisa-nable-cybersecurity-bug",
-      "source": "The Record",
-      "published": "2026-11-24T15:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T14:09:37Z",
-      "actors": []
-    },
-    {
-      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-      "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T13:34:23Z",
       "actors": []
     },
     {
@@ -360,27 +456,11 @@
       "actors": []
     },
     {
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T20:54:51Z",
-      "actors": []
-    },
-    {
       "title": "US Cyber Director Pick Signals Shift Toward Expertise",
       "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
       "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
       "source": "Dark Reading",
       "published": "2026-11-23T20:13:48Z",
-      "actors": []
-    },
-    {
-      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-      "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-      "source": "BleepingComputer",
-      "published": "2026-11-23T20:00:20Z",
       "actors": []
     },
     {
@@ -406,86 +486,6 @@
       "source": "Dark Reading",
       "published": "2026-11-23T16:17:21Z",
       "actors": []
-    },
-    {
-      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-      "summary": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open. This week's stories show how quickly a small opening can turn into a much…",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T15:10:48Z",
-      "actors": []
-    },
-    {
-      "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-      "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case of code injection impacting binary-parser versions prior to 2.3.1.…",
-      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T13:22:20Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a guest to transfer and execute a malicious payload on a connecting…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T12:41:04Z",
-      "actors": []
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "summary": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers. The bug, tracked as CVE-2026-134624, is a server-side request forgery (SSRF) flaw. It allowed a user with high-level API…",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T12:28:09Z",
-      "actors": []
-    },
-    {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of…",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "source": "CISA Advisories",
-      "published": "2026-11-23T12:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "summary": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild. The vulnerability, tracked as CVE-2026-131914, carries a CVSS score of 9.3 out of…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T09:11:56Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "summary": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today. The company identified and fixed the flaw on Friday and blocked the access…",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T09:04:08Z",
-      "actors": []
-    },
-    {
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country. This unsanctioned activity has resulted in unauthorized financial transactions at…",
-      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T08:24:15Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33548",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-23T02:00:04Z",
-      "actors": []
-    },
-    {
-      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
-      "summary": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023.",
-      "url": "https://isc.sans.edu/diary/rss/33530",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-22T18:40:18Z",
-      "actors": []
     }
   ],
   "threat_actors": [
@@ -502,6 +502,20 @@
     }
   ],
   "attack_surface": [
+    {
+      "cve": "CVE-2026-103406",
+      "title": "CVE-2026-103406 - Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+      "summary": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router contain an OS command injection vulnerability that could allow a remote attacker to execute arbitrary commands as root via a specially crafted salt minion ID.",
+      "vendor": "Hewlett Packard Enterprise (HPE)",
+      "product": "Juniper Session Smart Conductor and Session Smart Router",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103406",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
     {
       "cve": "CVE-2026-132224",
       "title": "CVE-2026-132224 - Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
@@ -1324,20 +1338,6 @@
       "due_date": "2026-10-11",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
-      "source": "CISA KEV",
-      "published": "2026-10-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2021-3199",
-      "title": "CVE-2021-3199 - ONLYOFFICE Docs Server Path Traversal Vulnerability",
-      "summary": "ONLYOFFICE Docs contains a path traversal vulnerability that can occur when JWT is used, via a /.. sequence in an image upload parameter and could allow for remote code execution.",
-      "vendor": "ONLYOFFICE",
-      "product": "Docs",
-      "date_added": "2026-10-08",
-      "due_date": "2026-10-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2021-3199",
       "source": "CISA KEV",
       "published": "2026-10-08T00:00:00Z",
       "actors": []
