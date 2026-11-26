@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:13:50Z",
+  "generated_at": "2026-11-26T11:00:53Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,46 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+      "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+      "source": "Dark Reading",
+      "published": "2026-11-26T08:00:00Z",
+      "actors": []
+    },
+    {
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka…",
+      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T07:02:34Z",
+      "actors": []
+    },
+    {
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS…",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T06:44:46Z",
+      "actors": []
+    },
+    {
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the…",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T04:20:22Z",
+      "actors": []
+    },
+    {
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in…",
+      "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T03:48:52Z",
+      "actors": []
+    },
     {
       "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
       "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
@@ -447,46 +487,6 @@
       "url": "https://isc.sans.edu/diary/rss/33552",
       "source": "SANS Internet Storm Center",
       "published": "2026-11-24T02:00:04Z",
-      "actors": []
-    },
-    {
-      "title": "Industrial Serial Gateways Broadcast That They're Insecure",
-      "summary": "Critical OT access devices will often tell you, and anyone else, whether they're protected by authentication — and many aren't.",
-      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
-      "source": "Dark Reading",
-      "published": "2026-11-23T22:02:46Z",
-      "actors": []
-    },
-    {
-      "title": "CrowdStrike Makes AI Security Push With Blockbuster Zscaler Deal",
-      "summary": "CrowdStrike's $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents.",
-      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
-      "source": "Dark Reading",
-      "published": "2026-11-23T21:21:42Z",
-      "actors": []
-    },
-    {
-      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
-      "summary": "Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
-      "source": "Dark Reading",
-      "published": "2026-11-23T20:13:48Z",
-      "actors": []
-    },
-    {
-      "title": "Behind the Alias: How One Researcher Unmasked a Decade of Ransomware Actors",
-      "summary": "Ransomware isn't slowing down. A new framework gives security teams the edge to trace attackers back to their source.",
-      "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
-      "source": "Dark Reading",
-      "published": "2026-11-23T17:45:52Z",
-      "actors": []
-    },
-    {
-      "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-      "summary": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to establish covert remote access to compromised networks. The modified…",
-      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-      "source": "The Hacker News",
-      "published": "2026-11-23T17:45:15Z",
       "actors": []
     }
   ],
