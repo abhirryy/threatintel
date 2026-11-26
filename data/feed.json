@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:00:53Z",
+  "generated_at": "2026-11-26T20:05:21Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,62 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "source": "BleepingComputer",
+      "published": "2026-11-26T17:58:42Z",
+      "actors": []
+    },
+    {
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "source": "BleepingComputer",
+      "published": "2026-11-26T17:15:27Z",
+      "actors": []
+    },
+    {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "source": "BleepingComputer",
+      "published": "2026-11-26T15:23:28Z",
+      "actors": []
+    },
+    {
+      "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+      "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils package or in conftest.py,\" SafeDep said in a report published this week. \"When…",
+      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T15:13:41Z",
+      "actors": []
+    },
+    {
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "source": "BleepingComputer",
+      "published": "2026-11-26T11:50:17Z",
+      "actors": []
+    },
+    {
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get…",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T10:57:55Z",
+      "actors": []
+    },
+    {
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the…",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "source": "The Hacker News",
+      "published": "2026-11-26T10:57:25Z",
+      "actors": []
+    },
     {
       "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
       "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
@@ -32,19 +88,19 @@
       "actors": []
     },
     {
-      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the…",
-      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "source": "The Hacker News",
-      "published": "2026-11-26T04:20:22Z",
-      "actors": []
-    },
-    {
       "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
       "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in…",
       "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
       "source": "The Hacker News",
       "published": "2026-11-26T03:48:52Z",
+      "actors": []
+    },
+    {
+      "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+      "summary": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
+      "url": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+      "source": "The Record",
+      "published": "2026-11-26T00:00:00Z",
       "actors": []
     },
     {
@@ -159,14 +215,6 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
       "source": "Dark Reading",
       "published": "2026-11-25T14:00:00Z",
-      "actors": []
-    },
-    {
-      "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
-      "summary": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and revert to pen and paper.",
-      "url": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
-      "source": "The Record",
-      "published": "2026-11-25T13:30:00Z",
       "actors": []
     },
     {
@@ -322,43 +370,11 @@
       "actors": []
     },
     {
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T20:21:20Z",
-      "actors": []
-    },
-    {
-      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-      "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T18:59:52Z",
-      "actors": []
-    },
-    {
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T17:49:05Z",
-      "actors": []
-    },
-    {
       "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
       "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2)…",
       "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
       "source": "The Hacker News",
       "published": "2026-11-24T16:54:07Z",
-      "actors": []
-    },
-    {
-      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
-      "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T16:30:19Z",
       "actors": []
     },
     {
@@ -471,22 +487,6 @@
       "url": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
       "source": "The Hacker News",
       "published": "2026-11-24T06:02:45Z",
-      "actors": []
-    },
-    {
-      "title": "Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)",
-      "summary": "This subnet is assigned to a web hosting and virtual private server (VPS) provider BANATSYNC SRL with AS198364, located in Timisoara, Romania. This graph shows the DShield sensor activity over the past 90 days for this subnet and it is still ongoing as of this writing.",
-      "url": "https://isc.sans.edu/diary/rss/33550",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-24T02:32:00Z",
-      "actors": []
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, November 24th, 2026 https://isc.sans.edu/podcastdetail/10192, (Tue, Nov 24th)",
-      "summary": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "url": "https://isc.sans.edu/diary/rss/33552",
-      "source": "SANS Internet Storm Center",
-      "published": "2026-11-24T02:00:04Z",
       "actors": []
     }
   ],
