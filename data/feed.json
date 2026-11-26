@@ -1,12 +1,54 @@
 {
-  "generated_at": "2026-11-25T19:11:25Z",
+  "generated_at": "2026-11-26T02:13:50Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
-    "threat_actors": 1,
+    "threat_actors": 2,
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T22:05:09Z",
+      "actors": []
+    },
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T21:33:33Z",
+      "actors": []
+    },
+    {
+      "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+      "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
+      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+      "source": "The Record",
+      "published": "2026-11-25T21:18:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ]
+    },
+    {
+      "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+      "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
+      "url": "https://therecord.media/fifa-data-breach-limited",
+      "source": "The Record",
+      "published": "2026-11-25T20:40:00Z",
+      "actors": []
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "source": "BleepingComputer",
+      "published": "2026-11-25T19:39:31Z",
+      "actors": []
+    },
     {
       "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
       "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
@@ -104,6 +146,14 @@
       "actors": []
     },
     {
+      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability CVE-2025-41450 Danfoss AK-SM 800A…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-25T12:00:00Z",
+      "actors": []
+    },
+    {
       "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
       "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only triage misses 46% of critical secrets: Prioritize by impact instead, weighing what a…",
       "url": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
@@ -133,14 +183,6 @@
       "url": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
       "source": "The Hacker News",
       "published": "2026-11-25T10:43:07Z",
-      "actors": []
-    },
-    {
-      "title": "Treasury's FinCEN takes systems offline after cybersecurity incident",
-      "summary": "The Treasury Department has taken some systems offline after a cybersecurity incident that “resulted in unauthorized access to a limited subset of its systems.”",
-      "url": "https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident",
-      "source": "The Record",
-      "published": "2026-11-25T10:15:00Z",
       "actors": []
     },
     {
@@ -240,14 +282,6 @@
       "actors": []
     },
     {
-      "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
-      "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
-      "url": "https://therecord.media/mycolorado-app-down-data-breach",
-      "source": "The Record",
-      "published": "2026-11-24T20:52:00Z",
-      "actors": []
-    },
-    {
       "title": "New Inception extortion gang launches large-scale vishing campaign",
       "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
       "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
@@ -288,35 +322,11 @@
       "actors": []
     },
     {
-      "title": "European Commission confirms data theft in EU Academy breach",
-      "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T16:22:44Z",
-      "actors": []
-    },
-    {
-      "title": "Hackers compromise Check Point Servers in 22 organizations",
-      "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T16:15:23Z",
-      "actors": []
-    },
-    {
       "title": "How Southeastern University Got a Handle on Its Data",
       "summary": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.",
       "url": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
       "source": "Dark Reading",
       "published": "2026-11-24T15:46:46Z",
-      "actors": []
-    },
-    {
-      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-      "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-      "source": "BleepingComputer",
-      "published": "2026-11-24T15:10:10Z",
       "actors": []
     },
     {
@@ -360,17 +370,17 @@
       "actors": []
     },
     {
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web…",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
       "source": "CISA Advisories",
       "published": "2026-11-24T12:00:00Z",
       "actors": []
     },
     {
-      "title": "Danfoss AK-SM 8xxA Series",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "source": "CISA Advisories",
       "published": "2026-11-24T12:00:00Z",
       "actors": []
@@ -384,9 +394,9 @@
       "actors": []
     },
     {
-      "title": "AutomationDirect C-More EA9 Programming Software",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming…",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "title": "Danfoss AK-SM 8xxA Series",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based…",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
       "source": "CISA Advisories",
       "published": "2026-11-24T12:00:00Z",
       "actors": []
@@ -478,17 +488,20 @@
       "source": "The Hacker News",
       "published": "2026-11-23T17:45:15Z",
       "actors": []
-    },
-    {
-      "title": "AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes",
-      "summary": "A China-nexus actor used the Cairn penetration testing tool in attacks against East Asian universities, exploiting a zero-day in a medical imaging app.",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
-      "source": "Dark Reading",
-      "published": "2026-11-23T16:17:21Z",
-      "actors": []
     }
   ],
   "threat_actors": [
+    {
+      "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+      "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
+      "url": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+      "source": "The Record",
+      "published": "2026-11-25T21:18:00Z",
+      "actors": [
+        "Salt Typhoon"
+      ],
+      "kind": "news"
+    },
     {
       "title": "Who Runs the Ransomware Group Qilin?",
       "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade…",
@@ -512,6 +525,132 @@
       "due_date": "2026-11-28",
       "ransomware": "Unknown",
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-103406",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-133469",
+      "title": "CVE-2026-133469 - Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+      "summary": "Vates Xen Orchestra contains an improper validation of specified type of input vulnerability that could allow an unauthenticated attacker to bypass authentication and perform actions with administrative privileges via a specially crafted authentication token containing an empty JSON object.",
+      "vendor": "Vates",
+      "product": "Xen Orchestra",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133469",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2025-41450",
+      "title": "CVE-2025-41450 - Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+      "summary": "Danfoss AK-SM 800A Series contains an improper authentication vulnerability that could allow an attacker to generate a web report exposing sensitive information, including internal IP addresses, usernames, and store names.",
+      "vendor": "Danfoss",
+      "product": "AK-SM 800A Series",
+      "date_added": "2026-11-25",
+      "due_date": "2026-12-09",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2025-41450",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2023-25914",
+      "title": "CVE-2023-25914 - Danfoss AK-SM 800A Series Path Traversal Vulnerability",
+      "summary": "Danfoss AK-SM 800A Series contains a path traversal vulnerability that could allow an attacker to access and read underlying server system files via the XML interface.",
+      "vendor": "Danfoss",
+      "product": "AK-SM 800A Series",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25914",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2023-25915",
+      "title": "CVE-2023-25915 - Danfoss AK-SM 800A Series Improper Input Validation Vulnerability",
+      "summary": "Danfoss AK-SM 800A Series contains an improper input validation vulnerability that could allow a remote attacker to run arbitrary commands on the affected system.",
+      "vendor": "Danfoss",
+      "product": "AK-SM 800A Series",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-25915",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-133324",
+      "title": "CVE-2026-133324 - Mitel MiCollab Not Failing Securely Vulnerability",
+      "summary": "Mitel MiCollab contains a not failing securely vulnerability in the Audio, Web and Video Conferencing (AWV) component that could allow an unauthenticated attacker to bypass authentication controls and perform unauthorized actions.",
+      "vendor": "Mitel",
+      "product": "MiCollab",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133324",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-133275",
+      "title": "CVE-2026-133275 - Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability",
+      "summary": "Mitel MiCollab contains an unrestricted upload of file with dangerous type vulnerability in the Audio, Web and Video Conferencing (AWV) component due to insufficient file type validation that could allow an unauthenticated attacker to upload arbitrary files.",
+      "vendor": "Mitel",
+      "product": "MiCollab",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133275",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-133311",
+      "title": "CVE-2026-133311 - Mitel MiCollab Weak Authentication Vulnerability",
+      "summary": "Mitel MiCollab contains a weak authentication vulnerability in the Audio, Web and Video Conferencing (AWV) component that could allow an unauthenticated attacker to access sensitive information using a specific system-generated random identifier or pre-staged content.",
+      "vendor": "Mitel",
+      "product": "MiCollab",
+      "date_added": "2026-11-25",
+      "due_date": "2026-12-09",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133311",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-133303",
+      "title": "CVE-2026-133303 - Mitel MiCollab XML Injection Vulnerability",
+      "summary": "Mitel MiCollab contains an XML injection vulnerability in its Audio, Web, and Video Conferencing (AWV) component that could allow an unauthenticated attacker to execute arbitrary commands using pre-staged malicious content.",
+      "vendor": "Mitel",
+      "product": "MiCollab",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133303",
+      "source": "CISA KEV",
+      "published": "2026-11-25T00:00:00Z",
+      "actors": []
+    },
+    {
+      "cve": "CVE-2026-133323",
+      "title": "CVE-2026-133323 - Mitel MiCollab OS Command Injection Vulnerability",
+      "summary": "Mitel MiCollab contains an improper neutralization of special elements used in an OS command (OS command injection) vulnerability in its Audio, Web, and Video Conferencing (AWV) component that could allow an unauthenticated attacker to execute arbitrary system commands.",
+      "vendor": "Mitel",
+      "product": "MiCollab",
+      "date_added": "2026-11-25",
+      "due_date": "2026-11-28",
+      "ransomware": "Unknown",
+      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-133323",
       "source": "CISA KEV",
       "published": "2026-11-25T00:00:00Z",
       "actors": []
@@ -1214,132 +1353,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
       "source": "CISA KEV",
       "published": "2026-10-15T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-105134",
-      "title": "CVE-2026-105134 - Ahsay AhsayCBS Command Injection Vulnerability",
-      "summary": "Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.",
-      "vendor": "Ahsay",
-      "product": "AhsayCBS",
-      "date_added": "2026-10-14",
-      "due_date": "2026-10-17",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105134",
-      "source": "CISA KEV",
-      "published": "2026-10-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-76519",
-      "title": "CVE-2026-76519 - Cisco Secure Email Gateway Relative Path Traversal Vulnerability",
-      "summary": "Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.",
-      "vendor": "Cisco",
-      "product": "Secure Email Gateway",
-      "date_added": "2026-10-14",
-      "due_date": "2026-10-17",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-76519",
-      "source": "CISA KEV",
-      "published": "2026-10-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-105133",
-      "title": "CVE-2026-105133 - Ahsay AhsayCBS Improper Authentication Vulnerability",
-      "summary": "Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.",
-      "vendor": "Ahsay",
-      "product": "AhsayCBS",
-      "date_added": "2026-10-14",
-      "due_date": "2026-10-17",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-105133",
-      "source": "CISA KEV",
-      "published": "2026-10-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-0322",
-      "title": "CVE-2026-0322 - Palo Alto Networks PAN-OS Code Injection Vulnerability",
-      "summary": "Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.",
-      "vendor": "Palo Alto Networks",
-      "product": "PAN-OS",
-      "date_added": "2026-10-14",
-      "due_date": "2026-10-17",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-0322",
-      "source": "CISA KEV",
-      "published": "2026-10-14T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-104935",
-      "title": "CVE-2026-104935 - Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
-      "summary": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
-      "vendor": "Ivanti",
-      "product": "Connect Secure",
-      "date_added": "2026-10-13",
-      "due_date": "2026-10-16",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
-      "source": "CISA KEV",
-      "published": "2026-10-13T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2026-96951",
-      "title": "CVE-2026-96951 - Microsoft Windows Command Injection Vulnerability",
-      "summary": "Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
-      "vendor": "Microsoft",
-      "product": "Windows",
-      "date_added": "2026-10-13",
-      "due_date": "2026-10-16",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-96951",
-      "source": "CISA KEV",
-      "published": "2026-10-13T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2015-5477",
-      "title": "CVE-2015-5477 - ISC BIND Data Processing Errors Vulnerability",
-      "summary": "ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.",
-      "vendor": "ISC",
-      "product": "BIND",
-      "date_added": "2026-10-08",
-      "due_date": "2026-10-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2015-5477",
-      "source": "CISA KEV",
-      "published": "2026-10-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2016-3081",
-      "title": "CVE-2016-3081 - Apache Struts Command Injection Vulnerability",
-      "summary": "Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.",
-      "vendor": "Apache",
-      "product": "Struts",
-      "date_added": "2026-10-08",
-      "due_date": "2026-10-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2016-3081",
-      "source": "CISA KEV",
-      "published": "2026-10-08T00:00:00Z",
-      "actors": []
-    },
-    {
-      "cve": "CVE-2023-22894",
-      "title": "CVE-2023-22894 - Strapi Cleartext Storage of Sensitive Information Vulnerability",
-      "summary": "Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or…",
-      "vendor": "Strapi",
-      "product": "Strapi",
-      "date_added": "2026-10-08",
-      "due_date": "2026-10-11",
-      "ransomware": "Unknown",
-      "url": "https://nvd.nist.gov/vuln/detail/CVE-2023-22894",
-      "source": "CISA KEV",
-      "published": "2026-10-08T00:00:00Z",
       "actors": []
     }
   ]
