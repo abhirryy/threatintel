@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T10:56:24Z",
+  "generated_at": "2026-11-28T18:43:38Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -7,6 +7,22 @@
     "attack_surface": 60
   },
   "osint_news": [
+    {
+      "title": "College Board confirms data breach after unauthorized password changes",
+      "summary": "College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account registration and financial aid application systems. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+      "source": "BleepingComputer",
+      "published": "2026-11-28T17:45:59Z",
+      "actors": []
+    },
+    {
+      "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+      "summary": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+      "url": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+      "source": "BleepingComputer",
+      "published": "2026-11-28T15:32:49Z",
+      "actors": []
+    },
     {
       "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
       "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly contained by the pCloud team,\" the Swiss company said in response to a number of…",
@@ -229,22 +245,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
       "source": "BleepingComputer",
       "published": "2026-11-26T17:58:42Z",
-      "actors": []
-    },
-    {
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
-      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "source": "BleepingComputer",
-      "published": "2026-11-26T17:15:27Z",
-      "actors": []
-    },
-    {
-      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
-      "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "source": "BleepingComputer",
-      "published": "2026-11-26T15:23:28Z",
       "actors": []
     },
     {
