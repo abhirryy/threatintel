@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:14:19Z",
+  "generated_at": "2026-11-28T02:46:28Z",
   "next_update_hint": "every 3 hours",
   "counts": {
     "osint_news": 150,
@@ -93,6 +93,14 @@
       "url": "https://therecord.media/sap-germany-cyberattack-github",
       "source": "The Record",
       "published": "2026-11-27T13:15:00Z",
+      "actors": []
+    },
+    {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-120705 OSGeo GeoServer XML Injection Vulnerability CVE-2026-129243 OSGeo GeoServer Incorrect Authorization Vulnerability CVE-2026-136716 Drupal Core Improper Check for…",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "published": "2026-11-27T12:00:00Z",
       "actors": []
     },
     {
@@ -477,14 +485,6 @@
       "url": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
       "source": "The Hacker News",
       "published": "2026-11-24T12:02:00Z",
-      "actors": []
-    },
-    {
-      "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-      "summary": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose? According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC research. That's a significant opportunity as manual investigations,…",
-      "url": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-      "source": "The Hacker News",
-      "published": "2026-11-24T12:01:54Z",
       "actors": []
     }
   ],
